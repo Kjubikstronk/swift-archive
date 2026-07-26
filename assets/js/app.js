@@ -103,6 +103,7 @@ async function boot() {
   renderFooter();
 
   initReveal();
+  initAnchorReveal();
   initNav();
   initEraTakeover();
   initErasCollapse();
@@ -541,6 +542,23 @@ const CAT_GLOW = {
 const slugify = (s = '') =>
   s.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 
+/**
+ * Instagram's embed renders a fixed header-photo-footer stack, and the
+ * footer's height depends entirely on how long that post's caption is — a
+ * longer caption pushes the photo into a smaller fraction of the total card,
+ * so the one-size-fits-all crop that centres cleanly on a short-caption post
+ * lands on background for a long-caption one. Each real post needs its own
+ * vertical offset, calibrated once by eye; it doesn't drift afterward, since
+ * Instagram renders the same fixed-width layout regardless of our own
+ * container size.
+ */
+const IG_OFFSET = {
+  'Meredith Grey': '-32%', // longer caption, more footer — window shifted up
+};
+
+const igOffset = (name) =>
+  IG_OFFSET[name] ? `--ig-ty:${esc(IG_OFFSET[name])}` : '';
+
 function renderCats() {
   const cats = DATA.cats || [];
   const host = $('[data-cats]');
@@ -556,8 +574,7 @@ function renderCats() {
       const glow = CAT_GLOW[c.name] || 'var(--glow)';
       return `
       <article class="cat${c.feature ? ' cat--feature' : ''}" style="--cat-glow:${esc(glow)}">
-        <span class="cat__tape" aria-hidden="true"></span>
-        <div class="cat__frame" data-cat-slug="${esc(slugify(c.name))}">${portrait}</div>
+        <div class="cat__frame" data-cat-slug="${esc(slugify(c.name))}" style="${igOffset(c.name)}">${portrait}</div>
         <h3 class="cat__name">${esc(c.name)}</h3>
         ${c.caption ? `<p class="cat__caption">${esc(c.caption)}</p>` : ''}
         <p class="cat__meta">${esc(c.breed)} · since ${esc(c.since)}</p>
@@ -575,18 +592,21 @@ function renderCats() {
  *
  *   1. A local photo dropped in assets/cats/<slug>.{jpg,jpeg,png,webp,avif} —
  *      the user's own image, their own rights call, exactly the moodboard
- *      pattern the Taemin sibling site uses.
+ *      pattern the Taemin sibling site uses. Same-origin, so nothing outside
+ *      this site can ever block it.
  *   2. An Instagram embed, if `instagram` is set on that cat in
  *      content/curated.json to a real post URL. Uses Instagram's own
- *      sanctioned embed widget (the same one their "Embed" button generates)
- *      rather than a hotlinked copy of the image, so it reflects the live
- *      post instead of breaking silently if it changes.
- *   3. Otherwise the hand-illustrated portrait already in the DOM stays.
- *
- * Never assumed to exist — every probe fails safe to whatever's already
- * rendered.
+ *      sanctioned embed widget rather than a hotlinked copy of the image —
+ *      except this depends on a live third-party script succeeding in each
+ *      visitor's own browser, and ad-blockers and tracking-protection lists
+ *      commonly block instagram.com's widget specifically. Confirmed live:
+ *      it silently left three empty glowing circles on a real browser. So
+ *      this is watched with a timeout and reverted to the illustration
+ *      below if it doesn't produce a real embed in time — never left blank.
+ *   3. The hand-illustrated portrait, kept in reserve rather than discarded,
+ *      so step 2 has something to fall back to.
  */
-function enhanceCatPortraits() {
+async function enhanceCatPortraits() {
   const exts = ['jpg', 'jpeg', 'png', 'webp', 'avif'];
   const probePhoto = (slug) =>
     new Promise((resolve) => {
@@ -602,37 +622,57 @@ function enhanceCatPortraits() {
       tryNext();
     });
 
-  let needsInstagram = false;
+  // `.forEach(async …)` does not wait for its callbacks — it fires all of
+  // them and returns immediately, so `pendingInstagram` would still read
+  // empty by the time it's checked below, and the whole function would exit
+  // before ever calling kick() or arming the fallback timer. The blockquotes
+  // still got inserted moments later (that part happened regardless), just
+  // silently, with nothing left to process them or revert them. Confirmed
+  // directly: waited 7.5s, three blank frames, no console error, because the
+  // code that would have fixed either outcome had already returned.
+  const results = await Promise.all(
+    $$('.cat__frame').map(async (frame) => {
+      const slug = frame.dataset.catSlug;
+      const cat = (DATA.cats || []).find((c) => slugify(c.name) === slug);
+      const fallback = frame.innerHTML; // the illustration, rendered synchronously
 
-  $$('.cat__frame').forEach(async (frame) => {
-    const slug = frame.dataset.catSlug;
-    const cat = (DATA.cats || []).find((c) => slugify(c.name) === slug);
+      const photo = await probePhoto(slug);
+      if (photo) {
+        frame.innerHTML = `<img src="${esc(photo)}" alt="${esc(cat?.name || '')}" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:cover">`;
+        return null;
+      }
 
-    const photo = await probePhoto(slug);
-    if (photo) {
-      frame.innerHTML = `<img src="${esc(photo)}" alt="${esc(cat?.name || '')}" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:cover">`;
-      return;
-    }
+      if (cat?.instagram) {
+        frame.innerHTML = `
+          <blockquote class="instagram-media" data-instgrm-permalink="${esc(cat.instagram)}"
+                      data-instgrm-version="14" style="margin:0;width:100%;height:100%;border:0"></blockquote>`;
+        return { frame, fallback };
+      }
+      return null;
+    })
+  );
 
-    if (cat?.instagram) {
-      needsInstagram = true;
-      frame.innerHTML = `
-        <blockquote class="instagram-media" data-instgrm-permalink="${esc(cat.instagram)}"
-                    data-instgrm-version="14" style="margin:0;width:100%;height:100%;border:0"></blockquote>`;
-    }
-  });
-
-  if (!needsInstagram) return;
+  const pendingInstagram = results.filter(Boolean);
+  if (!pendingInstagram.length) return;
 
   // embed.js only auto-scans blockquotes present at its own load time; these
   // were injected afterward, so it needs telling explicitly. Its own script
   // tag is async and may still be loading when we get here, hence the retry.
   let tries = 0;
   const kick = () => {
-    if (window.instgrm?.Embeds) return window.instgrm.Embeds.process();
-    if (++tries < 20) setTimeout(kick, 250);
+    if (window.instgrm?.Embeds) window.instgrm.Embeds.process();
+    else if (++tries < 20) setTimeout(kick, 250);
   };
   kick();
+
+  // Whether or not embed.js ever showed up: after 6s, anything that hasn't
+  // actually become an iframe (blocked script, blocked network request,
+  // whatever the cause) reverts to its illustration instead of sitting empty.
+  setTimeout(() => {
+    for (const { frame, fallback } of pendingInstagram) {
+      if (!frame.querySelector('iframe')) frame.innerHTML = fallback;
+    }
+  }, 6000);
 }
 
 /* ─── videos ─────────────────────────────────────────────────────────── */
@@ -849,6 +889,61 @@ function initReveal() {
     { rootMargin: '0px 0px -12% 0px', threshold: 0.08 }
   );
   targets.forEach((t) => io.observe(t));
+}
+
+/**
+ * `content-visibility: auto` on every section (see the .section rule in
+ * style.css) skips layout for anything off screen, which is what fixed the
+ * fan's laptop lag. The cost: jumping to a fragment — a nav click, a shared
+ * #cats link, browser back/forward — asks the browser to scroll to a target
+ * whose real height it hasn't measured yet, so the landing position is
+ * wrong. Confirmed directly: clicking "Cats" landed on the Eras section
+ * instead, and it wasn't a distance thing — even the very first section
+ * below the hero missed.
+ *
+ * Fix: force real layout on every section from the top down through
+ * whichever one is being jumped to, immediately before the jump happens.
+ * That's a few sections' worth of paint work at the moment of an actual
+ * click, not the whole page on every load — the lag fix stays intact for
+ * the common case of someone just scrolling down once.
+ */
+function initAnchorReveal() {
+  const sections = $$('main > section');
+
+  const revealThrough = (id) => {
+    const idx = sections.findIndex((s) => s.id === id);
+    if (idx === -1) return null;
+    for (let i = 0; i <= idx; i++) sections[i].style.contentVisibility = 'visible';
+    return sections[idx];
+  };
+
+  // Changing style in a click handler and trusting the browser's own default
+  // anchor-jump to pick it up doesn't work — confirmed directly, the jump
+  // still landed on the pre-reveal (wrong, collapsed-height) position. The
+  // native jump apparently doesn't re-check layout after handlers run, so the
+  // scroll has to be taken over entirely rather than raced against it.
+  document.addEventListener('click', (e) => {
+    const a = e.target.closest('a[href^="#"]');
+    if (!a) return;
+    const id = a.getAttribute('href').slice(1);
+    const target = revealThrough(id);
+    if (!target) return;
+    e.preventDefault();
+    void target.offsetHeight; // force layout to actually apply before reading position
+    target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    history.pushState(null, '', `#${id}`);
+  });
+
+  // A deep link straight to a fragment (page load, or browser back/forward)
+  // needs the same reveal, but jumps instantly — animating a scroll the
+  // instant the page appears reads as jank, not a feature.
+  const jumpToHash = () => {
+    if (!location.hash) return;
+    const target = revealThrough(location.hash.slice(1));
+    if (target) target.scrollIntoView({ behavior: 'instant', block: 'start' });
+  };
+  jumpToHash();
+  addEventListener('hashchange', jumpToHash);
 }
 
 function initNav() {

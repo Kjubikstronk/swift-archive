@@ -704,20 +704,30 @@ a.chip:hover { color: var(--ink); border-color: var(--era-glow); }
    supporting mentions. The size difference is doing real work, not decorating
    — it maps to how famous each cat actually is. Olivia is in the music videos
    and the "richest pets" lists; Meredith avoids the camera; Benjamin is the
-   youngest. The layout says that before the copy does. */
+   youngest. The layout says that before the copy does.
+
+   Capped narrower than the section's own max-width: at the full 1500px three
+   cards this size read as oversized on an actual desktop monitor, not just in
+   a narrow preview pane. */
 .cats__grid {
   display: grid;
   grid-template-columns: minmax(0, 1.2fr) minmax(0, 0.85fr);
-  grid-auto-rows: 1fr;
+  /* start, not stretch — with stretch, spanning 2 rows forced the feature
+     card to match the *combined* height of the two side cards, and since its
+     own content is shorter, the leftover space just sat there as a dead gap
+     under the text. Sizing to each card's own content removes that gap; the
+     span is still what lines the feature card up beside both side cards. */
+  align-items: start;
   gap: clamp(1.5rem, 3vw, 2.25rem);
+  max-width: 1180px;
 }
 .cat--feature { grid-row: span 2; }
 
 @media (max-width: 780px) {
   .cats__grid { grid-template-columns: 1fr; }
   .cat--feature { grid-row: auto; }
-  /* The scrapbook tilt reads as charming at magazine scale; stacked in a
-     single mobile column it just looks crooked. Soften rather than drop it. */
+  /* The tilt reads as charming at magazine scale; stacked in a single mobile
+     column it just looks crooked. Soften rather than drop it. */
   .cat { transform: rotate(calc(var(--tilt, 0deg) * 0.45)) !important; }
 }
 
@@ -728,7 +738,7 @@ a.chip:hover { color: var(--ink); border-color: var(--era-glow); }
   flex-direction: column;
   align-items: center;
   text-align: center;
-  padding: clamp(2rem, 4vw, 3rem) clamp(1.5rem, 3vw, 2.25rem) clamp(1.75rem, 3vw, 2.25rem);
+  padding: clamp(1.5rem, 3vw, 2.25rem) clamp(1.25rem, 2.5vw, 1.75rem) clamp(1.5rem, 2.5vw, 1.85rem);
   border-radius: 20px;
   background: linear-gradient(165deg,
     color-mix(in oklab, var(--surface) 90%, white 4%),
@@ -737,9 +747,9 @@ a.chip:hover { color: var(--ink); border-color: var(--era-glow); }
   transform: rotate(var(--tilt));
   transition: transform 550ms var(--ease), box-shadow 550ms var(--ease), border-color 550ms;
 }
-.cat:nth-child(1) { --tilt: -0.9deg; }
-.cat:nth-child(2) { --tilt: 1.4deg; }
-.cat:nth-child(3) { --tilt: -1.6deg; }
+.cat:nth-child(1) { --tilt: -0.6deg; }
+.cat:nth-child(2) { --tilt: 0.9deg; }
+.cat:nth-child(3) { --tilt: -1deg; }
 
 .cat:hover {
   /* Softened, not flattened — like a hand lifting the photo off the page
@@ -748,27 +758,11 @@ a.chip:hover { color: var(--ink); border-color: var(--era-glow); }
   border-color: color-mix(in oklab, var(--cat-glow, var(--glow)) 55%, transparent);
 }
 
-/* A strip of "washi tape" holding the photo down, angled the other way from
-   the card itself so the two tensions read as a hand-placed object, not a
-   decorative border. Colour is the cat's own spotlight hue, not the scroll-
-   driven era accent — it needs to stay this cat's colour all the way down
-   the page, not repaint every time the eras cycle. */
-.cat__tape {
-  position: absolute;
-  top: -0.65rem; left: 2rem;
-  width: 3.4rem; height: 1.15rem;
-  background: color-mix(in oklab, var(--cat-glow, var(--glow)) 60%, white 10%);
-  box-shadow: 0 2px 6px rgba(0,0,0,0.35);
-  transform: rotate(-7deg);
-  opacity: 0.92;
-}
-.cat--feature .cat__tape { width: 4.4rem; height: 1.4rem; }
-
 .cat__frame {
   position: relative;
-  width: clamp(8.5rem, 19vw, 11rem);
+  width: clamp(6.5rem, 11vw, 8rem);
   aspect-ratio: 1;
-  margin-bottom: 1.25rem;
+  margin-bottom: 1.1rem;
   border-radius: 50%;
   overflow: hidden;
   background: radial-gradient(circle at 50% 38%,
@@ -776,21 +770,37 @@ a.chip:hover { color: var(--ink); border-color: var(--era-glow); }
     var(--bg) 74%);
   box-shadow:
     0 0 0 1px color-mix(in oklab, var(--cat-glow, var(--glow)) 55%, transparent),
-    0 0 46px 8px color-mix(in oklab, var(--cat-glow, var(--glow)) 32%, transparent);
+    0 0 40px 6px color-mix(in oklab, var(--cat-glow, var(--glow)) 30%, transparent);
   transition: box-shadow 500ms var(--ease);
 }
-.cat--feature .cat__frame { width: clamp(11.5rem, 25vw, 15rem); }
+.cat--feature .cat__frame { width: clamp(8.5rem, 14vw, 10.5rem); }
 .cat:hover .cat__frame {
   box-shadow:
     0 0 0 1px color-mix(in oklab, var(--cat-glow, var(--glow)) 78%, transparent),
     0 0 64px 12px color-mix(in oklab, var(--cat-glow, var(--glow)) 55%, transparent);
 }
 .cat__frame svg { width: 100%; height: 100%; display: block; }
-/* Instagram's own widget insists on its own box model; this is the least
-   forceful way to make it fill the circular frame instead of floating a
-   fixed-width card off to one side. */
-.cat__frame .instagram-media,
-.cat__frame .instagram-media iframe { width: 100% !important; height: 100% !important; }
+/* embed.js replaces the <blockquote> outright with an <iframe> that carries
+   the same instagram-media class — it isn't nested inside anything, so this
+   rule targets the iframe itself, not some wrapper around it.
+
+   Instagram's widget renders a full post card — username header, then the
+   photo, then a caption/like-count footer — with no way to ask for just the
+   photo. Scaling the iframe up and re-centring pushes the header and footer
+   outside the circle so mostly the photo shows through. The fixed offset
+   assumes a short caption; a very long one would show more footer than
+   header, but this is as close as a parent page can get to cropping content
+   inside a cross-origin iframe it doesn't otherwise control. `min-width` has
+   to be overridden explicitly — Instagram sets a 326px inline min-width that
+   would otherwise blow the circle out regardless of the width rule. */
+.cat__frame .instagram-media {
+  position: absolute !important;
+  min-width: 0 !important;
+  width: 280% !important; height: 280% !important;
+  top: 50% !important; left: 50% !important;
+  transform: translate(-50%, var(--ig-ty, -46%)) !important;
+  border: 0 !important; border-radius: 0 !important;
+}
 
 /* The one new type role on the page, used only here: the handwritten-caption
    register Taylor's own album packaging leans on constantly (liner notes,
@@ -799,29 +809,29 @@ a.chip:hover { color: var(--ink); border-color: var(--era-glow); }
 .cat__name {
   font-family: 'Caveat', cursive;
   font-weight: 700;
-  font-size: clamp(2rem, 4vw, 2.6rem);
+  font-size: clamp(1.6rem, 2.6vw, 1.95rem);
   line-height: 1;
   color: var(--ink);
   margin-bottom: 0.15rem;
 }
-.cat--feature .cat__name { font-size: clamp(2.5rem, 5.4vw, 3.5rem); }
+.cat--feature .cat__name { font-size: clamp(1.9rem, 3.4vw, 2.4rem); }
 
 .cat__caption {
   font-family: 'Caveat', cursive;
   font-weight: 500;
-  font-size: clamp(1.2rem, 2.1vw, 1.4rem);
+  font-size: clamp(1rem, 1.4vw, 1.15rem);
   color: var(--cat-glow, var(--glow));
-  margin-bottom: 0.9rem;
+  margin-bottom: 0.75rem;
 }
 
 .cat__meta {
-  font-family: var(--mono); font-size: 0.6rem;
+  font-family: var(--mono); font-size: 0.58rem;
   letter-spacing: 0.14em; text-transform: uppercase;
-  color: var(--dim); margin-bottom: 1rem;
+  color: var(--dim); margin-bottom: 0.9rem;
 }
 
-.cat__note { color: var(--dim); font-size: 0.93rem; max-width: 34ch; }
-.cat--feature .cat__note { font-size: 1rem; max-width: 42ch; }
+.cat__note { color: var(--dim); font-size: 0.85rem; max-width: 32ch; }
+.cat--feature .cat__note { font-size: 0.9rem; max-width: 38ch; }
 
 .cat__after {
   margin-top: 1rem; font-size: 0.78rem;
