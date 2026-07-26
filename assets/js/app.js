@@ -105,6 +105,7 @@ async function boot() {
   initReveal();
   initNav();
   initEraTakeover();
+  initErasCollapse();
   initSparkles();
 }
 
@@ -245,6 +246,74 @@ function initEraTakeover() {
   checkHome();
 }
 
+/**
+ * On mobile, all twelve eras stacked ran to 8-10 screens before the page
+ * reached anything else. Collapse behind a "Show all" toggle there — the
+ * full scroll-through-every-era experience stays intact above 560px, where
+ * scrolling through all twelve *is* the point of the page.
+ *
+ * Gated on the same 560px breakpoint the mobile era CSS already uses, and
+ * re-evaluated on resize/rotate so a phone turned sideways past that width
+ * gets the full rail without a reload.
+ */
+function initErasCollapse() {
+  const rail = $('[data-eras]');
+  if (!rail) return;
+
+  const KEEP = 3;
+  const mq = matchMedia('(max-width: 560px)');
+  const items = () => [...rail.children];
+
+  let bar = null;
+  let expanded = false;
+
+  const paint = () => {
+    const els = items();
+    const collapsedNow = mq.matches && !expanded;
+    els.forEach((el, i) => { el.hidden = collapsedNow && i >= KEEP; });
+    if (bar) bar.hidden = !mq.matches || els.length <= KEEP;
+  };
+
+  const ensureBar = () => {
+    if (bar) return;
+    const total = items().length;
+    if (total <= KEEP) return;
+
+    bar = document.createElement('div');
+    bar.className = 'more';
+    bar.innerHTML = `
+      <button type="button" aria-expanded="false">
+        <span>Show all ${total} eras</span>
+        <svg viewBox="0 0 24 24" width="12" height="12" aria-hidden="true"><path d="M6 9l6 6 6-6" fill="none" stroke="currentColor" stroke-width="2"/></svg>
+      </button>
+      <span class="more__line"></span>`;
+
+    const btn = bar.querySelector('button');
+    btn.addEventListener('click', () => {
+      expanded = !expanded;
+      paint();
+      btn.setAttribute('aria-expanded', String(expanded));
+      btn.querySelector('span').textContent = expanded ? 'Show less' : `Show all ${total} eras`;
+      if (!expanded) rail.scrollIntoView({ block: 'nearest' });
+    });
+
+    // A rail child, not a sibling after it — that way the grid's own `gap`
+    // spaces it consistently with the era cards instead of stacking its own
+    // top margin on top of the gap.
+    rail.appendChild(bar);
+  };
+
+  ensureBar();
+  // Belt and braces: MediaQueryList's own 'change' event is the spec-correct
+  // trigger and fires on real device rotation, but a plain window resize is
+  // the more reliably-dispatched signal across environments (this browser
+  // pane's own resize tool doesn't fire an mql 'change' event, only 'resize').
+  // paint() re-reads mq.matches fresh each time, so either firing is enough.
+  mq.addEventListener('change', paint);
+  addEventListener('resize', paint, { passive: true });
+  paint();
+}
+
 /* ─── latest ─────────────────────────────────────────────────────────── */
 
 function renderLatest() {
@@ -350,25 +419,220 @@ function renderDiscography() {
 
 /* ─── cats ───────────────────────────────────────────────────────────── */
 
+/**
+ * Hand-illustrated, not photographed. There's no legitimately free-to-use
+ * photo of a celebrity's pet — every real image is press or Instagram
+ * content, which is both a copyright problem and a fragile one (hotlinked
+ * press photos vanish; this project's whole premise is that nothing here
+ * breaks on its own). Vector art is also just less generic than the
+ * paw-emoji placeholder this replaced.
+ *
+ * Each cat gets a distinct expression tied to their actual reputation: Olivia
+ * bright and forward-facing (the one in the music videos), Meredith turned
+ * three-quarters away with heavy-lidded eyes ("hates having her picture
+ * taken" is a real Taylor quote), Benjamin mid-wink with a tongue-out blep.
+ */
+const CAT_PORTRAITS = {
+  'Olivia Benson': `
+    <svg viewBox="0 0 200 200" role="img" aria-label="Illustrated portrait of Olivia Benson, a cream Scottish Fold with bright amber eyes and a small pink collar">
+      <defs>
+        <radialGradient id="obFur" cx="50%" cy="32%" r="75%">
+          <stop offset="0%" stop-color="#F8E6C4"/>
+          <stop offset="100%" stop-color="#D9B689"/>
+        </radialGradient>
+      </defs>
+      <path d="M42 160 Q100 130 158 160 L166 200 L34 200 Z" fill="#E4C79A"/>
+      <path d="M70 168 Q100 180 130 168 L128 178 Q100 188 72 178 Z" fill="#FF6B9D"/>
+      <path d="M100 178 l6 10 l-6 6 l-6 -6 Z" fill="#FFE66D"/>
+      <ellipse cx="64" cy="58" rx="16" ry="13" fill="#E4C79A" transform="rotate(-14 64 58)"/>
+      <ellipse cx="136" cy="58" rx="16" ry="13" fill="#E4C79A" transform="rotate(14 136 58)"/>
+      <circle cx="100" cy="106" r="60" fill="url(#obFur)"/>
+      <ellipse cx="68" cy="122" rx="11" ry="6.5" fill="#E2A0A8" opacity="0.28"/>
+      <ellipse cx="132" cy="122" rx="11" ry="6.5" fill="#E2A0A8" opacity="0.28"/>
+      <circle cx="76" cy="104" r="12" fill="#C98A2E"/>
+      <circle cx="76" cy="104" r="6" fill="#2B2117"/>
+      <circle cx="72.5" cy="99.5" r="2.6" fill="#FFFFFF"/>
+      <circle cx="80" cy="108" r="1.3" fill="#FFE66D"/>
+      <circle cx="124" cy="104" r="12" fill="#C98A2E"/>
+      <circle cx="124" cy="104" r="6" fill="#2B2117"/>
+      <circle cx="120.5" cy="99.5" r="2.6" fill="#FFFFFF"/>
+      <circle cx="128" cy="108" r="1.3" fill="#FFE66D"/>
+      <path d="M94 128 Q100 123 106 128 Q100 134 94 128 Z" fill="#E2A0A8"/>
+      <path d="M86 134 Q94 141 100 134 Q106 141 114 134" fill="none" stroke="#B98A5E" stroke-width="2" stroke-linecap="round"/>
+      <g stroke="#B98A5E" stroke-width="1.4" opacity="0.55" stroke-linecap="round">
+        <path d="M58 120 L26 112"/><path d="M58 128 L26 130"/>
+        <path d="M142 120 L174 112"/><path d="M142 128 L174 130"/>
+      </g>
+      <path d="M40 50 l3 8 l8 3 l-8 3 l-3 8 l-3 -8 l-8 -3 l8 -3 Z" fill="#FFE66D" opacity="0.9"/>
+      <path d="M162 66 l2 5 l5 2 l-5 2 l-2 5 l-2 -5 l-5 -2 l5 -2 Z" fill="#7FD8FF" opacity="0.85"/>
+    </svg>`,
+
+  'Meredith Grey': `
+    <svg viewBox="0 0 200 200" role="img" aria-label="Illustrated portrait of Meredith Grey, a silver tabby Scottish Fold, turned away from the camera with half-closed eyes">
+      <defs>
+        <radialGradient id="mgFur" cx="42%" cy="30%" r="75%">
+          <stop offset="0%" stop-color="#C7CDD2"/>
+          <stop offset="100%" stop-color="#8E959C"/>
+        </radialGradient>
+      </defs>
+      <g transform="rotate(-5 100 100)">
+        <path d="M46 158 Q100 132 154 158 L162 200 L38 200 Z" fill="#9AA1A8"/>
+        <ellipse cx="66" cy="60" rx="15" ry="12" fill="#9BA3AA" transform="rotate(-18 66 60)"/>
+        <ellipse cx="128" cy="56" rx="13" ry="10" fill="#9BA3AA" transform="rotate(14 128 56)"/>
+        <circle cx="100" cy="108" r="58" fill="url(#mgFur)"/>
+        <path d="M78 78 Q86 62 94 78" fill="none" stroke="#6E747C" stroke-width="3" stroke-linecap="round"/>
+        <path d="M94 78 Q100 66 106 78" fill="none" stroke="#6E747C" stroke-width="3" stroke-linecap="round"/>
+        <path d="M106 78 Q114 62 122 78" fill="none" stroke="#6E747C" stroke-width="3" stroke-linecap="round"/>
+        <ellipse cx="72" cy="122" rx="10" ry="6" fill="#C98FA0" opacity="0.18"/>
+        <ellipse cx="128" cy="122" rx="10" ry="6" fill="#C98FA0" opacity="0.18"/>
+        <ellipse cx="78" cy="107" rx="9" ry="6" fill="#8E9B6E"/>
+        <circle cx="75" cy="107" r="3.6" fill="#2B2E31"/>
+        <circle cx="73" cy="104" r="1.4" fill="#F4F1EA" opacity="0.85"/>
+        <path d="M68 101 Q78 94 88 100" fill="#8E959C"/>
+        <ellipse cx="122" cy="105" rx="7" ry="5" fill="#8E9B6E"/>
+        <circle cx="120" cy="105" r="2.8" fill="#2B2E31"/>
+        <path d="M116 100 Q122 95 129 99" fill="#8E959C"/>
+        <path d="M96 126 Q100 122 104 126 Q100 131 96 126 Z" fill="#C98FA0"/>
+        <path d="M88 132 Q94 138 100 132 Q106 138 112 132" fill="none" stroke="#6E747C" stroke-width="2" stroke-linecap="round"/>
+        <g stroke="#F4F1EA" stroke-width="1.4" opacity="0.7" stroke-linecap="round">
+          <path d="M62 122 L30 116"/><path d="M62 128 L30 130"/>
+          <path d="M138 120 L170 114"/><path d="M138 126 L170 128"/>
+        </g>
+      </g>
+    </svg>`,
+
+  'Benjamin Button': `
+    <svg viewBox="0 0 200 200" role="img" aria-label="Illustrated portrait of Benjamin Button, a cream Ragdoll with seal-brown ears and blue eyes, mid-wink with his tongue out">
+      <defs>
+        <radialGradient id="bbFur" cx="50%" cy="30%" r="78%">
+          <stop offset="0%" stop-color="#FBF4E6"/>
+          <stop offset="72%" stop-color="#EFE4CF"/>
+          <stop offset="100%" stop-color="#6B4A3A"/>
+        </radialGradient>
+      </defs>
+      <path d="M40 162 Q100 128 160 162 L168 200 L32 200 Z" fill="#EFE4CF"/>
+      <path d="M52 66 Q46 30 78 40 Q84 58 70 76 Q58 78 52 66 Z" fill="#6B4A3A" transform="rotate(-6 62 55)"/>
+      <path d="M148 62 Q156 24 122 36 Q116 56 130 74 Q142 76 148 62 Z" fill="#6B4A3A" transform="rotate(8 138 50)"/>
+      <path d="M62 40 l-4 -10 M70 36 l2 -11 M78 40 l6 -9" stroke="#8A6650" stroke-width="2" stroke-linecap="round" fill="none"/>
+      <circle cx="100" cy="110" r="60" fill="url(#bbFur)"/>
+      <circle cx="76" cy="108" r="10" fill="#6FB8E0"/>
+      <circle cx="76" cy="108" r="5" fill="#22303A"/>
+      <circle cx="73" cy="104" r="2.2" fill="#FFFFFF"/>
+      <path d="M114 106 Q124 100 134 106" fill="none" stroke="#3C2A20" stroke-width="3" stroke-linecap="round"/>
+      <path d="M95 130 Q100 125 105 130 Q100 136 95 130 Z" fill="#A5674C"/>
+      <path d="M88 136 Q94 143 100 136 Q106 143 112 136" fill="none" stroke="#8A6650" stroke-width="2" stroke-linecap="round"/>
+      <ellipse cx="100" cy="144" rx="4" ry="5" fill="#F2A0A8"/>
+      <g stroke="#8A6650" stroke-width="1.4" opacity="0.6" stroke-linecap="round">
+        <path d="M60 124 L28 114"/><path d="M62 132 L30 138"/>
+        <path d="M140 122 L172 110"/><path d="M138 130 L170 136"/>
+      </g>
+    </svg>`,
+};
+
+/* Personality-matched hues from the site's fixed rainbow tokens (--r1…--r6),
+   not the scroll-driven era accent — a cat's spotlight colour shouldn't
+   repaint every time the eras rail cycles past a new palette. */
+const CAT_GLOW = {
+  'Olivia Benson': 'var(--r2)',   // spotlight gold — she's the famous one
+  'Meredith Grey': 'var(--r6)',   // moody violet — private, camera-shy
+  'Benjamin Button': 'var(--r4)', // fresh green — the playful youngest
+};
+
+const slugify = (s = '') =>
+  s.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+
 function renderCats() {
   const cats = DATA.cats || [];
   const host = $('[data-cats]');
   if (!cats.length) return void (host.innerHTML = '<p class="empty">No cats. Unacceptable.</p>');
 
-  const paws = ['🐈', '🐈‍⬛', '🐱'];
+  // Magazine-spread layout: one feature profile, two supporting mentions.
+  // Whoever is flagged goes first regardless of curated.json's own order.
+  const ordered = [...cats].sort((a, b) => (b.feature ? 1 : 0) - (a.feature ? 1 : 0));
 
-  host.innerHTML = cats
-    .map(
-      (c, i) => `
-      <article class="cat">
-        <p class="cat__paw" aria-hidden="true">${paws[i % paws.length]}</p>
+  host.innerHTML = ordered
+    .map((c) => {
+      const portrait = CAT_PORTRAITS[c.name] || '';
+      const glow = CAT_GLOW[c.name] || 'var(--glow)';
+      return `
+      <article class="cat${c.feature ? ' cat--feature' : ''}" style="--cat-glow:${esc(glow)}">
+        <span class="cat__tape" aria-hidden="true"></span>
+        <div class="cat__frame" data-cat-slug="${esc(slugify(c.name))}">${portrait}</div>
         <h3 class="cat__name">${esc(c.name)}</h3>
+        ${c.caption ? `<p class="cat__caption">${esc(c.caption)}</p>` : ''}
         <p class="cat__meta">${esc(c.breed)} · since ${esc(c.since)}</p>
         <p class="cat__note">${esc(c.note)}</p>
-        ${c.namedAfter ? `<p class="cat__after">Named after ${esc(c.namedAfter)}</p>` : ''}
-      </article>`
-    )
+        ${c.namedAfter ? `<p class="cat__after">Named after <b>${esc(c.namedAfter)}</b></p>` : ''}
+      </article>`;
+    })
     .join('');
+
+  enhanceCatPortraits();
+}
+
+/**
+ * Upgrades a cat's illustrated portrait to something real, in priority order:
+ *
+ *   1. A local photo dropped in assets/cats/<slug>.{jpg,jpeg,png,webp,avif} —
+ *      the user's own image, their own rights call, exactly the moodboard
+ *      pattern the Taemin sibling site uses.
+ *   2. An Instagram embed, if `instagram` is set on that cat in
+ *      content/curated.json to a real post URL. Uses Instagram's own
+ *      sanctioned embed widget (the same one their "Embed" button generates)
+ *      rather than a hotlinked copy of the image, so it reflects the live
+ *      post instead of breaking silently if it changes.
+ *   3. Otherwise the hand-illustrated portrait already in the DOM stays.
+ *
+ * Never assumed to exist — every probe fails safe to whatever's already
+ * rendered.
+ */
+function enhanceCatPortraits() {
+  const exts = ['jpg', 'jpeg', 'png', 'webp', 'avif'];
+  const probePhoto = (slug) =>
+    new Promise((resolve) => {
+      let i = 0;
+      const tryNext = () => {
+        if (i >= exts.length) return resolve(null);
+        const src = `assets/cats/${slug}.${exts[i++]}`;
+        const img = new Image();
+        img.onload = () => resolve(src);
+        img.onerror = tryNext;
+        img.src = src;
+      };
+      tryNext();
+    });
+
+  let needsInstagram = false;
+
+  $$('.cat__frame').forEach(async (frame) => {
+    const slug = frame.dataset.catSlug;
+    const cat = (DATA.cats || []).find((c) => slugify(c.name) === slug);
+
+    const photo = await probePhoto(slug);
+    if (photo) {
+      frame.innerHTML = `<img src="${esc(photo)}" alt="${esc(cat?.name || '')}" loading="lazy" decoding="async" style="width:100%;height:100%;object-fit:cover">`;
+      return;
+    }
+
+    if (cat?.instagram) {
+      needsInstagram = true;
+      frame.innerHTML = `
+        <blockquote class="instagram-media" data-instgrm-permalink="${esc(cat.instagram)}"
+                    data-instgrm-version="14" style="margin:0;width:100%;height:100%;border:0"></blockquote>`;
+    }
+  });
+
+  if (!needsInstagram) return;
+
+  // embed.js only auto-scans blockquotes present at its own load time; these
+  // were injected afterward, so it needs telling explicitly. Its own script
+  // tag is async and may still be loading when we get here, hence the retry.
+  let tries = 0;
+  const kick = () => {
+    if (window.instgrm?.Embeds) return window.instgrm.Embeds.process();
+    if (++tries < 20) setTimeout(kick, 250);
+  };
+  kick();
 }
 
 /* ─── videos ─────────────────────────────────────────────────────────── */

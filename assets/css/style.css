@@ -455,6 +455,19 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
   }
 }
 
+/* The "Show all" bar lives as a rail *child* (a grid item, not a sibling after
+   the grid), so the rail's own `gap` spaces it consistently with the era
+   cards. That means it needs the era cards' own side padding and max-width —
+   .more's base margin-top would otherwise stack on top of that gap, so it's
+   zeroed here. Hidden by default; JS only reveals it under 560px. */
+.eras .more {
+  max-width: var(--maxw);
+  margin-inline: auto;
+  margin-top: 0;
+  padding-inline: max(var(--gut), env(safe-area-inset-left)) max(var(--gut), env(safe-area-inset-right));
+}
+.eras .more[hidden] { display: none; }
+
 .era__art {
   position: relative;
   aspect-ratio: 1;
@@ -680,53 +693,141 @@ a.chip:hover { color: var(--ink); border-color: var(--era-glow); }
   padding: var(--section-y) max(var(--gut), env(safe-area-inset-right)) var(--section-y) max(var(--gut), env(safe-area-inset-left));
 }
 
+.cats__intro {
+  max-width: 46ch;
+  color: var(--dim);
+  font-size: clamp(0.98rem, 1.15vw, 1.12rem);
+  margin-bottom: clamp(2rem, 4vw, 3rem);
+}
+
+/* A magazine spread, not a trading-card grid: one feature profile plus two
+   supporting mentions. The size difference is doing real work, not decorating
+   — it maps to how famous each cat actually is. Olivia is in the music videos
+   and the "richest pets" lists; Meredith avoids the camera; Benjamin is the
+   youngest. The layout says that before the copy does. */
 .cats__grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(min(260px, 100%), 1fr));
-  gap: clamp(1rem, 2.5vw, 2rem);
+  grid-template-columns: minmax(0, 1.2fr) minmax(0, 0.85fr);
+  grid-auto-rows: 1fr;
+  gap: clamp(1.5rem, 3vw, 2.25rem);
+}
+.cat--feature { grid-row: span 2; }
+
+@media (max-width: 780px) {
+  .cats__grid { grid-template-columns: 1fr; }
+  .cat--feature { grid-row: auto; }
+  /* The scrapbook tilt reads as charming at magazine scale; stacked in a
+     single mobile column it just looks crooked. Soften rather than drop it. */
+  .cat { transform: rotate(calc(var(--tilt, 0deg) * 0.45)) !important; }
 }
 
 .cat {
+  --tilt: 0deg;
   position: relative;
-  padding: clamp(1.5rem, 3vw, 2.25rem);
-  border-radius: 18px;
-  background:
-    linear-gradient(color-mix(in oklab, var(--surface) 80%, transparent), color-mix(in oklab, var(--surface) 40%, transparent));
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: clamp(2rem, 4vw, 3rem) clamp(1.5rem, 3vw, 2.25rem) clamp(1.75rem, 3vw, 2.25rem);
+  border-radius: 20px;
+  background: linear-gradient(165deg,
+    color-mix(in oklab, var(--surface) 90%, white 4%),
+    color-mix(in oklab, var(--surface) 55%, black 25%));
   border: 1px solid var(--line);
+  transform: rotate(var(--tilt));
+  transition: transform 550ms var(--ease), box-shadow 550ms var(--ease), border-color 550ms;
+}
+.cat:nth-child(1) { --tilt: -0.9deg; }
+.cat:nth-child(2) { --tilt: 1.4deg; }
+.cat:nth-child(3) { --tilt: -1.6deg; }
+
+.cat:hover {
+  /* Softened, not flattened — like a hand lifting the photo off the page
+     rather than the card snapping upright. */
+  transform: rotate(calc(var(--tilt) * 0.3)) translateY(-10px) scale(1.015);
+  border-color: color-mix(in oklab, var(--cat-glow, var(--glow)) 55%, transparent);
+}
+
+/* A strip of "washi tape" holding the photo down, angled the other way from
+   the card itself so the two tensions read as a hand-placed object, not a
+   decorative border. Colour is the cat's own spotlight hue, not the scroll-
+   driven era accent — it needs to stay this cat's colour all the way down
+   the page, not repaint every time the eras cycle. */
+.cat__tape {
+  position: absolute;
+  top: -0.65rem; left: 2rem;
+  width: 3.4rem; height: 1.15rem;
+  background: color-mix(in oklab, var(--cat-glow, var(--glow)) 60%, white 10%);
+  box-shadow: 0 2px 6px rgba(0,0,0,0.35);
+  transform: rotate(-7deg);
+  opacity: 0.92;
+}
+.cat--feature .cat__tape { width: 4.4rem; height: 1.4rem; }
+
+.cat__frame {
+  position: relative;
+  width: clamp(8.5rem, 19vw, 11rem);
+  aspect-ratio: 1;
+  margin-bottom: 1.25rem;
+  border-radius: 50%;
   overflow: hidden;
-  transition: transform 500ms var(--ease), border-color 500ms;
+  background: radial-gradient(circle at 50% 38%,
+    color-mix(in oklab, var(--cat-glow, var(--glow)) 42%, var(--bg)),
+    var(--bg) 74%);
+  box-shadow:
+    0 0 0 1px color-mix(in oklab, var(--cat-glow, var(--glow)) 55%, transparent),
+    0 0 46px 8px color-mix(in oklab, var(--cat-glow, var(--glow)) 32%, transparent);
+  transition: box-shadow 500ms var(--ease);
 }
-.cat:hover { transform: translateY(-6px); border-color: color-mix(in oklab, var(--glow) 50%, transparent); }
-
-/* Each card gets its own slice of the rainbow along the top. */
-.cat::before {
-  content: '';
-  position: absolute; inset: 0 0 auto 0; height: 3px;
-  background: linear-gradient(90deg, var(--r1), var(--r3), var(--r5));
+.cat--feature .cat__frame { width: clamp(11.5rem, 25vw, 15rem); }
+.cat:hover .cat__frame {
+  box-shadow:
+    0 0 0 1px color-mix(in oklab, var(--cat-glow, var(--glow)) 78%, transparent),
+    0 0 64px 12px color-mix(in oklab, var(--cat-glow, var(--glow)) 55%, transparent);
 }
-.cat:nth-child(2)::before { background: linear-gradient(90deg, var(--r2), var(--r4), var(--r6)); }
-.cat:nth-child(3)::before { background: linear-gradient(90deg, var(--r5), var(--r6), var(--r1)); }
+.cat__frame svg { width: 100%; height: 100%; display: block; }
+/* Instagram's own widget insists on its own box model; this is the least
+   forceful way to make it fill the circular frame instead of floating a
+   fixed-width card off to one side. */
+.cat__frame .instagram-media,
+.cat__frame .instagram-media iframe { width: 100% !important; height: 100% !important; }
 
-.cat__paw {
-  font-size: 1.75rem;
-  margin-bottom: 0.75rem;
-  filter: drop-shadow(0 0 10px color-mix(in oklab, var(--glow) 50%, transparent));
-}
-
+/* The one new type role on the page, used only here: the handwritten-caption
+   register Taylor's own album packaging leans on constantly (liner notes,
+   vault-track scrawl, the folklore/evermore journal aesthetic). Everywhere
+   else on the site stays Playfair + Inter + Space Grotesk. */
 .cat__name {
-  font-family: var(--display); font-weight: 700;
-  font-size: clamp(1.4rem, 2.6vw, 2rem);
-  line-height: 1.1; margin-bottom: 0.35rem;
+  font-family: 'Caveat', cursive;
+  font-weight: 700;
+  font-size: clamp(2rem, 4vw, 2.6rem);
+  line-height: 1;
+  color: var(--ink);
+  margin-bottom: 0.15rem;
+}
+.cat--feature .cat__name { font-size: clamp(2.5rem, 5.4vw, 3.5rem); }
+
+.cat__caption {
+  font-family: 'Caveat', cursive;
+  font-weight: 500;
+  font-size: clamp(1.2rem, 2.1vw, 1.4rem);
+  color: var(--cat-glow, var(--glow));
+  margin-bottom: 0.9rem;
 }
 
 .cat__meta {
-  font-family: var(--mono); font-size: 0.63rem;
-  letter-spacing: 0.12em; text-transform: uppercase;
+  font-family: var(--mono); font-size: 0.6rem;
+  letter-spacing: 0.14em; text-transform: uppercase;
   color: var(--dim); margin-bottom: 1rem;
 }
 
-.cat__note { color: var(--dim); font-size: 0.94rem; }
-.cat__after { margin-top: 1rem; font-size: 0.8rem; color: var(--dim); opacity: 0.85; font-style: italic; }
+.cat__note { color: var(--dim); font-size: 0.93rem; max-width: 34ch; }
+.cat--feature .cat__note { font-size: 1rem; max-width: 42ch; }
+
+.cat__after {
+  margin-top: 1rem; font-size: 0.78rem;
+  color: var(--dim); opacity: 0.75;
+}
+.cat__after b { color: var(--ink); font-weight: 500; }
 
 /* ─── videos ─────────────────────────────────────────────────────────── */
 

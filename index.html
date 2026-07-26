@@ -157,7 +157,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="preconnect" href="https://is1-ssl.mzstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;0,700;0,900;1,700&family=Inter:wght@300;400;500;600&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;0,700;0,900;1,700&family=Inter:wght@300;400;500;600&family=Space+Grotesk:wght@400;500;700&family=Caveat:wght@500;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="assets/css/style.css">
 </head>
 
@@ -254,6 +254,7 @@
     <h2 class="section__title"><span class="holo">The Cats</span></h2>
     <span class="section__meta">Non-negotiable</span>
   </div>
+  <p class="cats__intro">Three cats you've definitely seen, even if you've never learned their names.</p>
   <div class="cats__grid" data-cats></div>
 </section>
 
@@ -325,6 +326,12 @@
   </div>
 </footer>
 
+<!-- Instagram's own sanctioned embed script — used only if a cat's entry in
+     content/curated.json carries a real post URL. This is the same widget
+     Instagram's own "Embed" button on a post generates; it renders the live
+     post from their servers rather than a hotlinked copy, so it doesn't
+     silently break if the post changes. -->
+<script async src="https://www.instagram.com/embed.js"></script>
 <script src="assets/js/app.js" type="module"></script>
 </body>
 </html>
