@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <!-- The site's rainbow, reused so the icon matches the wordmark. -->
+    <linearGradient id="rb" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"   stop-color="#FF6B9D"/>
+      <stop offset="22%"  stop-color="#FFB03A"/>
+      <stop offset="44%"  stop-color="#FFE66D"/>
+      <stop offset="66%"  stop-color="#7FE7A4"/>
+      <stop offset="84%"  stop-color="#7FD8FF"/>
+      <stop offset="100%" stop-color="#C79BFF"/>
+    </linearGradient>
+    <linearGradient id="mid" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#1C2240"/>
+      <stop offset="100%" stop-color="#12172E"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Midnights-blue tile -->
+  <rect width="64" height="64" rx="15" fill="url(#mid)"/>
+
+  <!-- A cat, because the brief was cats, glitter and rainbows.
+       Head + ears as one path so it reads at 16px. -->
+  <g fill="url(#rb)">
+    <path d="M17 30
+             L14 15 L26.5 22.5
+             a22 22 0 0 1 11 0
+             L50 15 L47 30
+             a17 15 0 0 1 -30 0 Z"/>
+  </g>
+
+  <!-- Eyes and nose knocked out in the tile colour -->
+  <ellipse cx="25.5" cy="33" rx="2.4" ry="3.1" fill="#12172E"/>
+  <ellipse cx="38.5" cy="33" rx="2.4" ry="3.1" fill="#12172E"/>
+  <path d="M32 38.5 l-2.4 -2.2 h4.8 Z" fill="#12172E"/>
+
+  <!-- Whiskers -->
+  <g stroke="#12172E" stroke-width="1.4" stroke-linecap="round" opacity="0.75">
+    <path d="M20 40 h-6"/><path d="M20.5 43.5 l-5.5 2"/>
+    <path d="M44 40 h6"/><path d="M43.5 43.5 l5.5 2"/>
+  </g>
+
+  <!-- Glitter -->
+  <path d="M52 9 l1.5 4.5 L58 15 l-4.5 1.5 L52 21 l-1.5-4.5 L46 15 l4.5-1.5 Z" fill="#FFE66D"/>
+  <circle cx="11" cy="47" r="2.2" fill="#7FD8FF"/>
+  <circle cx="55" cy="44" r="1.6" fill="#FF6B9D"/>
+  <circle cx="9"  cy="22" r="1.4" fill="#C79BFF"/>
+</svg>

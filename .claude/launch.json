@@ -1,0 +1,12 @@
+﻿{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "swift-archive",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["serve.js"],
+      "port": 4174
+    }
+  ]
+}
+

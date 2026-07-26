@@ -1,0 +1,10 @@
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+.env
+.vscode/
+.idea/
+
+# Local agent/editor prefs — the launch config is worth keeping, this isn't.
+.claude/settings.local.json

@@ -1,0 +1,399 @@
+{
+  "_comment": "Hand-written content. build.js merges this with the live API data. Edit freely — nothing here gets overwritten by the auto-updater.",
+
+  "_siteUrlNote": "Once the site is live, put its address here (e.g. https://swiftarchive.online). build.js then generates sitemap.xml and robots.txt and fills in the canonical + og:url tags. Leave it empty and those steps are simply skipped.",
+  "siteUrl": "",
+
+  "_erasNote": "The spine of the site. Every release the APIs return gets bucketed into one of these — first by matching `match` against the title, then by falling back to whichever era's date window contains the release date. That second rule is what catches singles and remixes automatically. `palette` drives the whole page's colours while that era is on screen.",
+
+  "eras": [
+    {
+      "id": "debut",
+      "albumId": "1860454442",
+      "name": "Taylor Swift",
+      "short": "Debut",
+      "year": "2006",
+      "released": "2006-10-24",
+      "match": "^taylorswift$|^taylorswiftdeluxe",
+      "blurb": "Seventeen, curly hair, a guitar with rhinestones on it. She wrote or co-wrote every track.",
+      "palette": {
+        "bg": "#0E2B2B",
+        "surface": "#143A38",
+        "ink": "#EAF7F4",
+        "dim": "#9DC7C0",
+        "accent": "#3FBFAD",
+        "glow": "#5FE0C8"
+      }
+    },
+    {
+      "id": "fearless",
+      "albumId": "1440924803",
+      "name": "Fearless",
+      "short": "Fearless",
+      "year": "2008",
+      "released": "2008-11-11",
+      "match": "^fearless",
+      "blurb": "The one that made her the youngest person ever to win Album of the Year. Gold dress, spinning in a field.",
+      "palette": {
+        "bg": "#2A1F06",
+        "surface": "#3B2C09",
+        "ink": "#FBF3DC",
+        "dim": "#D3BC84",
+        "accent": "#E3B23C",
+        "glow": "#FFD97A"
+      }
+    },
+    {
+      "id": "speaknow",
+      "albumId": "1440920310",
+      "name": "Speak Now",
+      "short": "Speak Now",
+      "year": "2010",
+      "released": "2010-10-25",
+      "match": "^speaknow",
+      "blurb": "Written entirely alone, no co-writers, as an answer to people who said she didn't write her own songs.",
+      "palette": {
+        "bg": "#1E0F2E",
+        "surface": "#2C1743",
+        "ink": "#F4ECFB",
+        "dim": "#BFA5D6",
+        "accent": "#9B5DE5",
+        "glow": "#C79BFF"
+      }
+    },
+    {
+      "id": "red",
+      "albumId": "1440935340",
+      "name": "Red",
+      "short": "Red",
+      "year": "2012",
+      "released": "2012-10-22",
+      "match": "^red$|^redtaylorsversion|^reddeluxe",
+      "blurb": "The heartbreak record. Also where the ten-minute version lives.",
+      "palette": {
+        "bg": "#2A0A0C",
+        "surface": "#3D1013",
+        "ink": "#FBE9E9",
+        "dim": "#D49B9B",
+        "accent": "#C8102E",
+        "glow": "#FF5A5A"
+      }
+    },
+    {
+      "id": "1989",
+      "albumId": "1440935467",
+      "name": "1989",
+      "short": "1989",
+      "year": "2014",
+      "released": "2014-10-27",
+      "match": "^1989",
+      "blurb": "Full pop, no apologies. Polaroids, New York, and the biggest sales week she'd had.",
+      "palette": {
+        "bg": "#0F2233",
+        "surface": "#173248",
+        "ink": "#EAF4FB",
+        "dim": "#A3C4DC",
+        "accent": "#5FA8D3",
+        "glow": "#8ED0F5"
+      }
+    },
+    {
+      "id": "reputation",
+      "albumId": "1440933849",
+      "name": "reputation",
+      "short": "reputation",
+      "year": "2017",
+      "released": "2017-11-10",
+      "match": "^reputation",
+      "blurb": "Newsprint, snakes, and not doing a single interview for the entire album cycle.",
+      "palette": {
+        "bg": "#0A0A0A",
+        "surface": "#171717",
+        "ink": "#F2F2F2",
+        "dim": "#9A9A9A",
+        "accent": "#6E7B5B",
+        "glow": "#A8B98C"
+      }
+    },
+    {
+      "id": "lover",
+      "albumId": "1468058165",
+      "name": "Lover",
+      "short": "Lover",
+      "year": "2019",
+      "released": "2019-08-23",
+      "match": "^lover",
+      "blurb": "Pastel skies, glitter hearts, and the one where the cats really take over. The rainbow era.",
+      "palette": {
+        "bg": "#2B1533",
+        "surface": "#3E2049",
+        "ink": "#FDEFF7",
+        "dim": "#E2B4D2",
+        "accent": "#FF8FC7",
+        "glow": "#7FD8FF"
+      }
+    },
+    {
+      "id": "folklore",
+      "albumId": "1524793738",
+      "name": "folklore",
+      "short": "folklore",
+      "year": "2020",
+      "released": "2020-07-24",
+      "match": "^folklore",
+      "blurb": "Written in lockdown, announced sixteen hours before it came out. Grey cardigans and imaginary people.",
+      "palette": {
+        "bg": "#1A1A18",
+        "surface": "#262523",
+        "ink": "#EFEDE6",
+        "dim": "#ADA79A",
+        "accent": "#8C8577",
+        "glow": "#C6BFAE"
+      }
+    },
+    {
+      "id": "evermore",
+      "albumId": "1544275966",
+      "name": "evermore",
+      "short": "evermore",
+      "year": "2020",
+      "released": "2020-12-11",
+      "match": "^evermore",
+      "blurb": "folklore's sister record, out five months later. Autumn, braids, and a plait down her back.",
+      "palette": {
+        "bg": "#2B1608",
+        "surface": "#3D200B",
+        "ink": "#FBEEE0",
+        "dim": "#D0A87E",
+        "accent": "#C9702B",
+        "glow": "#F0994A"
+      }
+    },
+    {
+      "id": "midnights",
+      "albumId": "1645937249",
+      "name": "Midnights",
+      "short": "Midnights",
+      "year": "2022",
+      "released": "2022-10-21",
+      "match": "^midnights",
+      "blurb": "Thirteen sleepless nights. Released at midnight, then again at 3am.",
+      "palette": {
+        "bg": "#12172E",
+        "surface": "#1C2240",
+        "ink": "#ECEDFB",
+        "dim": "#A9AEDA",
+        "accent": "#7B7FD4",
+        "glow": "#A8ADFF"
+      }
+    },
+    {
+      "id": "ttpd",
+      "albumId": "1736268215",
+      "name": "THE TORTURED POETS DEPARTMENT",
+      "short": "TTPD",
+      "year": "2024",
+      "released": "2024-04-19",
+      "match": "^thetorturedpoetsdepartment|^ttpd",
+      "blurb": "Announced live at the Grammys. Thirty-one tracks by 2am, because of course there was an anthology.",
+      "palette": {
+        "bg": "#1B1917",
+        "surface": "#292624",
+        "ink": "#F5F1EA",
+        "dim": "#B3AA9C",
+        "accent": "#9E8C74",
+        "glow": "#D8C7AC"
+      }
+    },
+    {
+      "id": "showgirl",
+      "albumId": "1842897453",
+      "name": "The Life of a Showgirl",
+      "short": "Showgirl",
+      "year": "2025",
+      "released": "2025-10-03",
+      "match": "^thelifeofashowgirl",
+      "blurb": "Orange feathers, full theatre. The loudest, most glitter-forward era yet.",
+      "palette": {
+        "bg": "#2E1203",
+        "surface": "#431B05",
+        "ink": "#FFF0DF",
+        "dim": "#EAB183",
+        "accent": "#FF6B1A",
+        "glow": "#FFB03A"
+      }
+    }
+  ],
+
+  "_catsNote": "Meredith Grey and Olivia Benson are Scottish Folds, Benjamin Button is a Ragdoll. Named after Meredith Grey (Grey's Anatomy), Olivia Benson (Law & Order: SVU) and Benjamin Button.",
+
+  "cats": [
+    {
+      "name": "Meredith Grey",
+      "breed": "Scottish Fold",
+      "since": "2011",
+      "namedAfter": "Meredith Grey, Grey's Anatomy",
+      "note": "The eldest and the most private. She largely retired from public life around 2019, which fans took roughly as hard as a breakup."
+    },
+    {
+      "name": "Olivia Benson",
+      "breed": "Scottish Fold",
+      "since": "2014",
+      "namedAfter": "Detective Olivia Benson, Law & Order: SVU",
+      "note": "Appears in the Blank Space video, the ME! video, and a Diet Coke ad. Has been valued at around $97 million on lists of the world's richest pets, which is a real sentence about a cat."
+    },
+    {
+      "name": "Benjamin Button",
+      "breed": "Ragdoll",
+      "since": "2019",
+      "namedAfter": "The Curious Case of Benjamin Button",
+      "note": "Picked up on the set of the ME! video and kept. There is footage of the exact moment she decides to keep him, and it is worth watching."
+    }
+  ],
+
+  "timeline": [
+    {
+      "date": "2006-10-24",
+      "year": "2006",
+      "title": "Taylor Swift",
+      "body": "Debut album at 16. Country radio didn't quite know what to do with a teenager writing her own songs about actual teenagers.",
+      "tag": "Era",
+      "highlight": true
+    },
+    {
+      "date": "2008-11-11",
+      "year": "2008",
+      "title": "Fearless",
+      "body": "Won Album of the Year at the Grammys and made her the youngest artist ever to do it. She was 20.",
+      "tag": "Era",
+      "highlight": true
+    },
+    {
+      "date": "2010-10-25",
+      "year": "2010",
+      "title": "Speak Now",
+      "body": "Every track written alone. It was a direct answer to people questioning whether she wrote her own material.",
+      "tag": "Era"
+    },
+    {
+      "date": "2012-10-22",
+      "year": "2012",
+      "title": "Red",
+      "body": "The pivot out of country. Also the album that later gave everyone the ten-minute All Too Well.",
+      "tag": "Era"
+    },
+    {
+      "date": "2014-10-27",
+      "year": "2014",
+      "title": "1989",
+      "body": "Fully pop. Sold 1.28 million copies in its first week and won Album of the Year.",
+      "tag": "Era",
+      "highlight": true
+    },
+    {
+      "date": "2017-11-10",
+      "year": "2017",
+      "title": "reputation",
+      "body": "No interviews, no press, all snake. The tour became the highest-grossing US tour of its year.",
+      "tag": "Era"
+    },
+    {
+      "date": "2019-08-23",
+      "year": "2019",
+      "title": "Lover",
+      "body": "Pastels and hearts after all that black. Also the year she began speaking publicly about owning her masters.",
+      "tag": "Era"
+    },
+    {
+      "date": "2020-07-24",
+      "year": "2020",
+      "title": "folklore",
+      "body": "Announced sixteen hours before release, written in lockdown. Won Album of the Year, her third.",
+      "tag": "Era",
+      "highlight": true
+    },
+    {
+      "date": "2020-12-11",
+      "year": "2020",
+      "title": "evermore",
+      "body": "A second surprise album in the same year, five months after the first.",
+      "tag": "Era"
+    },
+    {
+      "date": "2021-04-09",
+      "year": "2021",
+      "title": "The re-recordings begin",
+      "body": "Fearless (Taylor's Version) arrives — the first of the re-recorded albums, made to own her own masters.",
+      "tag": "Taylor's Version",
+      "highlight": true
+    },
+    {
+      "date": "2022-10-21",
+      "year": "2022",
+      "title": "Midnights",
+      "body": "Thirteen sleepless nights. Then a 3am edition with seven more songs, three hours later.",
+      "tag": "Era"
+    },
+    {
+      "date": "2023-03-17",
+      "year": "2023",
+      "title": "The Eras Tour begins",
+      "body": "A three-and-a-half hour set spanning every era. It became the highest-grossing tour in history.",
+      "tag": "Live",
+      "highlight": true
+    },
+    {
+      "date": "2024-04-19",
+      "year": "2024",
+      "title": "THE TORTURED POETS DEPARTMENT",
+      "body": "Announced live while accepting a Grammy. Thirty-one tracks once the anthology dropped at 2am.",
+      "tag": "Era"
+    },
+    {
+      "date": "2025-05-30",
+      "year": "2025",
+      "title": "She buys her masters back",
+      "body": "After six years and four re-recorded albums, she owns her entire catalogue.",
+      "tag": "Milestone",
+      "highlight": true
+    },
+    {
+      "date": "2025-10-03",
+      "year": "2025",
+      "title": "The Life of a Showgirl",
+      "body": "Orange, feathers, and full theatre.",
+      "tag": "Era",
+      "highlight": true
+    }
+  ],
+
+  "facts": [
+    "Her lucky number is 13. She was born on the 13th, turned 13 on Friday the 13th, and used to paint it on her hand before shows.",
+    "She wrote the whole of Speak Now by herself — no co-writers on any track.",
+    "Olivia Benson the cat has appeared on lists of the world's wealthiest pets with an estimated value around $97 million.",
+    "folklore and evermore were both written and released in 2020, five months apart, with no advance warning.",
+    "The Eras Tour is the highest-grossing concert tour ever staged, and the first to pass $1 billion.",
+    "She re-recorded her first six albums to own the masters, then bought the originals back outright in 2025.",
+    "All Too Well started as a ten-minute song, got cut to five for Red, and was finally released in full a decade later.",
+    "She has won Album of the Year at the Grammys four times, more than any other artist.",
+    "Benjamin Button was picked up on the set of the ME! video and simply never left.",
+    "She has said she reads the comments, which is either brave or a warning depending on how you look at it."
+  ],
+
+  "_tourNote": "There is no free tour-dates API that works without a key, so this list is hand-kept. Add shows as they're announced — anything with a past date hides itself, so old entries are safe to leave. When the list is empty the section shows the alert links instead.",
+  "tour": {
+    "alerts": [
+      { "label": "Ticketmaster", "url": "https://www.ticketmaster.com/taylor-swift-tickets/artist/1094215" },
+      { "label": "Songkick", "url": "https://www.songkick.com/artists/393255-taylor-swift" },
+      { "label": "Bandsintown", "url": "https://www.bandsintown.com/a/1990-taylor-swift" }
+    ],
+    "dates": []
+  },
+
+  "links": [
+    { "label": "YouTube", "url": "https://www.youtube.com/@TaylorSwift" },
+    { "label": "Instagram", "url": "https://www.instagram.com/taylorswift/" },
+    { "label": "Apple Music", "url": "https://music.apple.com/us/artist/taylor-swift/159260351" },
+    { "label": "Spotify", "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02" }
+  ]
+}
