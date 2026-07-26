@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-26T12:31:45.380Z",
+  "generated": "2026-07-26T13:40:12.033Z",
   "artist": {
     "name": "Taylor Swift",
     "full": "Taylor Alison Swift",
@@ -90,7 +90,7 @@
       "year": "2022",
       "released": "2022-10-21",
       "match": "^midnights",
-      "blurb": "Thirteen sleepless nights. Released at midnight, then again at 3am.",
+      "blurb": "Thirteen sleepless nights. Out at midnight, then again at 3am with seven more songs, then again as the Til Dawn Edition with You're Losing Me — the only non-Taylor's-Version album she kept expanding after release.",
       "palette": {
         "bg": "#12172E",
         "surface": "#1C2240",
@@ -229,7 +229,7 @@
       "year": "2017",
       "released": "2017-11-10",
       "match": "^reputation",
-      "blurb": "Newsprint, snakes, and not doing a single interview for the entire album cycle.",
+      "blurb": "After the 1989 high came Kanye, Kim and a tabloid pile-on that pulled her all the way back down. She disappeared — not just from press during the cycle, but from public life before it. \"There will be no explanation. There will just be reputation.\" Her first album as co-producer.",
       "palette": {
         "bg": "#0A0A0A",
         "surface": "#171717",
@@ -265,7 +265,7 @@
       "year": "2014",
       "released": "2014-10-27",
       "match": "^1989",
-      "blurb": "Full pop, no apologies. Polaroids, New York, and the biggest sales week she'd had.",
+      "blurb": "Full pop, no apologies. Polaroids, New York, and the biggest sales week she'd had. She was single, leaning into the serial-heartbreak image the press had built for her, and putting her friendships front and centre instead. People still call it the modern pop bible.",
       "palette": {
         "bg": "#0F2233",
         "surface": "#173248",
@@ -300,7 +300,7 @@
       "year": "2012",
       "released": "2012-10-22",
       "match": "^red$|^redtaylorsversion|^reddeluxe",
-      "blurb": "The heartbreak record. Also where the ten-minute version lives.",
+      "blurb": "The heartbreak record, and the one where country starts giving way to pop — Max Martin and Shellback turn up and the edges change shape. All Too Well is here, though the ten-minute version wouldn't arrive until Taylor's Version in 2021.",
       "palette": {
         "bg": "#2A0A0C",
         "surface": "#3D1013",
@@ -2224,10 +2224,10 @@
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOZXh2ZExVU2Q1NEZqYV9hOVdmcnpudlVXcS04dEZqS0tHeHFjZ0ZfNTFJVUppZHdZd0xmcU9kX05fVV9EekRmeUxIWVYyVkhsaUNfZkdoYkJDMFlUSldzeDhvbGNHUGJScjZ2ZHgzMHJPb2FWRjVINVc5OExiVUZpRnhuR2toSUFZbDdOU1l0dVZVMW1HT3dNQ3B0YnpiNXQ1Wm0xTTh5b2luY2RTZDhyZVRqc3pwcFlkNXBkMllfc3RILXVGbzVqU1Ffa1RQRktBTGo1MWJIalhNaUpFMmNNNkVETDhHYjExaEFrQ3ViR2puU3NfUTNSV0JqQWZKd1o00gGAAkFVX3lxTE8xU3htbHB2eXJ0SU42aTVSdkFmb3ZUVUZGOVM4OHJQZ3ZjNlNQMUxrSFlqZnhBWlp1bDJJMGw3UnBPV0N2cVlSYWYtQ2ZxQnFWVGItNG9fblAySTNiN29HVXpsVW9vMHc5RW1QN2lkbkpUNDV6R1dOb09Qa3RqbFlwS0ZLUmxHdEZMVmRmVldWTFZPLWxQZHlNUHJSZ0Qzb3VMYmNUcGVuMzRCdHlEMkp4SkMwcllFUEtGTW52ZC1wTm1wWHRoUlc2N2VsaGJYZFZZV0t0TDJ0MjhSM0tORkJzUGNVN2g2YnZTbngzRC0xMVdfMFZ6WkRZS01fOVM4R1k?oc=5"
     },
     {
-      "title": "Kylie Kelce breaks silence on 'magical' Taylor Swift and Travis Kelce wedding",
-      "outlet": "sportingnews.com",
+      "title": "The Diet Rule Taylor Swift Followed Early In Her Career — And Travis Kelce Swears By Too",
+      "outlet": "Health Digest",
       "date": "2026-07-25",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWHFVS254cktRRmMzZ3pSdG1WVE81R19mcFMxSkF2YUI4bXJfQ3M3U2R2bXRCeTVhYVRpSkRPSTNNbFJvUUNERzJNYXhnd04tS0gzempmQ3pGR3REbG53T1ZnZGd4QjB1V1ZYNmpRMWhoZGphOEJGUU9yZS1ka1hVQVM2cC10MzNSQ3BrMEhYMmJuejQ2SnV6b183MUM4XzVldmhyV09IZFpnc1JQdHNFZmlkRDVyenRpUE5IVjdKOWM4TUlzekNkXy1yelc4OWZFbm5lejZXNUFPbzRrSWlQQ0U2Zk5oNElWN0ZFSQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5MNl9YMlFkX1NyNnFFeG9XNGs1XzRYc3I1alpLZlBvWEhxd2VURHE1eHZCVjJNNEgxV2ktbU1CWUpQS092SXg3S09YWk1Xd3AxcTlOTFZhWVNIcDBQNnpjWjFRcnNtV1NDcU9CSHU3SHlubnlodTU1NGdmM0FyUQ?oc=5"
     },
     {
       "title": "Taylor Swift Stuns on the Red Carpet",
@@ -2236,10 +2236,10 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRHNkMWt1aFV1M2s1NlNRNDlPam1kMnE1bnBIaGZLV3AzTUcwTGh0UUxmZ0RLRTg5YVpPNjNtRWZsaUlvZE1WRVdhd1pZRGJRaEhjMVFwZmdYWm9FakgzbjVJdGEzVHRJa1lBOGtyUlNkcXFzOHlnOGw5eHhxNk90WkowdjdGenpnMFZEZ1JxY04?oc=5"
     },
     {
-      "title": "The Diet Rule Taylor Swift Followed Early In Her Career — And Travis Kelce Swears By Too",
-      "outlet": "Health Digest",
+      "title": "MUST READ: Burlington couple pleads guilty in $1/4-million Taylor Swift ticket scam",
+      "outlet": "BurlingtonToday.com",
       "date": "2026-07-25",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5MNl9YMlFkX1NyNnFFeG9XNGs1XzRYc3I1alpLZlBvWEhxd2VURHE1eHZCVjJNNEgxV2ktbU1CWUpQS092SXg3S09YWk1Xd3AxcTlOTFZhWVNIcDBQNnpjWjFRcnNtV1NDcU9CSHU3SHlubnlodTU1NGdmM0FyUQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRVNzcjZjU1kyRi12dW1jelcyT0c5c1FORWVFSTllYlBFSXFVODJxTnJUQkZnZktUWWVsQ3gwMm95SExfX0xZajg5U1ZsQ0o3Y3pOWHpVakd0M1U4eVpvYTVLOU9vZnVLcnNDVzVJMXpKZHl6cUFDS2Iza3FNWlRfQl9vN01xSENxc1FmbURQV3dfMzB2eXd4STNodjd1aFJOeS1HdHp1Y21pZ1pkb19zLWtOV0FhckpjMXo4WDRwWU5zdHQ2RndqMU9wNjM?oc=5"
     },
     {
       "title": "'She doesn't shrink herself': Travis Kelce's comfort with Taylor Swift's fame and billion dollar fortune",
@@ -2254,10 +2254,10 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVjhMN1pfcU9PTkFMZjJqbHhiYUE1QmJmYk4yeHZiUDRfNHZkeFQ1N1g2UVhacHNCUkFyWkRqLWs5cGIxa2hDSWl3NzJOS0RxX2lJN1lZOXk1YzRib3BSUk50N296MjVtaWNRZFpXOE1EZENjb0c0VUhLZ0xsRFR0RnJXd1lOem5OUTFCc1RJT3hGT0drRDZmdGdlaVk2bzlBYlB5OUNlRnZEZzVhQnlDM2MwU1Itckk5SXlqOExfTmIxdU96bGJ2aA?oc=5"
     },
     {
-      "title": "MUST READ: Burlington couple pleads guilty in $1/4-million Taylor Swift ticket scam",
-      "outlet": "BurlingtonToday.com",
+      "title": "Blake Lively Reportedly Losing ‘VIP Treatment’ by Hollywood After Taylor Swift Fallout",
+      "outlet": "StyleCaster",
       "date": "2026-07-25",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRVNzcjZjU1kyRi12dW1jelcyT0c5c1FORWVFSTllYlBFSXFVODJxTnJUQkZnZktUWWVsQ3gwMm95SExfX0xZajg5U1ZsQ0o3Y3pOWHpVakd0M1U4eVpvYTVLOU9vZnVLcnNDVzVJMXpKZHl6cUFDS2Iza3FNWlRfQl9vN01xSENxc1FmbURQV3dfMzB2eXd4STNodjd1aFJOeS1HdHp1Y21pZ1pkb19zLWtOV0FhckpjMXo4WDRwWU5zdHQ2RndqMU9wNjM?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdERid0JkV2FZX0pLS2hfSFZ5RklESHBXbFVGdjBUZ3JMcVpzeDZOV19wT01EZjBiTnlfYzdqNTZ6VzNENzZyYnlYMExJdWRJcW1vV2FqSmZNTjYyYWxtdndrQkxKSWZTSlhzMXRJUzY5VWVnbUlWX05lQ0FBV1RVdUs5VUdHZG95YU5LVlMtQjdjVmhTYVBzYXFKaEo?oc=5"
     },
     {
       "title": "Taylor Swift revealed the awkward moment the Kelce brothers met the royal family at her concert",
@@ -2270,12 +2270,6 @@
       "outlet": "The Tennessean",
       "date": "2026-07-25",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMlA0WjRBQVdNSkVfYWR5TjQ3V2tCS3RwVWtlTHRJYUtMOWtHb3MtY0x1QllEclVRWnRDYW5tYV83VGZLMHpXZDdqTmZGenhJODk4ZC1tNG1lRGxMYVdFQ0dyaHlpMDhQSFZQeENtd0dIVE9IazRxdlhwYkluTG53YmZXdUI1bnlsVEpKY1ZZLXI5OXF2d1Nqai1KUHRSbXV3Q1BQR2M0eGhuNFR0QkpXZkc2NHZwTkNaU3V4N3JqTjFFc0U4M1BXRmRmVlA2Y3RUNFlRbmRoTWVrZzVjSjBsdjlVbw?oc=5"
-    },
-    {
-      "title": "Blake Lively Reportedly Losing ‘VIP Treatment’ by Hollywood After Taylor Swift Fallout",
-      "outlet": "StyleCaster",
-      "date": "2026-07-25",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdERid0JkV2FZX0pLS2hfSFZ5RklESHBXbFVGdjBUZ3JMcVpzeDZOV19wT01EZjBiTnlfYzdqNTZ6VzNENzZyYnlYMExJdWRJcW1vV2FqSmZNTjYyYWxtdndrQkxKSWZTSlhzMXRJUzY5VWVnbUlWX05lQ0FBV1RVdUs5VUdHZG95YU5LVlMtQjdjVmhTYVBzYXFKaEo?oc=5"
     },
     {
       "title": "Kylie Kelce says Taylor Swift and Travis Kelce's wedding was 'absolutely magical'",
@@ -2294,6 +2288,12 @@
       "outlet": "SheKnows",
       "date": "2026-07-25",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ0pFZ2h5djhnZTdQM09JNTVWWnBQVFZtT0pIZDkyVzVjVmlSZm1oOUdaUEtEZUpJbnZORkpVcW1pMUltd2dwQkEtUkxpX0ZpN0N0bERnRVZZNXg4N3ZkRWpJRWdoLURZbUZzLUlBQXdRYnBKRVBkQ2NPM0R2bEZ5amhPeUN5WVJMVUo0eVMyS09pWkhZeWg0cGZBLTZKVXVkSjIxVDU4akRXQQ?oc=5"
+    },
+    {
+      "title": "History's Most Expensive Weddings, Ranked (A 2026 Wedding Makes the List)",
+      "outlet": "Mental Floss",
+      "date": "2026-07-25",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOTRQVGFjMW1GREVrczdWdllzbnZEaVR1d19GdHFnbTF0V05fbWc5SExXN1FIV2owemJtSEZ3Y2M0QWNfZlVuMXR3bW9VY05QUXZ3MFdJMGVwdjVDb2c1MC1vZDJmTVF3TWUzQUwtdk9DOVBiZnpCU0ZrSGJ2eGtNa0IwY1gtQQ?oc=5"
     },
     {
       "title": "'I am in tears': How Taylor Swift and Travis Kelce's $2M move left families of fallen NYC heroes feeling",
@@ -2326,10 +2326,10 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU3RfSHJIZUkwRlpfQmRRTzdteTZ2TjZDWEE0OHhQbFhDTUQ5blFyYm1Bai1lNFRkSXdsMVlJMkE3Z3loM3UxV3N0UzVXXzl6aUQzbHYyMzRVek5kaVQ1UTFycGxTWHU1SUJhdjNtN3RMRkJMVUFXTkdKRDVZSjVFUTJ3eVVDQ21udmdSX09iazRMSTZmaExZM1Q2V0RoV0s1b2diZU0yRQ?oc=5"
     },
     {
-      "title": "Travis Kelce and Taylor Swift's wedding 'was so much fun'",
-      "outlet": "Yahoo Lifestyle Canada",
+      "title": "Travis Kelce and Taylor Swift Announcement Shines Light on Heartwarming Act",
+      "outlet": "heavy.com",
       "date": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVWxwenlING43UVU3V2hROXBITjBvLXBGTGlnZWF3dG1IRkJib2xsSjc4OFZ5Uk16b1FxZElPbGliQTBSOWhMb2hkQUJQaG5JQ0dZWjVWUUJpemdRc3owN0NaUDhnMVduUWVtOFdHT2VybGZ4LUprS1FVdFlEendrUDd3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT1ZaTDdvcFVyWU43MkxjMXBTXzdsRFlxa3pMaWtUdVhUcTJuMWRQS0lOTWduUTZua29PTlR6Qk5VZ3hEdElDRUFWMkpaS0ZmeGs1UFZaejJmSWxaVjNJR01XV01kU3N2SzRXRXVPbVBhaVN5dkgwcTJKNnhXbDFGWmhTcDZtRTBkdFctc1NyVGw0eGNUd0NBd0RKdWQ?oc=5"
     }
   ],
   "bio": {
@@ -2385,10 +2385,10 @@
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPb0ppMmxYNWtmNVBTYklDVEpWcXpULTJoSDZBZ1BkNDVRWXhuQm5TYy1HQ1pYcGFtTVcwUHFMMU1HdDU4R3FtbDFLZ1BZTFU4NGV0V1RqMTdNU053ZmdYMjBTc3lkMzdtRWFKcGVtLU5oVGhsMkUxTThlcVVnaU1zWlk5MmkyVFhoSlAyY1JCZmh5VndhRXNhSnFUVHlZM29jTWpWeDFydEt0WS1FdERaRS1Bdl9VMVEyLW1IVFJsZHFjd0htTXUwRlJJQnlZZ2dyMXo2WGR5R3NQS2pJ?oc=5"
     },
     {
-      "title": "Taylor Swift’s Disney+ Concert Special of Last “Eras Tour” Show Earns 5 Emmy Nominations",
-      "outlet": "Yahoo",
-      "date": "2026-07-08",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdWx0aFpXT1daRmhENEVNaGIxbHdaVFhCakdCRXFPM0VUa2MyYm9iUWs3X29WdUVQcl9ISE1Xc0d6cU41T21sem9uZXJuMmRZUWtxUHhtYm1QbFVoZEJ1anExM0EzZjZSeDVIWi00bS1laE9YbUNSSnBsaHMwOTJpN1JSWERNS212VjZBZHdyeVBBZG50?oc=5"
+      "title": "Mega Millions jackpot surpasses $637 million. That’s double the Taylor Swift’s Eras Tour movie box office revenue",
+      "outlet": "WKYT",
+      "date": "2026-07-13",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYXFqOGdsRDE2LUpjT01MVGU0Zjhhc2p6RTRaS1RtNW02ZTBSdTl5T0hJVFlubGdkWlhwUlpjemxBUnFjaFdDdUYzakhIZ3RvQlBDUGFXbkVHdFEyY0hqblY5RWU0dlB4ckxwdVJwUlZOeldaM1dUejZULXdxLUtyWE1iWXAwdGthbkdNMDM0MXJhckRlejd5Q0FPWkx3cU51WUFyUkd1cXRlWGd2eUVXLWFhdW9aX09Id195ekVMRF9SUTRUZEJNc0dhd2FmdThSX21IY9IB6AFBVV95cUxPV1h6S2p1cWw3ZlVucVZSMXVIekFuaXFtVFhrN1A1Y0d6d1h4MGNSMjVvYkdOdklvNV81cmc4TnRXc2lDZ0UyQUlRNVBYNmJFR2NtVzFzdWZyMktYdFBpMkJNZG5aYTJFZHFqQjVQY1FFRFZWcm80aHlZeXdqV3M4X1VVT2hMamdvQ3FYcVpHTmdBNC14T3VWVG81WWxNSG8tczZPZWE0ZXV2dE9RWThjaHItWjJENXlpX0lSVkNycFppMDctckFraEpmbUUzVXlQOXFhNGxnMDYwV3dmRzNjbVRxNTFKM1lu?oc=5"
     }
   ],
   "timeline": [
@@ -2493,9 +2493,16 @@
       "date": "2025-05-30",
       "year": "2025",
       "title": "She buys her masters back",
-      "body": "After six years and four re-recorded albums, she owns her entire catalogue.",
+      "body": "Announced in a letter on her site. After six years and four re-recorded albums she buys the originals outright from Shamrock Capital and owns her entire catalogue.",
       "tag": "Milestone",
       "highlight": true
+    },
+    {
+      "date": "2025-08-26",
+      "year": "2025",
+      "title": "Engaged",
+      "body": "Travis Kelce proposes in a garden in Lee's Summit, Missouri. She posts it to Instagram on 26 August.",
+      "tag": "Life"
     },
     {
       "date": "2025-10-03",
@@ -2503,6 +2510,22 @@
       "title": "The Life of a Showgirl",
       "body": "Orange, feathers, and full theatre.",
       "tag": "Era",
+      "highlight": true
+    },
+    {
+      "date": "2026-06-11",
+      "year": "2026",
+      "title": "Songwriters Hall of Fame",
+      "body": "Inducted at 36 — the youngest woman ever, and second-youngest overall behind Stevie Wonder. She'd taken the Hal David Starlight Award in 2010, making her the first to graduate from that to full membership. The speech ran about twenty minutes.",
+      "tag": "Milestone",
+      "highlight": true
+    },
+    {
+      "date": "2026-07-03",
+      "year": "2026",
+      "title": "Married",
+      "body": "She and Travis Kelce marry at Madison Square Garden. Adam Sandler officiates; their brothers stand as best man and man of honour.",
+      "tag": "Life",
       "highlight": true
     }
   ],
@@ -2513,7 +2536,9 @@
     "folklore and evermore were both written and released in 2020, five months apart, with no advance warning.",
     "The Eras Tour is the highest-grossing concert tour ever staged, and the first to pass $1 billion.",
     "She re-recorded her first six albums to own the masters, then bought the originals back outright in 2025.",
-    "All Too Well started as a ten-minute song, got cut to five for Red, and was finally released in full a decade later.",
+    "All Too Well came out of a Speak Now tour rehearsal, improvised on the spot. Accounts of how long that original ran vary from ten minutes to twenty; it was cut to five for Red, and the full ten-minute version finally arrived with Red (Taylor's Version) in 2021.",
+    "She re-recorded four of the six albums — Fearless, Red, Speak Now and 1989. reputation and the debut never got a Taylor's Version, because she bought the originals back first.",
+    "Her Instagram comments are switched off.",
     "She has won Album of the Year at the Grammys four times, more than any other artist.",
     "Benjamin Button was picked up on the set of the ME! video and simply never left.",
     "She has said she reads the comments, which is either brave or a warning depending on how you look at it."

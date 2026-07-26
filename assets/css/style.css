@@ -61,6 +61,10 @@ html {
   scroll-behavior: smooth;
   color-scheme: dark;
   scroll-padding-top: 5.5rem;
+  /* `clip` rather than `hidden`: hidden on the root makes the element a scroll
+     container, which quietly breaks `position: fixed` children and anchor
+     scrolling. clip just clips. Belt and braces against a stray wide child. */
+  overflow-x: clip;
 }
 
 body {
@@ -138,23 +142,28 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
 
 /* 3. Glitter dust — the same feTurbulence trick the monochrome sibling site
       uses for film grain, retuned to throw off coloured specks instead. */
+/* Sized to just over the viewport rather than 4x it, and the blend mode is
+   gone. `mix-blend-mode` on a fixed full-screen layer forces the browser to
+   re-composite the entire stacking context every frame, which was the single
+   biggest cause of the fans spinning. A plain low-opacity overlay looks
+   near-identical here because the page underneath is already dark. */
 .dust {
   position: fixed;
-  inset: -50%;
+  inset: -8%;
   z-index: 3;
   pointer-events: none;
-  opacity: 0.62;
-  mix-blend-mode: screen;
+  opacity: 0.5;
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='260' height='260'%3E%3Cfilter id='g'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix type='matrix' values='3 0 0 0 -1.1  0 2 0 0 -1.0  0 0 4 0 -1.3  0 0 0 1.6 -0.75'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23g)'/%3E%3C/svg%3E");
-  animation: shimmer 5s steps(3) infinite;
+  animation: shimmer 6s steps(3) infinite;
   will-change: transform;
+  transform: translateZ(0);
 }
 
 @keyframes shimmer {
-  0%   { transform: translate(0, 0) }
-  33%  { transform: translate(-1.5%, 1%) }
-  66%  { transform: translate(1%, -1.5%) }
-  100% { transform: translate(0, 0) }
+  0%   { transform: translate3d(0, 0, 0) }
+  33%  { transform: translate3d(-1%, 0.8%, 0) }
+  66%  { transform: translate3d(0.8%, -1%, 0) }
+  100% { transform: translate3d(0, 0, 0) }
 }
 
 /* 4. Era wash — a soft bloom of the current era's colour, top and bottom. */
@@ -184,8 +193,11 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
   gap: 1.5rem;
   padding: 0.9rem max(var(--gut), env(safe-area-inset-left)) 0.9rem max(var(--gut), env(safe-area-inset-right));
   background: color-mix(in oklab, var(--bg) 72%, transparent);
-  backdrop-filter: blur(14px) saturate(1.4);
-  -webkit-backdrop-filter: blur(14px) saturate(1.4);
+  /* A backdrop blur is recomputed on every scroll frame and the cost scales
+     with the radius, so this is as small as it can be while still reading as
+     frosted. */
+  backdrop-filter: blur(8px) saturate(1.3);
+  -webkit-backdrop-filter: blur(8px) saturate(1.3);
   border-bottom: 1px solid var(--line-soft);
   transition: transform 500ms var(--ease), background var(--era-fade) var(--ease);
 }
@@ -341,6 +353,12 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
   max-width: var(--maxw);
   margin-inline: auto;
   padding: var(--section-y) max(var(--gut), env(safe-area-inset-right)) var(--section-y) max(var(--gut), env(safe-area-inset-left));
+  /* Skip layout and paint for sections that are off screen. The page is ~19
+     screens tall with 120-odd album covers, and without this the browser was
+     doing that work on every frame the glitter animated. `contain-intrinsic-size`
+     keeps the scrollbar from jumping as they get skipped and unskipped. */
+  content-visibility: auto;
+  contain-intrinsic-size: auto 900px;
 }
 
 .section__head {
@@ -368,6 +386,14 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
   font-family: var(--mono); font-size: 0.68rem;
   letter-spacing: 0.14em; text-transform: uppercase;
   color: var(--dim); white-space: nowrap;
+}
+
+/* `nowrap` is right for short labels like a date, but "Scroll — the whole page
+   follows along" is 285px wide and pushed the document to 393px on a 375px
+   phone. Below the fold that's a horizontal scrollbar on every page. */
+@media (max-width: 560px) {
+  .section__head { flex-wrap: wrap; gap: 0.4rem; }
+  .section__meta { white-space: normal; }
 }
 
 .eyebrow {
@@ -409,6 +435,26 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
   .era, .era:nth-child(even) { grid-template-columns: 1fr; direction: ltr; }
 }
 
+/* Stacked, twelve eras ran to 10.4 screens on a phone — half the entire page
+   before you reach anything else. The cover doesn't need to be full-bleed
+   square to do its job, so it gets cropped and the gaps come in. */
+/* Scoped with `.eras` on purpose: these sit above the base .era__art rule in
+   the file, so at equal specificity source order would win and the override
+   would silently do nothing. */
+@media (max-width: 560px) {
+  .eras__rail { gap: 2.5rem; }
+  .era { gap: 1rem; }
+  .eras .era__art { aspect-ratio: 16 / 10; }
+  .eras .era__art img { object-position: center 32%; }
+  .era__blurb {
+    font-size: 0.92rem;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+}
+
 .era__art {
   position: relative;
   aspect-ratio: 1;
@@ -442,9 +488,12 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
 }
 .era:hover .era__art::after { opacity: 1; transform: translateX(40%); }
 
+/* --era-glow, not --era-accent. Measured across all twelve palettes the accent
+   bottoms out at 3.11:1 on Red, which fails AA for text this size. The glow's
+   worst case is 5.98:1 and it reads as the same colour family. */
 .era__no {
   font-family: var(--mono); font-size: 0.7rem;
-  letter-spacing: 0.2em; color: var(--era-accent);
+  letter-spacing: 0.2em; color: var(--era-glow);
   margin-bottom: 0.75rem;
 }
 

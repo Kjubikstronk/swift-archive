@@ -69,7 +69,7 @@
       "year": "2012",
       "released": "2012-10-22",
       "match": "^red$|^redtaylorsversion|^reddeluxe",
-      "blurb": "The heartbreak record. Also where the ten-minute version lives.",
+      "blurb": "The heartbreak record, and the one where country starts giving way to pop — Max Martin and Shellback turn up and the edges change shape. All Too Well is here, though the ten-minute version wouldn't arrive until Taylor's Version in 2021.",
       "palette": {
         "bg": "#2A0A0C",
         "surface": "#3D1013",
@@ -87,7 +87,7 @@
       "year": "2014",
       "released": "2014-10-27",
       "match": "^1989",
-      "blurb": "Full pop, no apologies. Polaroids, New York, and the biggest sales week she'd had.",
+      "blurb": "Full pop, no apologies. Polaroids, New York, and the biggest sales week she'd had. She was single, leaning into the serial-heartbreak image the press had built for her, and putting her friendships front and centre instead. People still call it the modern pop bible.",
       "palette": {
         "bg": "#0F2233",
         "surface": "#173248",
@@ -105,7 +105,7 @@
       "year": "2017",
       "released": "2017-11-10",
       "match": "^reputation",
-      "blurb": "Newsprint, snakes, and not doing a single interview for the entire album cycle.",
+      "blurb": "After the 1989 high came Kanye, Kim and a tabloid pile-on that pulled her all the way back down. She disappeared — not just from press during the cycle, but from public life before it. \"There will be no explanation. There will just be reputation.\" Her first album as co-producer.",
       "palette": {
         "bg": "#0A0A0A",
         "surface": "#171717",
@@ -177,7 +177,7 @@
       "year": "2022",
       "released": "2022-10-21",
       "match": "^midnights",
-      "blurb": "Thirteen sleepless nights. Released at midnight, then again at 3am.",
+      "blurb": "Thirteen sleepless nights. Out at midnight, then again at 3am with seven more songs, then again as the Til Dawn Edition with You're Losing Me — the only non-Taylor's-Version album she kept expanding after release.",
       "palette": {
         "bg": "#12172E",
         "surface": "#1C2240",
@@ -353,9 +353,16 @@
       "date": "2025-05-30",
       "year": "2025",
       "title": "She buys her masters back",
-      "body": "After six years and four re-recorded albums, she owns her entire catalogue.",
+      "body": "Announced in a letter on her site. After six years and four re-recorded albums she buys the originals outright from Shamrock Capital and owns her entire catalogue.",
       "tag": "Milestone",
       "highlight": true
+    },
+    {
+      "date": "2025-08-26",
+      "year": "2025",
+      "title": "Engaged",
+      "body": "Travis Kelce proposes in a garden in Lee's Summit, Missouri. She posts it to Instagram on 26 August.",
+      "tag": "Life"
     },
     {
       "date": "2025-10-03",
@@ -363,6 +370,22 @@
       "title": "The Life of a Showgirl",
       "body": "Orange, feathers, and full theatre.",
       "tag": "Era",
+      "highlight": true
+    },
+    {
+      "date": "2026-06-11",
+      "year": "2026",
+      "title": "Songwriters Hall of Fame",
+      "body": "Inducted at 36 — the youngest woman ever, and second-youngest overall behind Stevie Wonder. She'd taken the Hal David Starlight Award in 2010, making her the first to graduate from that to full membership. The speech ran about twenty minutes.",
+      "tag": "Milestone",
+      "highlight": true
+    },
+    {
+      "date": "2026-07-03",
+      "year": "2026",
+      "title": "Married",
+      "body": "She and Travis Kelce marry at Madison Square Garden. Adam Sandler officiates; their brothers stand as best man and man of honour.",
+      "tag": "Life",
       "highlight": true
     }
   ],
@@ -374,7 +397,9 @@
     "folklore and evermore were both written and released in 2020, five months apart, with no advance warning.",
     "The Eras Tour is the highest-grossing concert tour ever staged, and the first to pass $1 billion.",
     "She re-recorded her first six albums to own the masters, then bought the originals back outright in 2025.",
-    "All Too Well started as a ten-minute song, got cut to five for Red, and was finally released in full a decade later.",
+    "All Too Well came out of a Speak Now tour rehearsal, improvised on the spot. Accounts of how long that original ran vary from ten minutes to twenty; it was cut to five for Red, and the full ten-minute version finally arrived with Red (Taylor's Version) in 2021.",
+    "She re-recorded four of the six albums — Fearless, Red, Speak Now and 1989. reputation and the debut never got a Taylor's Version, because she bought the originals back first.",
+    "Her Instagram comments are switched off.",
     "She has won Album of the Year at the Grammys four times, more than any other artist.",
     "Benjamin Button was picked up on the set of the ME! video and simply never left.",
     "She has said she reads the comments, which is either brave or a warning depending on how you look at it."
