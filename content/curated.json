@@ -2,7 +2,7 @@
   "_comment": "Hand-written content. build.js merges this with the live API data. Edit freely — nothing here gets overwritten by the auto-updater.",
 
   "_siteUrlNote": "Once the site is live, put its address here (e.g. https://swiftarchive.online). build.js then generates sitemap.xml and robots.txt and fills in the canonical + og:url tags. Leave it empty and those steps are simply skipped.",
-  "siteUrl": "",
+  "siteUrl": "https://kjubikstronk.github.io/swift-archive",
 
   "_erasNote": "The spine of the site. Every release the APIs return gets bucketed into one of these — first by matching `match` against the title, then by falling back to whichever era's date window contains the release date. That second rule is what catches singles and remixes automatically. `palette` drives the whole page's colours while that era is on screen.",
 
