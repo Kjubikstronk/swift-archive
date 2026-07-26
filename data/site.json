@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-26T17:52:16.096Z",
+  "generated": "2026-07-26T17:52:21.769Z",
   "artist": {
     "name": "Taylor Swift",
     "full": "Taylor Alison Swift",
@@ -323,7 +323,7 @@
       },
       "releases": [
         "itunes-1595423133",
-        "deezer-68491961",
+        "deezer-130716962",
         "itunes-1440934573"
       ]
     },
@@ -431,7 +431,7 @@
       },
       "releases": [
         "deezer-874936972",
-        "deezer-227786",
+        "deezer-72093192",
         "itunes-1440932737",
         "itunes-1860454442"
       ]
@@ -1531,6 +1531,8 @@
       "copyright": "℗ 2020 Taylor Swift",
       "genre": "Pop",
       "via": "apple",
+      "recordType": "single",
+      "deezerUrl": "https://www.deezer.com/album/131557962",
       "kind": "Single",
       "year": "2020"
     },
@@ -1699,18 +1701,18 @@
       "genre": "Pop",
       "via": "apple",
       "recordType": "album",
-      "deezerUrl": "https://www.deezer.com/album/9007781",
+      "deezerUrl": "https://www.deezer.com/album/302068167",
       "kind": "Album",
       "year": "2014"
     },
     {
-      "id": "deezer-68491961",
+      "id": "deezer-130716962",
       "title": "Red (Deluxe Edition)",
       "date": "2013-05-14",
       "trackCount": null,
-      "art": "https://cdn-images.dzcdn.net/images/cover/56a83d3002710bf2044b86c01db665aa/1000x1000-000000-80-0-0.jpg",
-      "artSmall": "https://cdn-images.dzcdn.net/images/cover/56a83d3002710bf2044b86c01db665aa/500x500-000000-80-0-0.jpg",
-      "url": "https://www.deezer.com/album/68491961",
+      "art": "https://cdn-images.dzcdn.net/images/cover/177ec7bf4d0fcd50e9ece647fa8474cd/1000x1000-000000-80-0-0.jpg",
+      "artSmall": "https://cdn-images.dzcdn.net/images/cover/177ec7bf4d0fcd50e9ece647fa8474cd/500x500-000000-80-0-0.jpg",
+      "url": "https://www.deezer.com/album/130716962",
       "recordType": "album",
       "via": "deezer",
       "kind": "Single",
@@ -1756,7 +1758,7 @@
       "genre": "Country",
       "via": "apple",
       "recordType": "album",
-      "deezerUrl": "https://www.deezer.com/album/68496491",
+      "deezerUrl": "https://www.deezer.com/album/130721292",
       "kind": "Album",
       "year": "2012"
     },
@@ -1844,7 +1846,7 @@
       "genre": "Country",
       "via": "apple",
       "recordType": "album",
-      "deezerUrl": "https://www.deezer.com/album/689149",
+      "deezerUrl": "https://www.deezer.com/album/130716982",
       "kind": "Album",
       "year": "2010"
     },
@@ -1900,20 +1902,9 @@
       "copyright": "℗ 2009 Taylor Swift",
       "genre": "Country",
       "via": "apple",
-      "kind": "Album",
-      "year": "2008"
-    },
-    {
-      "id": "deezer-227786",
-      "title": "Taylor Swift (Deluxe Edition)",
-      "date": "2008-10-04",
-      "trackCount": null,
-      "art": "https://cdn-images.dzcdn.net/images/cover/9c0e80bb3c16e1c987cf235929eb7757/1000x1000-000000-80-0-0.jpg",
-      "artSmall": "https://cdn-images.dzcdn.net/images/cover/9c0e80bb3c16e1c987cf235929eb7757/500x500-000000-80-0-0.jpg",
-      "url": "https://www.deezer.com/album/227786",
       "recordType": "album",
-      "via": "deezer",
-      "kind": "Single",
+      "deezerUrl": "https://www.deezer.com/album/130714702",
+      "kind": "Album",
       "year": "2008"
     },
     {
@@ -1928,6 +1919,20 @@
       "genre": "Country",
       "via": "apple",
       "kind": "Album",
+      "year": "2008"
+    },
+    {
+      "id": "deezer-72093192",
+      "title": "Taylor Swift",
+      "date": "2008-03-18",
+      "trackCount": null,
+      "art": "https://cdn-images.dzcdn.net/images/cover/e9dd628cc4dd15850a13b4151cce9075/1000x1000-000000-80-0-0.jpg",
+      "artSmall": "https://cdn-images.dzcdn.net/images/cover/e9dd628cc4dd15850a13b4151cce9075/500x500-000000-80-0-0.jpg",
+      "url": "https://www.deezer.com/album/72093192",
+      "recordType": "album",
+      "via": "deezer",
+      "deezerUrl": "https://www.deezer.com/album/321177137",
+      "kind": "Single",
       "year": "2008"
     },
     {
@@ -2312,6 +2317,12 @@
       "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNUFdQRlhKdlRta2lHUkxsdWFpcE9hakNDY2N5TkJWVWw4SFFCYmc2ZlJPbWVnM09ZMGlTQ0NJNFNsQ2ViMWFaWkRPeVZQS3hZWVpzSFpSa1FWd29mcHBialYwdlZnSVVFdU1hMUtOZzBlVmlDUXdkY2syUlhGSHlhZjVVQ0hveGp6NVRETlFud2hIcllhby1EMVNrVWhvR1oxZlZac2lUTkR1cU9YT3BicG9HUHRRa3VvclRHY1JkM09oV1M0eHFXR0wxS3hmWlJEMnBKVXhmenZhbG1Id3NtSmttWVdRME1xS252VzVrRUFNZlNjbWlyQmFvM3ZCYjgwbTN4OXFPWDBJenJzS2xvaFFBN19YdUxtSlZ4Y3UySFVaaFhWaUQ0RlIxeEswbG9LZjBMQTdGWWVvZVRiTWFJ0gHEAkFVX3lxTFB4ZnVLT0RESGZ2c2J4a0x1NXlTVWprSTR3TlM4SFcwN0lLV2hGaFlzejlFb2VRbkpFdFJsWFk0T1ZseWJaQzhOSmZHTmlhcXM1NjFfS1ppU0xSbWFZVFduWUlYbnhES3YxSVd6M01zcHhBQWlWY3Q5OUdmd2ZmN0RrSjQ3cVhPcERETklGWFVJUXJ6SXk4c0J1U0l0VmF2VGRQeUt6WnJmek5HQ0h1RE1vU3hOeEs3Z2E3bXZIOWE1bzd5MDBNSW0tNlVPd1p6VnpKQUpYWjQwU2ZtNzBzbmFWYXFTQXdNTlJJa2laN01vZmNCazRRellLZ2NyR2ItRXp0RGZFd1BqV3pPajhreWlRb2VyZkZncnU3eWVUMVlwRFdPbmYyazlPdUZ2OHlfQ1I0blRiYmtBQnVfWjFXeWM5UUlYRQ?oc=5"
     },
     {
+      "title": "Niecy Nash Reveals Taylor Swift and Travis Kelce’s Wedding Had Games, Tickets and Prizes",
+      "outlet": "Yahoo",
+      "date": "2026-07-24",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQjc4NDdxMmx6QXRwdGhhN3E1MXNWMlNUODhsYjlLYzFzS0VyTXpiMTZYdnU3MFI3Q0JCUU4yNkRUMVhjdWJiODYzbGdiY0ZSSlpWT1lTNlMyNEExSW80TFNwTHJXNUpScngtQ1ZxUXVYcHFqUUhhbDlXd3VuU2pfZ3c3WXJjQUlodWYtOUUyOEdWV295MDJSMnRZcUxNc1kyNVZj?oc=5"
+    },
+    {
       "title": "Niecy Nash Said Adam Sandler Looked “Decent” At Taylor & Travis' Wedding",
       "outlet": "bustle.com",
       "date": "2026-07-24",
@@ -2328,12 +2339,6 @@
       "outlet": "Yahoo",
       "date": "2026-07-24",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU3RfSHJIZUkwRlpfQmRRTzdteTZ2TjZDWEE0OHhQbFhDTUQ5blFyYm1Bai1lNFRkSXdsMVlJMkE3Z3loM3UxV3N0UzVXXzl6aUQzbHYyMzRVek5kaVQ1UTFycGxTWHU1SUJhdjNtN3RMRkJMVUFXTkdKRDVZSjVFUTJ3eVVDQ21udmdSX09iazRMSTZmaExZM1Q2V0RoV0s1b2diZU0yRQ?oc=5"
-    },
-    {
-      "title": "Travis Kelce and Taylor Swift Announcement Shines Light on Heartwarming Act",
-      "outlet": "heavy.com",
-      "date": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT1ZaTDdvcFVyWU43MkxjMXBTXzdsRFlxa3pMaWtUdVhUcTJuMWRQS0lOTWduUTZua29PTlR6Qk5VZ3hEdElDRUFWMkpaS0ZmeGs1UFZaejJmSWxaVjNJR01XV01kU3N2SzRXRXVPbVBhaVN5dkgwcTJKNnhXbDFGWmhTcDZtRTBkdFctc1NyVGw0eGNUd0NBd0RKdWQ?oc=5"
     }
   ],
   "bio": {
@@ -2383,16 +2388,16 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQjc4NDdxMmx6QXRwdGhhN3E1MXNWMlNUODhsYjlLYzFzS0VyTXpiMTZYdnU3MFI3Q0JCUU4yNkRUMVhjdWJiODYzbGdiY0ZSSlpWT1lTNlMyNEExSW80TFNwTHJXNUpScngtQ1ZxUXVYcHFqUUhhbDlXd3VuU2pfZ3c3WXJjQUlodWYtOUUyOEdWV295MDJSMnRZcUxNc1kyNVZj?oc=5"
     },
     {
-      "title": "Mega Millions jackpot surpasses $637 million. That’s double the Taylor Swift’s Eras Tour movie box office revenue",
-      "outlet": "WKYT",
-      "date": "2026-07-13",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYXFqOGdsRDE2LUpjT01MVGU0Zjhhc2p6RTRaS1RtNW02ZTBSdTl5T0hJVFlubGdkWlhwUlpjemxBUnFjaFdDdUYzakhIZ3RvQlBDUGFXbkVHdFEyY0hqblY5RWU0dlB4ckxwdVJwUlZOeldaM1dUejZULXdxLUtyWE1iWXAwdGthbkdNMDM0MXJhckRlejd5Q0FPWkx3cU51WUFyUkd1cXRlWGd2eUVXLWFhdW9aX09Id195ekVMRF9SUTRUZEJNc0dhd2FmdThSX21IY9IB6AFBVV95cUxPV1h6S2p1cWw3ZlVucVZSMXVIekFuaXFtVFhrN1A1Y0d6d1h4MGNSMjVvYkdOdklvNV81cmc4TnRXc2lDZ0UyQUlRNVBYNmJFR2NtVzFzdWZyMktYdFBpMkJNZG5aYTJFZHFqQjVQY1FFRFZWcm80aHlZeXdqV3M4X1VVT2hMamdvQ3FYcVpHTmdBNC14T3VWVG81WWxNSG8tczZPZWE0ZXV2dE9RWThjaHItWjJENXlpX0lSVkNycFppMDctckFraEpmbUUzVXlQOXFhNGxnMDYwV3dmRzNjbVRxNTFKM1lu?oc=5"
-    },
-    {
       "title": "Taylor Swift’s Disney+ Concert Special of Last “Eras Tour” Show Earns 5 Emmy Nominations",
       "outlet": "Yahoo",
       "date": "2026-07-08",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdWx0aFpXT1daRmhENEVNaGIxbHdaVFhCakdCRXFPM0VUa2MyYm9iUWs3X29WdUVQcl9ISE1Xc0d6cU41T21sem9uZXJuMmRZUWtxUHhtYm1QbFVoZEJ1anExM0EzZjZSeDVIWi00bS1laE9YbUNSSnBsaHMwOTJpN1JSWERNS212VjZBZHdyeVBBZG50?oc=5"
+    },
+    {
+      "title": "Taylor Swift earns Emmy nod for Eras Tour concert film - ABC News",
+      "outlet": "Breaking News, Latest News and Videos",
+      "date": "2026-07-08",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbWV0MkJYWUNPZUtuTVVKRkpIeDhVV09NdHpjU3pJcEhPeVdMZ3pnVnNlOFRGODZYT2x5MzVkdUxWbDBJOXY2b0pIamFVMWtKeEpPb2t6dDBXdEFvQ0Rwb1hKOGZDS0tJNld5ODRfOG1CRTV6LThQRFp3T1IyYmVjSkxqVFBWQkZTVWFWY2VDMkdha3pOcHp0LUJ2d2XSAaIBQVVfeXFMTWF3eHk2V3lvNTZkZXptLW84aURSOU9Ya0d6ODRJcmVYWjd0ci1Wc01pQ0FXZGRpbmhIZUtidUlsSnNFTnJGZElxSlFuaVpNMENJeUhoODBZOXd4b1hPVmxKSUJINlJ0TVVKeGF1dlJ6RVVqblh6Y2JlcWpId3ZDRktSajJSNEJYYVN4aFpQVGU4UFBtVWVxVXpIdU1iWmpkYWtR?oc=5"
     }
   ],
   "timeline": [
