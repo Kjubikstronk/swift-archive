@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-26T17:52:21.769Z",
+  "generated": "2026-07-26T18:29:50.043Z",
   "artist": {
     "name": "Taylor Swift",
     "full": "Taylor Alison Swift",
@@ -323,7 +323,7 @@
       },
       "releases": [
         "itunes-1595423133",
-        "deezer-130716962",
+        "deezer-68491961",
         "itunes-1440934573"
       ]
     },
@@ -431,7 +431,7 @@
       },
       "releases": [
         "deezer-874936972",
-        "deezer-72093192",
+        "deezer-227786",
         "itunes-1440932737",
         "itunes-1860454442"
       ]
@@ -445,6 +445,7 @@
       "namedAfter": "Detective Olivia Benson, Law & Order: SVU",
       "caption": "the actual star of this family",
       "note": "Appears in the Blank Space video, the ME! video, and a Diet Coke ad. Has been valued at around $97 million on lists of the world's richest pets, which is a real sentence about a cat.",
+      "_instagram": "https://www.instagram.com/p/B_Tb8N4DyKM/",
       "feature": true
     },
     {
@@ -453,7 +454,8 @@
       "since": "2011",
       "namedAfter": "Meredith Grey, Grey's Anatomy",
       "caption": "hates having her picture taken",
-      "note": "The eldest and the most private. She largely retired from public life around 2019, which fans took roughly as hard as a breakup."
+      "note": "The eldest and the most private. She largely retired from public life around 2019, which fans took roughly as hard as a breakup.",
+      "_instagram": "https://www.instagram.com/p/B9z2cR_Dotx/"
     },
     {
       "name": "Benjamin Button",
@@ -461,7 +463,8 @@
       "since": "2019",
       "namedAfter": "The Curious Case of Benjamin Button",
       "caption": "the baby, and he knows it",
-      "note": "Picked up on the set of the ME! video and kept. There is footage of the exact moment she decides to keep him, and it is worth watching."
+      "note": "Picked up on the set of the ME! video and kept. There is footage of the exact moment she decides to keep him, and it is worth watching.",
+      "_instagram": "https://www.instagram.com/p/BwvD0AsDuCi/"
     }
   ],
   "latest": {
@@ -1531,8 +1534,6 @@
       "copyright": "℗ 2020 Taylor Swift",
       "genre": "Pop",
       "via": "apple",
-      "recordType": "single",
-      "deezerUrl": "https://www.deezer.com/album/131557962",
       "kind": "Single",
       "year": "2020"
     },
@@ -1701,18 +1702,18 @@
       "genre": "Pop",
       "via": "apple",
       "recordType": "album",
-      "deezerUrl": "https://www.deezer.com/album/302068167",
+      "deezerUrl": "https://www.deezer.com/album/9007781",
       "kind": "Album",
       "year": "2014"
     },
     {
-      "id": "deezer-130716962",
+      "id": "deezer-68491961",
       "title": "Red (Deluxe Edition)",
       "date": "2013-05-14",
       "trackCount": null,
-      "art": "https://cdn-images.dzcdn.net/images/cover/177ec7bf4d0fcd50e9ece647fa8474cd/1000x1000-000000-80-0-0.jpg",
-      "artSmall": "https://cdn-images.dzcdn.net/images/cover/177ec7bf4d0fcd50e9ece647fa8474cd/500x500-000000-80-0-0.jpg",
-      "url": "https://www.deezer.com/album/130716962",
+      "art": "https://cdn-images.dzcdn.net/images/cover/56a83d3002710bf2044b86c01db665aa/1000x1000-000000-80-0-0.jpg",
+      "artSmall": "https://cdn-images.dzcdn.net/images/cover/56a83d3002710bf2044b86c01db665aa/500x500-000000-80-0-0.jpg",
+      "url": "https://www.deezer.com/album/68491961",
       "recordType": "album",
       "via": "deezer",
       "kind": "Single",
@@ -1758,7 +1759,7 @@
       "genre": "Country",
       "via": "apple",
       "recordType": "album",
-      "deezerUrl": "https://www.deezer.com/album/130721292",
+      "deezerUrl": "https://www.deezer.com/album/68496491",
       "kind": "Album",
       "year": "2012"
     },
@@ -1846,7 +1847,7 @@
       "genre": "Country",
       "via": "apple",
       "recordType": "album",
-      "deezerUrl": "https://www.deezer.com/album/130716982",
+      "deezerUrl": "https://www.deezer.com/album/689149",
       "kind": "Album",
       "year": "2010"
     },
@@ -1902,9 +1903,20 @@
       "copyright": "℗ 2009 Taylor Swift",
       "genre": "Country",
       "via": "apple",
-      "recordType": "album",
-      "deezerUrl": "https://www.deezer.com/album/130714702",
       "kind": "Album",
+      "year": "2008"
+    },
+    {
+      "id": "deezer-227786",
+      "title": "Taylor Swift (Deluxe Edition)",
+      "date": "2008-10-04",
+      "trackCount": null,
+      "art": "https://cdn-images.dzcdn.net/images/cover/9c0e80bb3c16e1c987cf235929eb7757/1000x1000-000000-80-0-0.jpg",
+      "artSmall": "https://cdn-images.dzcdn.net/images/cover/9c0e80bb3c16e1c987cf235929eb7757/500x500-000000-80-0-0.jpg",
+      "url": "https://www.deezer.com/album/227786",
+      "recordType": "album",
+      "via": "deezer",
+      "kind": "Single",
       "year": "2008"
     },
     {
@@ -1919,20 +1931,6 @@
       "genre": "Country",
       "via": "apple",
       "kind": "Album",
-      "year": "2008"
-    },
-    {
-      "id": "deezer-72093192",
-      "title": "Taylor Swift",
-      "date": "2008-03-18",
-      "trackCount": null,
-      "art": "https://cdn-images.dzcdn.net/images/cover/e9dd628cc4dd15850a13b4151cce9075/1000x1000-000000-80-0-0.jpg",
-      "artSmall": "https://cdn-images.dzcdn.net/images/cover/e9dd628cc4dd15850a13b4151cce9075/500x500-000000-80-0-0.jpg",
-      "url": "https://www.deezer.com/album/72093192",
-      "recordType": "album",
-      "via": "deezer",
-      "deezerUrl": "https://www.deezer.com/album/321177137",
-      "kind": "Single",
       "year": "2008"
     },
     {
@@ -2215,22 +2213,28 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb0N1Yi1SOV9HQjZxM21WeE83Z3ZtbHdlMWl5THRsN1J3bnNkTkxOejhfN2pzczB6dFZRbVpubjEwRkRBR1VLRFFGT1NQZnZ2cklPTVVaVkRGNjFJVWt5WXU3QU1uY2RCNmlJNkdnWDNnd2lDeC01MU5mcGJxV0Jpb3p3?oc=5"
     },
     {
+      "title": "Taylor Swift and Travis Kelce Get Sweet Notes From Fallen 1st Responder Families After $2M Donation",
+      "outlet": "Us Weekly",
+      "date": "2026-07-26",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ0tvSlUydmJwQjQ1T3U1ay1WZHJuWlMtTU1YSEVQd3pkdHRJLWVkXzJlSUNLcWs1UTJYWHluV0FCcG9QZmExUUtuUEpGcHFDbTZiRnlZcjFwVy1NSFFUcl95ZUpDRzR5M2pEcVNJOHdvUzlGQVpjRUtFT2hIeEZGc2hlMHJOMThycTNDbFJFZ216Z2tBQkQ1UldPVV9aQ2Zia2lBRG9FbDVuUzg?oc=5"
+    },
+    {
       "title": "Will Travis Kelce’s marriage to Taylor Swift affect his NFL career? Here's what reports suggest",
       "outlet": "The Times of India",
       "date": "2026-07-26",
       "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOQVo0QlcxOHl0U09Dd1ZHNVAxX3R6STB0RTl1bUYwQ1IwSTNvOVA0ZmpacG9hTG4yR0F5aFl0akgwVFE2cGlUZDZlRXRVbUx0VVpPY2YxRnBlQUc1NzhRTWxkSXViS2MxNy1La1dRMmVTN094UnF3SUg4dVcwQnNnSmVabkRaRzVvWi1IN1dKLXJETjdTckpXTTNuYkZhanBTYXMwdnpDQWlEcTZvSXZ4MEtCOWRuUGpjbVZfNUNKODNMdjlaSVJKMk1OMnFDLWgyR3E5eVlyUzJLTkFpUVRJYzJkUWljbV9FLWdybEdjTUpfWDlWV0VQay02WEpkMS1nT2hxY1Z2cmlBeXNHRlNUYWFDWFJsZ9IBmwJBVV95cUxQR0N1ZkppSVF5VE96YXhGOWNfOTNUR3p1b0x0bDRDeTYwc0taSXVVamlvT1lDb3FHeDJuQ2lZWmtxTkY4NURieUV3bG94eXBKMV9GU3J4Q0g2VFRYYThwdk1reUJ0cVNmc3UxRU4wdUhlY0FvZ2RBQjdUdmYyWWthbUdrMXMtYW1UZGs0ZjZPZW5SdFNIQWtUenRoN3A0a0pzblBVS1JFaGJ1YzVYX0ZoeDBRVE53ZnpySTV6SFRCdmFDcUxwREZ5Q0JzT0k4RmdfalQwMnRVUDgxYm1leHRwSkFTTU51eFdUSEJ4SHVQaDhfcGNwRDMwQUowRmNaZmZIUTlFbktaRUgtN2ZWU2llbXRnRVVLdlZwYUNR?oc=5"
     },
     {
-      "title": "Forget Clothes—Margot Robbie's Silky Dôen Set Confirms Summer 2026 Is All About Lingerie",
-      "outlet": "Marie Claire",
-      "date": "2026-07-26",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSDJXOWNTbEwzS2piMWs3UTItVzRETHExZENQRjBWWnhrMXI2R1Y5Tm5NX2JaU1Z3ZU1uVFVqOVdUc1BXTFdiS1EyRWk3LUk2REZkTkJvTG1UTTFpMkdhYVNhNFQzMkJHcmVPQXJEcUdWTnZIampNdUs3WGxrSTJHWWFnY291cmhtbEs2TThpQ2lUUXdVMHp4dmNSVVczdTIwSS1zYW1NbUZYMFVQWGxPU21IWWZtMDJrV014Mg?oc=5"
-    },
-    {
       "title": "Will Travis Kelce’s marriage to Taylor Swift ruin his career? The bold prediction that has sparked fans’ fury",
       "outlet": "MARCA",
       "date": "2026-07-26",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOZXh2ZExVU2Q1NEZqYV9hOVdmcnpudlVXcS04dEZqS0tHeHFjZ0ZfNTFJVUppZHdZd0xmcU9kX05fVV9EekRmeUxIWVYyVkhsaUNfZkdoYkJDMFlUSldzeDhvbGNHUGJScjZ2ZHgzMHJPb2FWRjVINVc5OExiVUZpRnhuR2toSUFZbDdOU1l0dVZVMW1HT3dNQ3B0YnpiNXQ1Wm0xTTh5b2luY2RTZDhyZVRqc3pwcFlkNXBkMllfc3RILXVGbzVqU1Ffa1RQRktBTGo1MWJIalhNaUpFMmNNNkVETDhHYjExaEFrQ3ViR2puU3NfUTNSV0JqQWZKd1o00gGAAkFVX3lxTE8xU3htbHB2eXJ0SU42aTVSdkFmb3ZUVUZGOVM4OHJQZ3ZjNlNQMUxrSFlqZnhBWlp1bDJJMGw3UnBPV0N2cVlSYWYtQ2ZxQnFWVGItNG9fblAySTNiN29HVXpsVW9vMHc5RW1QN2lkbkpUNDV6R1dOb09Qa3RqbFlwS0ZLUmxHdEZMVmRmVldWTFZPLWxQZHlNUHJSZ0Qzb3VMYmNUcGVuMzRCdHlEMkp4SkMwcllFUEtGTW52ZC1wTm1wWHRoUlc2N2VsaGJYZFZZV0t0TDJ0MjhSM0tORkJzUGNVN2g2YnZTbngzRC0xMVdfMFZ6WkRZS01fOVM4R1k?oc=5"
+    },
+    {
+      "title": "Forget Clothes—Margot Robbie's Silky Dôen Set Confirms Summer 2026 Is All About Lingerie",
+      "outlet": "Marie Claire",
+      "date": "2026-07-26",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSDJXOWNTbEwzS2piMWs3UTItVzRETHExZENQRjBWWnhrMXI2R1Y5Tm5NX2JaU1Z3ZU1uVFVqOVdUc1BXTFdiS1EyRWk3LUk2REZkTkJvTG1UTTFpMkdhYVNhNFQzMkJHcmVPQXJEcUdWTnZIampNdUs3WGxrSTJHWWFnY291cmhtbEs2TThpQ2lUUXdVMHp4dmNSVVczdTIwSS1zYW1NbUZYMFVQWGxPU21IWWZtMDJrV014Mg?oc=5"
     },
     {
       "title": "Taylor Swift's Gown At The 2011 Nashville Symphony Ball Is One Of Her Most Underrated Looks",
@@ -2317,18 +2321,6 @@
       "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNUFdQRlhKdlRta2lHUkxsdWFpcE9hakNDY2N5TkJWVWw4SFFCYmc2ZlJPbWVnM09ZMGlTQ0NJNFNsQ2ViMWFaWkRPeVZQS3hZWVpzSFpSa1FWd29mcHBialYwdlZnSVVFdU1hMUtOZzBlVmlDUXdkY2syUlhGSHlhZjVVQ0hveGp6NVRETlFud2hIcllhby1EMVNrVWhvR1oxZlZac2lUTkR1cU9YT3BicG9HUHRRa3VvclRHY1JkM09oV1M0eHFXR0wxS3hmWlJEMnBKVXhmenZhbG1Id3NtSmttWVdRME1xS252VzVrRUFNZlNjbWlyQmFvM3ZCYjgwbTN4OXFPWDBJenJzS2xvaFFBN19YdUxtSlZ4Y3UySFVaaFhWaUQ0RlIxeEswbG9LZjBMQTdGWWVvZVRiTWFJ0gHEAkFVX3lxTFB4ZnVLT0RESGZ2c2J4a0x1NXlTVWprSTR3TlM4SFcwN0lLV2hGaFlzejlFb2VRbkpFdFJsWFk0T1ZseWJaQzhOSmZHTmlhcXM1NjFfS1ppU0xSbWFZVFduWUlYbnhES3YxSVd6M01zcHhBQWlWY3Q5OUdmd2ZmN0RrSjQ3cVhPcERETklGWFVJUXJ6SXk4c0J1U0l0VmF2VGRQeUt6WnJmek5HQ0h1RE1vU3hOeEs3Z2E3bXZIOWE1bzd5MDBNSW0tNlVPd1p6VnpKQUpYWjQwU2ZtNzBzbmFWYXFTQXdNTlJJa2laN01vZmNCazRRellLZ2NyR2ItRXp0RGZFd1BqV3pPajhreWlRb2VyZkZncnU3eWVUMVlwRFdPbmYyazlPdUZ2OHlfQ1I0blRiYmtBQnVfWjFXeWM5UUlYRQ?oc=5"
     },
     {
-      "title": "Niecy Nash Reveals Taylor Swift and Travis Kelce’s Wedding Had Games, Tickets and Prizes",
-      "outlet": "Yahoo",
-      "date": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQjc4NDdxMmx6QXRwdGhhN3E1MXNWMlNUODhsYjlLYzFzS0VyTXpiMTZYdnU3MFI3Q0JCUU4yNkRUMVhjdWJiODYzbGdiY0ZSSlpWT1lTNlMyNEExSW80TFNwTHJXNUpScngtQ1ZxUXVYcHFqUUhhbDlXd3VuU2pfZ3c3WXJjQUlodWYtOUUyOEdWV295MDJSMnRZcUxNc1kyNVZj?oc=5"
-    },
-    {
-      "title": "Niecy Nash Said Adam Sandler Looked “Decent” At Taylor & Travis' Wedding",
-      "outlet": "bustle.com",
-      "date": "2026-07-24",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNc3JQVFBvNmcxWU5TS05KelhSamkzMzJtWUdObWExaU1OUUV2V3pDMllwajdHVW5aenFINjBXd3F0ZndQb2N4UHp1RVhxbDR1aV9pSFgtTzJJT095U2FBNHpLNExrV2JMeDNYMkNTWndFVVYtaks0NGo0bEFfdzlNNDktbGVsNkE1ZXo0bjZTeTY2VEdlVnVsNWdUclFRSjlmakRv?oc=5"
-    },
-    {
       "title": "Taylor Swift Wedding Security Details Leak Amid Report MSG Secretly Tracked Gay Celebrities",
       "outlet": "Yahoo",
       "date": "2026-07-24",
@@ -2339,6 +2331,12 @@
       "outlet": "Yahoo",
       "date": "2026-07-24",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU3RfSHJIZUkwRlpfQmRRTzdteTZ2TjZDWEE0OHhQbFhDTUQ5blFyYm1Bai1lNFRkSXdsMVlJMkE3Z3loM3UxV3N0UzVXXzl6aUQzbHYyMzRVek5kaVQ1UTFycGxTWHU1SUJhdjNtN3RMRkJMVUFXTkdKRDVZSjVFUTJ3eVVDQ21udmdSX09iazRMSTZmaExZM1Q2V0RoV0s1b2diZU0yRQ?oc=5"
+    },
+    {
+      "title": "Travis Kelce and Taylor Swift Announcement Shines Light on Heartwarming Act",
+      "outlet": "heavy.com",
+      "date": "2026-07-24",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT1ZaTDdvcFVyWU43MkxjMXBTXzdsRFlxa3pMaWtUdVhUcTJuMWRQS0lOTWduUTZua29PTlR6Qk5VZ3hEdElDRUFWMkpaS0ZmeGs1UFZaejJmSWxaVjNJR01XV01kU3N2SzRXRXVPbVBhaVN5dkgwcTJKNnhXbDFGWmhTcDZtRTBkdFctc1NyVGw0eGNUd0NBd0RKdWQ?oc=5"
     }
   ],
   "bio": {
