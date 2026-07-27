@@ -796,11 +796,32 @@ a.chip:hover { color: var(--ink); border-color: var(--era-glow); }
 .cat__frame .instagram-media {
   position: absolute !important;
   min-width: 0 !important;
-  width: 280% !important; height: 280% !important;
+  /* Fixed px, not a percentage of the frame. Instagram's embed lays out
+     against a ~326px internal minimum regardless of the size we give the
+     iframe, so on mobile a percentage produced a 293px box whose photo
+     region fell entirely outside the visible circle — rendering as a solid
+     white card. Sizing the iframe at a fixed 540px keeps the photo region
+     larger than any frame it sits in, then `scale` shrinks the whole thing
+     to fit. Scaling from the centre means the photo stays centred at every
+     frame size, so this works on a 105px mobile circle and a 168px desktop
+     one identically. */
+  width: 540px !important; height: 540px !important;
+  /* Anchored by margin, not by a percentage translate. A `translate(-50%)` in
+     the transform resolves against the iframe's own 540px box *before* the
+     scale applies, so it over-shifted by more than half the frame and landed
+     the iframe off to one side (measured: left:38px against a frame at
+     left:118px) — which is what actually produced the blank white circle,
+     not the embed failing to load. Negative margins of half the fixed size
+     centre it in px terms, independent of scale, so the transform is left to
+     do only scaling and the per-post nudge. */
   top: 50% !important; left: 50% !important;
-  transform: translate(-50%, var(--ig-ty, -46%)) !important;
+  margin: -270px 0 0 -270px !important;
+  transform: scale(var(--ig-scale, 0.42)) translateY(var(--ig-ty, -6%)) !important;
+  transform-origin: center !important;
   border: 0 !important; border-radius: 0 !important;
 }
+/* The feature card's circle is bigger, so its iframe can shrink less. */
+.cat--feature .cat__frame .instagram-media { --ig-scale: 0.55; }
 
 /* The one new type role on the page, used only here: the handwritten-caption
    register Taylor's own album packaging leans on constantly (liner notes,

@@ -552,8 +552,22 @@ const slugify = (s = '') =>
  * Instagram renders the same fixed-width layout regardless of our own
  * container size.
  */
+/*
+ * Percentages are of the iframe's own fixed 540px box, so they hold at every
+ * frame size instead of needing separate mobile values.
+ *
+ * Calibrated by measurement, not by eye: at 0% the circle was framing rows
+ * ~168-442 of the iframe, but Instagram stacks a ~60px header then the square
+ * photo, so the photo occupies roughly rows 60-350 and the window was sitting
+ * mostly below it in the white caption/footer area. That's what produced the
+ * blank white circles. Shifting down ~+22% moves the visible window up into
+ * the photo (translateY is applied to the iframe, so a positive value slides
+ * the content down and reveals higher rows).
+ */
 const IG_OFFSET = {
-  'Meredith Grey': '-32%', // longer caption, more footer — window shifted up
+  'Olivia Benson': '20%',
+  'Meredith Grey': '24%',   // longer caption, more footer to skip past
+  'Benjamin Button': '22%',
 };
 
 const igOffset = (name) =>
