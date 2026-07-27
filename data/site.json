@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-27T09:41:20.157Z",
+  "generated": "2026-07-27T09:41:35.102Z",
   "artist": {
     "name": "Taylor Swift",
     "full": "Taylor Alison Swift",
@@ -323,7 +323,7 @@
       },
       "releases": [
         "itunes-1595423133",
-        "deezer-68491961",
+        "deezer-130716962",
         "itunes-1440934573"
       ]
     },
@@ -431,7 +431,7 @@
       },
       "releases": [
         "deezer-874936972",
-        "deezer-227786",
+        "deezer-72093192",
         "itunes-1440932737",
         "itunes-1860454442"
       ]
@@ -1534,6 +1534,8 @@
       "copyright": "℗ 2020 Taylor Swift",
       "genre": "Pop",
       "via": "apple",
+      "recordType": "single",
+      "deezerUrl": "https://www.deezer.com/album/131557962",
       "kind": "Single",
       "year": "2020"
     },
@@ -1702,18 +1704,18 @@
       "genre": "Pop",
       "via": "apple",
       "recordType": "album",
-      "deezerUrl": "https://www.deezer.com/album/9007781",
+      "deezerUrl": "https://www.deezer.com/album/302068167",
       "kind": "Album",
       "year": "2014"
     },
     {
-      "id": "deezer-68491961",
+      "id": "deezer-130716962",
       "title": "Red (Deluxe Edition)",
       "date": "2013-05-14",
       "trackCount": null,
-      "art": "https://cdn-images.dzcdn.net/images/cover/56a83d3002710bf2044b86c01db665aa/1000x1000-000000-80-0-0.jpg",
-      "artSmall": "https://cdn-images.dzcdn.net/images/cover/56a83d3002710bf2044b86c01db665aa/500x500-000000-80-0-0.jpg",
-      "url": "https://www.deezer.com/album/68491961",
+      "art": "https://cdn-images.dzcdn.net/images/cover/177ec7bf4d0fcd50e9ece647fa8474cd/1000x1000-000000-80-0-0.jpg",
+      "artSmall": "https://cdn-images.dzcdn.net/images/cover/177ec7bf4d0fcd50e9ece647fa8474cd/500x500-000000-80-0-0.jpg",
+      "url": "https://www.deezer.com/album/130716962",
       "recordType": "album",
       "via": "deezer",
       "kind": "Single",
@@ -1759,7 +1761,7 @@
       "genre": "Country",
       "via": "apple",
       "recordType": "album",
-      "deezerUrl": "https://www.deezer.com/album/68496491",
+      "deezerUrl": "https://www.deezer.com/album/130721292",
       "kind": "Album",
       "year": "2012"
     },
@@ -1847,7 +1849,7 @@
       "genre": "Country",
       "via": "apple",
       "recordType": "album",
-      "deezerUrl": "https://www.deezer.com/album/689149",
+      "deezerUrl": "https://www.deezer.com/album/130716982",
       "kind": "Album",
       "year": "2010"
     },
@@ -1903,20 +1905,9 @@
       "copyright": "℗ 2009 Taylor Swift",
       "genre": "Country",
       "via": "apple",
-      "kind": "Album",
-      "year": "2008"
-    },
-    {
-      "id": "deezer-227786",
-      "title": "Taylor Swift (Deluxe Edition)",
-      "date": "2008-10-04",
-      "trackCount": null,
-      "art": "https://cdn-images.dzcdn.net/images/cover/9c0e80bb3c16e1c987cf235929eb7757/1000x1000-000000-80-0-0.jpg",
-      "artSmall": "https://cdn-images.dzcdn.net/images/cover/9c0e80bb3c16e1c987cf235929eb7757/500x500-000000-80-0-0.jpg",
-      "url": "https://www.deezer.com/album/227786",
       "recordType": "album",
-      "via": "deezer",
-      "kind": "Single",
+      "deezerUrl": "https://www.deezer.com/album/130714702",
+      "kind": "Album",
       "year": "2008"
     },
     {
@@ -1931,6 +1922,20 @@
       "genre": "Country",
       "via": "apple",
       "kind": "Album",
+      "year": "2008"
+    },
+    {
+      "id": "deezer-72093192",
+      "title": "Taylor Swift",
+      "date": "2008-03-18",
+      "trackCount": null,
+      "art": "https://cdn-images.dzcdn.net/images/cover/e9dd628cc4dd15850a13b4151cce9075/1000x1000-000000-80-0-0.jpg",
+      "artSmall": "https://cdn-images.dzcdn.net/images/cover/e9dd628cc4dd15850a13b4151cce9075/500x500-000000-80-0-0.jpg",
+      "url": "https://www.deezer.com/album/72093192",
+      "recordType": "album",
+      "via": "deezer",
+      "deezerUrl": "https://www.deezer.com/album/321177137",
+      "kind": "Single",
       "year": "2008"
     },
     {
@@ -2207,12 +2212,6 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM0lFZ1d6dWpiYWN3eXpwMWJla0lHZk5HbEVWdUdZZWtoZldBLTQ0TThucXBvTW1mdlRnT0NDZkRYLUJiTDlkUWdXVjhjekpUbV9IUklPT0tyZGZHQU5CbktrZ01WRkdiNmM2YVJjN0FyZzhDaXlLUEZNaDZJbG5WTDZUZWc1UVB3S2QxVktYNlZKcERacW5aczYwaGtLUnc3bEhF?oc=5"
     },
     {
-      "title": "Taylor Swift wedding: 7 of the sweetest details from her Madison Square Garden ceremony with Travis Kelce",
-      "outlet": "Yahoo Creators",
-      "date": "2026-07-27",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWTRla1NMSFVNRkNwekJlS1F2eTJmX01JOE1Jd21tNjRGRjJjaktENzNDcDFrcnJtTHRjZ0dFY25qcG0wMmVlZFZwYkR5VUhSQjdtM0xPNXZnYldSM2tJOG0yX3o4Y2FISkU2V3ZyVWFIUm1rcy0wV0V0QUNUNFJ3WHJJVXVQVUVZLXVKeFFMU3ZiS1NuNlhmNDFEai1HSG12TXRLWThJVnhfMTFCZWVfNF9fMGtKMzcwUHduR1d1QkQ1TG9EaEZPd2QzZElsSEZLalQzbk4xdDk2a2RFcTI1VHZCRWhoWk9JQWhmVWJjM3M2R1hm?oc=5"
-    },
-    {
       "title": "Kylie Kelce says Taylor Swift and Travis Kelce's wedding was 'absolutely magical'",
       "outlet": "Yahoo Creators",
       "date": "2026-07-27",
@@ -2298,7 +2297,7 @@
     },
     {
       "title": "Taylor Swift and Travis Kelce get heartfelt notes from families of first responders after $2M donation",
-      "outlet": "Page Six",
+      "outlet": "pagesix.com",
       "date": "2026-07-26",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQX2FMd3Jyb1V6RHVxdUwybFZlRFh1V001bXcxWjM1cHg1NnRoN3ZwcktGRjVDU2pXWXZvODFLcWd5WmNkM2x6Uld3OFFpWDZ4eV85LUZYb05XOVF5akdoZXFuM09XTU1RU1dNbWoxV0QwdDBON1RpMUhqZWhSRjhidmFiZVZ3cGZfV0d5VkhTY2hfMFF6XzZfUkVzbmdLelA0MTQ0cE1ZRmpUb1BIOTNzblE1dlRXMXdCYld2QnpVSXJZQXRMcExVVUFidzlBc0ZzN2VCaUl5NGNHaF9VbVZDbQ?oc=5"
     },
@@ -2337,6 +2336,12 @@
       "outlet": "The Times of India",
       "date": "2026-07-25",
       "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNUFdQRlhKdlRta2lHUkxsdWFpcE9hakNDY2N5TkJWVWw4SFFCYmc2ZlJPbWVnM09ZMGlTQ0NJNFNsQ2ViMWFaWkRPeVZQS3hZWVpzSFpSa1FWd29mcHBialYwdlZnSVVFdU1hMUtOZzBlVmlDUXdkY2syUlhGSHlhZjVVQ0hveGp6NVRETlFud2hIcllhby1EMVNrVWhvR1oxZlZac2lUTkR1cU9YT3BicG9HUHRRa3VvclRHY1JkM09oV1M0eHFXR0wxS3hmWlJEMnBKVXhmenZhbG1Id3NtSmttWVdRME1xS252VzVrRUFNZlNjbWlyQmFvM3ZCYjgwbTN4OXFPWDBJenJzS2xvaFFBN19YdUxtSlZ4Y3UySFVaaFhWaUQ0RlIxeEswbG9LZjBMQTdGWWVvZVRiTWFJ0gHEAkFVX3lxTFB4ZnVLT0RESGZ2c2J4a0x1NXlTVWprSTR3TlM4SFcwN0lLV2hGaFlzejlFb2VRbkpFdFJsWFk0T1ZseWJaQzhOSmZHTmlhcXM1NjFfS1ppU0xSbWFZVFduWUlYbnhES3YxSVd6M01zcHhBQWlWY3Q5OUdmd2ZmN0RrSjQ3cVhPcERETklGWFVJUXJ6SXk4c0J1U0l0VmF2VGRQeUt6WnJmek5HQ0h1RE1vU3hOeEs3Z2E3bXZIOWE1bzd5MDBNSW0tNlVPd1p6VnpKQUpYWjQwU2ZtNzBzbmFWYXFTQXdNTlJJa2laN01vZmNCazRRellLZ2NyR2ItRXp0RGZFd1BqV3pPajhreWlRb2VyZkZncnU3eWVUMVlwRFdPbmYyazlPdUZ2OHlfQ1I0blRiYmtBQnVfWjFXeWM5UUlYRQ?oc=5"
+    },
+    {
+      "title": "Blake Lively Reportedly Losing ‘VIP Treatment’ by Hollywood After Taylor Swift Fallout",
+      "outlet": "StyleCaster",
+      "date": "2026-07-25",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdERid0JkV2FZX0pLS2hfSFZ5RklESHBXbFVGdjBUZ3JMcVpzeDZOV19wT01EZjBiTnlfYzdqNTZ6VzNENzZyYnlYMExJdWRJcW1vV2FqSmZNTjYyYWxtdndrQkxKSWZTSlhzMXRJUzY5VWVnbUlWX05lQ0FBV1RVdUs5VUdHZG95YU5LVlMtQjdjVmhTYVBzYXFKaEo?oc=5"
     }
   ],
   "bio": {
