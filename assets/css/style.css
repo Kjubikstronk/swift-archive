@@ -758,9 +758,12 @@ a.chip:hover { color: var(--ink); border-color: var(--era-glow); }
   border-color: color-mix(in oklab, var(--cat-glow, var(--glow)) 55%, transparent);
 }
 
+/* Fixed per breakpoint rather than a fluid clamp(): the Instagram embed has
+   to be scaled by an exact circle-width ÷ 540 ratio to sit right, and a
+   viewport-relative width would make that ratio a moving target. */
 .cat__frame {
   position: relative;
-  width: clamp(6.5rem, 11vw, 8rem);
+  width: 6.5rem; /* 104px — paired with --ig-scale: 0.193 */
   aspect-ratio: 1;
   margin-bottom: 1.1rem;
   border-radius: 50%;
@@ -773,55 +776,66 @@ a.chip:hover { color: var(--ink); border-color: var(--era-glow); }
     0 0 40px 6px color-mix(in oklab, var(--cat-glow, var(--glow)) 30%, transparent);
   transition: box-shadow 500ms var(--ease);
 }
-.cat--feature .cat__frame { width: clamp(8.5rem, 14vw, 10.5rem); }
+.cat--feature .cat__frame { width: 8.5rem; } /* 136px — --ig-scale: 0.252 */
+
+@media (min-width: 561px) {
+  .cat__frame { width: 8rem; }                 /* 128px — --ig-scale: 0.237 */
+  .cat--feature .cat__frame { width: 10.5rem; } /* 168px — --ig-scale: 0.311 */
+}
 .cat:hover .cat__frame {
   box-shadow:
     0 0 0 1px color-mix(in oklab, var(--cat-glow, var(--glow)) 78%, transparent),
     0 0 64px 12px color-mix(in oklab, var(--cat-glow, var(--glow)) 55%, transparent);
 }
 .cat__frame svg { width: 100%; height: 100%; display: block; }
-/* embed.js replaces the <blockquote> outright with an <iframe> that carries
-   the same instagram-media class — it isn't nested inside anything, so this
-   rule targets the iframe itself, not some wrapper around it.
 
-   Instagram's widget renders a full post card — username header, then the
-   photo, then a caption/like-count footer — with no way to ask for just the
-   photo. Scaling the iframe up and re-centring pushes the header and footer
-   outside the circle so mostly the photo shows through. The fixed offset
-   assumes a short caption; a very long one would show more footer than
-   header, but this is as close as a parent page can get to cropping content
-   inside a cross-origin iframe it doesn't otherwise control. `min-width` has
-   to be overridden explicitly — Instagram sets a 326px inline min-width that
-   would otherwise blow the circle out regardless of the width rule. */
+/* embed.js replaces the <blockquote> outright with an <iframe> carrying the
+   same instagram-media class, so this targets the iframe itself.
+
+   Instagram renders a full post card — ~60px header, then the square photo at
+   the card's full width, then the caption/likes footer — with no way to ask
+   for just the photo. Earlier passes scaled the iframe *up* and showed a
+   window into it, which meant the circle only ever saw a slice: whether that
+   slice contained the cat depended entirely on where the cat happened to sit
+   in that particular photo. It showed a chair for Olivia, a wall for Meredith
+   and an ear for Benjamin.
+
+   This instead scales the photo down so its full width maps to the circle's
+   width. The whole photo is then inside the circle (corners clipped, which is
+   the point of a circular crop) and the cat is in frame no matter where it
+   sits in the shot — no per-post tuning, nothing to recalibrate if a caption
+   changes length.
+
+   Geometry: at 540px wide the photo occupies rows ~60–600, so its centre is
+   row 330. The iframe box is 800px tall to fit all of that, putting its own
+   centre at row 400. The photo centre therefore sits 70px above the box
+   centre, and translateY(70px) — applied before the scale, so it's in the
+   iframe's own coordinates — brings the two together. `min-width` has to be
+   overridden explicitly; Instagram sets a 326px inline minimum. */
 .cat__frame .instagram-media {
   position: absolute !important;
   min-width: 0 !important;
-  /* Fixed px, not a percentage of the frame. Instagram's embed lays out
-     against a ~326px internal minimum regardless of the size we give the
-     iframe, so on mobile a percentage produced a 293px box whose photo
-     region fell entirely outside the visible circle — rendering as a solid
-     white card. Sizing the iframe at a fixed 540px keeps the photo region
-     larger than any frame it sits in, then `scale` shrinks the whole thing
-     to fit. Scaling from the centre means the photo stays centred at every
-     frame size, so this works on a 105px mobile circle and a 168px desktop
-     one identically. */
-  width: 540px !important; height: 540px !important;
-  /* Anchored by margin, not by a percentage translate. A `translate(-50%)` in
-     the transform resolves against the iframe's own 540px box *before* the
-     scale applies, so it over-shifted by more than half the frame and landed
-     the iframe off to one side (measured: left:38px against a frame at
-     left:118px) — which is what actually produced the blank white circle,
-     not the embed failing to load. Negative margins of half the fixed size
-     centre it in px terms, independent of scale, so the transform is left to
-     do only scaling and the per-post nudge. */
+  width: 540px !important;
+  height: 800px !important;
   top: 50% !important; left: 50% !important;
-  margin: -270px 0 0 -270px !important;
-  transform: scale(var(--ig-scale, 0.42)) translateY(var(--ig-ty, -6%)) !important;
+  /* Centred by margin rather than a percentage translate: a translate(-50%)
+     resolves against the iframe's own box before the scale applies, which
+     over-shifted it right off the frame. */
+  margin: -400px 0 0 -270px !important;
+  transform: scale(var(--ig-scale, 0.193)) translateY(calc(70px + var(--ig-ty, 0px))) !important;
   transform-origin: center !important;
   border: 0 !important; border-radius: 0 !important;
 }
-/* The feature card's circle is bigger, so its iframe can shrink less. */
-.cat--feature .cat__frame .instagram-media { --ig-scale: 0.55; }
+
+/* Scale = circle width ÷ 540, so the photo's width exactly spans the circle.
+   The circle sizes are fixed rem values per breakpoint (see .cat__frame), so
+   these are the matching ratios rather than anything derived at runtime. */
+.cat--feature .cat__frame .instagram-media { --ig-scale: 0.252; } /* 136 ÷ 540 */
+
+@media (min-width: 561px) {
+  .cat__frame .instagram-media { --ig-scale: 0.237; }             /* 128 ÷ 540 */
+  .cat--feature .cat__frame .instagram-media { --ig-scale: 0.311; } /* 168 ÷ 540 */
+}
 
 /* The one new type role on the page, used only here: the handwritten-caption
    register Taylor's own album packaging leans on constantly (liner notes,

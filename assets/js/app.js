@@ -553,25 +553,18 @@ const slugify = (s = '') =>
  * container size.
  */
 /*
- * Percentages are of the iframe's own fixed 540px box, so they hold at every
- * frame size instead of needing separate mobile values.
+ * Optional per-post nudge, in px, applied in the iframe's own coordinates on
+ * top of the centring the CSS already does.
  *
- * Calibrated by measurement, not by eye: at 0% the circle was framing rows
- * ~168-442 of the iframe, but Instagram stacks a ~60px header then the square
- * photo, so the photo occupies roughly rows 60-350 and the window was sitting
- * mostly below it in the white caption/footer area. That's what produced the
- * blank white circles. Shifting down ~+22% moves the visible window up into
- * the photo (translateY is applied to the iframe, so a positive value slides
- * the content down and reveals higher rows).
+ * Deliberately empty. The CSS now fits the whole photo inside the circle
+ * rather than showing a window into it, so the cat is in frame wherever it
+ * sits in the shot — there's nothing left to hand-tune. Kept as a hook in
+ * case a specific post ever needs it; a negative value shifts the photo up.
  */
-const IG_OFFSET = {
-  'Olivia Benson': '20%',
-  'Meredith Grey': '24%',   // longer caption, more footer to skip past
-  'Benjamin Button': '22%',
-};
+const IG_OFFSET = {};
 
 const igOffset = (name) =>
-  IG_OFFSET[name] ? `--ig-ty:${esc(IG_OFFSET[name])}` : '';
+  IG_OFFSET[name] ? `--ig-ty:${esc(IG_OFFSET[name])}px` : '';
 
 function renderCats() {
   const cats = DATA.cats || [];
