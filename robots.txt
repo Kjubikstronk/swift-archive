@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kjubikstronk.github.io/swift-archive/sitemap.xml
+Sitemap: https://swiftarchive.online/sitemap.xml

@@ -806,24 +806,25 @@ a.chip:hover { color: var(--ink); border-color: var(--era-glow); }
    sits in the shot — no per-post tuning, nothing to recalibrate if a caption
    changes length.
 
-   Geometry: at 540px wide the photo occupies rows ~60–600, so its centre is
-   row 330. The iframe box is 800px tall to fit all of that, putting its own
-   centre at row 400. The photo centre therefore sits 70px above the box
-   centre, and translateY(70px) — applied before the scale, so it's in the
-   iframe's own coordinates — brings the two together. `min-width` has to be
-   overridden explicitly; Instagram sets a 326px inline minimum. */
+   Geometry here is measured, not guessed: loading Instagram's own /embed/
+   page at exactly 540px wide put the header at rows 0–54 and the (square)
+   photo immediately after it at rows 54–592. So positioned at its natural
+   top-left with a top-left transform-origin, translateY(-54px) shifts the
+   header up out of view and lands the photo's top edge at row 0 — before the
+   scale applies, so the -54px is in the iframe's own coordinates. Everything
+   below the photo (footer, comments) falls past the frame's bottom edge and
+   is clipped by the circle's overflow:hidden, same as the header above.
+   `min-width` has to be overridden explicitly; Instagram sets a 326px inline
+   minimum. */
 .cat__frame .instagram-media {
   position: absolute !important;
   min-width: 0 !important;
   width: 540px !important;
-  height: 800px !important;
-  top: 50% !important; left: 50% !important;
-  /* Centred by margin rather than a percentage translate: a translate(-50%)
-     resolves against the iframe's own box before the scale applies, which
-     over-shifted it right off the frame. */
-  margin: -400px 0 0 -270px !important;
-  transform: scale(var(--ig-scale, 0.193)) translateY(calc(70px + var(--ig-ty, 0px))) !important;
-  transform-origin: center !important;
+  height: 900px !important;
+  top: 0 !important; left: 0 !important;
+  margin: 0 !important;
+  transform: scale(var(--ig-scale, 0.193)) translateY(calc(-54px + var(--ig-ty, 0px))) !important;
+  transform-origin: 0 0 !important;
   border: 0 !important; border-radius: 0 !important;
 }
 
