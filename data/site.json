@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-29T10:56:15.342Z",
+  "generated": "2026-07-29T10:57:06.079Z",
   "artist": {
     "name": "Taylor Swift",
     "full": "Taylor Alison Swift",
@@ -323,7 +323,7 @@
       },
       "releases": [
         "itunes-1595423133",
-        "deezer-68491961",
+        "deezer-130716962",
         "itunes-1440934573"
       ]
     },
@@ -431,7 +431,7 @@
       },
       "releases": [
         "deezer-874936972",
-        "deezer-227786",
+        "deezer-72093192",
         "itunes-1440932737",
         "itunes-1860454442"
       ]
@@ -1534,6 +1534,8 @@
       "copyright": "℗ 2020 Taylor Swift",
       "genre": "Pop",
       "via": "apple",
+      "recordType": "single",
+      "deezerUrl": "https://www.deezer.com/album/131557962",
       "kind": "Single",
       "year": "2020"
     },
@@ -1702,18 +1704,18 @@
       "genre": "Pop",
       "via": "apple",
       "recordType": "album",
-      "deezerUrl": "https://www.deezer.com/album/9007781",
+      "deezerUrl": "https://www.deezer.com/album/302068167",
       "kind": "Album",
       "year": "2014"
     },
     {
-      "id": "deezer-68491961",
+      "id": "deezer-130716962",
       "title": "Red (Deluxe Edition)",
       "date": "2013-05-14",
       "trackCount": null,
-      "art": "https://cdn-images.dzcdn.net/images/cover/56a83d3002710bf2044b86c01db665aa/1000x1000-000000-80-0-0.jpg",
-      "artSmall": "https://cdn-images.dzcdn.net/images/cover/56a83d3002710bf2044b86c01db665aa/500x500-000000-80-0-0.jpg",
-      "url": "https://www.deezer.com/album/68491961",
+      "art": "https://cdn-images.dzcdn.net/images/cover/177ec7bf4d0fcd50e9ece647fa8474cd/1000x1000-000000-80-0-0.jpg",
+      "artSmall": "https://cdn-images.dzcdn.net/images/cover/177ec7bf4d0fcd50e9ece647fa8474cd/500x500-000000-80-0-0.jpg",
+      "url": "https://www.deezer.com/album/130716962",
       "recordType": "album",
       "via": "deezer",
       "kind": "Single",
@@ -1759,7 +1761,7 @@
       "genre": "Country",
       "via": "apple",
       "recordType": "album",
-      "deezerUrl": "https://www.deezer.com/album/68496491",
+      "deezerUrl": "https://www.deezer.com/album/130721292",
       "kind": "Album",
       "year": "2012"
     },
@@ -1847,7 +1849,7 @@
       "genre": "Country",
       "via": "apple",
       "recordType": "album",
-      "deezerUrl": "https://www.deezer.com/album/689149",
+      "deezerUrl": "https://www.deezer.com/album/130716982",
       "kind": "Album",
       "year": "2010"
     },
@@ -1903,20 +1905,9 @@
       "copyright": "℗ 2009 Taylor Swift",
       "genre": "Country",
       "via": "apple",
-      "kind": "Album",
-      "year": "2008"
-    },
-    {
-      "id": "deezer-227786",
-      "title": "Taylor Swift (Deluxe Edition)",
-      "date": "2008-10-04",
-      "trackCount": null,
-      "art": "https://cdn-images.dzcdn.net/images/cover/9c0e80bb3c16e1c987cf235929eb7757/1000x1000-000000-80-0-0.jpg",
-      "artSmall": "https://cdn-images.dzcdn.net/images/cover/9c0e80bb3c16e1c987cf235929eb7757/500x500-000000-80-0-0.jpg",
-      "url": "https://www.deezer.com/album/227786",
       "recordType": "album",
-      "via": "deezer",
-      "kind": "Single",
+      "deezerUrl": "https://www.deezer.com/album/130714702",
+      "kind": "Album",
       "year": "2008"
     },
     {
@@ -1931,6 +1922,20 @@
       "genre": "Country",
       "via": "apple",
       "kind": "Album",
+      "year": "2008"
+    },
+    {
+      "id": "deezer-72093192",
+      "title": "Taylor Swift",
+      "date": "2008-03-18",
+      "trackCount": null,
+      "art": "https://cdn-images.dzcdn.net/images/cover/e9dd628cc4dd15850a13b4151cce9075/1000x1000-000000-80-0-0.jpg",
+      "artSmall": "https://cdn-images.dzcdn.net/images/cover/e9dd628cc4dd15850a13b4151cce9075/500x500-000000-80-0-0.jpg",
+      "url": "https://www.deezer.com/album/72093192",
+      "recordType": "album",
+      "via": "deezer",
+      "deezerUrl": "https://www.deezer.com/album/321177137",
+      "kind": "Single",
       "year": "2008"
     },
     {
@@ -2201,16 +2206,16 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObjlkckYxcnQ5UWRGeHZDOXBTRUpLZnhTSDJWaVhhZjVZV3pwdnRmV1BmQ3FJTy04aXNDTGFWblhBTmJ5bFFSX3dFZmQ3VjNmSEJIUHZSWThsWlRrdEYtN2t3S2JObkxyQ1hncGV6QTczTFZUVGRtXzRJWV9HbzZXbXRVaWJOZ2I1OUlYR0sxNDBwMFJmR0xqOXRiSDBzd2I1d0xBYXBTT0RkN1dO?oc=5"
     },
     {
-      "title": "Karlie Kloss praises ‘amazing couple’ Taylor Swift and Travis Kelce after wedding",
-      "outlet": "Cumnock Chronicle",
-      "date": "2026-07-29",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOFFUX1pEVzUyRld1R0xjdTdRNFpqNXlwTVdSSlVvT0JfS1JaRTBMZGM5cnFBZGg3WTlIVm80ekR4aV9CZVgwcXVfQjFsTXk4UU10X3p4VXpDclU4TXdjQWxFSDFKWm16Vk41S1RDVnlBY2ZiNzFxTnVDSC1hWms4ZjZPeURLOUNCME10aXhMOHdCRkdlMGdCWHgyZlVZNHBGU1NVYXhXMGNJZ19weHZlUDRYeHZJemM1ejduendiR0RxM1pkWWc0RA?oc=5"
-    },
-    {
       "title": "Children’s Mercy Hospital kids decorate wedding dress to gift to Taylor Swift, Travis Kelce: ‘Felt like t",
       "outlet": "The Times of India",
       "date": "2026-07-29",
       "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPb0hsa1dVdzRXN3E3c0lVaVYwcnl0ZC1lazZCMS1pbkUxUjl5U3VmcG9YdXF0YkhLNjk1SXRObDAxZDVkSnpsZGI4akxBZ3ZmamNGWFF5c0NEMHQ2RWJPTHZ2TGIyZnlPSkdHWmNhbloyeWtUa3hwWUc2Y21ZU3J6OTVTWnVqdmNPTFIzR1cxRTZ1c0ktMEgwOFR4V0kzS0RKV1J6ZElQdDJ6YUVMRDUwc252OHFNU2VMSmd2ajY4MHM5T0Z5ZFBQeEJ3TFdVa0p2ajhIOVpKU2J1TG4wMkwwUW5oWTBzbGRqekgtMkpQdjF4cWRoblNtanJsS2NGcFJOOEdqbEl3MkpyY29WVG1mcFNHdWdxS1NQS0ZKMUNGTnExV250SkRLZUZEdk1DamNoc204TXpDbDFadnRhRmhR0gHEAkFVX3lxTE5jTmE1UzhMQmxXVjdWSXlrX3BGZmV4dTF5MUNvekd6OW9zYUVOZHZBdkNET3Q0c05FLXpyTi1GdTZySk12WTJjRHhGQzRrRi03aDFjVXBpaXlBdmZhbFFqb1N1T1hPNWpiRDFJY2xaQ29ER3Z3OE02MVd4am9BT3F3VGNodzQ2ejdja0hmaUhkRTZiMFQ1NFRBUlJQWUR4bHdqa1Z5YmFBRjByM2g3T0VPa05zTFNfczlFT0RCNE5sbjBPTk1kd2tROWNBaHV5UXFRejlBbkZkbUZLN01EOUhRa2FTUEJ4ZExfSVEyWGZVMGVBRUJPU01DRkZtOEZ6bmpfS2lJLXMzM1NfZ2RFX09QMXNrTGNGYi1qcFM4c19SaVJWbk5YWXpCejk1WWVZb3RrV2tMZE1aUjdTS3kwWGI2M3RidA?oc=5"
+    },
+    {
+      "title": "Karlie Kloss praises ‘amazing couple’ Taylor Swift and Travis Kelce after wedding",
+      "outlet": "Cumnock Chronicle",
+      "date": "2026-07-29",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOFFUX1pEVzUyRld1R0xjdTdRNFpqNXlwTVdSSlVvT0JfS1JaRTBMZGM5cnFBZGg3WTlIVm80ekR4aV9CZVgwcXVfQjFsTXk4UU10X3p4VXpDclU4TXdjQWxFSDFKWm16Vk41S1RDVnlBY2ZiNzFxTnVDSC1hWms4ZjZPeURLOUNCME10aXhMOHdCRkdlMGdCWHgyZlVZNHBGU1NVYXhXMGNJZ19weHZlUDRYeHZJemM1ejduendiR0RxM1pkWWc0RA?oc=5"
     },
     {
       "title": "Marcello Hernandez reveals ‘most surprising’ part about Taylor Swift, Travis Kelce wedding",
