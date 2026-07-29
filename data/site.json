@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-29T09:11:06.940Z",
+  "generated": "2026-07-29T10:56:15.342Z",
   "artist": {
     "name": "Taylor Swift",
     "full": "Taylor Alison Swift",
@@ -323,7 +323,7 @@
       },
       "releases": [
         "itunes-1595423133",
-        "deezer-130716962",
+        "deezer-68491961",
         "itunes-1440934573"
       ]
     },
@@ -431,7 +431,7 @@
       },
       "releases": [
         "deezer-874936972",
-        "deezer-72093192",
+        "deezer-227786",
         "itunes-1440932737",
         "itunes-1860454442"
       ]
@@ -1534,8 +1534,6 @@
       "copyright": "℗ 2020 Taylor Swift",
       "genre": "Pop",
       "via": "apple",
-      "recordType": "single",
-      "deezerUrl": "https://www.deezer.com/album/131557962",
       "kind": "Single",
       "year": "2020"
     },
@@ -1704,18 +1702,18 @@
       "genre": "Pop",
       "via": "apple",
       "recordType": "album",
-      "deezerUrl": "https://www.deezer.com/album/302068167",
+      "deezerUrl": "https://www.deezer.com/album/9007781",
       "kind": "Album",
       "year": "2014"
     },
     {
-      "id": "deezer-130716962",
+      "id": "deezer-68491961",
       "title": "Red (Deluxe Edition)",
       "date": "2013-05-14",
       "trackCount": null,
-      "art": "https://cdn-images.dzcdn.net/images/cover/177ec7bf4d0fcd50e9ece647fa8474cd/1000x1000-000000-80-0-0.jpg",
-      "artSmall": "https://cdn-images.dzcdn.net/images/cover/177ec7bf4d0fcd50e9ece647fa8474cd/500x500-000000-80-0-0.jpg",
-      "url": "https://www.deezer.com/album/130716962",
+      "art": "https://cdn-images.dzcdn.net/images/cover/56a83d3002710bf2044b86c01db665aa/1000x1000-000000-80-0-0.jpg",
+      "artSmall": "https://cdn-images.dzcdn.net/images/cover/56a83d3002710bf2044b86c01db665aa/500x500-000000-80-0-0.jpg",
+      "url": "https://www.deezer.com/album/68491961",
       "recordType": "album",
       "via": "deezer",
       "kind": "Single",
@@ -1761,7 +1759,7 @@
       "genre": "Country",
       "via": "apple",
       "recordType": "album",
-      "deezerUrl": "https://www.deezer.com/album/130721292",
+      "deezerUrl": "https://www.deezer.com/album/68496491",
       "kind": "Album",
       "year": "2012"
     },
@@ -1849,7 +1847,7 @@
       "genre": "Country",
       "via": "apple",
       "recordType": "album",
-      "deezerUrl": "https://www.deezer.com/album/130716982",
+      "deezerUrl": "https://www.deezer.com/album/689149",
       "kind": "Album",
       "year": "2010"
     },
@@ -1905,9 +1903,20 @@
       "copyright": "℗ 2009 Taylor Swift",
       "genre": "Country",
       "via": "apple",
-      "recordType": "album",
-      "deezerUrl": "https://www.deezer.com/album/130714702",
       "kind": "Album",
+      "year": "2008"
+    },
+    {
+      "id": "deezer-227786",
+      "title": "Taylor Swift (Deluxe Edition)",
+      "date": "2008-10-04",
+      "trackCount": null,
+      "art": "https://cdn-images.dzcdn.net/images/cover/9c0e80bb3c16e1c987cf235929eb7757/1000x1000-000000-80-0-0.jpg",
+      "artSmall": "https://cdn-images.dzcdn.net/images/cover/9c0e80bb3c16e1c987cf235929eb7757/500x500-000000-80-0-0.jpg",
+      "url": "https://www.deezer.com/album/227786",
+      "recordType": "album",
+      "via": "deezer",
+      "kind": "Single",
       "year": "2008"
     },
     {
@@ -1922,20 +1931,6 @@
       "genre": "Country",
       "via": "apple",
       "kind": "Album",
-      "year": "2008"
-    },
-    {
-      "id": "deezer-72093192",
-      "title": "Taylor Swift",
-      "date": "2008-03-18",
-      "trackCount": null,
-      "art": "https://cdn-images.dzcdn.net/images/cover/e9dd628cc4dd15850a13b4151cce9075/1000x1000-000000-80-0-0.jpg",
-      "artSmall": "https://cdn-images.dzcdn.net/images/cover/e9dd628cc4dd15850a13b4151cce9075/500x500-000000-80-0-0.jpg",
-      "url": "https://www.deezer.com/album/72093192",
-      "recordType": "album",
-      "via": "deezer",
-      "deezerUrl": "https://www.deezer.com/album/321177137",
-      "kind": "Single",
       "year": "2008"
     },
     {
@@ -2206,6 +2201,12 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObjlkckYxcnQ5UWRGeHZDOXBTRUpLZnhTSDJWaVhhZjVZV3pwdnRmV1BmQ3FJTy04aXNDTGFWblhBTmJ5bFFSX3dFZmQ3VjNmSEJIUHZSWThsWlRrdEYtN2t3S2JObkxyQ1hncGV6QTczTFZUVGRtXzRJWV9HbzZXbXRVaWJOZ2I1OUlYR0sxNDBwMFJmR0xqOXRiSDBzd2I1d0xBYXBTT0RkN1dO?oc=5"
     },
     {
+      "title": "Karlie Kloss praises ‘amazing couple’ Taylor Swift and Travis Kelce after wedding",
+      "outlet": "Cumnock Chronicle",
+      "date": "2026-07-29",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOFFUX1pEVzUyRld1R0xjdTdRNFpqNXlwTVdSSlVvT0JfS1JaRTBMZGM5cnFBZGg3WTlIVm80ekR4aV9CZVgwcXVfQjFsTXk4UU10X3p4VXpDclU4TXdjQWxFSDFKWm16Vk41S1RDVnlBY2ZiNzFxTnVDSC1hWms4ZjZPeURLOUNCME10aXhMOHdCRkdlMGdCWHgyZlVZNHBGU1NVYXhXMGNJZ19weHZlUDRYeHZJemM1ejduendiR0RxM1pkWWc0RA?oc=5"
+    },
+    {
       "title": "Children’s Mercy Hospital kids decorate wedding dress to gift to Taylor Swift, Travis Kelce: ‘Felt like t",
       "outlet": "The Times of India",
       "date": "2026-07-29",
@@ -2218,34 +2219,10 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdEhzbDVEWV9OUWJlcUVvNF9hVnJuYUJrQ2JvcXcwbHlmMUt3aEtza0tJQkh3aG0xdHN5RkdHZ0pGYTQ2T1pQZmtxcG5WbDFMSkg0dExKRHQ5TWtrSk1YX0ZPN2JyNzcwWUo1TkVjdVJuR0dLRHh1YkFfSXB0LUFINC1XVkl4X2owcW9zUXR2d0NPWnpKNmJBMkVnRV90aVdPS1FHa0xuaVpkZmJCb1RheHJn?oc=5"
     },
     {
-      "title": "Emotional Travis Kelce a 'puddle' of tears after heartwarming moment at his wedding to Taylor Swift",
-      "outlet": "the-sun.com",
-      "date": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaFh4bUJ4Z3FSYU9fNVYwbGc5T1lEZUVLX09sWUZhLU5qS0JSTkk3TnlXdG5jN1lKNnJQbGdXMkN6R0Z1SXp6anY1clpuekVDOFRIOW9oZkllUm56RE51dWJXbVpKcWFZTENpR2tfVXo3TlJSUDdMX092NzlXeEY2cU1uUFRpSGZJUm1HMXd2S3B2MHpX?oc=5"
-    },
-    {
-      "title": "Taylor Swift vs The Chainsmokers — Compared — YH",
-      "outlet": "Young Hollywood",
-      "date": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IU3FxUzFmeExnd3FSV0lweklCdl9IQWNkUGhTNXc3b04tSU1MN2RaODNDTWRiUFh2UVdxSTE1dWc3dXdZYk1BRmlTakY1b0p4VVFTakVlX3pWOEN5SFNEd1g1Nm9XQW5iaExCMC1MNmZBRFFRU1VNbg?oc=5"
-    },
-    {
-      "title": "Karlie Kloss Speaks Out About Attending Taylor Swift and Travis Kelce’s Madison Square Garden Wedding",
-      "outlet": "Yahoo",
-      "date": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU2thOExWU0x2allBZ0VXX3BLLTdOOHZldDRXR2t6elUwYlpodFRIb1BlWkJXVXJiRmQ4bjJ4N0RRVkkyZnBKZHgyT3YyTDhPQW1ITHZpWWRaa0lBeFJueFZ1cjJfTDU0X3RCbTJJNGJ4MmxtUlB4M1NGY2FicVEyUWI1bmV6bGtGR3lyT0tIYzdHX3owNmxTcWdB?oc=5"
-    },
-    {
-      "title": "Patriots' Mike Vrabel reveals what really happened at Taylor Swift and Travis Kelce's wedding",
-      "outlet": "MARCA",
-      "date": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRUlDcktoa1RsTEdpR2JEeDdGZlAtLVIyZUhjU3Vid01peVVkcURLQW9UcHBpRDdLUXBzUDBCZjFzSXlTX2xEV1dGN0JjY2FsZHQ5c2hmcFBvRk11NUhiVzl0V0ROdi1XbUk5bXVMdzJLVmpMR1ZVeFNqNkpNaE5LRUVNSGJKWUcwa1lCbnA2ZE9adHRrSi1xaUM4SU50cXBMSXhBZklSRWl1ZnN4RkhEWmRmMWo1eUJpdlc5bjBUd2g5QzhES0pEZ1JRVUNQWjNWeV9iS1dHM0JQM05wWmR1STBDQUhlZ1pESWhjNG9oZ9IB7wFBVV95cUxQOVJIZW1aQXNMN3dEbm83MzRfR0xiUUI2cDdjMnhJVzdZUE5qUXEwX2FVWUNZVjV4Wm9RQjVxR19IMGZqOW5PeEZRX1V3U1RJNUZDM2p3OHE5TVd0bUZrZjVxZmtXaVpGeEczdWdtYXBmN3NFUVZiLTVTZXdFOUU4d1gxdTJMZzVuVkgyU1RqNVJxSzVpQVVFYm82YXVHekY3M0JzWWFLT1lXNEVBeUlNVGY1bFN5Sk9DX3dxWVJYWmlReEJmSDV1YzUzUkV0ZGNxSVV0OHYwQTNyajlua1I4a0NIZF9ESThGNWJoRXJQMA?oc=5"
-    },
-    {
-      "title": "Stephen A. Smith explains why Taylor Swift and Travis Kelce’s wedding was ‘absolutely fabulous’",
-      "outlet": "Face2Face Africa",
-      "date": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOczRKOUhxc2xLbHBJazlRblRnV19nYXdaM3c3ZHE5dlVUMzdSclFhN1cwV1FGTkhsRFZZWmh4a01UTGlxUnc4N2hjZWFmdV9FRHBhVzA3c1RabndmR2dxVndFWXJJS3VObWJtZG5pRVc2Ti1ZRUJVdXhiVnR1ZHBBSDVhMEFMTEtodS01VXItR1FTZGFKeWpBV2l5Vml1RWl1MEhEOXpYZE5wMFJiang5Z0h3bkdWVDZfQ0JCWWpQXzRXUlktelE?oc=5"
+      "title": "Keke Palmer's Alter Ego Lady Miss Jacqueline Riffs on Taylor Swift's Wedding",
+      "outlet": "BroadwayWorld",
+      "date": "2026-07-29",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOT0dqSG93NWNFZU54RnVkVk1yeE9JYTdfaTZ1RnBtOGwwYmNCV2xmbGF1bXBmdUVtYmZCeTZsNElxSjJRcXU0SU8ydU82WjJBY2lPemUwNURQSWhSWi16S01Lemp0Yk9OZVA3WHNOVkVNbnF2MzAtdW10cWZEVk05Q01GR3RYb190XzA2Z3FYMHIwRWwzSEV0VzhqeXRNQ0tYazk4ZF9RUGtwaUFKTnBTUkI1WnlDeEtiUUtBa3lnZUpqV1NBUkE?oc=5"
     },
     {
       "title": "Taylor Swift & Travis Kelce's Samoyed Dog Is Reportedly Living The High Life: All About The Breed",
@@ -2254,16 +2231,22 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeWMzYlB1QXQ3MnJkOVBGVmdsdVg3dm9FdHN0N2hBdXB6d1kyZUtJVDRadzNoOUlkY3pod1FlQ1RiNnpDX1hLN0dYYmh1cGR0TFBWaUNTQUduaVdSbUZaaFhKU2RjQUJOU201Z3BlN3NGSmpkSC10TU1yb08xek5nZV9PMS1iNUpDMDJscVBpVzRSd1VK?oc=5"
     },
     {
+      "title": "Stephen A. Smith explains why Taylor Swift and Travis Kelce’s wedding was ‘absolutely fabulous’",
+      "outlet": "Face2Face Africa",
+      "date": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOczRKOUhxc2xLbHBJazlRblRnV19nYXdaM3c3ZHE5dlVUMzdSclFhN1cwV1FGTkhsRFZZWmh4a01UTGlxUnc4N2hjZWFmdV9FRHBhVzA3c1RabndmR2dxVndFWXJJS3VObWJtZG5pRVc2Ti1ZRUJVdXhiVnR1ZHBBSDVhMEFMTEtodS01VXItR1FTZGFKeWpBV2l5Vml1RWl1MEhEOXpYZE5wMFJiang5Z0h3bkdWVDZfQ0JCWWpQXzRXUlktelE?oc=5"
+    },
+    {
       "title": "Travis Kelce’s Reaction to Taylor Swift Walking Down the Aisle Revealed",
       "outlet": "E! News",
       "date": "2026-07-28",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVy1OalhTUUxIRFUteUpETDNINFB4TTVlMjFKdXM4Zk9KTHRQSXZWVEp0aU1BZ2ZJZVYxWm1YbEpzTWh4LVlpNThPQ2Z5b3c5cS10WHJVX0FPczBraVBtc0dYNWJCQndEaTQ0ZGJmRjJmQTNtS1E4ZjUxNjNXTkFoSTRUSjZZbHd4Y2J4UU82YmFLV2FZcUJodGNHNm8wSDFpUW5WVXE5MWhSRHZBQmZjV01iR0hmZw?oc=5"
     },
     {
-      "title": "Karlie Kloss breaks silence on Taylor Swift and Travis Kelce’s wedding years after fallout",
-      "outlet": "Yahoo",
+      "title": "Patriots' Mike Vrabel reveals what really happened at Taylor Swift and Travis Kelce's wedding",
+      "outlet": "MARCA",
       "date": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWVRKZEkzSlZOdHlrREVLbUpxOTROVWM4YTdaUXBJRnFZLTJtZDdwdWoyck9QS0oyMVhWZnRsR0dRdTUyR1hVa0JLTHlDeHM1dkVXSVJiOEd2T3Vtd3ozSWRHa1R6SllDdUs5ZzFXdGtoNGdWWjdzRFE4d1dSazdTYUZPN2dfbUNRRFh4RlJOYUQ5S3pLekoxTnZiYzU1SDAtUllqbEx1Zw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRUlDcktoa1RsTEdpR2JEeDdGZlAtLVIyZUhjU3Vid01peVVkcURLQW9UcHBpRDdLUXBzUDBCZjFzSXlTX2xEV1dGN0JjY2FsZHQ5c2hmcFBvRk11NUhiVzl0V0ROdi1XbUk5bXVMdzJLVmpMR1ZVeFNqNkpNaE5LRUVNSGJKWUcwa1lCbnA2ZE9adHRrSi1xaUM4SU50cXBMSXhBZklSRWl1ZnN4RkhEWmRmMWo1eUJpdlc5bjBUd2g5QzhES0pEZ1JRVUNQWjNWeV9iS1dHM0JQM05wWmR1STBDQUhlZ1pESWhjNG9oZ9IB7wFBVV95cUxQOVJIZW1aQXNMN3dEbm83MzRfR0xiUUI2cDdjMnhJVzdZUE5qUXEwX2FVWUNZVjV4Wm9RQjVxR19IMGZqOW5PeEZRX1V3U1RJNUZDM2p3OHE5TVd0bUZrZjVxZmtXaVpGeEczdWdtYXBmN3NFUVZiLTVTZXdFOUU4d1gxdTJMZzVuVkgyU1RqNVJxSzVpQVVFYm82YXVHekY3M0JzWWFLT1lXNEVBeUlNVGY1bFN5Sk9DX3dxWVJYWmlReEJmSDV1YzUzUkV0ZGNxSVV0OHYwQTNyajlua1I4a0NIZF9ESThGNWJoRXJQMA?oc=5"
     },
     {
       "title": "Taylor Swift and Travis Kelce wedding guest insists he didn’t sneak in phone as Kevin Hart calls him out",
@@ -2284,12 +2267,6 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNW5LSUlCTGRuY2RFOHlhaGtCdE1QYm1YZFRYVnBCamlZSVhxZ0t1eHVWVVI2dmduV2JtOUhBaEp0MDh1Z1g0LXYxRUVHVFlZNGp6NURSQ3l3cTVGc21jbUZlRVMyYmktc0J6YjRaeHlaYmYzYl9zOVlMemlyZWN2R2hYX2pBVUtVVmw5YUhqekxvajRQaENKYlI0RHVHb0EwYVE?oc=5"
     },
     {
-      "title": "Travis Kelce was a 'puddle' watching Taylor Swift walk down the aisle",
-      "outlet": "Female First",
-      "date": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMmNxTUpPTzBkekY0WS1MRWRMMWUtTWhsb2lWN0pUQVBfQnF6QnBadFd6SUM0SkFXLTR5eFBVYTc5ZHpSUl82U1NtV0c5RWxmSWJVNmpaczloaXBNVGlGLVNPUVhKOWpTbXB4ZHRHWGc4N1lkdmJHTzZmdEtpOEVubWtNNTZDZDl4b3N0NEVtR0NfczU5MVA0QXNpVzVFbzNQZ1NQdnBrZUM?oc=5"
-    },
-    {
       "title": "Karlie Kloss Breaks Silence on Former BFF Taylor Swift’s Wedding to Travis Kelce",
       "outlet": "parade.com",
       "date": "2026-07-28",
@@ -2300,12 +2277,6 @@
       "outlet": "Yahoo",
       "date": "2026-07-28",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPODdhQ01IM0ozcVh5SzlnT0xtMmZVd016ZjdSZEYzUldsS1M4R1gwRzdvbDBnQTdITVVITVcydmVtVEhBS3FxMUx2eTR6U2lWa1MxbktpUlU5U0pWQWFxMGlzMWxSbzRON00wazRBdFNNczVaTU5lNlE5N2gxREtoR21FTnZwNHdwMEtNUWhuaEw?oc=5"
-    },
-    {
-      "title": "New details emerge about Taylor Swift, Travis Kelce’s wedding: MSG layout and surprise celebrity guests",
-      "outlet": "Page Six",
-      "date": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaUtDR3ZlZ2t4RXhVcFF4WmZBdmRnQklWOHJDOWZnUzhEZW9FQVdpMXAyTTBwUVN2ZjZ6SlduekpEUTdmWHZmMTNJcWZ2U2JYN0U0bjYzQ1JudGhQdGZuMmV3RXg2Y2w1UU5qVHpnVUlTLTNsekhSVGJqakhTSUZQTHpKNnpoNXdneUtaUmoybGRvTFhKTTQ1Z1lJYl9oc2ZwX1ZvYW5RYlFuemdfbUtwQzF5dHFwQ2xZOUsxS0ZqeGc1cUhVXy1pVkF3QkVmQlY3M1dQTVE4UlY?oc=5"
     },
     {
       "title": "Karlie Kloss Weighs in on Taylor Swift’s Wedding After Attending Following Alleged Estrangement",
@@ -2320,6 +2291,12 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObHRIQTNzTUhpZ1BzdGhidzZwR0F5V1FhdnFJSUVKNC13QXFIbmlRMnFjeGpfZHVqS1pyM0wySlFrYUVXbVh4WmRYZng1STdJbzdWYUtsQ0otU19jSlR3SXEwcXh1S1Z2ZWlfd0dJbmJNQUw1ZDFxVEhxcVQ5ZG5LQmd5dWVKa1NLMnNKMTVTRk1GQzR1NWQxY245VzFKZFVIOXluQ1BLU3VQTjZIVVo0dg?oc=5"
     },
     {
+      "title": "New details emerge about Taylor Swift, Travis Kelce’s wedding: MSG layout and surprise celebrity guests",
+      "outlet": "Page Six",
+      "date": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaUtDR3ZlZ2t4RXhVcFF4WmZBdmRnQklWOHJDOWZnUzhEZW9FQVdpMXAyTTBwUVN2ZjZ6SlduekpEUTdmWHZmMTNJcWZ2U2JYN0U0bjYzQ1JudGhQdGZuMmV3RXg2Y2w1UU5qVHpnVUlTLTNsekhSVGJqakhTSUZQTHpKNnpoNXdneUtaUmoybGRvTFhKTTQ1Z1lJYl9oc2ZwX1ZvYW5RYlFuemdfbUtwQzF5dHFwQ2xZOUsxS0ZqeGc1cUhVXy1pVkF3QkVmQlY3M1dQTVE4UlY?oc=5"
+    },
+    {
       "title": "Karlie Kloss addresses surprise attendance at Taylor Swift’s wedding after reported falling out",
       "outlet": "Yahoo",
       "date": "2026-07-28",
@@ -2332,16 +2309,34 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMzhRb1NBUXd2NTkwRFFjSFpTa1c1TVNKT2xLa25nYnB5SnVQWFFmUTZsSGVFUnQ1Ri1DYzFTeEtVSHRCTlZxMURDbUdyZW5pRjBHMXdGWVcyaUJTWHVwWEs4U2E3MTh2ZGtMSDJWeDhuQWVpY3FZLVFRWm9zekVWSmMwaWpjUnlxeVdoYWowbW1wUkdyUDllWUxpdUVoQVlyY2t1bF85cUZzQQ?oc=5"
     },
     {
-      "title": "Travis Kelce was 'a puddle' seeing bride Taylor Swift, Joe Buck says",
-      "outlet": "USA Today",
-      "date": "2026-07-28",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWEZsZS1TSEtfY2xTUVY3dGRYYXpObmFFLTNjdXdrVjJHTlFzQmZXNWc4b25idWdhelFjQmZhOXNrMGU3djFaOFlhbXNsQkkzNG9xd2l4cDN5VTNzMnplX0Y2ajlyM2d0QjNfT0ZSWUhFRWVFRHp0TWxGQXZ5UERQOXlxbzFIWmxlQUxUTzFZdnhEUmJmZVNYcUxlQUxPdWo2Z29vZTAzQldBWHNsVjI0X29zR3pGYmQxem1xcmdiWXE?oc=5"
-    },
-    {
       "title": "Karlie Kloss Called Taylor Swift and Travis Kelce ‘an Amazing Couple’",
       "outlet": "jezebel.com",
       "date": "2026-07-28",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTnBjc1owbzIwNWJvUGRFbWVGcG5NUTNrbk5PVkNNQU11MkZQcm5zeUhwV2dWbG81TmtyNWxOaHJ4WmpHWXoxT19ONHlmbFhCSGpTcndYSVhHck1OYkJNbWFiZG9LdEs4TGpyM1JFNERfdVFxc2tTXzJBYnVpUmpmWnhkaGI4enRWS2ZTMDRLNThVLUlVNXc?oc=5"
+    },
+    {
+      "title": "Taylor Swift and Travis Kelce wedding guest insists he didn't sneak in phone as Kevin Hart calls him out",
+      "outlet": "Page Six",
+      "date": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONnowRm1lMDFZckhpVXdCMW5wQXh6SFlhdVpQSTBoWmVwd3M5RnpvOU1DS3dFZHN5dWV0UjhlSGJfYXVOTzROTWtaV3lPeUx5UnBIZW42VDZXOUV3eXFuY0JudVBUTUZNeEtSTnhjSXlNUWJoYmNLblBFT2RpTHkxZTdvclp0dmkwYWM0TUNQRWNwSGhWSEpyWmp3TV9nbUhmUXBvNzFoMUdFaUxaNjdrMW9KLVRyYUNDUmdYcnZIaUFJQlM2azNTRjJZb0FBVGJsLTk1ODBXU19wT0ptYkFpN3BhRQ?oc=5"
+    },
+    {
+      "title": "Marcello Hernández Shares the Most “Surprising” Part of Taylor Swift and Travis Kelce’s Wedding",
+      "outlet": "instyle.com",
+      "date": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQenFtcUEyMmlfSzVTSmxJRldqc2tLMzd1SXBvVmF5Z1FITlQxS1FBbDlqcWNWR1I3ZXd3cENVNGNJRzZOSHFRVkpJQmZUdjVzYkFUd3M0TUV0Q0VOZ0V1WW95STBUdTVRaFRiMlUxVmMxeDVxSGRqZ1NLOXR3dWhxSEUxQXRFRmduS1QzdW5TeUltbS1xWXZFNkx1V3hwVWdJR2k4VTQ0b0NJQXNHLVFTWU1PQQ?oc=5"
+    },
+    {
+      "title": "Taylor Swift & Travis Kelce's 'Long' Vows 'Were Funny' Reveals Wedding Guest",
+      "outlet": "Yahoo",
+      "date": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQzNuLUYzMDVmYXZqc2p0Yk5uLVc2RFBIQzlKOEFYa2tiVzA2X0lzTlZyUi15Wkd5WThibDlZaFdmZDQ2d2tvbXdyaVg5a0lZUVBNRkxIVHFta3ZFNnk5TWwzU3QwREVlcWdESU9Sd0ZZcl9tczRMSHpQZnU2cF84dlhPekVJeEFINDhBUDg5LUNTbzlIcGFKZzdjU3R2bXBmTjNB?oc=5"
+    },
+    {
+      "title": "The NFL Merch Designer for Stars Like Taylor Swift Is Making a Chair for La-Z-Boy",
+      "outlet": "ADWEEK",
+      "date": "2026-07-28",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbzBVVGh1WXl5TWlscHlDMzJGakJ6TndXVE8wY0FDd0tGTE1KSkFLeFBkY3Y3X0t4QmFWNE0ySjRUMGp2VFUxS19LRG9MZ1B6N0lSeWJFSnYwQ2NUZWc0Q0dSYVJnV2hCRFFRUFpmVVFqMTNfU3lidFpWX3BlNEQ2d2lndmdlcGZFLWQtVWY0Yk83aHF3SzJ1LU9sUVFpYjl6elBkZm5xU0sxRzNRdHB4dEVMbmhQaHhNNGxEYTRn?oc=5"
     }
   ],
   "bio": {

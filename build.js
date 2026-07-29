@@ -570,10 +570,13 @@ async function stampHtml(site) {
     let html = await fs.readFile(file, 'utf8');
     const before = html;
 
-    html = swap(html, 'property', 'og:image', r.art);
+    // og:image and twitter:image are deliberately NOT stamped here. They used
+    // to carry the latest release's cover art, which meant the share card was
+    // a third-party CDN URL that changed on every new release and would break
+    // outright if Apple rotated it. They point at our own assets/img/og.jpg
+    // instead, written once by stampSeo() so it tracks the domain.
     html = swap(html, 'property', 'og:description', desc);
     html = swap(html, 'name', 'description', desc);
-    html = swap(html, 'name', 'twitter:image', r.art);
 
     if (html !== before) {
       await fs.writeFile(file, html, 'utf8');
@@ -699,9 +702,21 @@ async function stampSeo(site, siteUrl, lastmod) {
     ? html.replace(/<meta property="og:url"[^>]*>/, ogUrl)
     : html.replace('<meta name="twitter:card"', `${ogUrl}\n<meta name="twitter:card"`);
 
+  // The share card. Absolute because Open Graph consumers don't resolve
+  // relative URLs, and rebuilt from `base` so moving domains can't strand it.
+  const ogImage = `${base}/assets/img/og.jpg`;
+  html = html.replace(
+    /(<meta property="og:image" content=")[^"]*(")/,
+    (_, a, b) => a + ogImage + b
+  );
+  html = html.replace(
+    /(<meta name="twitter:image" content=")[^"]*(")/,
+    (_, a, b) => a + ogImage + b
+  );
+
   if (html !== before) {
     await fs.writeFile(file, html, 'utf8');
-    wrote.push('canonical + og:url');
+    wrote.push('canonical + og:url + og:image');
   }
 
   if (wrote.length) log.ok(`${wrote.join(', ')} → ${base}`);
