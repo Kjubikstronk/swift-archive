@@ -113,12 +113,21 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
 /* Started as a conic gradient, which was wrong: a conic sweeps around a centre
    point, so its 0°/360° seam cuts through whichever letter it lands on — the R
    in TAYLOR came out visibly out of step with its neighbours. A linear gradient
-   has no seam. The rainbow is listed twice so 0% and -200% are identical
-   colours and the loop never jumps. */
+   has no seam of its own.
+
+   It does still tile, though, and that was a second bug: the list ran r1…r6
+   twice and stopped, so the image ended on purple and the next copy began on
+   pink. Those met with no interpolation — a 99/255 hard edge that the
+   animation then dragged across the letters every 6s. Ending on a repeated
+   --r1 makes the last pixel match the first, so the tiling is invisible.
+   Listing the rainbow twice is what keeps the -200% shift a whole number of
+   image widths; the trailing stop is what makes the tile seamless. Both are
+   needed — they fix different things. */
 .holo {
   background: linear-gradient(100deg,
     var(--r1), var(--r2), var(--r3), var(--r4), var(--r5), var(--r6),
-    var(--r1), var(--r2), var(--r3), var(--r4), var(--r5), var(--r6));
+    var(--r1), var(--r2), var(--r3), var(--r4), var(--r5), var(--r6),
+    var(--r1));
   background-size: 200% 100%;
   -webkit-background-clip: text;
   background-clip: text;
