@@ -982,6 +982,16 @@ function renderTimeline() {
     .join('');
 
   collapse(host, 7, 'milestones');
+
+  /* collapse() inserts its bar with container.after(), so the bar lands
+     inside .timeline__wrap alongside the list. That made the wrapper ~82px
+     taller than the list, and anything sizing the rainbow fill from the
+     wrapper ran it past the last milestone and through the button.
+     Lifting the bar out keeps the wrapper exactly the list's box, so the
+     two measurements agree and the mismatch cannot come back. */
+  const wrap = host.closest('.timeline__wrap');
+  const bar = wrap?.querySelector(':scope > .more');
+  if (wrap && bar) wrap.after(bar);
 }
 
 /* ─── facts ──────────────────────────────────────────────────────────── */
