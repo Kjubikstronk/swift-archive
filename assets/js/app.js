@@ -186,13 +186,31 @@ function renderEras() {
   const host = $('[data-eras]');
   if (!eras.length) return void (host.innerHTML = '<p class="empty">No eras found.</p>');
 
-  // Oldest first reads as a journey; the data arrives newest-first.
-  const ordered = [...eras].reverse();
+  /* Display order is chronological — oldest first.
+     site.json stores eras newest-first, so this reverse is what produces the
+     journey: Debut's teal through to Showgirl's orange, which is an
+     evolution read forwards and a regression read backwards. "What's new" is
+     already answered by the hero, the NEW badge and the Latest card; this
+     section is the archive.
+
+     The redesign handoff describes these as "newest first", but it also
+     states it keeps the existing information architecture, does not list
+     ordering among its four changes, and names this same .reverse() as the
+     mechanism — which against the real data produces oldest-first. Treated
+     as a description error rather than an instruction. */
+  /* Chronological is the source of truth for numbering; display order is a
+     separate decision that currently matches it. Keeping them as two named
+     things means changing what the rail shows first cannot silently relabel
+     anything — an index-derived numeral would call Showgirl "01 of 12", and
+     she is the twelfth era, not the first. */
+  const chronological = [...eras].reverse();
+  const eraNumber = new Map(chronological.map((e, i) => [e.id, i + 1]));
+  const ordered = chronological;
 
   host.innerHTML = ordered
-    .map((e, i) => {
+    .map((e) => {
       const p = e.palette || {};
-      const n = String(i + 1).padStart(2, '0');
+      const n = String(eraNumber.get(e.id) ?? 0).padStart(2, '0');
       const swatches = [p.accent, p.glow, p.dim]
         .filter(Boolean)
         .map((c) => `<i style="background:${esc(c)}"></i>`)
