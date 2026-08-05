@@ -608,8 +608,6 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
 
 @media (max-width: 900px) {
   .era, .era:nth-child(even) { grid-template-columns: 1fr; direction: ltr; }
-  /* Un-pin the cover — sticky in a single narrow column just hangs. */
-  .era__art { position: static; }
 }
 
 /* ─── eras carousel (<=780px) ────────────────────────────────────────── */
@@ -691,11 +689,17 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
 }
 .eras .more[hidden] { display: none; }
 
-/* Sticky so the cover pins while its copy scrolls past. Dropped back to
-   static at <=900px, where a single narrow column makes it hang awkwardly. */
+/* Not sticky.
+   The redesign asked for `position: sticky; top: 7rem` so the cover would
+   pin while its copy scrolled past. That needs the copy column to be taller
+   than the cover, and here it never is: the cover is a square at 0.8fr
+   (502px at 1440px wide) and the blurb beside it runs about 366px, so the
+   cover is the tallest item in its own grid row and defines that row's
+   height. Measured travel room: 0px. It pinned nothing on desktop, and in
+   the mobile carousel it left every cover floating ~112px down its card at
+   slightly different offsets, which is what made swiping look broken. */
 .era__art {
-  position: sticky;
-  top: 7rem;
+  position: relative;
   aspect-ratio: 1;
   border-radius: 20px;
   overflow: hidden;
