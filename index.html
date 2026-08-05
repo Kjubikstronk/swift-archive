@@ -171,6 +171,7 @@
 
 <!-- ─── nav ─────────────────────────────────────────────────────────── -->
 <header class="nav" id="nav">
+  <div class="nav__progress" data-progress aria-hidden="true"></div>
   <a href="#top" class="nav__mark">
     <span class="holo">SWIFT</span><span class="nav__mark-b">ARCHIVE</span>
   </a>
@@ -184,16 +185,31 @@
     <a href="#timeline">Timeline</a>
   </nav>
   <div class="nav__live" title="Checked against Apple Music, Deezer, YouTube and the news wire every few hours. This shows when something last actually changed.">
+    <span class="nav__era" data-erareadout aria-hidden="true"></span>
     <span class="dot" aria-hidden="true"></span>
     <span data-generated>live</span>
   </div>
 </header>
+
+<!-- Below 1000px the header's links are hidden. Before this existed nothing
+     replaced them, so a phone visitor could only reach a section by scrolling
+     the whole page. -->
+<nav class="dock" aria-label="Sections">
+  <a href="#eras">Eras</a>
+  <a href="#latest">Latest</a>
+  <a href="#discography">Releases</a>
+  <a href="#cats">Cats</a>
+  <a href="#watch">Watch</a>
+  <a href="#news">News</a>
+  <a href="#timeline">Timeline</a>
+</nav>
 
 <main id="main">
 
 <!-- ─── hero ────────────────────────────────────────────────────────── -->
 <section class="hero" id="top">
   <div class="hero__art" aria-hidden="true"><img data-hero-art alt="" decoding="async"></div>
+  <div class="hero__aura" aria-hidden="true"></div>
 
   <div class="hero__inner">
     <p class="hero__kicker">
@@ -211,6 +227,11 @@
       Twelve eras in one place, updating itself the day something new lands.
     </p>
 
+    <div class="erajump">
+      <p class="erajump__label">Jump to an era</p>
+      <div class="erajump__row" data-erachips></div>
+    </div>
+
     <dl class="hero__stats" data-stats></dl>
 
     <a class="hero__cue" href="#eras">
@@ -222,11 +243,12 @@
 
 <!-- ─── eras ────────────────────────────────────────────────────────── -->
 <section class="eras" id="eras">
-  <div class="section__head section__head--wide">
+  <div class="section__head section__head--wide section__head--tight">
     <h2 class="section__title">The Eras</h2>
-    <span class="section__meta">Scroll — the whole page follows along</span>
+    <span class="section__meta">Swipe or scroll — the page follows along</span>
   </div>
-  <div class="eras__rail" data-eras></div>
+  <div class="scrub" data-scrub-host role="tablist" aria-label="Jump to era"></div>
+  <div class="eras__rail" data-eras data-erasrail></div>
 </section>
 
 <!-- ─── latest ──────────────────────────────────────────────────────── -->
@@ -291,7 +313,10 @@
     <h2 class="section__title">Timeline</h2>
     <span class="section__meta">2006 — now</span>
   </div>
-  <ol class="timeline" data-timeline></ol>
+  <div class="timeline__wrap">
+    <div class="timeline__fill" data-tlfill aria-hidden="true"></div>
+    <ol class="timeline" data-timeline></ol>
+  </div>
 </section>
 
 <!-- ─── facts ───────────────────────────────────────────────────────── -->

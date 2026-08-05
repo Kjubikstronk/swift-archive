@@ -102,11 +102,12 @@ async function boot() {
   renderFacts();
   renderFooter();
 
+  renderScrubber();
+
   initReveal();
   initAnchorReveal();
   initNav();
-  initEraTakeover();
-  initErasCollapse();
+  initScrollEngine();
   initSparkles();
 }
 
@@ -131,9 +132,11 @@ function renderHero() {
 
   $('[data-stats]').innerHTML = cells
     .map(([label, value, sup]) =>
-      `<div><dd>${esc(value)}${sup ? `<span>${sup}</span>` : ''}</dd><dt>${esc(label)}</dt></div>`
+      `<div><dd class="holo">${esc(value)}${sup ? `<span>${sup}</span>` : ''}</dd><dt>${esc(label)}</dt></div>`
     )
     .join('');
+
+  renderEraChips();
 
   const stamp = generated ? new Date(generated) : null;
   if (stamp) {
@@ -142,6 +145,36 @@ function renderHero() {
     $('[data-generated-full]').textContent =
       `Last rebuild — ${stamp.toLocaleString('en-US', { dateStyle: 'medium', timeStyle: 'short' })}`;
   }
+}
+
+/**
+ * The "jump to an era" row in the hero.
+ *
+ * An earlier pass made these twelve bare colour bars. They looked good and
+ * said nothing — nobody knows which era is which colour. Each chip carries
+ * the cover thumbnail, the name and the year, so it's readable before you
+ * click it.
+ */
+function renderEraChips() {
+  const host = $('[data-erachips]');
+  if (!host) return;
+
+  const eras = [...(DATA.eras || [])].reverse();
+  if (!eras.length) return void (host.innerHTML = '');
+
+  host.innerHTML = eras
+    .map((e) => {
+      const glow = e.palette?.glow || 'currentColor';
+      const thumb = e.artSmall || e.art;
+      return `
+      <a class="erachip" href="#era-${esc(e.id)}" title="${esc(e.name)} · ${esc(e.year)}"
+         style="--chip-glow:${esc(glow)}">
+        ${thumb ? `<img src="${esc(thumb)}" alt="" loading="lazy" decoding="async">` : ''}
+        <span>${esc(e.name)}</span>
+        <span class="erachip__yr">${esc(e.year)}</span>
+      </a>`;
+    })
+    .join('');
 }
 
 /* ═══════════════════════════════════════════════════════════════════════
@@ -172,7 +205,10 @@ function renderEras() {
           ${e.art ? `<img src="${esc(e.art)}" alt="${esc(e.name)} album cover" loading="lazy" decoding="async" width="1400" height="1400">` : ''}
         </figure>
         <div>
-          <p class="era__no">Era ${n} / ${ordered.length}</p>
+          <p class="era__no">
+            <span class="era__numeral holo">${n}</span>
+            <span class="era__of">of ${ordered.length}</span>
+          </p>
           <h3 class="era__name">${esc(e.name)}</h3>
           <p class="era__year">${esc(e.year)}</p>
           <p class="era__blurb">${esc(e.blurb || '')}</p>
@@ -193,127 +229,219 @@ function renderEras() {
  * of the viewport. Six custom properties change; every rule that references
  * them follows automatically, which is why nothing else hardcodes a colour.
  */
-function initEraTakeover() {
-  const eras = DATA.eras || [];
-  if (!eras.length || !('IntersectionObserver' in window)) return;
+/**
+ * Twelve dots under the eras header. Only visible in carousel mode (<=780px),
+ * where the rail scrolls sideways and there is otherwise no sense of how far
+ * through the twelve you are.
+ */
+function renderScrubber() {
+  const host = $('[data-scrub-host]');
+  const cards = $$('.era');
+  if (!host || !cards.length) return;
 
-  const byId = new Map(eras.map((e) => [e.id, e]));
-  const root = document.documentElement;
+  host.innerHTML = cards
+    .map((el, i) => {
+      const e = (DATA.eras || []).find((x) => x.id === el.dataset.era) || {};
+      const p = e.palette || {};
+      const fill = `linear-gradient(180deg, ${esc(p.glow || 'currentColor')}, ${esc(p.accent || 'currentColor')})`;
+      return `<button type="button" data-scrub data-i="${i}" style="background:${fill}"
+                aria-label="Go to ${esc(e.name || 'era ' + (i + 1))}"></button>`;
+    })
+    .join('');
 
-  const apply = (era) => {
-    const p = era?.palette;
-    if (!p) return;
-    for (const [k, v] of Object.entries(p)) root.style.setProperty(`--${k}`, v);
-    root.dataset.era = era.id;
-    const meta = $('meta[name="theme-color"]');
-    if (meta) meta.setAttribute('content', p.bg);
-  };
+  const rail = $('[data-erasrail]') || $('.eras__rail');
 
-  const io = new IntersectionObserver(
-    (entries) => {
-      // Whichever era occupies most of the band wins, so a fast scroll doesn't
-      // leave the page tinted by whatever happened to fire last.
-      const best = entries
-        .filter((e) => e.isIntersecting)
-        .sort((a, b) => b.intersectionRatio - a.intersectionRatio)[0];
-      if (best) apply(byId.get(best.target.dataset.era));
-    },
-    { rootMargin: '-42% 0px -42% 0px', threshold: [0, 0.5, 1] }
-  );
+  host.addEventListener('click', (ev) => {
+    const btn = ev.target.closest('[data-scrub]');
+    if (!btn) return;
+    const card = $$('.era')[+btn.dataset.i];
+    if (!card || !rail) return;
 
-  $$('.era').forEach((el) => io.observe(el));
-
-  // Above the rail no era intersects, so the page kept whichever palette fired
-  // last — the hero rendered in Showgirl orange. An IntersectionObserver alone
-  // doesn't fix it: it only fires on threshold *crossings*, so a page restored
-  // mid-scroll and then scrolled to the top never gets an event. Checking the
-  // scroll position directly is deterministic.
-  const HOME = {
-    bg: '#12172E', surface: '#1C2240', ink: '#ECEDFB',
-    dim: '#A9AEDA', accent: '#7B7FD4', glow: '#A8ADFF',
-  };
-  const rail = $('#eras');
-  if (!rail) return;
-
-  let atHome = null;
-  const checkHome = () => {
-    const home = window.scrollY < rail.offsetTop - innerHeight * 0.5;
-    if (home === atHome) return;
-    atHome = home;
-    if (home) apply({ id: 'home', palette: HOME });
-  };
-
-  addEventListener('scroll', checkHome, { passive: true });
-  checkHome();
+    // In carousel mode scroll the rail; otherwise centre the card in the page.
+    if (rail.scrollWidth > rail.clientWidth + 12) {
+      rail.scrollTo({
+        left: card.offsetLeft - (rail.clientWidth - card.offsetWidth) / 2,
+        behavior: reduced ? 'auto' : 'smooth',
+      });
+    } else {
+      card.scrollIntoView({ behavior: reduced ? 'auto' : 'smooth', block: 'center' });
+    }
+  });
 }
+
+/* ─── palette interpolation ──────────────────────────────────────────── */
+
+const PAL_KEYS = ['bg', 'surface', 'ink', 'dim', 'accent', 'glow'];
+
+/** The palette before any era takes over. */
+const HOME_PALETTE = {
+  bg: '#12172E', surface: '#1C2240', ink: '#ECEDFB',
+  dim: '#A9AEDA', accent: '#7B7FD4', glow: '#A8ADFF',
+};
+
+const hex2rgb = (h = '#000') => {
+  const s = h.replace('#', '');
+  const n = parseInt(s.length === 3 ? s.split('').map((c) => c + c).join('') : s, 16);
+  return [(n >> 16) & 255, (n >> 8) & 255, n & 255];
+};
+
+const mixHex = (a, b, t) => {
+  const A = hex2rgb(a);
+  const B = hex2rgb(b);
+  return 'rgb(' + A.map((v, i) => Math.round(v + (B[i] - v) * t)).join(',') + ')';
+};
+
+const blendPalette = (pa, pb, t) => {
+  const out = {};
+  for (const k of PAL_KEYS) out[k] = mixHex(pa[k], pb[k], t);
+  return out;
+};
 
 /**
- * On mobile, all twelve eras stacked ran to 8-10 screens before the page
- * reached anything else. Collapse behind a "Show all" toggle there — the
- * full scroll-through-every-era experience stays intact above 560px, where
- * scrolling through all twelve *is* the point of the page.
+ * The scroll engine.
  *
- * Gated on the same 560px breakpoint the mobile era CSS already uses, and
- * re-evaluated on resize/rotate so a phone turned sideways past that width
- * gets the full rail without a reload.
+ * Everything scroll-driven lives in one rAF-throttled handler: the palette
+ * blend, the progress bar, the timeline fill, the era readout, the scrubber
+ * and the nav hide. Adding a second scroll listener anywhere else on the page
+ * means two handlers competing for the same frame — don't.
+ *
+ * The palette used to be swapped by an IntersectionObserver, which gave
+ * twelve discrete states that snapped, with a 900ms CSS transition papering
+ * over the jump on two properties while borders, glows and chips changed
+ * instantly. This blends the six tokens continuously between neighbouring
+ * era cards instead. Everything derived from them (--line, --card, chip
+ * borders, cover glows) is a color-mix() over those tokens, so it all slides
+ * for free.
  */
-function initErasCollapse() {
-  const rail = $('[data-eras]');
-  if (!rail) return;
+function initScrollEngine() {
+  const eras = DATA.eras || [];
+  const root = document.documentElement;
+  const nav = $('#nav');
+  const rail = $('[data-erasrail]') || $('.eras__rail');
+  const erasSection = $('#eras');
+  const bar = $('[data-progress]');
+  const readout = $('[data-erareadout]');
+  const tlFill = $('[data-tlfill]');
+  const timeline = $('#timeline');
+  const themeMeta = $('meta[name="theme-color"]');
 
-  const KEEP = 3;
-  const mq = matchMedia('(max-width: 560px)');
-  const items = () => [...rail.children];
+  // Cards are rendered newest-first, so pair each with its own palette by
+  // reading the id off the element rather than trusting array order.
+  const byId = new Map(eras.map((e) => [e.id, e]));
+  const cards = () => $$('.era');
 
-  let bar = null;
-  let expanded = false;
+  const applyPalette = (pal) => {
+    for (const k of PAL_KEYS) root.style.setProperty(`--${k}`, pal[k]);
+    if (themeMeta) themeMeta.setAttribute('content', pal.bg);
+  };
+
+  let lastReadout = '';
+  let lastY = window.scrollY;
 
   const paint = () => {
-    const els = items();
-    const collapsedNow = mq.matches && !expanded;
-    els.forEach((el, i) => { el.hidden = collapsedNow && i >= KEEP; });
-    if (bar) bar.hidden = !mq.matches || els.length <= KEEP;
+    const list = cards();
+
+    // ── palette ──
+    if (list.length && erasSection) {
+      // A rail wider than its box means the mobile carousel, where the
+      // meaningful axis is horizontal.
+      const horiz = rail && rail.scrollWidth > rail.clientWidth + 12;
+      const target = horiz ? rail.getBoundingClientRect().left + rail.clientWidth / 2
+                           : innerHeight * 0.5;
+
+      const centres = list.map((el) => {
+        const r = el.getBoundingClientRect();
+        return horiz ? r.left + r.width / 2 : r.top + r.height / 2;
+      });
+
+      const palOf = (el) => byId.get(el.dataset.era)?.palette || HOME_PALETTE;
+      let pal;
+      let nearest = 0;
+
+      if (target <= centres[0]) {
+        // Melt the hero into the first era rather than flipping to it. The
+        // eras section's top edge is t=0, the first card's centre is t=1.
+        const start = horiz
+          ? rail.getBoundingClientRect().left
+          : erasSection.getBoundingClientRect().top;
+        const span = centres[0] - start;
+        const t = span > 0 ? Math.min(1, Math.max(0, (target - start) / span)) : 1;
+        pal = blendPalette(HOME_PALETTE, palOf(list[0]), t);
+        nearest = t > 0.5 ? 0 : -1;
+      } else if (target >= centres[centres.length - 1]) {
+        pal = palOf(list[list.length - 1]);
+        nearest = list.length - 1;
+      } else {
+        let i = 0;
+        while (i < centres.length - 1 && target > centres[i + 1]) i += 1;
+        const span = centres[i + 1] - centres[i];
+        const t = span > 0 ? (target - centres[i]) / span : 0;
+        pal = blendPalette(palOf(list[i]), palOf(list[i + 1]), t);
+        nearest = t > 0.5 ? i + 1 : i;
+      }
+
+      applyPalette(pal);
+
+      // ── era readout + scrubber ──
+      const name = nearest >= 0 ? (byId.get(list[nearest]?.dataset.era)?.name || '') : '';
+      if (readout && name !== lastReadout) {
+        readout.textContent = name;
+        lastReadout = name;
+      }
+      $$('[data-scrub]').forEach((d, i) => {
+        if (i === nearest) d.setAttribute('data-on', '');
+        else d.removeAttribute('data-on');
+      });
+    }
+
+    // ── progress bar ──
+    if (bar) {
+      const max = document.documentElement.scrollHeight - innerHeight;
+      bar.style.width = (max > 0 ? (window.scrollY / max) * 100 : 0) + '%';
+    }
+
+    // ── timeline rainbow fill ──
+    // Measured against the fill's own offset parent, not the whole section —
+    // the section includes its heading, which would put the fill out of step
+    // with the track it sits on.
+    if (tlFill) {
+      const wrap = tlFill.parentElement;
+      const b = wrap.getBoundingClientRect();
+      const done = Math.min(1, Math.max(0, (innerHeight * 0.7 - b.top) / Math.max(1, b.height)));
+      tlFill.style.height = done * b.height + 'px';
+    }
+
+    // ── nav hide ──
+    if (nav) {
+      const y = window.scrollY;
+      nav.classList.toggle('nav--hidden', y > lastY && y > 400);
+      lastY = y;
+    }
   };
 
-  const ensureBar = () => {
-    if (bar) return;
-    const total = items().length;
-    if (total <= KEEP) return;
-
-    bar = document.createElement('div');
-    bar.className = 'more';
-    bar.innerHTML = `
-      <button type="button" aria-expanded="false">
-        <span>Show all ${total} eras</span>
-        <svg viewBox="0 0 24 24" width="12" height="12" aria-hidden="true"><path d="M6 9l6 6 6-6" fill="none" stroke="currentColor" stroke-width="2"/></svg>
-      </button>
-      <span class="more__line"></span>`;
-
-    const btn = bar.querySelector('button');
-    btn.addEventListener('click', () => {
-      expanded = !expanded;
-      paint();
-      btn.setAttribute('aria-expanded', String(expanded));
-      btn.querySelector('span').textContent = expanded ? 'Show less' : `Show all ${total} eras`;
-      if (!expanded) rail.scrollIntoView({ block: 'nearest' });
-    });
-
-    // A rail child, not a sibling after it — that way the grid's own `gap`
-    // spaces it consistently with the era cards instead of stacking its own
-    // top margin on top of the gap.
-    rail.appendChild(bar);
+  let ticking = false;
+  const onScroll = () => {
+    if (ticking) return;
+    ticking = true;
+    requestAnimationFrame(() => { ticking = false; paint(); });
   };
 
-  ensureBar();
-  // Belt and braces: MediaQueryList's own 'change' event is the spec-correct
-  // trigger and fires on real device rotation, but a plain window resize is
-  // the more reliably-dispatched signal across environments (this browser
-  // pane's own resize tool doesn't fire an mql 'change' event, only 'resize').
-  // paint() re-reads mq.matches fresh each time, so either firing is enough.
-  mq.addEventListener('change', paint);
-  addEventListener('resize', paint, { passive: true });
+  addEventListener('scroll', onScroll, { passive: true });
+  addEventListener('resize', onScroll, { passive: true });
+  // The rail scrolls horizontally inside the page on mobile, and the palette
+  // has to answer to that too.
+  if (rail) rail.addEventListener('scroll', onScroll, { passive: true });
+
   paint();
 }
+
+/* initErasCollapse() lived here. It hid all but three eras behind a
+ * "Show all" toggle below 560px, because twelve stacked cards ran to ten
+ * screens on a phone. The <=780px snap carousel solves the same problem
+ * without hiding anything, and the two actively fought: the collapse left
+ * the carousel with three cards to swipe, put its toggle bar inside the
+ * horizontal strip as a flex item, and left the twelve-dot scrubber
+ * pointing at nine cards that were not in the DOM. */
 
 /* ─── latest ─────────────────────────────────────────────────────────── */
 
@@ -953,17 +1081,15 @@ function initAnchorReveal() {
   addEventListener('hashchange', jumpToHash);
 }
 
+/**
+ * Scroll spy for the desktop nav and the mobile dock.
+ *
+ * The nav hide/show lives in initScrollEngine's rAF handler, not here — one
+ * scroll listener for the whole page.
+ */
 function initNav() {
-  const nav = $('#nav');
-  let last = window.scrollY;
-
-  addEventListener('scroll', () => {
-    const y = window.scrollY;
-    nav.classList.toggle('nav--hidden', y > last && y > 400);
-    last = y;
-  }, { passive: true });
-
   const links = $$('.nav__links a');
+  const dockLinks = $$('.dock a');
   const sections = links.map((a) => $(a.getAttribute('href'))).filter(Boolean);
   if (!sections.length || !('IntersectionObserver' in window)) return;
 
@@ -971,9 +1097,12 @@ function initNav() {
     (entries) => {
       for (const e of entries) {
         if (!e.isIntersecting) continue;
-        links.forEach((a) =>
-          a.classList.toggle('is-active', a.getAttribute('href') === `#${e.target.id}`)
-        );
+        const href = `#${e.target.id}`;
+        links.forEach((a) => a.classList.toggle('is-active', a.getAttribute('href') === href));
+        dockLinks.forEach((a) => {
+          if (a.getAttribute('href') === href) a.setAttribute('data-on', '');
+          else a.removeAttribute('data-on');
+        });
       }
     },
     { rootMargin: '-45% 0px -50% 0px' }
@@ -1043,7 +1172,9 @@ function initSparkles() {
     cv.height = h * dpr;
     ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
     // Scale the count to the viewport so a phone isn't drawing a laptop's worth.
-    const n = Math.round(Math.min(110, (w * h) / 16000));
+    // Denser than the previous 110 / 16000 — the brief is glitter, and the
+    // sprite cache below is what makes the extra particles affordable.
+    const n = Math.round(Math.min(150, (w * h) / 12500));
     stars = Array.from({ length: n }, spawn);
   };
 
