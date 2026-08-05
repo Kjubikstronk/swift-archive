@@ -340,7 +340,7 @@ function initScrollEngine() {
   const bar = $('[data-progress]');
   const readout = $('[data-erareadout]');
   const tlFill = $('[data-tlfill]');
-  const timeline = $('#timeline');
+  const tlList = $('.timeline');
   const themeMeta = $('meta[name="theme-color"]');
 
   // Cards are rendered newest-first, so pair each with its own palette by
@@ -419,12 +419,14 @@ function initScrollEngine() {
     }
 
     // ── timeline rainbow fill ──
-    // Measured against the fill's own offset parent, not the whole section —
-    // the section includes its heading, which would put the fill out of step
-    // with the track it sits on.
-    if (tlFill) {
-      const wrap = tlFill.parentElement;
-      const b = wrap.getBoundingClientRect();
+    // Measured against the <ol> itself, NOT the wrapper. collapse() appends
+    // the "Show all N milestones" bar to the list's parent, which since the
+    // wrapper was introduced is the wrapper — so the wrapper is ~82px taller
+    // than the list, and measuring it ran the rainbow past the last
+    // milestone and straight through the button. The track (.timeline::before)
+    // is drawn on the <ol>, so measuring the same box keeps the two aligned.
+    if (tlFill && tlList) {
+      const b = tlList.getBoundingClientRect();
       const done = Math.min(1, Math.max(0, (innerHeight * 0.7 - b.top) / Math.max(1, b.height)));
       tlFill.style.height = done * b.height + 'px';
     }
