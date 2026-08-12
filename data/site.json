@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-11T19:26:55.556Z",
+  "generated": "2026-08-12T02:46:22.358Z",
   "artist": {
     "name": "Taylor Swift",
     "full": "Taylor Alison Swift",
@@ -2200,10 +2200,16 @@
   ],
   "news": [
     {
-      "title": "Taylor Swift Becomes Youngest Person Ever Inducted Into Nashville Songwriters Hall of Fame",
-      "outlet": "inmusicblog.com",
+      "title": "Taylor Swift to become youngest inductee into the Nashville Songwriters Hall of Fame",
+      "outlet": "Everett Post",
+      "date": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOWRRUXJBRWdlaVJJMm95Wnd1UDRyd2lZQUFQbGxOd0hxdWxiTjRsSUlEZl9qV3ZUODNZWkZrclMxN0JybzBveTU5cFZKZlc0VjZBLW1iVWNia05wa3I5UjJfUDVmd2FGaDdtWTFBM1BDd2NLRkhKdjB6aWlKMkJBanNfNDdQYUNkeXV5VGMxdE03UW1SamI5X0NSaUxYTDdGT3JoY2pjYTVGWGg3bW9tcU5qLUVUTmpJc3A0WUZEOWliWVA1WnpYc1J3WDJ3QQ?oc=5"
+    },
+    {
+      "title": "Taylor Swift and Travis Kelce Face Their First Newlywed Reality Check — With Training Camp, Secret Album Sessions and a Four-Legged Family Feud",
+      "outlet": "JubileeCast",
       "date": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRjg4LXUzNEtqUjhEMmFPUXE3SjZJamtvQkxhM05GQjR0MGM2UkZtOTg1WnZMWUZvNVR5d19weFVrM0ZrZmtaS2IzOTh6b1BUSmY1YWpLeC1IbWJkTlM1WUF3RWMzWVFlZmk4MmJrSDhocFAtZmVlUzR5Y2RjYVdac2VKOU1SWUM4VFowNVNEYw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQd0RvTEpfNHVSV000VXE3aHE3R2thMnVPTVhQd01qQ1lzWjQtRHVOUGdLMnNCUkplc2phcEVzd015RUI2aGYzZWh6TzZUYTRJLU1DeEpfR3ZOaElwYWlnaFhnVGZUV1VSVmxDZzM4R0N0RFd3REZ0TUstV2tacEJPQzVPQ3EyU3N4c0tEVC15UjU4Uklmd3NCSjZtb2ZtZmJVUGp1NWVnYXlreWUySFlPQzB4U2ZtS3ZMSE01ZDdEWm5wT2dKV2Q0dk1WbFBadzJQT0ZOZnloeURXRHJKcDZZNG9FSjFJWWFva1dhMVd5UnM5MW1qdHBVaHpkazFEcjNGSEFYU0l6WkZTZHJJME9LZHZ6bDdMYW85LVotcmpwQW9kbzQ2Q3g4dk5vYWVvb28?oc=5"
     },
     {
       "title": "Travis Kelce’s Huge Career Change Could Spell Trouble With Taylor Swift — Expert",
@@ -2212,58 +2218,10 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNalozUUhIaWRsdkhJRzFoWFRPanp4LTVROXd5aGlXZ0xjbmVXbkJkYjRLU1pyVWpkVDZIQTVQWThuM21KNi1ZTEVoZThQcXZTQnlFcDBBRVB0NE1YVnpkUW13Nms0b0N2OWFyRkFPb2x1bXE4UU5SSUliSkNBdkhyRQ?oc=5"
     },
     {
-      "title": "Inside Taylor Swift’s Star-Studded Love Life",
-      "outlet": "Yahoo",
-      "date": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV0d0T2tTNkQ0OTJIUEhpUjZKWUZ3YTdYSkEtN1Q1OFZpQksxUmMyaEltYVQ5Sy1tbkJEWHNnSnlhMWpreFBwSVFrYzVNYWk5Z2xINXE4X3k3amItRldiMUNTeXJhb00tR2NtV0I3TE5SRXVMbDhoTTA0OVJOa0R6TUdaUUo1b09kOUxFTExoMWFyQzNGSXNVSERpa0h3YmFCY3dtYw?oc=5"
-    },
-    {
-      "title": "Taylor Swift and Travis Kelce’s ‘wild’ wedding blamed after Brad Pitt seen drinking at ceremony",
-      "outlet": "MARCA",
-      "date": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPV2hIZVctUEFsNFUwTnpoREs3cVV6U3A3eGhINGo4X1QwMEt2UGw3ZVo0ZzZqVjJCa2JLZklTcDdNTUd1bHN2T1I3YmFvclZYVi1mdUR2YVJJdVRsYS0zZ1hCNlVra0lOUGRPN2VhZFRXbzBadEJUaV9EX21sMHZNcU5iakdzOFo2MENjT2hpdmphcFlIQ1VxTzJKOEViZnRsNFVHQ3hzM3ZDTldFNjBrT0IwY1VwXzViWHRJNVZMSE9sQnlVR3dxZDRaS0I5Z2FJR2JNclJYNTVWcGNIRHpQMGN2dXhtX3ByYWQyZ9IB7AFBVV95cUxNM1AxRGg1dlRURzFCb3V3YjJjOXJvRTJGRHg1N3pKZzFLTTB1eERQY1h3NHd2OTh1U1lLZVNHS1p2THRtbW8yUFBrQUZVQ2JtR3VwUjJzb0dBUU5BU25sZ000S1JiWnYtdDQ0dmxaYmtCOGE5M3NEVVJkWFpWc1J0NkxvNEJKcEl4NXBEZktlZUMyVFA0WEwyQnZSenc5SkJTVV9rSElGT0Z2ZzJPbkxJSnRFcUtReWNWcWZZTWc5OVpRb3VOeEd4d2lQLU9QeTBXbHJkd0dEZ2hrcEEwQjJxN0JlXzJCNHc5TEtfdQ?oc=5"
-    },
-    {
-      "title": "Travis Kelce ‘Done, Over’ After Taylor Swift Wedding, NFL Scout Says",
-      "outlet": "heavy.com",
-      "date": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSWtka3drdVU1MnRnRWh1R3k4Ul85ZVJSY0xTWUVOaW96RHFvUXhHNVo2SDVBcFlEMVZCQnNuc3JEVkE5WGVfZ0g3aHF0UHo4T052VjE0eHRmU3RVNDcxUllYTlJLV3ptMDAwTnVJUkM2Ti01WUxiTFVHRDR5WmthbmE4R0VDWmJuVkljY0M5VWkzdw?oc=5"
-    },
-    {
       "title": "Taylor Swift Becomes Youngest Musician Inducted Into Nashville Songwriters Hall of Fame: ‘Grateful’",
       "outlet": "Us Weekly",
       "date": "2026-08-11",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQX3dmSHJMd3NWWmRmWExBeFlpQ3owSUtsckRJOHRoanhPS0dCT3hFT0FQQVdZdk14cDVheElVajI2UkNxVFNWTnZvQlNWNXhYbU9scVlyZUFDYTFsSVpSWWEzOWZMcG5MSEZjczEtNWJ3MTBDWnhGNlNHMnZDWXYtOTdYYVpNNlB4NVVXTm9uZ3VaZzcwUjdMdi1YdHVxTzV1M2wtWU9KTC1HUQ?oc=5"
-    },
-    {
-      "title": "Taylor Swift adds another history-making milestone to her legendary career",
-      "outlet": "The News International",
-      "date": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaUg3MTFaSFNmYXk4RXpuVG8tZ1FJV0Y4ajFkVURaYURGYXRmRF9IQTJkQ0d0UVAyMGxkcVY0LVhQTjg0VU5xNElRS0kyWTBWVHhkNHE5SXh0N0hTUTlGV1VyT1AzYmFZNjRVU2x1ODdzOTNRYVRCc1plT1Exbm9CcXZ0RlktSkVQRE15WTlNb1hLcUdMR29HUFdZdzNzUktQeDBmVmw5Yy1TOWJDZ0c0cW94SVg2RGfSAbMBQVVfeXFMTmFSMHEzUTRsN3ZzdkJJNjkzWDBNaGNRT2FOV09NaXBaOWdDbWR4NTVFVVhjRy1rUll5ZTM5MnNCX19xcjMtN2poeFU1VmZ0azNldnctaUU5YVB1V0hOWDFVYUxuMHVkdFI0T0ZIaE5neURNN2t6ajRNZ1hpRVlzX3IwVnJSbk1yV2swb2w5UTF6allNN2NLTDRqaGhXdk50Ty1ORDBFNG14eVg5WkpZZWJtTFU?oc=5"
-    },
-    {
-      "title": "Taylor Swift, Lyle Lovett among 2026 Nashville Songwriters Hall of Fame inductees",
-      "outlet": "themusicuniverse.com",
-      "date": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ3hLSU5zWk1RUXR0bjBuLVhUdFFoWmtPbWNJZlM1YUdaQmxXQ3VPOTRSSi1rS1pmMHlYSGNRbnc5M3YtejJrTzA2eWlqbWlYQ1NYQjluei1DUzRrT3lXVHNrUTRGRTdmUmkzdjNJNlN6Umc5dEhwZnJuTFg1eFN5ZVctcngtZERXcjhOY2I3WE9oYmtDTWowOXAybGRqb1NwdHQ3Ymd6MThTNlA0QXdv?oc=5"
-    },
-    {
-      "title": "Taylor Swift joins Nashville Songwriters Hall of Fame at just 36",
-      "outlet": "The Express Tribune",
-      "date": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWjMxTzFOa2ZCdnlObmpMWlljWjhHVVN0c29tc2stR21SaVA5VkJNajN3UGxLVHV2anlwcm5FZ1NhSVlYQ2NnMFJvRnM4UEh3aHROZzFZNlVPTk9RUXdXWnlYalNWRHhXa1gtdV9HOGpiTzJSekxKTFpvQm5zb01NX2F3MWZIVFpGX2RQVlJKUVIxUVZHWEVMMDFCcDhUUXM5SmtF0gGrAUFVX3lxTE5yNkNvaDMxNXAyYWQybnB2TUlUWUNvbTVoTUNqZDB4VkwtcGRqejZzcExvTHY1SzV0RWtEVmo4VEZHenVRYnhDOFBGZGd5UEI2T1hCUHB3VzRWN01qV2cxN3J2OS1VQXRsX19HTDcteGZBV1pxdElUaldldGlxQTFybDljQnl4OUh5cGxBSjdKOHBsOXFIUk5VZ0hqQzU1WXBZMHpxY0dGQUdnVQ?oc=5"
-    },
-    {
-      "title": "Taylor Swift becomes the youngest musician to be inducted into the Nashville Songwriters Hall of Fame",
-      "outlet": "AOL.com",
-      "date": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeWc2dGNrNjd5TVZsc3F0ZDJfdkF1RkY5S2RXVkRZSGNDSlZ2cmlWalF3OHo1SjVITllDNlpDRkpnNE9zcEZlVzZfS1BtTWdqVWNDS05HVVJRRE1NeVBiQVM3a29zOVU2eFZhRHZRaUM3dFF6dXZUSzEtZ3VnUTVtZnpFQ25hanRLc3c?oc=5"
-    },
-    {
-      "title": "‘Toy Story 5’ soundtrack features Taylor Swift original, Randy Newman score",
-      "outlet": "themusicuniverse.com",
-      "date": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVm80TndVa1k0UVd4dC1jR2cySXcwSFp6Y1BFNHYwdy1sdlFUMWtEd09mSHFmenpEY3RZLVZPamktR0xvaHFyNE9UWWcxVnB3T2tOTHloU2k3dU5lUy0weF90WFk5SC0wd0VRQlUyejZubEdXR2xGTjdMbnJ5SzJaUU9jYWFsVjAzOWRONnZXVS1UTm0tUGdDR0RUUzl4ZDZRY1F3Vw?oc=5"
     },
     {
       "title": "Brad Pitt Was Reportedly Drinking at Taylor Swift's Wedding",
@@ -2272,22 +2230,16 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUGtIYnFCZVlHZWFwZVk0NUpaQzhsX2V0X3pYS1IyU2pyTlhXMU9fUlVZOFhwcXp6X1BzSzFxWGpUZC1lZ0FLcnpNUHpIYkxpR2pWcVNwbmNnc3J0Z241MHVXc280XzU4VE1iY29YdHBfQ3ljNEI2dkRudGdNWjFsamktRjhhbGJFdVNkZGZNQ3AyWXZm?oc=5"
     },
     {
-      "title": "The Latest Update on Taylor Swift & Travis Kelce’s Marriage",
-      "outlet": "StyleCaster",
+      "title": "Charissa Thompson reveals bloody wardrobe malfunction from Taylor Swift, Travis Kelce's wedding",
+      "outlet": "Yahoo",
       "date": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORnFnU3hTUDdfTTM1Y0d6RV9rODFpTk9kLXV2QmlCUm9acW9UdXFEbGhPWWVhdlI2WmVtNXJVcVphUlFPVWx5N3kwNjhnSHk0MWNWZUNBRUQ1MmNjSWZMLVpaVU1RWTJQeDBSTVVPQTl3U0EzNnNnaUVuZVA5aEdnOFpWbWYxay1KMTVjYlk4bVg2WHpWeVNkUnYwU3ZHOEpRTk90bFZn?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaThwNWxETWNyXzBETXlENFVZVjhHMXdHVzY2UjhxUER4T2Z3cVU4OUc1QkxuMUtJRGxveEM4Z0VTNEdtTDhweHNQbEp5Vmk4NDJSQmdhSUlvaXdhWm9YakJVSEVjQkhzNnhSaWNJTEMzSzhfLUc0cDlLVjhmbGE3bkxpMWhyYXFxVDZiR3Q5OWtEWjNFdUZfWkMtTklKT0N2SW9qSjF4ZWlSS3RZSVVsVg?oc=5"
     },
     {
-      "title": "Brad Pitt Had an Unexpected Moment at Taylor Swift’s Wedding That Suddenly Makes Sense",
-      "outlet": "SheKnows",
+      "title": "The Reformation sale is bursting with celebrity faves, from Taylor Swift’s dress to Meghan Markle’s top",
+      "outlet": "pagesix.com",
       "date": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONnlLdEoxeFRRUVBZWlBQcVZoTmFxRHVaMUhEUUVyWVIzODNuQmRIX0tIQlo4SlFfdlkxVEJ0bVRUOWNEaUJ4Q2ctUW1yMldua3R3WnFOS2FFT01lcVBuZTZKemNsX1c2dlZZdWJONFlnYnBPc3p5a1BFZlh3NGxmdkV3UTA1LVFuNGJmeEtha0hnNkV1Y1ZXbWZoS0hXX01raWc?oc=5"
-    },
-    {
-      "title": "Taylor Swift joins Nashville Hall of Fame",
-      "outlet": "USA Today",
-      "date": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZGNLUndiUGZRaWF1STJmWXM3MmRGYlozaVZVb29Hc1Q1bDZyVzA1SFB4T0xQR0VBMGV1cjAxbk1IUjBHcGFzdkJCVUhSU29aU1U0OXREVmN2VVVCaG1oS0ptZzE3eVlzMVI3bDFBdl9vMTR2ODlXam1VcGNFVzVXRzBQU0NrT1E5eFZGWnhqSVZVV081SjRVbFZhLVlkd1hlSGZFajVacmN6OTQtOS1oRDVJdy1tTWtz?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1MQm9uRm1rM3NneS1yQjYzWWMzZE5uaGUtRjRNS2RUYWZWV3YwcHVUcFU1cFhRS0VEVzB0bEExWV8zcDlwWkNkNDg4clk2N2tjZUpMT3JodllJd0dYVklBMFoyUVU2QQ?oc=5"
     },
     {
       "title": "Graham Norton Just Revealed His Honest Thoughts On Taylor Swift's Wedding",
@@ -2302,22 +2254,22 @@
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQdXpmM1NZUWY2Vy16eWhQOEtvTldvOGRLRFRBajRQMWRCUFhfQTZ4dzE1eDV5WVctSVVISDQ1RXJGLTZGNkpac1ZmdUZNS18tQlpuT3JKeHNCRU5DbXl6S1BQNUNBSE5LbWZqT0FvZE1FeVJPak1MNzhTUjRaOG1yTVJYVzJyNGpVRWhlTEN6ZkQ1T2tmZ2llemh2Z0J4WEdWYXVrTWdEV0o0bEx2Y2VWaVJ5R0xXQmVOUWhIaFNTY1RpWlBHSHVialFFOG5BanNDa1lmME5CRWlOYnhyYkJyRThGMHl5djdFd3M2LWRvU3NmWjdJcHY0OEtXbjBfSDFZSmR4VUt3d9IBhwJBVV95cUxNSFdMWG9Vc2dYdG5WcGtYNHV0RTJXbXpBTm9kcGNSbjhSVlpzUnN2VVlGVWJNN0toUEdteVpiZEFUblBQUWtaR3FFeWk4WlAyRmY0SmQ5cExDbVB4aXNPWVFXV0lvUDZtcThaY0I4QWpXbUtmVmp1UWtGamRvOGtnSDBZOWJGM1RkLVpESWZBeThLdmxsQ1JfVENMQUlzeUFmS0dQUEhZMlhiX05OT1RKTUNUeHJNcFd5ZUVyUTJId29tNkRQRWw3X3U5SU8wZXgzS2FYcVd3ZTUyeWpBOGE5dW40MENHMUNPQXFnZ0trdFpyWXloT1ZDTDJ2Wnk4Ml9Fb3VUYWNNTQ?oc=5"
     },
     {
-      "title": "Taylor Swift succeeds in having her songs removed from the Trump campaign and White House TikTok accounts",
-      "outlet": "voz.us",
-      "date": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUkFLYUZXRHl5OGNrN0VZRWpsTUY3clRRSHB4VWxyTXFSOVdoZllGanpSYjJpYWFuNWIxbGhCdXhtZ2dCZ0NMSTZteGxjX1ppOVRvSEJHY0hXendsTU51NnVIdWw1TVUwaEl0N3FILS1yQkF4YjRrWVR1eXpiTnk3bzVSWUMzUVFiUGZGS1BMTmJUZzRVVE1oNkNudGRFamE5YkJBbk9HMXJtWFROQmlYdjFBeXZIVGRBd19EY0dVYU5DTUtkUDRKa3FxcWlDbGJIVllDWUh2ckNHdkZLMDBDLUdudXZrb1RHWVM0?oc=5"
-    },
-    {
       "title": "How Does Taylor Swift Fit Into Adam Sandler-Ryan Reynolds Rivalry — Insider",
       "outlet": "Yahoo",
       "date": "2026-08-11",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSVdmTHhERFltUlc0SHZ3SC12QWp2d3d2RkgwanJ3OWRlN1c2eHRiMWdCWHQwNEs5UEdFRzNhMGx0VV9NckpXX2hmN2ZaQkF2a3l0NTQyNl9idXdnUTcxNUpUZFpRSEd6dEFmMHg1WVdvYnBMZnVMQXp6XzNUWF9TYzZCQ2thLWh4QzNmRHBVNGpfSFdwdXdqR2d3RkY?oc=5"
     },
     {
-      "title": "Taylor Swift Reacts to Nashville Songwriters Hall of Fame Induction, Making History as Youngest Writer Ever Inducted",
-      "outlet": "justjared.com",
+      "title": "Van Halen, Toby Keith and Taylor Swift tributes to rock Naper Nights Aug. 14-15",
+      "outlet": "Daily Herald",
       "date": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPXzUzbDBkazdFNkZMVG91dFotc0RnUl9BdWFsN2NwVW9NSFRCWFloNzlDWFBoQXg4UFB2V3BoVXBhaVlmOEV2UUp1R2JxVl9HNVBsVEVwTUhYem1KRkg2TnlfQ3RJcWY1VkJJMjgtQmNKUUdRMURWNV9DcGRHNG50Y213UzRvTUh5Y195TTM0OFhLS0FKUl96OGJDWGlaeVJ1emxvYnlMSzdXZU8yUkpvcmdjbHhqMktMeGpvRjl3S0hXUWh3OXhXd1VxTEs0MzJtR0lDcW5WUkQxNHZzcEJjVGdzV2NaSXNo?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQVhIWFV0czY3N251U19UeDc3Tmh1a3JtRVdjNkZhQWpZOXY4UkVzSWhiZGR2YllDc2tPd1gyZ1plbkd3RzRURnZmVnpxaFBjVXdEbzBPbFZuOVJZdDZrcUJjR0hpdXk4bXR2bld5UG5xT1pKb3pKb3dhU0VpRm9VMnRuNUxwTFNMM1pnZVZ5cW1rMnNmTkJWNXhIdHJ4NDQ5YU83TWlLZE9KTjB0WDZVRTQtWE9uRThGZGwyaDlVVmlyZWNzMG5IV1FadlFVdw?oc=5"
+    },
+    {
+      "title": "Travis Kelce & Taylor Swift’s Strict Rule for Restaurant Guests Raises Eyebrows — Report",
+      "outlet": "Yahoo",
+      "date": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaFdfQ2tCN0FieDFSVjZ1dksxSF8zMW8wUWZqWWo2Rk9aS21lUnhxNHI2TUhkeldUSk1EZTlhUWpPMldTaWNxUXgyOG9sMFItVk9UVllnR010QmtEbHVDeWEycHkyemM5bDJ5b3hGSVlMcEJYOUtUbkpvdk1EelNraExSeEUwMVhVVEdiUjVVZEd4Q3ktZXdCSVI1QUpzLXJRY2kyWA?oc=5"
     },
     {
       "title": "Taylor Swift Makes History With Her Nashville Songwriters Hall of Fame Induction",
@@ -2326,22 +2278,70 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNd2NvOFJDTmtyV3JnX2x1eFdUek1qUzg4NGdEbjhWMGxOS3VpZEd4aTRNSXI5MGRBQ2x0NWVMZVlJRHJ4Nllna094QnRPbXZGS3lqaUVqZWpaSGh4SWdpYWJ1WUY1WmRtTmRoY3VuQXNTZDE3QU1ZN1JZUlNicF9hWE1YWUhQWnphV2NXcHhGTTczMXJDVjFKOEs0S1Q?oc=5"
     },
     {
-      "title": "Taylor Swift Had Her Music Removed From Trump's TikTok Videos & Critics Are Calling Her Out Anyway",
-      "outlet": "CafeMom.com",
+      "title": "Taylor Swift Reacts to Induction in Nashville Songwriters Hall of Fame",
+      "outlet": "E! News",
       "date": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc0pKbTJkcjcxWVUxdVJPZ2ExT0tkblJ2M1JwNm1Vc3lNMkdTTEp5V2Z0d294QjF1VDZrdnU3MWFqZ1RTTVJIeXVlRE1vYnVpMHVrNVFHLVRTUzlMc0s0M0lrdVBjN25seDBpVkgwWE1zSnhLYWlENmFOdkM5SEdlQnhZM3VEM1BKQ1E?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQlR4Q2NCLXFjeFFqdnoydFBHY0ZucWc0LTQ1aHVCTllEREItejZBSEJCZzZYRE1UQzBsRU40Qk8wRnBFMVNOUm1wanMyZ3liYy10MnJ2a0U5b3E1TlV4TmZYbmpCMzNMVVNhNklnU2swN29lOHRyQjdWUFB2ZUxLWVpEVHFHR0RRX2Npd09UeEJlek9TblBQdWZ6ZEwwVUJ2YlZHOGFTeTdTZF9UaTJzdzN5ZWppQQ?oc=5"
     },
     {
-      "title": "Taylor Swift to become youngest inductee into the Nashville Songwriters Hall of Fame",
-      "outlet": "KS95 94.5",
+      "title": "Bridal designers race to predict next Taylor Swift-inspired trend",
+      "outlet": "kyma.com",
       "date": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOUY0Sk85aTNIcVo4b2VXYndjY2ZTcnFiYkdiQXl3M24xRHZ0VXRNSW9rdlpvckFnYlRYQTVzMnczRDkteHZQQ0xsbm1xZmVjV2RiSkllNzhBMk9JMzFfaFppbVVzeTRFTHp6VGZ0M0pYaERPYXN5RXJ5UHhwUzJrZXUzWkZNMWZCbDI5ZmhjWG9BT2lBZlB0WUQ4akRSMFZLLVZtYnZyaUVrZw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc0RYaFN5SEJTLUJ4SmgtZEV6WVR1Q05sdk5NaUNYZklNLXYtV3BWVFRnQkNFQVJRdWpMX1V1WHZuNGVwOGtWR3ZCTVN1ZTF6WTB3eEF6OGxjdS03eUd3dEg0VjF3NlRQTDNlZGdRNWpxQ2NlcElaeXFmNEQtZlkyOVh6NVFJUlg2SHpQQ2RYdVgtR1dkZ0xNemgzWVZrbmZCUTRlTGxYVUJfLUFWbk5CU0pIeVM?oc=5"
     },
     {
-      "title": "Taylor Swift and Travis Kelce to follow in Prince Harry and Meghan Markle’s footsteps?",
-      "outlet": "HELLO! Magazine",
+      "title": "Taylor Swift joins Nashville Hall of Fame",
+      "outlet": "The Tennessean",
       "date": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeG92N3A1QkI1NDZnV0ZSWFdKWktaaWYtUkI0Z3d5QUNMbmhnaFNmQ2hKUjVGY1QtOFhGaTdQTGZGa1c1bnl1WXFHdW1oYTBkaDZGV1luQUVkSm8yUE5CbzBFTW54NHE2WFp0RC1ZZ1Y5enU5V1RsSWs2YnJ3aF9jR2pxbEF6LW1oT1VZdVZjUW1JTE0?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUzBJQWtRWnRmWWt0UG5CS21tb0JCVGFPMGJqcUZQZFZtWE1rTVVSeDdCMGpTZFdSTlJSeUM4emZkUEZlU19WMHdBcGlqSk9wUmNlUjl4RVFvak96aVMybmdzcUZhLWFUbWFwNVh6aFZOU1M1ZVFFa1BXNFRDRkJmY1pQY1dBY2FMdXBZUjNLejI2MFBMXzcwblJGWXdRQXBmN2pmalFZTm9JRVN5ejNvNjlzUDY4Y2dMZWlv?oc=5"
+    },
+    {
+      "title": "Taylor Swift Becomes Youngest Pop Star Inducted to Nashville Songwriters Hall of Fame",
+      "outlet": "Yahoo",
+      "date": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaEhxTXVYc0RzWXczQ1NWMEFXWEE1eHVmTmpWc1BHc2tCVGZsNkFJTjY5aEdrTmJnQnlqWVF5STFsZXRSSzR4WHVWSm51akFjN3RHYno1TlVlZWxnZUhpSm5ITHViVWJxV1NvSHRYUEp1bkxwS1VDd045MkVXa19qbDNDcVNIR0ZIUHdYRkUtNnpZTVJ2Z05fTmg4cnY0U1hM?oc=5"
+    },
+    {
+      "title": "Taylor Swift's wedding dress remains a mystery",
+      "outlet": "thv11.com",
+      "date": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNN3J4ODdNdjgzTER0ZUZScWRaMDNOb3BfUEtYazk5X0xlQ3RBV2FxSEpqVUFCU0NjSlNKUUFsZVVGU2dpN1BFaEZLZW8wOWlpZEJNY2dWU0Q5enJpUGF4c2xPV1pBRTBjbC1ZYUpoaUkxdF9mOFhaN0ZXNmdKZTFKUWpRdVlKV3pzQS1aaTYtbVFXNjA5aTZoLUdmT3IzbzBxT0praGp4b2RPNkNyaXpYcGhCcG9GWmFKdFhlZExGYW40dUxzVUEtdVpFMA?oc=5"
+    },
+    {
+      "title": "Taylor Swift to become youngest inductee to the Nashville Songwriters Hall of Fame",
+      "outlet": "Yahoo Lifestyle Canada",
+      "date": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQkZ1Z0N3dlpXUWlSUzRlM3BGYVZfTkpJRWlKU0lhLVNkeWg4WlBmeXlIY0tIUC1hU1F2NzV1dENtNi1ZN1dSYmpDZFprUGU5S3VHVkRuVTJKWGZOSERMcm9OMzRudEVnWXRuOW9STjdoY05GTW9yVnJxXzJobFp6dVZyaWc0QQ?oc=5"
+    },
+    {
+      "title": "Taylor Swift Chosen Over Miranda Lambert & Chris Stapleton To Be Inducted Into Nashville Songwriters Hall Of Fame",
+      "outlet": "Whiskey Riff",
+      "date": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNcVE2YmlnU1J6WG1iVU42TDBaeG54V3JiTmZIRHdzSWh0VE5xZVMxMnpMZERXUFpPREx3OHNGQUdaZVh4Ymt0Zmhaamk2TlRXU2dwN3pmb3NYMHpNdnpLQU1kS3U3YWx0alR3eGRlOHBJY0t2VnIyQ1NOTEF3cUJOVmZ2NDR1dnZJaDU3U1pObk9jTk1Nd183Y3BVREdhWEUzd1llRTlKOHp3WUFBcjVMS0NVRDBSTVN2WjFGWXJBM0JGZmF6eDJTUUpRSEktQnYxYlY2anlqdllYYmZWLUV4T0I2ejJpdw?oc=5"
+    },
+    {
+      "title": "Taylor Swift to join 2026 Nashville Songwriters Hall of Fame",
+      "outlet": "USA Today",
+      "date": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZk9admNlUmRJWFRFaVF0S1RlTEpxQ2dUVFpsNWJ2bXh4cm10TmZuZjJOOHdfNEMxSENKSms2VjhaUnVTdTBMVC01MVh4MlMyNjhLMUU0T1diYkttUFhZbFUtb29Ea3U4bmJqNkNTYUtTclVyT3h1S3paeWZnTWJLRmdId2lNWFkya1dzaS1QY0JTVE9NSzlQUktUb0hzYVk5cW1BZlRHTmNuakQwWUZKTkotek96T3VzbF9V?oc=5"
+    },
+    {
+      "title": "Couple Pleads Guilty in $265K Taylor Swift Ticket Scam; Sentencing in October",
+      "outlet": "Kiss 95.1 Charlotte",
+      "date": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTDFLakZDNXY2ZHVJRzZZNTY0MXNxMFREN1c0dW1uVUc1YWZsUUY5czUxZnowWElkdExYOWpuUjFEQ0t3RkpyU1BuM0dSMUZydzBiVGdBZnRnWnM4TjZna21BTERkQmxodHRLNjJXSW56YTFmeWdUSVVqQVdiWDJYQ0pMTm5CdjZQekVLVDNJRDB2WXdELVROdGtHZTRxd043TUVHRlJrVDlFQzQ?oc=5"
+    },
+    {
+      "title": "Jess Williamson Is Caught Between Texas and L.A., and She’s Learning to Love It",
+      "outlet": "Rolling Stone",
+      "date": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdlM0ODlnZzh6Mk5VaFlJZU53Y1VDSzlJUzVyQnd3dFFEUFR4RUx6dGNkRTY4NTZmbnJGelRvcVpOb01DWmdEQXAtUlEyZTgyWi04TXhpdl92WmEzM08wcXJxbF9WUHRDSDdqQWZmZHR0Y2FtcGdkTHdDcDUzSXBQVTczYVM4NnF2U2NXcUVKMUhpRXk3R0FaQmVwb0x3QQ?oc=5"
+    },
+    {
+      "title": "Taylor Swift Named Youngest Nashville Songwriters Hall of Fame Inductee",
+      "outlet": "Buckeye Country 105.5",
+      "date": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQT0x6SGJzNUlUSDF6Z1ZQMGVLVDN6S0Z0X01DRDlETWV3RktYMXpQREJSYTJPMTRjS3lKN1U4Z0E4T0ZzSlllVnlRMDNOMU1kN3p6UWdIVDlQTUI3NWlpMFVWSTNDT0lQYUxLMC1vYmhjRTZLMFlTeEhmbGR0eWFLeXJRNGIxdTJHNzVWUW1OTXMzekplbC1OWFdWYnZtclNtc2JaNUpPeWJnOXVfUFp5UzE1WUJZVlJWZjNTUmh5akJZc1Vza3R3?oc=5"
     }
   ],
   "bio": {
@@ -2373,6 +2373,12 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80eEZuN0hyMElRdnJ6LUxGNDRHbFd0R3BscG5fWUxCbnBKUloxbFhRT0tKSVZ1azhILUIzNTkwcFFRenhLWmNRaWJmaG1rY2FZX0Nnb19TVmdCOFRoTFhWMHRrQjZfNUh0NHhzdXVzQWRYU3l0VXdVdjIyS1h5Yk3SAX9BVV95cUxOQTRWUC1Pc21jaFZ6Qm5xSWs3UDhnY2piNDhwdXIwYUk5X1FsRUJXZE5PaWYyN01jcllCVzNCRGRWTHpibkViUm5PRkk3NVVnU1pfUUpRdEVJaU1jNFZ5VGtDc0FvTnd4WTBIZlZlVFdDa0xyLU96TUgwdzZpM2Jz?oc=5"
     },
     {
+      "title": "Couple Pleads Guilty in $265K Taylor Swift Ticket Scam; Sentencing in October",
+      "outlet": "Kiss 95.1 Charlotte",
+      "date": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTDFLakZDNXY2ZHVJRzZZNTY0MXNxMFREN1c0dW1uVUc1YWZsUUY5czUxZnowWElkdExYOWpuUjFEQ0t3RkpyU1BuM0dSMUZydzBiVGdBZnRnWnM4TjZna21BTERkQmxodHRLNjJXSW56YTFmeWdUSVVqQVdiWDJYQ0pMTm5CdjZQekVLVDNJRDB2WXdELVROdGtHZTRxd043TUVHRlJrVDlFQzQ?oc=5"
+    },
+    {
       "title": "Taylor Swift Was On The Road For Nearly 2 Years During The Eras Tour & It Took A Toll On Her Health",
       "outlet": "Health Digest",
       "date": "2026-08-10",
@@ -2391,16 +2397,10 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZGRQZUpMSWRVamFVRDRjSk9taGJfNzVMOEo1NUxiUGp5OVc1MzJSZUNHTDRRcGVuY2g3YUx4SWFpUTRGZzdtS3NjYTBVZ0FDVlpJY2c5aVdVeFd5NXdxZlZHT1hfQzd6RHk5N091R2x6cTc5WU9OUzVLa2RMQXZrOXBpc0JzZFVxaUVibkpHRjF5cVBUV2JCMHR4dFhtX0w2UXhYVklSa0M4ZG1kTkNHMzJMNjRTVEwtbVdGaVpoaER3QQ?oc=5"
     },
     {
-      "title": "Taylor Swift: Reputation Stadium Tour (2018)",
-      "outlet": "IMDb",
-      "date": "2026-07-13",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWkdobVloVG5sWEw2XzE1aHY3NGs0ZmlvRm1CaUxPeEthUnUyOHhFaWxuSU9Gd09yTWdFWXZ2YlM1ZFhCb2l3bGtXMnh3SzVnSXEyVXZXUFgwYm14SjRSd2hLRm92R3RNM3pUV2RuNWlxSkw1VmFYSHJEV3F3a0cyRg?oc=5"
-    },
-    {
-      "title": "Taylor Swift earns Emmy nod for Eras Tour concert film - ABC News",
-      "outlet": "Breaking News, Latest News and Videos",
+      "title": "Taylor Swift’s ‘The Eras Tour: The Final Show’ Nets 5 Emmy Noms With Swift Earning One Herself",
+      "outlet": "Deadline",
       "date": "2026-07-08",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbWV0MkJYWUNPZUtuTVVKRkpIeDhVV09NdHpjU3pJcEhPeVdMZ3pnVnNlOFRGODZYT2x5MzVkdUxWbDBJOXY2b0pIamFVMWtKeEpPb2t6dDBXdEFvQ0Rwb1hKOGZDS0tJNld5ODRfOG1CRTV6LThQRFp3T1IyYmVjSkxqVFBWQkZTVWFWY2VDMkdha3pOcHp0LUJ2d2XSAaIBQVVfeXFMTWF3eHk2V3lvNTZkZXptLW84aURSOU9Ya0d6ODRJcmVYWjd0ci1Wc01pQ0FXZGRpbmhIZUtidUlsSnNFTnJGZElxSlFuaVpNMENJeUhoODBZOXd4b1hPVmxKSUJINlJ0TVVKeGF1dlJ6RVVqblh6Y2JlcWpId3ZDRktSajJSNEJYYVN4aFpQVGU4UFBtVWVxVXpIdU1iWmpkYWtR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT0hwYlAwWFdwN01KcFpsTUNIcF9ZYldIUWdpX2hxLXNnRkNvM0plcjBmRjRvdXpzZ3AyQUVKcE1XbnFqdHRfSDVjX0FCSjJKbDRuUnZONnIySl9NS0llMzZhT3pNam5ZLTEyU0pGY2dUdFUtRGEybFZrMnROVVhrTEU3dVVTbnRCTW1QZWI2Z3c5S1dwS1prQ19BUDRkV3VMaHc?oc=5"
     }
   ],
   "timeline": [
