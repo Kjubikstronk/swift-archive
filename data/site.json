@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-24T01:58:47.503Z",
+  "generated": "2026-08-24T07:29:51.598Z",
   "artist": {
     "name": "Taylor Swift",
     "full": "Taylor Alison Swift",
@@ -323,7 +323,7 @@
       },
       "releases": [
         "itunes-1595423133",
-        "deezer-130716962",
+        "deezer-68491961",
         "itunes-1440934573"
       ]
     },
@@ -431,7 +431,7 @@
       },
       "releases": [
         "deezer-874936972",
-        "deezer-72093192",
+        "deezer-227786",
         "itunes-1440932737",
         "itunes-1860454442"
       ]
@@ -1534,8 +1534,6 @@
       "copyright": "℗ 2020 Taylor Swift",
       "genre": "Pop",
       "via": "apple",
-      "recordType": "single",
-      "deezerUrl": "https://www.deezer.com/album/131557962",
       "kind": "Single",
       "year": "2020"
     },
@@ -1704,18 +1702,18 @@
       "genre": "Pop",
       "via": "apple",
       "recordType": "album",
-      "deezerUrl": "https://www.deezer.com/album/302068167",
+      "deezerUrl": "https://www.deezer.com/album/9007781",
       "kind": "Album",
       "year": "2014"
     },
     {
-      "id": "deezer-130716962",
+      "id": "deezer-68491961",
       "title": "Red (Deluxe Edition)",
       "date": "2013-05-14",
       "trackCount": null,
-      "art": "https://cdn-images.dzcdn.net/images/cover/177ec7bf4d0fcd50e9ece647fa8474cd/1000x1000-000000-80-0-0.jpg",
-      "artSmall": "https://cdn-images.dzcdn.net/images/cover/177ec7bf4d0fcd50e9ece647fa8474cd/500x500-000000-80-0-0.jpg",
-      "url": "https://www.deezer.com/album/130716962",
+      "art": "https://cdn-images.dzcdn.net/images/cover/56a83d3002710bf2044b86c01db665aa/1000x1000-000000-80-0-0.jpg",
+      "artSmall": "https://cdn-images.dzcdn.net/images/cover/56a83d3002710bf2044b86c01db665aa/500x500-000000-80-0-0.jpg",
+      "url": "https://www.deezer.com/album/68491961",
       "recordType": "album",
       "via": "deezer",
       "kind": "Single",
@@ -1849,7 +1847,7 @@
       "genre": "Country",
       "via": "apple",
       "recordType": "album",
-      "deezerUrl": "https://www.deezer.com/album/130716982",
+      "deezerUrl": "https://www.deezer.com/album/689149",
       "kind": "Album",
       "year": "2010"
     },
@@ -1905,9 +1903,20 @@
       "copyright": "℗ 2009 Taylor Swift",
       "genre": "Country",
       "via": "apple",
-      "recordType": "album",
-      "deezerUrl": "https://www.deezer.com/album/130714702",
       "kind": "Album",
+      "year": "2008"
+    },
+    {
+      "id": "deezer-227786",
+      "title": "Taylor Swift (Deluxe Edition)",
+      "date": "2008-10-04",
+      "trackCount": null,
+      "art": "https://cdn-images.dzcdn.net/images/cover/9c0e80bb3c16e1c987cf235929eb7757/1000x1000-000000-80-0-0.jpg",
+      "artSmall": "https://cdn-images.dzcdn.net/images/cover/9c0e80bb3c16e1c987cf235929eb7757/500x500-000000-80-0-0.jpg",
+      "url": "https://www.deezer.com/album/227786",
+      "recordType": "album",
+      "via": "deezer",
+      "kind": "Single",
       "year": "2008"
     },
     {
@@ -1922,20 +1931,6 @@
       "genre": "Country",
       "via": "apple",
       "kind": "Album",
-      "year": "2008"
-    },
-    {
-      "id": "deezer-72093192",
-      "title": "Taylor Swift",
-      "date": "2008-03-18",
-      "trackCount": null,
-      "art": "https://cdn-images.dzcdn.net/images/cover/e9dd628cc4dd15850a13b4151cce9075/1000x1000-000000-80-0-0.jpg",
-      "artSmall": "https://cdn-images.dzcdn.net/images/cover/e9dd628cc4dd15850a13b4151cce9075/500x500-000000-80-0-0.jpg",
-      "url": "https://www.deezer.com/album/72093192",
-      "recordType": "album",
-      "via": "deezer",
-      "deezerUrl": "https://www.deezer.com/album/321177137",
-      "kind": "Single",
       "year": "2008"
     },
     {
@@ -2200,28 +2195,22 @@
   ],
   "news": [
     {
-      "title": "Kylie Kelce reveals Taylor Swift's influence on her kids",
-      "outlet": "Yahoo News Canada",
-      "date": "2026-08-23",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92X2txUlRYNWVMMi00ek5XU3Z3SzhaejBLZ0J5OENrY2x0alBQSGlYZlVlS3NZRjIxVU1rdHl0czFkNGJlaDctWUY1b0hockl1dk1UWFpjbzMyZ2xFV3hHNTRaZFVMcWZTWFhRamc0VE1hX2tfeExGWUtwWVFNYTA?oc=5"
-    },
-    {
-      "title": "Taylor Swift owns a $100 million real estate empire featuring a Christmas tree farm, historic mansions, be",
-      "outlet": "The Economic Times",
-      "date": "2026-08-23",
-      "url": "https://news.google.com/rss/articles/CBMizwNBVV95cUxPZlM2enV2SEJhRVczM1dTbkZBTmNScGZNRHJJeEl1VGpxc1FCaWFYQzdvR19IbndfdXI5V1A1MFJXcVdLY1JMa1kyXzdpNDdDYngzbFBFd0psYnVOYUFPZ2FUUktHQ25ab1hGSXQxZk1ORVRxVmtrNU9pZ3FZaTZydFdLdEFHUHZTUElwcUZwUW9Ed2ZHNzZtczFqZUN3S01sOEJJa0FQem5WV2dGZ1BkbDVPaVBHckloTl9ENTg3c2lKVG9XLTFROUd3bzFrSUZkRktWT0c5aGRxQnpsTmc2U1lDN0hxTDZWcnF4Z3ZEdnFFNzhDVFc1aGJFZ3VycUdIclZCODhIbElXY0xHYXFlZUQ4c0JVVmM4TmFYdENRMC1jOHN0VG9lMGkxdHpnaVhRckZRX2s0X1RHR3VraWhTT3ozeHR0Zk8tTUVmZkRBdDhJMVNXbk1JMVJqQ1BTdUdKT3hobXlEZ2xPNmlrWlgyZkllUWpYa053dVVmRUg2Wk1KQm1CWlNxNHREY3VPZjJtdmplTzNSUVFZWTRrYjROR3Qzd1lrSEtqN0FwdG9HZVVMb0ZjU2dMOHlEOFRCUlp6X3hzMC14UGR2MVVFZEhv0gHUA0FVX3lxTE9mWVBUOXNxX0NpeTdMTkdBZVNndGROTkE0dEl0amhJOVFCUWJtdXUxMWRXbkhuUEdaZjlNakh4Q2RsSjlxLXhRWDdNSmV5SW5FeS1xTkNRNExPNjhQWDBod3F5VmRaYkxWMHUwQlE4elNjQklnaGQ4SlZ3UE5UclplMjVQaUhUYV9rYU9FTVRwZWlzSmJtRkNpN2hTWmlacC1LbVd5Tm1NWU9zRzhQT3lsRzhLOG0xSjVibXMzX2JhdzE1S05XcjRzaWFLa3RQMjR6NUxYeWdheDMtTE1SWnFNTnNGQWhaengyTFpLdXE2X2hpRWNJZEhRN1luR3BMM1dSVmcxOER4R1dWQ01lcWZ4S2lBVXY2QkZ5Mkt0WGV6dHVqVXZkTld6THo2WHQ3WEhiZjhBMG9Bb3hTaW90dGozMi1jcXRUSmdXMFhIcndVb1lpU3MyaDVOSkw5UUpKTXZZT1g3bHJlX014M2c2SE1mNGdzUWlmWmJiVkhWZWRuYlhkMmdSX2NJM3VLeFA4WDlxb3VmX1piYmVaOEdTRWQwSUVySkhCem5IVTVJdWo5MzhLbTJkSjhKMkdjdlZ3aWtuTnZqb1BYOEM3VTBtdFJLTUVWaw?oc=5"
-    },
-    {
-      "title": "Kirk Cameron Says Taylor Swift’s Music Normalizes “Sexual Immorality, Vulgarity” and “Rebellion Against Biblical Morality.”",
-      "outlet": "Thought Catalog",
-      "date": "2026-08-23",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTjJNalNyaWJtUU9Cd2U0MVAtc01kbEYwc1RVZExwVnYxbTJSYzV4enp4eU9iZW9zSWNBOXNhRC1jVDBzaVp2bEFETFB3MXV3aVVXR1pCa3o3N2Z3Q3RSWXBaZ3JoZ2xQRXFRYUdtVEtuMWY3U3FrbFVncWdPY2xOVlhVc0RuYW54eExYd0F0b2UzcURWRlhlZm1VRnNXTTE3REt2ODNMdHM0U2QwQWtvYjJNdzJaWjJJRUZKUHJQenptalR1ZzM0TV9JbVNqTnprMFhhTXlreGdNMzRDQW9yTWlDNDd4dWo1OHlCQzZkOE5wRjB3?oc=5"
+      "title": "Taylor Swift’s Music Dominates 13 States — Discover America’s Top Genres",
+      "outlet": "parade.com",
+      "date": "2026-08-24",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZWYxZHdVTEdDczB6bUJLQnc4ZjcwaWxwQXl0N0dNTXM5MUZHbVdTdFdyLTNZOGFkQ2drd3ZsM2FiZ1lJaTRNZ2lCWXFOblUySms2SWluMVNHSVc3eFNzbmhicGlWaFRITDM2cm9lTzUzbjVGUDIzZkxma1VFMHoyTUpRWmlVbDl5WDZCaGJIUlZhaG9LcVA4cnNGcnZvaFdZbFdJMjln?oc=5"
     },
     {
       "title": "Man who helped introduce Taylor Swift to Canadian audiences headed to Country Music Hall of Fame",
       "outlet": "BurlingtonToday.com",
       "date": "2026-08-23",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPT0RnejAxZFFpLVl0UFpXaEdwbWluel93YzdvT19jSWNLbGZFUUY5SG1iS09uS0k2eVZraGRyM1FBNkdkS3hfN0R6alZ2dDE3SnU1VjZEdTZWNjcwS0NNRG0yeElQcENzY3RVVU9Ud1BlSnpXTE1PQ2UwWWpzR0pCM04yVEtUUUpqejdvNUp2Q0xWM3NYc0h6bzBNWmJtVmttOGRfZ0pjWXFVS0hEUm16a1Ntb0xTSEZ0dWRrblRndEFFekpJQm43eFJMM0NTNXBsUllKNEZlUjRzaWkzQmlNMU1n?oc=5"
+    },
+    {
+      "title": "Kirk Cameron Says Taylor Swift’s Music Normalizes “Sexual Immorality, Vulgarity” and “Rebellion Against Biblical Morality.”",
+      "outlet": "Thought Catalog",
+      "date": "2026-08-23",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTjJNalNyaWJtUU9Cd2U0MVAtc01kbEYwc1RVZExwVnYxbTJSYzV4enp4eU9iZW9zSWNBOXNhRC1jVDBzaVp2bEFETFB3MXV3aVVXR1pCa3o3N2Z3Q3RSWXBaZ3JoZ2xQRXFRYUdtVEtuMWY3U3FrbFVncWdPY2xOVlhVc0RuYW54eExYd0F0b2UzcURWRlhlZm1VRnNXTTE3REt2ODNMdHM0U2QwQWtvYjJNdzJaWjJJRUZKUHJQenptalR1ZzM0TV9JbVNqTnprMFhhTXlreGdNMzRDQW9yTWlDNDd4dWo1OHlCQzZkOE5wRjB3?oc=5"
     },
     {
       "title": "NFL Has a Strange New Problem Because of Taylor Swift",
@@ -2236,10 +2225,10 @@
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZWF1cW5hUnluekVOTjhxb0xyVjVQWHJ0OWo0Z2VsM3loTUlXd20tVkNKZllJb1BYSkJEVkNoNnZ5eFFWeXA5RWFyLWhiS2d4Mzc2UWdMdWg1VjJJWlIzMl91R1ZFLUt5d2JHYV9TelZIZVctTmxkMkhzU25QLTVIUkZVaUhDTzBGOURlZ0RSSXhfc3FMTVJqWHc4WEN0b2p2RmVyRXVwZEctZTVkWnUweXdtQVlfZzRud1BOQkN6QVJkQl9EbTBidzhKc0VxMFdldkhZZ0I4WDhMX2ZERXgxU0xzd2s0U3NTRHZ1N2RQR3VDSENf0gH0AUFVX3lxTE1DU1NRNzlyMHRXWXRvZ3VtZDJKWkZRNHlHMnJPcTBJbkszMlkyb1JvcmVNVUNUMmcyMXp0TGJyR2xhUG00MmNLUDMtU3h3b1c0Tkh0NFBXR1hJZTc3N1dwY3NqdG1SRFVHd1NXMnZIS2ZZQm9ZYmF0RDZwc0RpSThLLW5QTmt5ZjNGUmVGbnJ6WGZjRVVQcW9ZSnpsUjNmNGZVaVBPX0hUa2pLTjNxY2pRNTdxTGMyblRCTzdwQml4WGlDc0s5dHBEd21uYS1HOVhlZ1cyekhod2RoZWNoZnhiZzFzeWZMMm4yMW1xX1hXNEVPZlo?oc=5"
     },
     {
-      "title": "Travis Kelce got a Taylor Swift ‘sign’ before the season even started",
+      "title": "Dean Blandino reveals Taylor Swift's frustration with famous tactic Eagles used to stop Chiefs",
       "outlet": "MARCA",
       "date": "2026-08-23",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWEYwMmQ1WFJLSHY5T0cxMFo0TGxDS0V4Si1HWG1NYnJqZkhhTjQxUVFvbHpCRHdhZHJBU0JHV0t0OFFzRmxxOFVQN2tYbjBTbWY1N0FJZVBvbm9EekxlSXExYWh0d3Q2TU1BZzdSZ3lFVi1mMjBUOFNvV0lEQllMNldIb0thNUN0dl9QNGlOcmJRZXhabHRDcDFFUVBadkRTRlpXeUFxTENrNmN5WE8zR3NQRzRGRk1BNnpTcFlUOS1zUUxNckM0LUlQbm04QdIBzgFBVV95cUxObUZSRERFRDBrclBPY0d2ajZ5TVVMN2o5NFN1WkNtZFk5aWtYT2dRLVo4Q1ZIUXp2bFBPdlE1WmhmUEpUUmQxZjR6ODI0NDVSNi13UnFNS3UzR1dFQkVGLVNESFZWRUdPM2ZZLXhJWnJuVmRFVFlJUzVibmFuVFRHVFo0cHU4UGV5X3FFWUZTSGxiNHNNQVc5VDdZTmdiYU9tUlBrbTRhd1QtSW15QlR5SlJFMjBqUEVFLXN4MXNlNzUxbklSOGRyTlpLNE5IZw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNRm1scWRCLUVmVnRUWG40ajhGMUN5Wjd0V3E5TVVzV1h6dVRBMnFreC1rWXNvNHBPbk9uY1Y1QUhtbGtydjFCU2N1NjFzMUtvS2JwWFVMVnRyc0JUTl9LTlMxOUJCY3gzbC1jRW9idWl3WFR3bU00dGlpbUUzb1pHOXVpb0k2SE1oclNUYXBMYzhDS3BEckNmREJjRXdyUmc5TGlkWWpXZS12ZC1wTU9pLWU1YjV2WmE0ZlpmMUhFUmNBbFE0ZTBFSFVWMzhabkt6empRSmtudDBWalpZOUtONjhnRUxFTHZfNjZHWG1NLWjSAfABQVVfeXFMUGt3ajA0bFhqZFdWekhPT2x3UlBVWFZpd3QybXZRV1VKbmVwS2ZNQ0tJRUxQOE5nRVRhR1c5Um56TmxCMEtnRnBpMkFSaWlXaVpOZkJoMUhOYW5hTDNhVGN3aDZqZkJva1pqYWNKcUh3VFpiVHlYcDhTMG5wUE5BMDdIaWJsbEplc0tla0lnWmU0NUFqVmxOSnFJaGY2VF9qclE1Yy1YZlhRVVQwUldmTDY2OXhVaDBhNDlsRUhmYllMcXFKUW9jZ0RTRklPNjNFZWV4aHN2Z21jY1Z3NEJlcVBhX3VmcExsTko5Yy02TElo?oc=5"
     },
     {
       "title": "ROBERT FRIPP & TOYAH Perform TAYLOR SWIFT’s “Bad Blood” For Sunday Lunch (Video)",
@@ -2248,10 +2237,16 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUkExRW5ILXFrbWhhSUlLSWg1M2xzdUZUSUtwVDlUQlpCWmtwZmNLNGstZlVMZTM0NzE0WktzVEx5Zlo3aXhBd1liX0xIeXQ2Nl9CY1Z2eWpiT0VVdnc1Nzctd25Wa3ZGQXhvT2w2VnJaWlNkQnhYelRXZmNJTkhPOS05czBrUVB5S3RnRGE2SnU2dTR0S1BMcWxMMS1OWjFUTXp6U9IBrAFBVV95cUxQZ29RQUd6TUtBT2toZ1NoNjJsWFBDT2pYbHNUVDlxR1pGQ3hHNVlEM3I0NzdpZGlzaEhqZmtETkJqa0FuNEdNRTlDenpLT1dlc3QxUG9laDMxanQ5aDQ0QzBJYi1QdGkxMk1DdDRwNjJQUzRYd2ZMM0N0ZXNCcU5TY0d3UkhITFRoMkVtaHNreVJwZlZ6ZGYtYThMNVYyczRNTzB5VnJLWGZfUHQx?oc=5"
     },
     {
-      "title": "Did Travis Kelce really cheat on Taylor Swift? Truth behind viral 21-year-old Brazilian woman claim | Hindustan Times",
-      "outlet": "Hindustan Times",
+      "title": "Travis Kelce got a Taylor Swift ‘sign’ before the season even started",
+      "outlet": "MARCA",
       "date": "2026-08-23",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWmJxc0pGNGJVZVFOWGotRGU4R25SbjZEVkY4U3BhTHFSVkdCSzlFOFJzelpjbWlJNWJLNGtsS3Y3OXhFUmd3Q010RkRUOFBhTmxoS2R5X3lHbjJESHJVQkhtVFhiUDlRNTd5NnZwMFJvUzlTUkRMLVBpUTVJeHB4bTQtQ1FlQXV1eDhnLUhOdmtGT0w4N0RTWjZBYXMtcnltLW1kR0FqaVVIcFF6RDZaaDFPWnNoVVlxTVh0VFRBZURvQ1J3cnFFaDVGYkFSUjgzbVh2dzdRSnRycFdFaHR3QmhlUklIWE9PbERYSUxFRmo5WVhU0gH6AUFVX3lxTE5neDJtVnBWby0tMmVhVTJGbnhocnZkZlR1WUpCMUk3MjBWZXZZaEJKNXh6NFE1VzNNblZGcm4wT0hHa3RPbjQzLTZobzNYc3dzVkUtMmFZdFZZRFR5S1ZWRkg0b2xrVmhscThiWUstV09EZDFmdUZmWG0tYXhJemQxUzcxZURCUW4yT2V4d05VYTFnMENZVm1EYmF2Q2EyZmtXSGkxMG9zN2ZvSnJkaDdVT2ZrSWVVT3dKeGNLemxOUnQyblZWbHkxZlpidDFpN2RnQmsteWFWdERSVEhrTGF4YklPUFF2Uk5XdUdCLUVaX0ZHN2lhS3ZCMnc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWEYwMmQ1WFJLSHY5T0cxMFo0TGxDS0V4Si1HWG1NYnJqZkhhTjQxUVFvbHpCRHdhZHJBU0JHV0t0OFFzRmxxOFVQN2tYbjBTbWY1N0FJZVBvbm9EekxlSXExYWh0d3Q2TU1BZzdSZ3lFVi1mMjBUOFNvV0lEQllMNldIb0thNUN0dl9QNGlOcmJRZXhabHRDcDFFUVBadkRTRlpXeUFxTENrNmN5WE8zR3NQRzRGRk1BNnpTcFlUOS1zUUxNckM0LUlQbm04QdIBzgFBVV95cUxObUZSRERFRDBrclBPY0d2ajZ5TVVMN2o5NFN1WkNtZFk5aWtYT2dRLVo4Q1ZIUXp2bFBPdlE1WmhmUEpUUmQxZjR6ODI0NDVSNi13UnFNS3UzR1dFQkVGLVNESFZWRUdPM2ZZLXhJWnJuVmRFVFlJUzVibmFuVFRHVFo0cHU4UGV5X3FFWUZTSGxiNHNNQVc5VDdZTmdiYU9tUlBrbTRhd1QtSW15QlR5SlJFMjBqUEVFLXN4MXNlNzUxbklSOGRyTlpLNE5IZw?oc=5"
+    },
+    {
+      "title": "Taylor Swift Ex-Boyfriend Conor Kennedy on Russia Wanted List",
+      "outlet": "Yahoo",
+      "date": "2026-08-23",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcXJITFVaSW9weTdfSFBsWmdnMjdaU3lsLUVWaVlmc1V5V2xReWozdmw3bXZCdzRSZFJVdjRoNTRXYVJmTHNTcGNwN1lKWlBHZTdkd3RjNzFBMDQyMlM0czZGdGVmY3VWVFphYTZVZHNtRlR6VG8ySXFhNEtqR3N1QmtzNzZGZjU1ZnJjT3ln?oc=5"
     },
     {
       "title": "Kylie Kelce says Taylor Swift and Travis Kelce's wedding in New York City was 'absolutely magical'",
@@ -2278,22 +2273,10 @@
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTzZkNDI2VXVPNUNCNFVqMVZfZTQ2SHNVdTZRcHBKYm01YWxBLUpMODJzeFBtMUswdEFNZHlvMWdQOXdZT0RBVnN2eVkwQThrWVVNdDdqNzFmUklEay1PVEpEOFJFRWNPZE9lZVBEbVJCXzllTXczQkNHN0gwTnhTNDZ6VGhOYVFsMEFueGpmdGV4TFhYMTU0ZlQtcmE5aFIxMFJDT2dza0dKTzZyYUFub3RSSXVWeENRMWx1R1piWnlwN0FpYUJRaEN3TEVGVkdwcnJtY1VrWTNXTG8?oc=5"
     },
     {
-      "title": "Dean Blandino reveals Taylor Swift's frustration with famous tactic Eagles used to stop Chiefs",
-      "outlet": "MARCA",
+      "title": "Did Travis Kelce really cheat on Taylor Swift? Truth behind viral 21-year-old Brazilian woman claim | Hindustan Times",
+      "outlet": "Hindustan Times",
       "date": "2026-08-23",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNRm1scWRCLUVmVnRUWG40ajhGMUN5Wjd0V3E5TVVzV1h6dVRBMnFreC1rWXNvNHBPbk9uY1Y1QUhtbGtydjFCU2N1NjFzMUtvS2JwWFVMVnRyc0JUTl9LTlMxOUJCY3gzbC1jRW9idWl3WFR3bU00dGlpbUUzb1pHOXVpb0k2SE1oclNUYXBMYzhDS3BEckNmREJjRXdyUmc5TGlkWWpXZS12ZC1wTU9pLWU1YjV2WmE0ZlpmMUhFUmNBbFE0ZTBFSFVWMzhabkt6empRSmtudDBWalpZOUtONjhnRUxFTHZfNjZHWG1NLWjSAfABQVVfeXFMUGt3ajA0bFhqZFdWekhPT2x3UlBVWFZpd3QybXZRV1VKbmVwS2ZNQ0tJRUxQOE5nRVRhR1c5Um56TmxCMEtnRnBpMkFSaWlXaVpOZkJoMUhOYW5hTDNhVGN3aDZqZkJva1pqYWNKcUh3VFpiVHlYcDhTMG5wUE5BMDdIaWJsbEplc0tla0lnWmU0NUFqVmxOSnFJaGY2VF9qclE1Yy1YZlhRVVQwUldmTDY2OXhVaDBhNDlsRUhmYllMcXFKUW9jZ0RTRklPNjNFZWV4aHN2Z21jY1Z3NEJlcVBhX3VmcExsTko5Yy02TElo?oc=5"
-    },
-    {
-      "title": "NFL Is Reportedly Dealing With An Unexpected Taylor Swift Problem",
-      "outlet": "Yahoo Sports",
-      "date": "2026-08-23",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS1o2VkJCc3JNZzdaeGFVeTVFdnd0TXZrMUUyVG5YeVR6bVJHQmNRQjBpRmJ3RGQzWjQyTlItczB3VnlUdjREYWhhLTlWakRkUE1ySjhGaXNfaDNLUThER3ZNQUQ4TGVQd0dWcTBzQlNNT1hYZ19adnJLRGstMFlaaHJtS3A3UjZPbkt2eFowZkpXdEk?oc=5"
-    },
-    {
-      "title": "Designers dreaming up Taylor Swift-inspired wedding gowns",
-      "outlet": "Lee News Central",
-      "date": "2026-08-23",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPeGxmbUlNM3NicVFyVW1xLUdKbW9qeDdvamwyWTJRczIyTHR3S2thY0dlRkREX0hRcVBvcGhyQlU1ODhKaUZHWDFfWG9GV1phOHl4Tk96Sk9wb3BuZEZUa3pWRFRyZFB6dlBtQWh1M1pCMEc4RGxyN1BrcDdzeVRxNUp4Ujl5ZzdTdElnN0ZUUmU2d3Y0U2dDa2JQeWk4VVVGUEt6eXlrWVR2enIxT3c0OW44TVdyWEpxT29oRmhwZTk2aUZTODZPYmQ4ekZOZkRqOVNCR0NCOFA0YlM1cUxscFc4a3A4YnVzaDF1U1V5V3RZa2k2bFVjdjBZcGh6RnI4UHVObk9EWnFIclVCRHRr?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWmJxc0pGNGJVZVFOWGotRGU4R25SbjZEVkY4U3BhTHFSVkdCSzlFOFJzelpjbWlJNWJLNGtsS3Y3OXhFUmd3Q010RkRUOFBhTmxoS2R5X3lHbjJESHJVQkhtVFhiUDlRNTd5NnZwMFJvUzlTUkRMLVBpUTVJeHB4bTQtQ1FlQXV1eDhnLUhOdmtGT0w4N0RTWjZBYXMtcnltLW1kR0FqaVVIcFF6RDZaaDFPWnNoVVlxTVh0VFRBZURvQ1J3cnFFaDVGYkFSUjgzbVh2dzdRSnRycFdFaHR3QmhlUklIWE9PbERYSUxFRmo5WVhU0gH6AUFVX3lxTE5neDJtVnBWby0tMmVhVTJGbnhocnZkZlR1WUpCMUk3MjBWZXZZaEJKNXh6NFE1VzNNblZGcm4wT0hHa3RPbjQzLTZobzNYc3dzVkUtMmFZdFZZRFR5S1ZWRkg0b2xrVmhscThiWUstV09EZDFmdUZmWG0tYXhJemQxUzcxZURCUW4yT2V4d05VYTFnMENZVm1EYmF2Q2EyZmtXSGkxMG9zN2ZvSnJkaDdVT2ZrSWVVT3dKeGNLemxOUnQyblZWbHkxZlpidDFpN2RnQmsteWFWdERSVEhrTGF4YklPUFF2Uk5XdUdCLUVaX0ZHN2lhS3ZCMnc?oc=5"
     },
     {
       "title": "Taylor Swift Keeps Low Profile for Night Out with Dakota Johnson at L.A. Hotspot (Report)",
@@ -2308,6 +2291,12 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1M2lBaVNDaFd4elpjRm5Zc2UwNmxQR1NfS25GbnVlWl90SG10elN3bGpkTXJrTkh0Nlk0YTJnWGFXRC0tVmhnX0hYcFdZMFZMSm1xY18tcVp2NHh6d1lRSDlKRy13bld2R0FlZi1KY0pfOWp5dk5CLUN5ZEdzTUk?oc=5"
     },
     {
+      "title": "Designers dreaming up Taylor Swift-inspired wedding gowns",
+      "outlet": "Lee News Central",
+      "date": "2026-08-23",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPeGxmbUlNM3NicVFyVW1xLUdKbW9qeDdvamwyWTJRczIyTHR3S2thY0dlRkREX0hRcVBvcGhyQlU1ODhKaUZHWDFfWG9GV1phOHl4Tk96Sk9wb3BuZEZUa3pWRFRyZFB6dlBtQWh1M1pCMEc4RGxyN1BrcDdzeVRxNUp4Ujl5ZzdTdElnN0ZUUmU2d3Y0U2dDa2JQeWk4VVVGUEt6eXlrWVR2enIxT3c0OW44TVdyWEpxT29oRmhwZTk2aUZTODZPYmQ4ekZOZkRqOVNCR0NCOFA0YlM1cUxscFc4a3A4YnVzaDF1U1V5V3RZa2k2bFVjdjBZcGh6RnI4UHVObk9EWnFIclVCRHRr?oc=5"
+    },
+    {
       "title": "Taylor Swift Puts a Floral Twist on the Summer Slip Dress Trend for an Event in Los Angeles",
       "outlet": "ELLE",
       "date": "2026-08-23",
@@ -2318,6 +2307,12 @@
       "outlet": "instyle.com",
       "date": "2026-08-23",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQlFyN3YxbnNPUmlrLWJkclJ2aWxQRW96RDBnQnR3RHRYVm1Jd1FucGVLVWc3ZXluZ0hZZWV0STlGWHVXaU9nM1h4ZDlhQTN2cklteVVBQkRsdTlRdF9pdzR6eGZUMFI3UGdxOHV1MkFPbmc0NDMzbHlKdzBiLUxia2RPNkZ4TVlseDJzaVo2WFNrazd1MldlXzNYMzJiNEFVdHg5cDg4V3hQMDVwb3g0MQ?oc=5"
+    },
+    {
+      "title": "Madonna leads 2026 MTV Video Music Awards nominations, followed by Taylor Swift",
+      "outlet": "Texarkana Gazette",
+      "date": "2026-08-22",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSzZaSHo0SjJZT3g1TGZ1b2lOZnRvVzVyU2xJby1nTzF4Z1FvYjlkMjRYUkRuWDdPUzNFYTBldE1fd0dnMkluS2FzZ1NjMURoSDVBZGRnMFFobTJ4ZVUtVHAtbDVoS1JwTmkxOGVpQUxyRFZxZHcydExScl93MURiLXlYYmFsWXdUanp5U1BoYXBUVURGeHVr?oc=5"
     },
     {
       "title": "As Andy Reid lauds Travis Kelce's dedication, Taylor Swift steals spotlight with secret performance",
