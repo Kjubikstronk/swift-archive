@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-24T19:01:04.268Z",
+  "generated": "2026-08-25T01:53:38.432Z",
   "artist": {
     "name": "Taylor Swift",
     "full": "Taylor Alison Swift",
@@ -2093,6 +2093,13 @@
   ],
   "videos": [
     {
+      "id": "_9jaJtmraXA",
+      "title": "Taylor Swift Performance - The Icon Sessions at the Grammy Museum",
+      "date": "2026-08-24",
+      "url": "https://www.youtube.com/watch?v=_9jaJtmraXA",
+      "thumb": "https://i4.ytimg.com/vi/_9jaJtmraXA/hqdefault.jpg"
+    },
+    {
       "id": "hDU4GB1PTxc",
       "title": "Taylor Swift - I Knew It, I Knew You (from Toy Story 5)",
       "date": "2026-06-07",
@@ -2189,21 +2196,80 @@
       "date": "2025-11-13",
       "url": "https://www.youtube.com/watch?v=dSSqCoCiQVs",
       "thumb": "https://i1.ytimg.com/vi/dSSqCoCiQVs/hqdefault.jpg"
-    },
-    {
-      "id": "PdMdbiY6-lE",
-      "title": "Taylor Swift - The Fate of Ophelia (Alone In My Tower Acoustic Version) (Visualizer)",
-      "date": "2025-10-31",
-      "url": "https://www.youtube.com/watch?v=PdMdbiY6-lE",
-      "thumb": "https://i1.ytimg.com/vi/PdMdbiY6-lE/hqdefault.jpg"
     }
   ],
   "news": [
     {
-      "title": "Taylor Swift's Music Dominates 13 States: Discover America's Top Genres",
-      "outlet": "Yahoo News UK",
-      "date": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwVDBTWUQ2NWl2NDdaS09BSUEtSDNsV0ZkM1h0cmFTTUtaNHlCV2xzblhNcFBqeV9ENXdoUjZsbUNGYzFOLUM5UDJ0YlVJbmlPMExNRnhyQnlaVGdyME9nRVoxc2xuZzV1WFc0RXNfU2IyVnh2M2hwU0V0bFhuZw?oc=5"
+      "title": "Taylor Swift Reveals ‘Tim McGraw’ Song Easter Eggs Predicted Her Life Now After Travis Kelce Wedding",
+      "outlet": "Us Weekly",
+      "date": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRUVzR2lYNVUtS1RxMDNCVDZ1TmZGYXBQV2VVWkJCWjkzanVybkZScjlqYjJRWmFvSEdIeTl5YlZaWkZ4V1Y2c3AtOWVtTFlmOGNqaUx0N0dOd2x3RVhvLVBqWnhVNkczUWRrV1E0ajhLcnljYVRGanE2ZFRMVDBhb3Q1eTJhLUFCUl9VMGlRQmNMZHVEUzlDUFZ2enJCaHY0?oc=5"
+    },
+    {
+      "title": "Adam Scott Reveals Details About Taylor Swift And Travis Kelce’s Wedding",
+      "outlet": "AOL.com",
+      "date": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWTEtV3BPTlVaZXpZc2pENmotRWNwb0g4YU9xZjMwYjk1X1BDREJBS3Z3VnBITkhXNlNLdllXMjJIMXI2d2FNeTNCcWpJaVZMRHNCbmNCay1ENFhiaTZ1Y1ZQVFIzaTZmZE0xUVBLeVBjT21JYUp4UFJ2UGdWaS1PNTZvOA?oc=5"
+    },
+    {
+      "title": "Kylie Kelce Spills the Beans on Family’s Nickname for Taylor Swift",
+      "outlet": "InspireMore",
+      "date": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRG9KZ01ETHZPNHR4ejM4WkpDNVlHTWdMZGFxUG9DMjg3T1ozMF84cTY2MVlrWlVfOGdvdGtsck5CMjBaQ29lNUhOaHloZTV4YzFOU2dDX3lRSkw4UHE2NE5hZDJiNUM5M3NFd2lseklUV0lXNGFLcmtRd2ZRaHFMdXA2MEUzZk9janBxNDhBWlg0dFRESVZ3QzVR?oc=5"
+    },
+    {
+      "title": "Taylor Swift Reveals the ‘Coping Mechanism’ Mantra She Repeats to Herself When Things Feel ‘Unmanageably Big’",
+      "outlet": "AOL.com",
+      "date": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVnNLa19UT2lDeEc1SHRpUUtRVXk3ZzlEbmVDVU5wUGNSQnBPaVhITVhIM19zWG1xQzI1TUpZcDF6Q2x0RXI3R2NUU0RzTWE4TURzZndsWU5zRXNBdHlENUxKaEVreC1IUVU5U2pGSklsVlV4eVdFekU2ZktqSnVVVEIzQlNmajlG?oc=5"
+    },
+    {
+      "title": "Taylor Swift reflects on Nashville roots in Recording Academy video",
+      "outlet": "t2ONLINE",
+      "date": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ0RPOUNGaFh5S3pyMkVhdmU0czBjRkFkUlluNnp1NG40RlpBa0FxWDdxbTJvUEdjVXlFYmI2d0Jqb3JWY3dTc0lLWGN2T3NxTHQ5enhiS29Sb2hRdE1lRnhOeGg5RG9lbFF4VS1WWElkbHlXb1M2QS1Qb1BlSjJxZnJMOEdyT1Z3OXA4WmI3dlBVelVQdEZzN0FoV1pqalo3MFp3TXdjQjNiUGVKWFE?oc=5"
+    },
+    {
+      "title": "Taylor Swift’s Grammy Museum dress sure looks like an Easter egg",
+      "outlet": "Page Six",
+      "date": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMlFvVUg3T2hKbjk4VWZzbEN4M2NMbUVMQ1BQMEQ5a01KWTJKQ2xmZFlUWmdIYkg5Skcyc3ZDWUNKY01aUGwzRk5IN19oWGVmUTE4ZzBmOGVOSGVvU1hTbzZBMzhaV0xkX2VmanBGSWlvM2pIZlR3d0hSSE5EblU0S1dELVlvd3lmdkt4UnFjTXltc0pLb3hCX1RkWGR4S0VNaFpzeXJOYmhNZ2k3RkhN?oc=5"
+    },
+    {
+      "title": "Taylor Swift's Ring Steals The Show At Grammy Museum Performance",
+      "outlet": "TMZ",
+      "date": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWFBrQjlZU2lmdWJOZnFPNkdXbzBScjh5eXNtQUNBLWJFWno2Zzk4dHNSUi04UUxYeHdTQnRiN2ZzZFA3QUlNMUZBSHNvSkd3MnMyUEtuYi1mSDdUZHNvS1MtUnk3aFdFLUVweWdzMEpIRHMwMGNIQkctRURHaEg4TmIzblR4SDZRVVBiNC1rMHk3R2VVeVczMllMcXl6LU1XWElj?oc=5"
+    },
+    {
+      "title": "Taylor Swift Reveals Hidden ‘Double Meaning’ in Her Debut Single ‘Tim McGraw’",
+      "outlet": "parade.com",
+      "date": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU2R3dHdIRG0yV0o5RkctRURSUFQtOG9RTVlHOWphYlBXUW5BOFpwV1FmX3prSHRCOVR4WFdCZGNoTzBMcHFyMUZBNDJVSk1oUlJSWVgwUlZXYUt4ZkhyNERjbTNxd19fbFBTUURmTWhUaVlsT2dzaVBuVm5BNDF1d3BITWdWbjMwREpUazdMZ2hiOUNRZi1sanpVTkRKd2FYdldkYmZMRm8wQQ?oc=5"
+    },
+    {
+      "title": "Taylor Swift on Dealing With Public Perception and Deciding Not to Opt Out Before Her Career “Got Unmanageably Big”",
+      "outlet": "The Hollywood Reporter",
+      "date": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaDhfc0tXcEhSaGJNVGxjLUltSVRaZHVycnpSdXhqcmVtRXVDdUQ5QzhsbkRCXzFxUGxlbC1IcVFSdXNXN25IdGZuZlpNODZPUzRjcVZ4UG91WHR4RUNQYl9pQmZ5OTVTNWJRWnZrNFNnajAzT3pKdFhMYWN4UUdhWi1CdHI0VndYTEllaWR2NWRIMDRvOFJRQzFTQ0lnSjcwRVlkc0ZOdGpWTUtUYlRxRFdja2VWYzdy?oc=5"
+    },
+    {
+      "title": "Watch Taylor Swift Say She Feels ‘More Loyal’ to Her Country Roots Than Ever & Whip Up an Eras Tour-Coded Surprise Piano Mash-Up",
+      "outlet": "Billboard",
+      "date": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOamVsbVZUdVhEYXU2ZWFwalVrdFExaWV4NmJFRDdieWNfbXZsTWFSZHVQdjVuX0dWX2dkOTZrLXBwaEw4b3EzdnJrYk4ycDlGZ3lZZDRlaVNLMzAwb2o0c3UwSjduN3B4QUExZGpJWDhwVTVkRVhyV2JIWU9vR2NtNVlac243Zy11dXdSdE5wSEJZcUVYQktSRkJ0Y0htemF0ZnNUdGhvcE5MaWs?oc=5"
+    },
+    {
+      "title": "Taylor Swift Sings Mashup of ‘All Too Well,’ ‘I Knew It, I Knew You’ and ‘August’ in Grammy Museum Video",
+      "outlet": "Variety",
+      "date": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV09pcExZR2YxS0tNNmM5a2YxVXM1RWtjWVlwNF96bTRtdmVGVm5fdHVqRDA1ajZiZTZTSDBUaDcxNDMxOUNqUndEdmhUenZjY3l2RnlwSTdEVE5sR0R5TmNlTF9wMVp4VjNqalJEWFU4bS1Gb3V5RXpwRlRRWlZWS0JwUHRwQXVVRnJuMW5naEV6cmhrU01XZjRibWRkbExrbUI5cS1hLVY4QQ?oc=5"
+    },
+    {
+      "title": "Taylor Swift’s Romantic Green Dress Has Fans Convinced They’ve Figured Out Her Next Album",
+      "outlet": "Yahoo",
+      "date": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY0hMRHl0UlZDU3NpcFhySzRvcnQ1M2lfaTdjdjZJUklYV1FtQ3N0OE1XejExdXV0bUZEQnJQSms2N0ljRUtaZGY3N3dhY05fMWwzUm1YWTdFdnZDWXRGWW1wVENRUWVJUVBxMGhUeU5pT0JDNVdsUWtteFZpb3B5SGZmNEtRT0dVZUFiZFJ5UWxYWGxFQUhKd2NxNzJlZUUw?oc=5"
     },
     {
       "title": "Rob Gronkowski reveals Taylor Swift and Travis Kelce's wedding raffle details",
@@ -2212,10 +2278,10 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObjViUzczcWs2SEtFaHNsQ2FpaUhOZEhiTkxPOFhUUXhMM1JnWlo4Vl9QUU9IUXhaWHJBQzI2dUpWS2pLaF84aHFfNUVxY0tRQ013WDUxNmlBaVp5ZDhVa3BfUXdHU1hVOF9CYUR6bkxybXNfeHRKaGJTUnVDX1RtYUpTQUdJMXlMb1g5QmkxNFZwYzBPUG1OV1JHQ3IxQjhwSWRMYVhYMmcxOEdGdVFTcGd1NEQyeWFRWkE?oc=5"
     },
     {
-      "title": "Taylor Swift’s Leaked Wedding Invite: Everything to Know",
-      "outlet": "Hollywood Life",
+      "title": "Taylor Swift - I Can See You (Taylor’s Version) (From The Vault) (Official Video) Guess The Party (0gBTFcmopi)",
+      "outlet": "Mshale",
       "date": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSW9aOEZiU0liNDZrUTVqLUVENGRJY0xqdWJKWHJMNzRoWV9Qam96WUZtOGdfR2tESERXd2x2MzgyMTlweTQwUTlyd3lsdzlaVGtQaVZTVFhUbVpqbTBZSmtWazVNeGVzZnZ1OWx2T01XeXRrd3FwX3hnZzRzN200bnFta9IBiAFBVV95cUxNTFYtQnF3RGg3UEExQ2ZqN0RZaXBqMi1LSmQtMVE0alhEVF9Kb2d2T3EydmRWWU9tbzhVU3gyMDlWR3QyOE42Q05MY1V1R3FmUkpQVE1kN2tFN1BhZ2ZUSmdnZXo4bjREdUh2aTlTUjF4MjdIeGQ5aVpNNkdEY1B4S3M1VkFCNW9t?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ma0thd3l1dWIwWThUZmFkVUsyN3FqN0lLM0R6dkVVb3pDRVhGQ3Y2cXhEWk1LUzdaTGJkbkZwT2hFVkhkdmpMMXlBLTBraXl6ek1CbFNmNFdlOW8?oc=5"
     },
     {
       "title": "Taylor Swift and Travis Kelce wedding guest denies reports that guests signed NDAs",
@@ -2224,64 +2290,10 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPczFJU0RuOGRhS21RcVJVYmJRb0RFWnNCcGhZTDM2cUNpVFo4eUJ1aW1yOTV0OTB3SjJFdzJFcTJiaUxxbU5sdUlwVWs5TFJPT01oRHhOZW9rMWN4MmJuclhRWTFYWHlYRlBPbFlnMk5lclFlQzZNSlJHdnAzOHlUOERWcUdlY0FkZTMyTzlnVm1jRHIwV2lndndqY2NMNW5iQ3FJelY0SEo2bk9CTXFPMEozcnU5ZWZDQnhZ0gHDAUFVX3lxTFBqY1BQSnkyU2loOUNuRmU2SEVuVVZpczBIUGxxNEpZU1BrcHJxbVp6TU1ielYtb2ZMV0lvVGd0bHFrUldteHh6d1kycVBqVWZWVjRNTUhteFdRXzRYR3hGa0swTTlUTm9JTS1xOW9zYzNGeHBFa01jWXBCbl9yZWU4TGFuUGtGZVdFMExjTnkxOG9oQTBkOVRxQVlZV29vRjdQSjJvZkFkMFM5ejMzX2lRRFBicHdyZHRycGxwNXRGcFcySQ?oc=5"
     },
     {
-      "title": "Taylor Swift is America's most visible celebrity in 2026, new study finds",
-      "outlet": "Yahoo Creators",
+      "title": "How Many Ear Piercings Does Taylor Swift Have?",
+      "outlet": "AOL.com",
       "date": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMVZLRm1UY3VtVEVNZE5lOWlUODc2aVhld240RmFVMjF5ZTNWczMwUXRuMGI5WjNod25iMkdDNFVaR3dLTFVyajh0ekJRNUpsdFBFRnJHLVRuZkUydEpKaHRKV29vVFRQcDJ0VlpTS2gxR2hxOTBETDRaZHNPcThMMm9ueTY4YTEwRUJBbDVkX1hfM1d0eW9QamtTN0JWX25pdmZqYk1LV0N0NHRLb3VURElzNzlKUUo5WjQtNmszazVBZm1pbmgwag?oc=5"
-    },
-    {
-      "title": "Taylor Swift wedding: 7 of the sweetest details from her Madison Square Garden ceremony with Travis Kelce",
-      "outlet": "Yahoo Creators",
-      "date": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWTRla1NMSFVNRkNwekJlS1F2eTJmX01JOE1Jd21tNjRGRjJjaktENzNDcDFrcnJtTHRjZ0dFY25qcG0wMmVlZFZwYkR5VUhSQjdtM0xPNXZnYldSM2tJOG0yX3o4Y2FISkU2V3ZyVWFIUm1rcy0wV0V0QUNUNFJ3WHJJVXVQVUVZLXVKeFFMU3ZiS1NuNlhmNDFEai1HSG12TXRLWThJVnhfMTFCZWVfNF9fMGtKMzcwUHduR1d1QkQ1TG9EaEZPd2QzZElsSEZLalQzbk4xdDk2a2RFcTI1VHZCRWhoWk9JQWhmVWJjM3M2R1hm?oc=5"
-    },
-    {
-      "title": "Taylor Swift Seething Over Travis Kelce Wedding Leak Firestorm — Source",
-      "outlet": "Yahoo",
-      "date": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbkt3NFpMOWNIOTdGRGtXUUJDVktGTVQzQnpPbFItZUExLTlaZmJ5Z3Rnclk5czM1MVlnRGNxWUFEUnRST1g4cURNTXpDdEx1Z19XRHpZcGtEZ0NxSkU4YUVFLThITlNJUWRSVm5YMktPT3NnVFI1VW5aNUhPWXFVMTNfXzVCM3k5VUE?oc=5"
-    },
-    {
-      "title": "Taylor Swift Made This Underappreciated Cartier Watch Famous. Now Travis Kelce Is Wearing One Too",
-      "outlet": "Esquire",
-      "date": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb2doZHlDZHIydW1HVjlrLU9fQUxlZlFlVUs3ZURpclZNc2NicTlvZWdGd2d0R2VNSDVWbk4zUFdwSTFSN2FldmVvUi0yaFFxdEI2TDF5UkFKSzAtYUQwRlpyUE40RlRiN2tsTmJQQWtJMHd2UGh0NFNOMkQ4b2J2cDZrVnlIUkRCOU1LWDV3?oc=5"
-    },
-    {
-      "title": "Kirk Cameron Warns Taylor Swift Is ‘Actually Discipling’ Millions of Young People",
-      "outlet": "ChurchLeaders",
-      "date": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd2MxckRYay0zMXZVbnA5VUhURG5jRnlwV1hqRU9faVJRclpnc0NjU1hUTVNRbmtITUNGUU5XSHBMSHRPQ0NkUTFuYnMzQktJRFRqbnBHWk1VZ2gwbWR2SzVxa3JwNmdUNEhXY0NiVHlVUnJCcFVZbnNiQUIxZGlvNkg0MnNvR3pSNVpCeUhhZUFvTGVjLU1tLVF2WFJSeHlESlNDVldrVVJtV2da?oc=5"
-    },
-    {
-      "title": "Adam Scott Reveals Unexpected Detail About Taylor Swift and Travis Kelce’s Wedding",
-      "outlet": "instyle.com",
-      "date": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPS053UGM0ZEZLTFlidExTMGZueUJPcVdPRllhM3k2MXVTM0pyRFZjTEc0ZHMxdFBKUHFDYVJEc21icHQ4LUx5MFlNaGgtT196UThXdEE2SnMycEJ6OU5PUTJrYmFIQ3hNYll4Ujg1ekQyaGdGWlF1UU9TV1JhMGhxQ0tZQTNvaGdUcXV2bnVDQTVwQjI3ZW9EaHFKdWlsLWFwT1FBRUl3?oc=5"
-    },
-    {
-      "title": "Taylor Swift's Eras Tour dancers at her wedding: every wedding weekend look they shared",
-      "outlet": "Yahoo Creators",
-      "date": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTzZkNDI2VXVPNUNCNFVqMVZfZTQ2SHNVdTZRcHBKYm01YWxBLUpMODJzeFBtMUswdEFNZHlvMWdQOXdZT0RBVnN2eVkwQThrWVVNdDdqNzFmUklEay1PVEpEOFJFRWNPZE9lZVBEbVJCXzllTXczQkNHN0gwTnhTNDZ6VGhOYVFsMEFueGpmdGV4TFhYMTU0ZlQtcmE5aFIxMFJDT2dza0dKTzZyYUFub3RSSXVWeENRMWx1R1piWnlwN0FpYUJRaEN3TEVGVkdwcnJtY1VrWTNXTG8?oc=5"
-    },
-    {
-      "title": "Taylor Swift Blocked From A New No. 1 By A Fellow Hitmaking Machine",
-      "outlet": "Forbes",
-      "date": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOTdMeFhRVWtMQ1pYS3JUOWNwTHB2RG9OS1FaZmhtWVRHS3VkUlRLYzlicVFQWFBURk9PSDA0Y05XYkZ0cTVIbUlWOXlYckFIQjlnSkVrUnljWG5sR0VNckQyTmlnMVFJN2ZXX0tNeUYwYnlXTU94amtyd2JZUW9OUFVZZ0tSQlZrZFhPVVh2VE1JdXFydUZVN3NwUUgzcl81aUxZMHFmVXNfRG1fS2hpSmJ2bTB1WmI2Skd4SQ?oc=5"
-    },
-    {
-      "title": "Travis Kelce’s sweet gesture at Saturday’s game thrilled two young Swifties",
-      "outlet": "Kansas City Star",
-      "date": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZWdYZy1qcUhOY3pMdUwtQ3NKdlFWaEZ4WEdrN3dxWnd3U0lWUjl0bDJXSXBwSmxUb2ttTTNzY3g5TDhVSHh0OVUwaXBXSGlWRVNOMHZ3dU5tRnp0SjdTQ2NQdHRoX1Y2V2lBcENFOER2c2I1M3hRMlB5Q0pkcmMyeElsRHNES3hBVnNjTW1SRjk1d9IBkgFBVV95cUxOaElUQmtzV2J2OWUxU201Z041VjdPd0stNE1BLW1xdTFLTGdWcnBqbWw1dUNENVFCYVVpSmZXNDMxeGpxdHpmRWZ5YUpJMDBaM0daYmRBQXR4NHpyanBpTHViblVieENDSEVjNk1vLTBnRHVUT3haTzJ1T3ZSYnI5VDc3dHprWHcwcnpkY21NeDNwZw?oc=5"
-    },
-    {
-      "title": "Adam Scott Reveals What Surprised Him Most About Taylor Swift and Travis Kelce’s Wedding",
-      "outlet": "People.com",
-      "date": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ05QcmJ6TkR1dng0d3gxQ2hyaFNSdG5udF9PUjF1blVWOUNtdXZhb010dlgyQWlpUjFJSHdZNzNfdVowTjBJZFM5TUZDVkYzRmxybVZ0OWVtNW9QVW1KbTZneHdDQnpCNlJiSVFuek0xeGh2U2pHaGEtM1drQm5aOWNVZlNJZ1NILUxjOHMxSzM5UzFKRGp1WExzNFNnc3BteGxmRTljc2x3SUZOVVF0cGVSS3I?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qRnVwemIwSHJiX3d1X2lEa2lJNjJCYWwtNFRWNjdaWnVEWTNjZjg0WWZwaF9GQ1BzRTBYdUltZmhoYlVVZkpWSU1MSm9RRC1NVjdxWXo0ZHJrWDZ5NFpqTmx6OEtpWGhKNER2VFQyemgxWVlINWwxTXMzM1VpejQ?oc=5"
     },
     {
       "title": "Kirk Cameron Calls Out Taylor Swift for ‘S***** Immorality’ and ‘Rebellion Against Biblical Morality'",
@@ -2290,58 +2302,46 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNE9YcXp2MklERVBTd0ttb3lEektOeGZucUVLOUREUUF6NTRybEJlSS0ya3NxaGtsRV84MTdLemM3VHRuVWllX0xoTjh2Yi12aG9wT1BoY1lsVk1XS1J6c21rOUJfY2gyaFF2OWJxZGtaOC1xR1FLWHB3Q0ZTSGJ5SGpGcGdEMDdwSF9OQ0dwVjEydVE?oc=5"
     },
     {
-      "title": "Adam Scott Shares What Taylor Swift and Travis Kelce’s Wedding Was Really Like",
-      "outlet": "TODAY.com",
-      "date": "2026-08-24",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTW1DSzVKY2djcE5GcEt0YjljcXQ2UzlYRTFKVlV1eFAwYk5PT0dqcVljX1NxbUp0djJxcXRrMHlfblBhS1NYeFBLbFhhREZFb1ZMNnF2Zk1QTkRvZTg4V0E1dm1oM1RQeHN6Sld2MlZsWXR5WlJyVlduR0JFdkFZbzI0SkhtV1JuMFVSSQ?oc=5"
-    },
-    {
-      "title": "NFL Has a Strange New Problem Because of Taylor Swift",
-      "outlet": "heavy.com",
-      "date": "2026-08-23",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM1ZsMjdWYXF3Rks0NEkxUURfTlRDVFcxQUFzMEJpN29CTGpUVG9XeVlfUXY4YjA5T05reE9yeEtDaTBMWVotZmxoZlVUaVpjc1Y5MUR4Ukp5b0p3Y3NQWVhxbGxJNEtnQ2hwdWFnOG90eVhmSnAtb3hwU1JCOGlYc3Z2dkZlR3hUQjBr?oc=5"
-    },
-    {
-      "title": "Kylie Kelce reveals Taylor Swift's influence on her kids",
-      "outlet": "Yahoo News Canada",
-      "date": "2026-08-23",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92X2txUlRYNWVMMi00ek5XU3Z3SzhaejBLZ0J5OENrY2x0alBQSGlYZlVlS3NZRjIxVU1rdHl0czFkNGJlaDctWUY1b0hockl1dk1UWFpjbzMyZ2xFV3hHNTRaZFVMcWZTWFhRamc0VE1hX2tfeExGWUtwWVFNYTA?oc=5"
-    },
-    {
-      "title": "Travis Kelce got a Taylor Swift ‘sign’ before the season even started",
-      "outlet": "MARCA",
-      "date": "2026-08-23",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWEYwMmQ1WFJLSHY5T0cxMFo0TGxDS0V4Si1HWG1NYnJqZkhhTjQxUVFvbHpCRHdhZHJBU0JHV0t0OFFzRmxxOFVQN2tYbjBTbWY1N0FJZVBvbm9EekxlSXExYWh0d3Q2TU1BZzdSZ3lFVi1mMjBUOFNvV0lEQllMNldIb0thNUN0dl9QNGlOcmJRZXhabHRDcDFFUVBadkRTRlpXeUFxTENrNmN5WE8zR3NQRzRGRk1BNnpTcFlUOS1zUUxNckM0LUlQbm04QdIBzgFBVV95cUxObUZSRERFRDBrclBPY0d2ajZ5TVVMN2o5NFN1WkNtZFk5aWtYT2dRLVo4Q1ZIUXp2bFBPdlE1WmhmUEpUUmQxZjR6ODI0NDVSNi13UnFNS3UzR1dFQkVGLVNESFZWRUdPM2ZZLXhJWnJuVmRFVFlJUzVibmFuVFRHVFo0cHU4UGV5X3FFWUZTSGxiNHNNQVc5VDdZTmdiYU9tUlBrbTRhd1QtSW15QlR5SlJFMjBqUEVFLXN4MXNlNzUxbklSOGRyTlpLNE5IZw?oc=5"
-    },
-    {
-      "title": "Leaving Travis behind? Taylor Swift swaps her newlywed life for a girls' night out with Dakota Johnson",
-      "outlet": "MARCA",
-      "date": "2026-08-23",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZWF1cW5hUnluekVOTjhxb0xyVjVQWHJ0OWo0Z2VsM3loTUlXd20tVkNKZllJb1BYSkJEVkNoNnZ5eFFWeXA5RWFyLWhiS2d4Mzc2UWdMdWg1VjJJWlIzMl91R1ZFLUt5d2JHYV9TelZIZVctTmxkMkhzU25QLTVIUkZVaUhDTzBGOURlZ0RSSXhfc3FMTVJqWHc4WEN0b2p2RmVyRXVwZEctZTVkWnUweXdtQVlfZzRud1BOQkN6QVJkQl9EbTBidzhKc0VxMFdldkhZZ0I4WDhMX2ZERXgxU0xzd2s0U3NTRHZ1N2RQR3VDSENf0gH0AUFVX3lxTE1DU1NRNzlyMHRXWXRvZ3VtZDJKWkZRNHlHMnJPcTBJbkszMlkyb1JvcmVNVUNUMmcyMXp0TGJyR2xhUG00MmNLUDMtU3h3b1c0Tkh0NFBXR1hJZTc3N1dwY3NqdG1SRFVHd1NXMnZIS2ZZQm9ZYmF0RDZwc0RpSThLLW5QTmt5ZjNGUmVGbnJ6WGZjRVVQcW9ZSnpsUjNmNGZVaVBPX0hUa2pLTjNxY2pRNTdxTGMyblRCTzdwQml4WGlDc0s5dHBEd21uYS1HOVhlZ1cyekhod2RoZWNoZnhiZzFzeWZMMm4yMW1xX1hXNEVPZlo?oc=5"
-    },
-    {
-      "title": "Taylor Swift Ex-Boyfriend Conor Kennedy on Russia Wanted List",
+      "title": "Taylor Swift Goes Back to Her Old Ways With Dakota Johnson After Wedding — Report",
       "outlet": "Yahoo",
-      "date": "2026-08-23",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcXJITFVaSW9weTdfSFBsWmdnMjdaU3lsLUVWaVlmc1V5V2xReWozdmw3bXZCdzRSZFJVdjRoNTRXYVJmTHNTcGNwN1lKWlBHZTdkd3RjNzFBMDQyMlM0czZGdGVmY3VWVFphYTZVZHNtRlR6VG8ySXFhNEtqR3N1QmtzNzZGZjU1ZnJjT3ln?oc=5"
+      "date": "2026-08-24",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMng2THF6WU1uREV0cVUyTDJRMWRpWTh5NlJPM3FrRzhHRm8wRVZqUDFBeEFjN1QzNWNRX1pYMzNYb1NsVXpPV3FqZzhNeWdGOEpUcUVSZUpjeFZiTV9XYk1Kd3BjWWNTRlJvNHd0Sl9jNWtIWjM0MXZVZ2x0U1BCMg?oc=5"
     },
     {
-      "title": "ROBERT FRIPP & TOYAH Perform TAYLOR SWIFT’s “Bad Blood” For Sunday Lunch (Video)",
-      "outlet": "BraveWords",
-      "date": "2026-08-23",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUkExRW5ILXFrbWhhSUlLSWg1M2xzdUZUSUtwVDlUQlpCWmtwZmNLNGstZlVMZTM0NzE0WktzVEx5Zlo3aXhBd1liX0xIeXQ2Nl9CY1Z2eWpiT0VVdnc1Nzctd25Wa3ZGQXhvT2w2VnJaWlNkQnhYelRXZmNJTkhPOS05czBrUVB5S3RnRGE2SnU2dTR0S1BMcWxMMS1OWjFUTXp6U9IBrAFBVV95cUxQZ29RQUd6TUtBT2toZ1NoNjJsWFBDT2pYbHNUVDlxR1pGQ3hHNVlEM3I0NzdpZGlzaEhqZmtETkJqa0FuNEdNRTlDenpLT1dlc3QxUG9laDMxanQ5aDQ0QzBJYi1QdGkxMk1DdDRwNjJQUzRYd2ZMM0N0ZXNCcU5TY0d3UkhITFRoMkVtaHNreVJwZlZ6ZGYtYThMNVYyczRNTzB5VnJLWGZfUHQx?oc=5"
+      "title": "Taylor Swift Made This Underappreciated Cartier Watch Famous. Now Travis Kelce Is Wearing One Too",
+      "outlet": "Yahoo Life UK",
+      "date": "2026-08-24",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVTNCT3psQ01BeU9OeHhjeDVYZjBvM3ZVVG9neEYzWElOR3A0T2Vma3hqeWFxbXlmbldHbXluRVhpeVhBNTRXNWNVQzhSdVo4aURrMEdCZlJYeUpKQ3lCN2Q4YkVaeHlvcGxSdGFrbWRHYTQ4Q2tTSUFLTkdlaGR6OFdPRU95emFUdGdScw?oc=5"
     },
     {
-      "title": "Did Travis Kelce really cheat on Taylor Swift? Truth behind viral 21-year-old Brazilian woman claim | Hindustan Times",
-      "outlet": "Hindustan Times",
-      "date": "2026-08-23",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWmJxc0pGNGJVZVFOWGotRGU4R25SbjZEVkY4U3BhTHFSVkdCSzlFOFJzelpjbWlJNWJLNGtsS3Y3OXhFUmd3Q010RkRUOFBhTmxoS2R5X3lHbjJESHJVQkhtVFhiUDlRNTd5NnZwMFJvUzlTUkRMLVBpUTVJeHB4bTQtQ1FlQXV1eDhnLUhOdmtGT0w4N0RTWjZBYXMtcnltLW1kR0FqaVVIcFF6RDZaaDFPWnNoVVlxTVh0VFRBZURvQ1J3cnFFaDVGYkFSUjgzbVh2dzdRSnRycFdFaHR3QmhlUklIWE9PbERYSUxFRmo5WVhU0gH6AUFVX3lxTE5neDJtVnBWby0tMmVhVTJGbnhocnZkZlR1WUpCMUk3MjBWZXZZaEJKNXh6NFE1VzNNblZGcm4wT0hHa3RPbjQzLTZobzNYc3dzVkUtMmFZdFZZRFR5S1ZWRkg0b2xrVmhscThiWUstV09EZDFmdUZmWG0tYXhJemQxUzcxZURCUW4yT2V4d05VYTFnMENZVm1EYmF2Q2EyZmtXSGkxMG9zN2ZvSnJkaDdVT2ZrSWVVT3dKeGNLemxOUnQyblZWbHkxZlpidDFpN2RnQmsteWFWdERSVEhrTGF4YklPUFF2Uk5XdUdCLUVaX0ZHN2lhS3ZCMnc?oc=5"
+      "title": "Man who helped introduce Taylor Swift to Canadian audiences headed to Country Music Hall of Fame",
+      "outlet": "OrilliaMatters.com",
+      "date": "2026-08-24",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOeXlweUNZWmR2anotV2ptUlhPaGdGeGZVbjVfTTdyc2JfZ09ySUJsU2Z6RVhjNVFGTkZWX21OVmlwTkZ5Q1NSRFNZeUlaY3VKMUViOFJGeGx3QlVsQ1BUc0R4ZDQxTjBmdF9iOEV2ZlpnekR0akFJVDFoY3BiZFJfaENBQ0djTi15MkN4aDlPSS1iZE10NjlnbExiRUN5Mnp5dUJxWWFaUDdqbDlIODZ5YVB3SXFQbnpWMnhNcTRYRHhqeHdIZFduUzVnSWNITWVzZUJUWE92ZHpNbndLYnJmTg?oc=5"
     },
     {
-      "title": "Taylor Swift Keeps Low Profile for Night Out with Dakota Johnson at L.A. Hotspot (Report)",
-      "outlet": "Just Jared",
-      "date": "2026-08-23",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcVFsU004QnlTck93RVExZS12OVZIUE1ncWlKUTU1MTZrejVtelFqYkJtQ1lfTk8zWkZMazlhZXJkR1Rjd0FyOVdfWExXNUx0RHExNjFDNUxEdTBvMlh5X2dVVUFDTldJMWl6VGsxQVdBS2xkSXVlRTdxUlQ2NVBXS05kSzQxSEdxTVloOGlHQXlHcmJpTlRVUlJCaktLYmpqOThzYjRHa0I0d2NwVVltaDFKNThiVzE5amhOTDVZZk9QZw?oc=5"
+      "title": "Kirk Cameron Warns Taylor Swift Is ‘Actually Discipling’ Millions of Young People",
+      "outlet": "ChurchLeaders",
+      "date": "2026-08-24",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd2MxckRYay0zMXZVbnA5VUhURG5jRnlwV1hqRU9faVJRclpnc0NjU1hUTVNRbmtITUNGUU5XSHBMSHRPQ0NkUTFuYnMzQktJRFRqbnBHWk1VZ2gwbWR2SzVxa3JwNmdUNEhXY0NiVHlVUnJCcFVZbnNiQUIxZGlvNkg0MnNvR3pSNVpCeUhhZUFvTGVjLU1tLVF2WFJSeHlESlNDVldrVVJtV2da?oc=5"
+    },
+    {
+      "title": "A tribute to Taylor Swift performance in downtown Troy",
+      "outlet": "Miami Valley Today",
+      "date": "2026-08-24",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaklCMkN0Z2ViQzlsaVVFNnJiVFdiZkkzVzU3cVI3LXgxdV9DWHVfak1Wc2JKOU5jNFVwODNhNVExTm5SWnNramw4OUNYQk1xMUlra1JlTGxNSDd3Mm9RejZqQzR6OThXdTgyVUFGTXZ5RDI5ank3WEFZWE1Gdld4b2ItUzh6aHBCdUYxYQ?oc=5"
+    },
+    {
+      "title": "Taylor Swift Leads New Ranking Of America’s Most Culturally Visible Celebrities",
+      "outlet": "EURweb",
+      "date": "2026-08-24",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE04ZmlpNW9Yd0Z6SjdzYjcyTlJNWGhIdGlMWlp4bVhuSmJLV2J6ZnRLa1lSNF8wYkxkc2tCWlNuLUFjY090NTFkVUhNNzMxLTJtUDFleVF1X0RobTlyTGdhcUZMYi1namFJa3NrbmctOVk4TG15a19uSmdFZGtnQQ?oc=5"
+    },
+    {
+      "title": "Taylor Swift, Travis Kelce's wedding gets eye-opening no NDAs revelation from NFL analyst",
+      "outlet": "Yahoo",
+      "date": "2026-08-24",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQS0M2UDlDczVRcmdlRllJSWU1ZjZZVUpEWE1DSzVGRnEtVkpIUjg0RUZUQjBWVkNyUTZDZGNjWnJVeThseXEzVThjSkxkS1ZqcWtoNnhFUlRUbVBJOGFza0dPRHhMT3RnWWtKY0FnYnp3U0lIYWRYRzRBajRhdXA5MVUwRFJBUjFUaWtRamJXakFvVjBlODhqdnVocmd5Y2VVZnNaOFNIVQ?oc=5"
     }
   ],
   "bio": {
@@ -2367,6 +2367,24 @@
   },
   "tourNews": [
     {
+      "title": "Taylor Swift's Ring Steals The Show At Grammy Museum Performance",
+      "outlet": "TMZ",
+      "date": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWFBrQjlZU2lmdWJOZnFPNkdXbzBScjh5eXNtQUNBLWJFWno2Zzk4dHNSUi04UUxYeHdTQnRiN2ZzZFA3QUlNMUZBSHNvSkd3MnMyUEtuYi1mSDdUZHNvS1MtUnk3aFdFLUVweWdzMEpIRHMwMGNIQkctRURHaEg4TmIzblR4SDZRVVBiNC1rMHk3R2VVeVczMllMcXl6LU1XWElj?oc=5"
+    },
+    {
+      "title": "Watch Taylor Swift Say She Feels ‘More Loyal’ to Her Country Roots Than Ever & Whip Up an Eras Tour-Coded Surprise Piano Mash-Up",
+      "outlet": "Billboard",
+      "date": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOamVsbVZUdVhEYXU2ZWFwalVrdFExaWV4NmJFRDdieWNfbXZsTWFSZHVQdjVuX0dWX2dkOTZrLXBwaEw4b3EzdnJrYk4ycDlGZ3lZZDRlaVNLMzAwb2o0c3UwSjduN3B4QUExZGpJWDhwVTVkRVhyV2JIWU9vR2NtNVlac243Zy11dXdSdE5wSEJZcUVYQktSRkJ0Y0htemF0ZnNUdGhvcE5MaWs?oc=5"
+    },
+    {
+      "title": "Taylor Swift Breaks Down Songwriting Process and Performs Medley During Recording Academy Q&A",
+      "outlet": "Consequence of Sound",
+      "date": "2026-08-24",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ2FDSzFzNDY4bnkxWGRfYUpqNmhfUlRONnktNlNxOXczZWJTcFNXbGszTXVuQ3BidjRDanQ0NVB2UzA4NEFvMUoyQ2Y2em1odUFsR2lOODFCVEdHMHBqeGJ1Y3FQbUJRQWR1V0FuNkItV0JWdWlBNnBwNGxIS1VNZA?oc=5"
+    },
+    {
       "title": "Taylor Swift's Eras Tour dancers at her wedding: every wedding weekend look they shared",
       "outlet": "Yahoo Creators",
       "date": "2026-08-24",
@@ -2383,24 +2401,6 @@
       "outlet": "Visual Capitalist",
       "date": "2026-08-22",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcFlBeWFIc2FlSGVJUnV3RFNLVTlZclZMUFU3WE1WX1laTzRpaUMxb1AzdFFqUnFxQi03bkM0UGRmclpnUGpYaTBUZ0NTMlJRaWRQQzdNWkxCWnpCclNoMUZXcUs4eUptNFl6ZFoxSEtMd3NlSlVzT25HSDdldzQybE40aFJuVFhYcHltNHZUUQ?oc=5"
-    },
-    {
-      "title": "Taylor Swift Joins Emmy Campaign for Eras Tour Film, Performing Five Songs for Voters",
-      "outlet": "Culture.org",
-      "date": "2026-08-21",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOGl3VzdxTlhIdWk5QmlJa2IzX3A5Z2MxRkdVQjZYYWpyajVoSUtKZzhFTTRsUmJ3NF9pZEZ3R08zMHNMczItOTRqdWkyc1BNT1JZcGZiS0ZOcXVvMVp2cTBkYnRvVGEtdVQxcG9ubVZuaTNZYlpOWmI2a3RnbmVwRUJVT0NVbFk?oc=5"
-    },
-    {
-      "title": "Taylor Swift Talks 'Eras Tour: The Final Show' At Emmy Event",
-      "outlet": "Deadline",
-      "date": "2026-08-21",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOclRZLUhjWkJnQk9NZ3NRQmNIZ2Mzd1FIZFZIaF9xZF82VDQ5bXQtVTktc2l6WFB3cTA4ekZfX3NaZm8zRGdQUmJfRjFma0I2c3VCYjByTElJMC01YUxqR3FzN2w1aU9jM2hiRmRUR01yUGFtYk85OTd2MmQ4VXlqSnRrOE1iemtmX2gwZzVERGlvU1F3MVE?oc=5"
-    },
-    {
-      "title": "Gracie Abrams Reveals What She Learned From Touring With Taylor Swift: ‘It Was the Masterclass’",
-      "outlet": "Just Jared",
-      "date": "2026-08-20",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNb2dXV2w1UW1XazljZGpDYXExOWNhVG1qY2pHNWhwcnFwYUktUzBYWEdwbFB4OTluUzM1MENqaGRvZ2J4RkhqUC1sQlZTQ05oTWNUM05oTXZ1ZHgtSHZEMm1Lbk93SlN3Mk1NXzFVUDUtNjJqS3pnMUtZU3d1NlpCWGdrY0JXQVpVQVhvRUo5c0lnSVNMZWxrVU9PTkc0U1FWQ29ucklCRzNxSmJGcHhMWm42Nm4wdGZ6RGQ2dExGcTFVUHJHeUR2VFd3?oc=5"
     }
   ],
   "timeline": [
