@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-27T22:17:29.050Z",
+  "generated": "2026-08-27T22:25:32.855Z",
   "artist": {
     "name": "Taylor Swift",
     "full": "Taylor Alison Swift",
@@ -323,7 +323,7 @@
       },
       "releases": [
         "itunes-1595423133",
-        "deezer-130716962",
+        "deezer-68491961",
         "itunes-1440934573"
       ]
     },
@@ -431,7 +431,7 @@
       },
       "releases": [
         "deezer-874936972",
-        "deezer-72093192",
+        "deezer-227786",
         "itunes-1440932737",
         "itunes-1860454442"
       ]
@@ -1534,8 +1534,6 @@
       "copyright": "℗ 2020 Taylor Swift",
       "genre": "Pop",
       "via": "apple",
-      "recordType": "single",
-      "deezerUrl": "https://www.deezer.com/album/131557962",
       "kind": "Single",
       "year": "2020"
     },
@@ -1704,18 +1702,18 @@
       "genre": "Pop",
       "via": "apple",
       "recordType": "album",
-      "deezerUrl": "https://www.deezer.com/album/302068167",
+      "deezerUrl": "https://www.deezer.com/album/9007781",
       "kind": "Album",
       "year": "2014"
     },
     {
-      "id": "deezer-130716962",
+      "id": "deezer-68491961",
       "title": "Red (Deluxe Edition)",
       "date": "2013-05-14",
       "trackCount": null,
-      "art": "https://cdn-images.dzcdn.net/images/cover/177ec7bf4d0fcd50e9ece647fa8474cd/1000x1000-000000-80-0-0.jpg",
-      "artSmall": "https://cdn-images.dzcdn.net/images/cover/177ec7bf4d0fcd50e9ece647fa8474cd/500x500-000000-80-0-0.jpg",
-      "url": "https://www.deezer.com/album/130716962",
+      "art": "https://cdn-images.dzcdn.net/images/cover/56a83d3002710bf2044b86c01db665aa/1000x1000-000000-80-0-0.jpg",
+      "artSmall": "https://cdn-images.dzcdn.net/images/cover/56a83d3002710bf2044b86c01db665aa/500x500-000000-80-0-0.jpg",
+      "url": "https://www.deezer.com/album/68491961",
       "recordType": "album",
       "via": "deezer",
       "kind": "Single",
@@ -1761,7 +1759,7 @@
       "genre": "Country",
       "via": "apple",
       "recordType": "album",
-      "deezerUrl": "https://www.deezer.com/album/130721292",
+      "deezerUrl": "https://www.deezer.com/album/68496491",
       "kind": "Album",
       "year": "2012"
     },
@@ -1849,7 +1847,7 @@
       "genre": "Country",
       "via": "apple",
       "recordType": "album",
-      "deezerUrl": "https://www.deezer.com/album/130716982",
+      "deezerUrl": "https://www.deezer.com/album/689149",
       "kind": "Album",
       "year": "2010"
     },
@@ -1905,9 +1903,20 @@
       "copyright": "℗ 2009 Taylor Swift",
       "genre": "Country",
       "via": "apple",
-      "recordType": "album",
-      "deezerUrl": "https://www.deezer.com/album/130714702",
       "kind": "Album",
+      "year": "2008"
+    },
+    {
+      "id": "deezer-227786",
+      "title": "Taylor Swift (Deluxe Edition)",
+      "date": "2008-10-04",
+      "trackCount": null,
+      "art": "https://cdn-images.dzcdn.net/images/cover/9c0e80bb3c16e1c987cf235929eb7757/1000x1000-000000-80-0-0.jpg",
+      "artSmall": "https://cdn-images.dzcdn.net/images/cover/9c0e80bb3c16e1c987cf235929eb7757/500x500-000000-80-0-0.jpg",
+      "url": "https://www.deezer.com/album/227786",
+      "recordType": "album",
+      "via": "deezer",
+      "kind": "Single",
       "year": "2008"
     },
     {
@@ -1922,20 +1931,6 @@
       "genre": "Country",
       "via": "apple",
       "kind": "Album",
-      "year": "2008"
-    },
-    {
-      "id": "deezer-72093192",
-      "title": "Taylor Swift",
-      "date": "2008-03-18",
-      "trackCount": null,
-      "art": "https://cdn-images.dzcdn.net/images/cover/e9dd628cc4dd15850a13b4151cce9075/1000x1000-000000-80-0-0.jpg",
-      "artSmall": "https://cdn-images.dzcdn.net/images/cover/e9dd628cc4dd15850a13b4151cce9075/500x500-000000-80-0-0.jpg",
-      "url": "https://www.deezer.com/album/72093192",
-      "recordType": "album",
-      "via": "deezer",
-      "deezerUrl": "https://www.deezer.com/album/321177137",
-      "kind": "Single",
       "year": "2008"
     },
     {
@@ -2218,16 +2213,16 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ZeWpqWHdaQVdxOWtFdm0xRmhNem56dnZ2UjRON0xTX2RCcE9TMUFrY1pPU01mUklMdkFoc0NjMDlYR2ZZMC15T0VSajNDcVBhd0RuaWdBWnp4ckJIdWFWWUhVYlVSaVkxX0F3dkZaVlFGRTlWR2lRMHdSNGQ?oc=5"
     },
     {
-      "title": "What Taylor Swift previously wrote in a note to Indiana Fever star Caitlin Clark",
-      "outlet": "hitc.com",
-      "date": "2026-08-27",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbTRBa3NSeEZDUDBDVzFId04tN0ZUZEVZV3RWMWJzeUpQazVxQzdJYlBiUURDOHFyZkN2WU51cnZzMWcycDFUdzFnal96cUU0VmtFLUQ2dC1JQjNTeTVxeDBmMXNlWmxJZzM0aHFLaWpWckN3czNZd1F5cGY2aUUzWEhMbm1oaVhVUUxjU3Q0dkRPbW5nY0NGQTBWM2F2SllXcXJFMA?oc=5"
-    },
-    {
       "title": "‘Toy Story 5’ Sets Disney+ Date, Unveils New Taylor Swift Music Video",
       "outlet": "Daps Magic",
       "date": "2026-08-27",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUUVfMmZYQ21JYkJlcndZcUt2cG1XQkdHU3hyWXRXRVBhaG5iMTBNUHVxTXdua0pFYzVhQzdjU2NnRW1HSHBjOTFSSWQ0Nmw2c0RybGtvY0F3U0plTkc2dURYSEJYbmpJTThIQ19SVXA0aFlCUTZNMmk5bUpaRnhKTGFUNDJhVHNVMDBiaTd3dVFhODBJZjRKSmo0VXQ?oc=5"
+    },
+    {
+      "title": "What Taylor Swift previously wrote in a note to Indiana Fever star Caitlin Clark",
+      "outlet": "hitc.com",
+      "date": "2026-08-27",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbTRBa3NSeEZDUDBDVzFId04tN0ZUZEVZV3RWMWJzeUpQazVxQzdJYlBiUURDOHFyZkN2WU51cnZzMWcycDFUdzFnal96cUU0VmtFLUQ2dC1JQjNTeTVxeDBmMXNlWmxJZzM0aHFLaWpWckN3czNZd1F5cGY2aUUzWEhMbm1oaVhVUUxjU3Q0dkRPbW5nY0NGQTBWM2F2SllXcXJFMA?oc=5"
     },
     {
       "title": "Taylor Swift pays tribute to Dolly Parton following her death at 80: ‘Her legacy will be an everlasting one",
@@ -2302,12 +2297,6 @@
       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxORGFHdzRGcUh1UFMxbHF4Q3M0dmdSWlhYWndReE1ETEJMTFVQV0cwRVZBNHNGY3ZPUU1fVlRXaUpIR1EycG9rSjFVdDBBNjd4MGtLMm9yX1U1M1hyeFNXS2FBdWdGek91LWNUell3R2gtc1JKN2gzWGdnV2c2bjF3REJ2bUxVZmRuZXhkX3V5VW5uNW5fWk5CQVBMdHctdFhEbmVRMmVJQjlaQXZtYkZOd1JmRmRBNlFrSldrUEl6ejV3NktpX0JyYUdfVHA2ajVCc1dCTFRnU2tvZ0VTeHEwUUxYRzkzc0lpZGZrZGYycFNFczR1RDNhVDlwN3d4c1RaX3RUTEwzYkZTQnFReGJvSFdn?oc=5"
     },
     {
-      "title": "Taylor Swift Celebrates Dolly Parton’s Lasting Influence on Music",
-      "outlet": "MyRadioLink.com",
-      "date": "2026-08-27",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORDhtQmVSalU1OEQxZENBZjhkMHJYQlZjc2Y5eWtxQ29zNmdSY1FNLTNkOFJKa2VORXhVNTZqVExvWHlyS0VTTXpMV2hsX1VwT2tYd1JNX0FBSHdSZXFMdTJNQW9pSlRNZXVEeHJHdmJfeWJ5OU1DSHZycUM0RXVJZURUdHp6dlk4NERoNG5qV2tHWi1JeWczSWdwXzFoUlRjb0ZheUd5dw?oc=5"
-    },
-    {
       "title": "5 Things to Do: Oswego History Cemetery Tour, Taylor Swift Trivia Night, ‘Mean Girls’ Broadway Musical",
       "outlet": "Shaw Local",
       "date": "2026-08-27",
@@ -2342,6 +2331,12 @@
       "outlet": "Yahoo",
       "date": "2026-08-27",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU3laNTdJZU5qY01kVHJmTF85Y3dHVUJtQUtCM3N6emxzWHd2dnUtTzRDTnpHSHN0SDdIWWxpRm5uek1lWUZlMS1NVklJSjVjdUw2VzZWQWR2RDFfcEwxX3VLUnc4UWJ4dXhyOFQ5U0RmemdlMVRpLTBQTUpEdXk5WUtBZWZEZ0tidmp0MFFzbk11UnJCSzdWcFNoVE15Y1lCSG1NaENFZnlhaFFudWc?oc=5"
+    },
+    {
+      "title": "Taylor Swift Releases ‘I Knew It, I Knew You (Piano Version)’ Video as ‘Toy Story 5’ Gets Streaming Premiere Date",
+      "outlet": "IMDb",
+      "date": "2026-08-27",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96NlZxVVhEbTFiTlZOcUhNYXVhaGxNLXY1WFV3MHVwUi0xeTVyWHdZT0RRU2FJNk1YQzFvdVpuck5iM2I2ZGFXN1FlYlpFRURyTmw4bGFhTi1fRHJsNDRURm81Q1FqdmM?oc=5"
     }
   ],
   "bio": {
