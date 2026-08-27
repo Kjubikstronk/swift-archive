@@ -241,7 +241,7 @@ function renderEras() {
       <article class="era" id="era-${esc(e.id)}" data-era="${esc(e.id)}"
                style="--era-accent:${esc(p.accent || 'currentColor')};--era-glow:${esc(p.glow || 'currentColor')}">
         <figure class="era__art">
-          ${e.art ? `<img src="${esc(sized(e.art, 600))}" srcset="${esc(srcset(e.art, 400, 600, 900))}" sizes="(max-width: 900px) 88vw, 445px" alt="${esc(e.name)} album cover" loading="lazy" decoding="async" width="1400" height="1400">` : ''}
+          ${e.art ? `<img src="${esc(sized(e.art, 600))}" srcset="${esc(srcset(e.art, 400, 600, 900))}" sizes="(max-width: 900px) 75vw, 445px" alt="${esc(e.name)} album cover" loading="lazy" decoding="async" width="1400" height="1400">` : ''}
         </figure>
         <div>
           <p class="era__no">
@@ -528,7 +528,7 @@ function renderLatest() {
         ${fresh ? '<span class="badge">New</span>' : ''}
         <img src="${esc(sized(r.art, 600))}"
              srcset="${esc(srcset(r.art, 400, 600, 900))}"
-             sizes="(max-width: 900px) 88vw, 445px"
+             sizes="(max-width: 900px) 75vw, 445px"
              alt="${esc(tidy(r.title))} cover art"
              width="1400" height="1400" fetchpriority="high" decoding="async">
       </div>
