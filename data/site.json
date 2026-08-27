@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-27T09:52:41.487Z",
+  "generated": "2026-08-27T17:17:36.748Z",
   "artist": {
     "name": "Taylor Swift",
     "full": "Taylor Alison Swift",
@@ -323,7 +323,7 @@
       },
       "releases": [
         "itunes-1595423133",
-        "deezer-130716962",
+        "deezer-68491961",
         "itunes-1440934573"
       ]
     },
@@ -431,7 +431,7 @@
       },
       "releases": [
         "deezer-874936972",
-        "deezer-72093192",
+        "deezer-227786",
         "itunes-1440932737",
         "itunes-1860454442"
       ]
@@ -1534,8 +1534,6 @@
       "copyright": "℗ 2020 Taylor Swift",
       "genre": "Pop",
       "via": "apple",
-      "recordType": "single",
-      "deezerUrl": "https://www.deezer.com/album/131557962",
       "kind": "Single",
       "year": "2020"
     },
@@ -1704,18 +1702,18 @@
       "genre": "Pop",
       "via": "apple",
       "recordType": "album",
-      "deezerUrl": "https://www.deezer.com/album/302068167",
+      "deezerUrl": "https://www.deezer.com/album/9007781",
       "kind": "Album",
       "year": "2014"
     },
     {
-      "id": "deezer-130716962",
+      "id": "deezer-68491961",
       "title": "Red (Deluxe Edition)",
       "date": "2013-05-14",
       "trackCount": null,
-      "art": "https://cdn-images.dzcdn.net/images/cover/177ec7bf4d0fcd50e9ece647fa8474cd/1000x1000-000000-80-0-0.jpg",
-      "artSmall": "https://cdn-images.dzcdn.net/images/cover/177ec7bf4d0fcd50e9ece647fa8474cd/500x500-000000-80-0-0.jpg",
-      "url": "https://www.deezer.com/album/130716962",
+      "art": "https://cdn-images.dzcdn.net/images/cover/56a83d3002710bf2044b86c01db665aa/1000x1000-000000-80-0-0.jpg",
+      "artSmall": "https://cdn-images.dzcdn.net/images/cover/56a83d3002710bf2044b86c01db665aa/500x500-000000-80-0-0.jpg",
+      "url": "https://www.deezer.com/album/68491961",
       "recordType": "album",
       "via": "deezer",
       "kind": "Single",
@@ -1761,7 +1759,7 @@
       "genre": "Country",
       "via": "apple",
       "recordType": "album",
-      "deezerUrl": "https://www.deezer.com/album/130721292",
+      "deezerUrl": "https://www.deezer.com/album/68496491",
       "kind": "Album",
       "year": "2012"
     },
@@ -1849,7 +1847,7 @@
       "genre": "Country",
       "via": "apple",
       "recordType": "album",
-      "deezerUrl": "https://www.deezer.com/album/130716982",
+      "deezerUrl": "https://www.deezer.com/album/689149",
       "kind": "Album",
       "year": "2010"
     },
@@ -1905,9 +1903,20 @@
       "copyright": "℗ 2009 Taylor Swift",
       "genre": "Country",
       "via": "apple",
-      "recordType": "album",
-      "deezerUrl": "https://www.deezer.com/album/130714702",
       "kind": "Album",
+      "year": "2008"
+    },
+    {
+      "id": "deezer-227786",
+      "title": "Taylor Swift (Deluxe Edition)",
+      "date": "2008-10-04",
+      "trackCount": null,
+      "art": "https://cdn-images.dzcdn.net/images/cover/9c0e80bb3c16e1c987cf235929eb7757/1000x1000-000000-80-0-0.jpg",
+      "artSmall": "https://cdn-images.dzcdn.net/images/cover/9c0e80bb3c16e1c987cf235929eb7757/500x500-000000-80-0-0.jpg",
+      "url": "https://www.deezer.com/album/227786",
+      "recordType": "album",
+      "via": "deezer",
+      "kind": "Single",
       "year": "2008"
     },
     {
@@ -1922,20 +1931,6 @@
       "genre": "Country",
       "via": "apple",
       "kind": "Album",
-      "year": "2008"
-    },
-    {
-      "id": "deezer-72093192",
-      "title": "Taylor Swift",
-      "date": "2008-03-18",
-      "trackCount": null,
-      "art": "https://cdn-images.dzcdn.net/images/cover/e9dd628cc4dd15850a13b4151cce9075/1000x1000-000000-80-0-0.jpg",
-      "artSmall": "https://cdn-images.dzcdn.net/images/cover/e9dd628cc4dd15850a13b4151cce9075/500x500-000000-80-0-0.jpg",
-      "url": "https://www.deezer.com/album/72093192",
-      "recordType": "album",
-      "via": "deezer",
-      "deezerUrl": "https://www.deezer.com/album/321177137",
-      "kind": "Single",
       "year": "2008"
     },
     {
@@ -2200,28 +2195,16 @@
   ],
   "news": [
     {
-      "title": "Taylor Swift Pays Final Tribute to Late Dolly Parton",
-      "outlet": "VOI.ID",
-      "date": "2026-08-27",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBhV3VFQTB5NlZiWFJSWTBteVZkN1NxWUdjOEdZNTkxQmUyNUtla0NwWWl6ckxBRFRYT180c2tybEc5bkxB0gFCQVVfeXFMTV9lNUsxS3otb2xPcFR4SF9fUzFfVHRTT2tWYkUtWUlIaW5PMTJxME1TMXFTc2JvUmg4ZFA1XzFqMWVR?oc=5"
-    },
-    {
-      "title": "Caitlin Clark’s new Nike sneakers seemingly inspired by Taylor Swift’s iconic friendship bracelets",
-      "outlet": "MARCA",
-      "date": "2026-08-27",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPQkhaMVZmWm81dXFwUDZYMFNiMlFzdURlZjJBbC1scGd1dUpOQkQxNmpUb3JSY1V6aHpTUTJNX2xVaEVzMllRRGtVUnBXMm10S2JyUVZxaUNPdGdBMTVoNENJajYySUQycVdKM3pndzFVVDU1enVHNEtwaFVTVTFaWDNGZUViT1VVQVViQWVVWmVVZ2xvaVFLQ0NDTVlrZG5qb1hWWGhwQ2RwU3ZIelcwb2ZwZHByUkppTnFvUDFHLTBFTVpOeWtUSHRtMV9ORk5KSENoRjJLM3dUR0UyYU9WNF9EeEppRmE3Rmwxa25RNmYxT2ctdGQxVHBSaHhuNlJNQVozQXJB0gGGAkFVX3lxTE40Mks1OEI4MEUxTjR5dVFHYXFQbExleDgyaGNBM0dIdTQ2YkhHRjFmYk85Y2ZxRzBwQjM3NURZUHFUUXZVX25nVmVGOS14X0hUOWkxSlBpdDQ0elNmQ21USlF0Z3BUSkEtTDlDNksyVEdMWHdpR1RMX2xBd09aLXZDeW5RYTNIU2Z5RlhNSG9aSWd6dVQ0SWVCXy1zZEIxSkhia0ZiUTBvb0RtY1p4NTM2bEpkN1RmUE1YRVl3OXRhNTFVcFRDTUVLTHpxODA0bUlQcjgwRUc5ZWxQNkp4eWcxaHp4MWhleWlhRmFURTllUnZFWE9LdUdUUS0xaV91d2pPeTNLaEE?oc=5"
-    },
-    {
       "title": "From Lionel Messi, Kanye West to Taylor Swift: Celebrities Are ‘Protected’ by Israeli Security Teams",
       "outlet": "Orinoco Tribune",
       "date": "2026-08-27",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcUZ0NUtrN0E5X3BzeFBDUlo3YlBHOGlYbzEzWmtsVl9fYk1sam04LUN6RE5sU0duU0hIdUNnTTlvWGpNVmhEMjdwSGFuVWYyemUtclBlOXBVZHVhbnE0azltczBWb3owMWdyM3ItOGZCU21TMWVvTEM5ckZaNUE2V21mVmpIMjBxMnYyaWRCeEJqN3BWbmVRUktiZUcyQkRqWTJsUXJpVWUzcmVyX1RGam53QjdaQkFPLUY0ZFRyTmlLUQ?oc=5"
     },
     {
-      "title": "'Will be sold out in minutes' - Fans are going wild over Caitlin Clark's Taylor Swift-inspired shoes",
-      "outlet": "hitc.com",
+      "title": "‘Toy Story 5’ Sets Disney+ Date, Unveils New Taylor Swift Music Video",
+      "outlet": "Daps Magic",
       "date": "2026-08-27",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaXNma3lkV2VyUEYyNXpXV05nSlN3azRGdDl5dDJWLVRxajhzR3Y5NVZaNjZoTVd3NXIzc2ljUGVRdnRzaWJYdnJDRDdfX1lvMHBNLU91eXVueGFyQ1ZwVkNxeVh0T2drLWxYX09TVUFvbjVmSkp2aGxnQ0phbnBMZEh5WjFIZFpvMUpVNlZZUHdnS0NKeW9Ec1VKUFk5TFplci1QWUFUWFk3ZnVYTW5scVBlZEp1RG9x?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUUVfMmZYQ21JYkJlcndZcUt2cG1XQkdHU3hyWXRXRVBhaG5iMTBNUHVxTXdua0pFYzVhQzdjU2NnRW1HSHBjOTFSSWQ0Nmw2c0RybGtvY0F3U0plTkc2dURYSEJYbmpJTThIQ19SVXA0aFlCUTZNMmk5bUpaRnhKTGFUNDJhVHNVMDBiaTd3dVFhODBJZjRKSmo0VXQ?oc=5"
     },
     {
       "title": "'HER LEGACY WILL BE AN EVERLASTING ONE.' Pop icon Taylor Swift pays a heartfelt tribute to the legendary Dolly Parton. Link to full story in the comment section.",
@@ -2236,16 +2219,22 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaWktbTBDTGNzdlAybXk0LTBHc1pPYUY2b29xRE05UDJPTkZCbVZ0YUlITXY1Tlg2RmVPWVE1eXRvazhEZ294ei12NTdEWnhNVGlJM3U4amRPcUZ2UWFKRFUzSUVnNDVfSGFiWTVZS25vbnhZZEF4YXVOaWhHUjJDQXFCdUdfbC1TTGdGN1AtNVJpUE9fRTRyVFI0bHcwQQ?oc=5"
     },
     {
+      "title": "‘Toy Story 5’ Sets Disney+ Streaming Date; Taylor Swift Drops Piano Version Music Video",
+      "outlet": "Murphy's Multiverse",
+      "date": "2026-08-27",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMm45emN4V18wcVVnT19WZEhwSkRkSXZSdW5HenV5eXZuRFdSMHM4NjFHQVVnaE1iYXdYMlpNUEk5TFh5YWE4azFJTm53WmUweHZBTmJQb3BfZ1lNX3FmUkdfaGRxUDdIdDRXaWJrbDJLVmNlUHlaUFRHS1B1d2MzQTh5cUhzVHBpV0EybVR0dDhxMEtUYW5VX0hraUxSa3d0ZnRpVmxGNHNHWll2RzVDY1pBcVFrcXU2V0E?oc=5"
+    },
+    {
+      "title": "Kirk Cameron Warns Taylor Swift is ‘Discipling’ Millions of Young Fans",
+      "outlet": "Beliefnet",
+      "date": "2026-08-27",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZzk3Q1ZqNUJSZDJMcnRxSTlrRUhKY0M4aWRvTkRfOTNaNk5xelVUaHJMY2d2Y2lldTlnejJGY3NzaTNndXBKN3NHT2lSWjBibEVQd1R0OWY1V1JyQjBiRXhMRTg0OHlpYkJGbzJmek1ITElfc2hoZ1BWRGpQWnhFYlV6Qk1KOTd2LTM4VWVneHk1NXdPczNVeDZmemhYakVQU3A0T2lNOEZmaWcwdnBWUkt6OVlMMDM1c2tfYnh6U0xCXzBhMy11c3F3?oc=5"
+    },
+    {
       "title": "Dolly Parton dead at 80. Taylor Swift, Miley Cyrus pay tribute",
       "outlet": "USA Today",
       "date": "2026-08-27",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU1hPNWh2cjdFaHhjSjVaTG90NWZONm9FZ0NzYWJXb0ZXWlNUc0NvaktuUDFWVVJsZEEwWVdKcjI4S3o0TWlwa0d6dGZ3OV9MXzRtN29RVHh4cEhXZlYtbDh0VDg2ZFhzWEdmQS1lbDFxUXhobGRyeHY1b3ZTVzVEVDRHX3lKR0VfTkRWMjZwbDVXOXY0dHVBSUJvSjZYY0dXbTJKb01fOEs4bVJLMGVJaE1oTmxPVGY4VHc?oc=5"
-    },
-    {
-      "title": "Caitlin Clark Unveils Taylor Swift Friendship Bracelet-Inspired Nike Caitlin 1",
-      "outlet": "House of Heat°",
-      "date": "2026-08-27",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQV1dVSWZtRFJweE9FU3YtZVlNV2lTbXFFa0ZmZUtvTWdNYmU5ZDBZYTlfb09DY1V2VldDaGx6TWI3UlBaNzE4UTQzTjRpQXRfRkF5b2Jlak5MNGF6bW4xR3Z4QkpPaHNrclRuSlRaTWFkckY4dFZPQTZqeTVGVldiaEtlNVA4TzFjcjhJc2VROGp0OWxDZmNz?oc=5"
     },
     {
       "title": "What Taylor Swift previously wrote in a note to Indiana Fever star Caitlin Clark",
@@ -2260,16 +2249,28 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tSWNBT01lR1hRT2I3ZWhVVDZqc0V3MFF0ZG1PTVdFZXd4ZjlRdTBzMjlpS0YyNHFrRDNIeEdidjByY1doMXBqOVgwOXd4dU5FNnpmTnl1RlNMMDN5V09OVm9STGRpOVFuR2ZXR0JtRk9Xa2JpX2pGSlhRN3dFdw?oc=5"
     },
     {
-      "title": "Taylor Swift wedding: 7 of the sweetest details from her Madison Square Garden ceremony with Travis Kelce",
-      "outlet": "Yahoo Creators",
+      "title": "Red Flags In Taylor Swift's Relationships That Caused A Big Stir",
+      "outlet": "Yahoo",
       "date": "2026-08-27",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWTRla1NMSFVNRkNwekJlS1F2eTJmX01JOE1Jd21tNjRGRjJjaktENzNDcDFrcnJtTHRjZ0dFY25qcG0wMmVlZFZwYkR5VUhSQjdtM0xPNXZnYldSM2tJOG0yX3o4Y2FISkU2V3ZyVWFIUm1rcy0wV0V0QUNUNFJ3WHJJVXVQVUVZLXVKeFFMU3ZiS1NuNlhmNDFEai1HSG12TXRLWThJVnhfMTFCZWVfNF9fMGtKMzcwUHduR1d1QkQ1TG9EaEZPd2QzZElsSEZLalQzbk4xdDk2a2RFcTI1VHZCRWhoWk9JQWhmVWJjM3M2R1hm?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ01MNGxzUlBxc0dyTHBUbFN6M0lJaENLa0RIakdZTko2dHpuN2tZbm9IVUFfWGp5Wk1hZVBEaG13NmhEdEc3ZnQxbmZHS01kMkdEMkRIaGNMc2QxWmRhWE02ZlRHanNsUmR0RENudWl6V0tnWFZVeFBMWE1EUGRqOU1adFM0dHROd1ZjRjgySnZGa3NkRENTRUJxWQ?oc=5"
     },
     {
-      "title": "Dolly Parton thanked Taylor Swift, Travis Kelce for $2 million gift weeks before her death",
-      "outlet": "KMBC",
+      "title": "Dolly Parton on Taylor Swift: “I just admire her very much… and what all she has meant to so many young people”",
+      "outlet": "IMDb",
       "date": "2026-08-27",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON1ZzU01HREhsMWlMWnJaTzRVcWhUdVRCbXpBdDZfN3BwSmxDYTg1ajdqSzVWTVotdW9KZEt0ZlNVMnltc3hCYnZEaGlJdkJpU2lwUFY3YmdGejZaLXd4REY4cGpiemlUSlFXa1QxQk9NNGhVQkxpZXY4VXRka0JDSHVOWUo3eFBiWjVubGhwM3JSSHpVeWxrRXdHSmVYVmV4TlFhYWV6ZThZUmUzMEpYOEkzVVBEcUE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwZEt6SXdXRWJ1bTZ1S0RJYWtna0pRVV95Wl9ueGZ3ODlVbW9ONTBfckhMWkxualpidDk4QUs1X1BLbXdNQlh1bUpQSE1zQ2h4RVU2aHRlOW9JLVFJZ1dua19rRFhxWVk?oc=5"
+    },
+    {
+      "title": "Taylor Swift’s Last Interaction with Dolly Parton Revealed After Death",
+      "outlet": "StyleCaster",
+      "date": "2026-08-27",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQUVNWmVNYnZxY1diSTZuY3hULTE0dlZOOGFlYmhKdWpyeWZvWS1qTW54Mm1vYy1qLThVSVZmcFpTTXRVSDVfRk51SXZrdHBFMjQtQmNtUkJsQU1fYmxQTlFubGZTNGdRZEdxWkdBMTlSX1d4S29pTUFWVk1NNXQwRS1iWGF2d3V0YnpkaEllLWtaVUptT29SeDJTdEdyYS1GaTBaWVhVZXRNekctZHNYdGtBbw?oc=5"
+    },
+    {
+      "title": "'Toy Story 5': Streaming Premiere Date, Taylor Swift's 'I Knew It, I Knew You' Piano Version Details",
+      "outlet": "TV Insider",
+      "date": "2026-08-27",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9nTnNHUVZTaDl6cHN6V0JnU096eTMzazk5UXg1Z0dYTi1FY1pqLWVkVnU3dnZidzVpa2duMEtTRlNLUmFSM1NZWDhjbVdnamlFYXc0Ry1zV0g3ZnRPWnRXZEI2YTI2VjdQRXJXNEQ0MUJNcTJtUHBF?oc=5"
     },
     {
       "title": "10 things Taylor Swift revealed during The Icon Sessions, from the 'idea fairy' to why fans inspired an important set list choice",
@@ -2278,70 +2279,64 @@
       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxORGFHdzRGcUh1UFMxbHF4Q3M0dmdSWlhYWndReE1ETEJMTFVQV0cwRVZBNHNGY3ZPUU1fVlRXaUpIR1EycG9rSjFVdDBBNjd4MGtLMm9yX1U1M1hyeFNXS2FBdWdGek91LWNUell3R2gtc1JKN2gzWGdnV2c2bjF3REJ2bUxVZmRuZXhkX3V5VW5uNW5fWk5CQVBMdHctdFhEbmVRMmVJQjlaQXZtYkZOd1JmRmRBNlFrSldrUEl6ejV3NktpX0JyYUdfVHA2ajVCc1dCTFRnU2tvZ0VTeHEwUUxYRzkzc0lpZGZrZGYycFNFczR1RDNhVDlwN3d4c1RaX3RUTEwzYkZTQnFReGJvSFdn?oc=5"
     },
     {
-      "title": "‘Cult’ Used to Mean Something. Now It Applies to Taylor Swift and Trader Joe’s.",
-      "outlet": "The New York Times",
+      "title": "5 Things to Do: Oswego History Cemetery Tour, Taylor Swift Trivia Night, ‘Mean Girls’ Broadway Musical",
+      "outlet": "Shaw Local",
       "date": "2026-08-27",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdEdpUGRoVkZMV2ctR0w1TjAtdXZPX1RQYjEwM1Y5aXNLRlVaM1o4RS1EYjFuT2xQNjVfYVB4QWNiY3VhUDQzY0pmWUxZNC1NcUxrTUxHMDllRl9MRWVwQXQxY3cwdGlPUEpyM2w5MGp1YktnRGZ6S1hEUXd1ZzRuWTZDYkVYUFE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSkE0LTZBdEt6eXhyRHZpajhVZ2tQazBIZVJGWDdBdHZhX3BnRklpd0Z2S2Y2cWVGeGhxdHlEeGZjMS1POUhSa0dGQUN3MGgwUUxpNnh0Q3lkX215Ui1xcnNCNG53ZFZJanJXeGVXUkF2Z1JNT0RydlJORXlLQm91eDY1UEhMdFkzRHhMSExwTldVQUstcEdoaVp5aVFZdktfdld0R0JzN0NKYzd4SmxvRUo0R2Qzc2lEd1ZpN2g1THhfOFBWZndRamdQS2JteGJzX1hsdHd1YmdPVmE1?oc=5"
     },
     {
-      "title": "Miley Cyrus, Beyoncé & Taylor Swift Pen Heartfelt Tributes To Dolly Parton",
-      "outlet": "Access Hollywood",
-      "date": "2026-08-26",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcjFvczhPN0M0VlpBV2dsNjAxc2dQT1kwZUs0U29VUDAzNERGcVRaU2lhdVJVVlo5eU5fRGxFdjZzZnlPbUU2NWdQWnF1eUkyRF9WTTRYbWFGdzVHZDF0YkdxendWSnZVcEZpYWNJUlVGSEtiblVuUFo5ZThYZ1AyX0ZiNWNnXzl6ZWw2MWZhWnZTSlJKdkU3aVNTU0pfWnpYSWo1eHM4OUU3YXc?oc=5"
+      "title": "Taylor Swift fans love this Coop Pillow and it's 20% off for Labor Day",
+      "outlet": "USA TODAY 10BEST",
+      "date": "2026-08-27",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAyWnROR3FGXzIwNzZPTGlaU2NDYTdtVlE5d2pFRlBSNG83Vnk3aTA2ZmdOLXVCeENQTjBxSFhWalp4dXlUTnN2S2tMcnRGSVZidGs4WVBDQ01yeUE2MmZJS3daekZVaXR2aVZ4NkpucWVndzM0a1F3VUZB?oc=5"
     },
     {
-      "title": "Taylor Swift, Celine Dion, Wynonna Judd and more remember Dolly Parton and her impact Read more tributes here: https://deadline.com/2026/08/dolly-parton-taylor-swift-death-reaction-1237050617/",
-      "outlet": "facebook.com",
-      "date": "2026-08-26",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV2pVVUVLbFFTTFl5bjdjd0R0Z0RnRG9nQ25hdmJ1enNPU2ZONjlWTXRoSmRyMmFNQklBRHBCVHRXMGRfNjlVY3Q1UVZVTlNlUkxTTFJXY3lOV0l2MlpudVNKZ1ZZa0pfbWh2RFBmOUNOcHBZb3lLOFNoODJ6b2MyN2NZbDlRUjBJNkFRZFg2emVTNVlSVjFtRE1pRmpFa1NxaVA1MmVYYVRXRTZNYUxSMjFwMXdNQzk4ZXFaVFpjX2xEVVI0bTlxSUFMakx6T0N6WjN0Rg?oc=5"
-    },
-    {
-      "title": "Taylor Swift Revisits Fan Favorites in Surprise Grammy Museum Mashup",
-      "outlet": "Indiana 105",
-      "date": "2026-08-26",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQakFTVDR3cTUzNGpoSzdHRmEzaWYwUVRHcldHWENGQi1BSmVST0xUWV8zNVpnaTZYMVVjeVhIb1k1VFAxQWt0ZnZ1aWNJVTl5SlBDdXUxeXctcWY2d1hRWWxhNDljMk03dGV5VmU4MlpJZmpFTkxvT2Z0cE53WWRIdUYwTjQ2MVMxODNHcExnNEVGc0taN24yel9TSmxUQXlHQUhVTld5Y2MyQk0?oc=5"
-    },
-    {
-      "title": "Taylor Swift Has Paid Heartfelt Tribute To 'Eternally Generous' Dolly Parton",
+      "title": "Taylor Swift & Travis Kelce Reportedly Facing Major Marriage Challenge Amid Claims Wedding Guests Are Angry at His Behavior— ‘Very Different’",
       "outlet": "Yahoo",
-      "date": "2026-08-26",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOFpLYklQVlZIUXRJMkkwOWJEVWlyOUxPZ1JoZ2FyNXpmNXNlQ1hGOTBoVnM0ZXlMTWtKMTVWT3pjT1ZqZldTYjV2RFM4bDJFUkVuaUN2MkZTd0hlenhOTURfYTA2VC1zVlhyRW56a2otelhLam0wOWljekFlNjcyRHpVVGpLaFRCT21pUE1JVjJwOXI2d2pXRQ?oc=5"
+      "date": "2026-08-27",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYkRiSmdiU1JObGhhaTJOdEVIRGZpeHRIWUNJWXhDTmMwRWh5dHgxUFR2ZVFMckI1U3NvdFBZUGsyZDFnaU04TUVsRTNXNldoN3JlWjVoZ2dvTkw0cUJIWnlvanFsMzJmN0ZZRnJWVjFReXhTRnJxMnIyVG9FMmhWOGEyUkNad1Q1T20xb2ZxTnFlZkV4ejB5aFR2QmJXSEk3dnpEbjlTdEVTUQ?oc=5"
     },
     {
-      "title": "Taylor Swift Shares Heartbreaking Message Following The Sudden Passing Of Dolly Parton",
-      "outlet": "Yahoo",
-      "date": "2026-08-26",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONnp3eW52NDNObjBKdU1KcUxHZ0M5Y0lwcndIQVl3RGh4RVBNRTR2dWt4M2I5b1FtY05NeEJ3SkJQNlBFal9ReGlYR29ieWdadnRwdXNWMTJIY3cyYzF0NGoxZ3hzTmpIb1BCVXJZUEt0VUpNZjJoOUZ6UXpwQzA3cnJBWHgtazFjRTJOazZoc3BuYXNmdWlxczR6MkZPUHdSb1hXZGZEYWNUbmc?oc=5"
+      "title": "Caitlin Clark Unveils Taylor Swift Friendship Bracelet-Inspired Nike Caitlin 1",
+      "outlet": "House of Heat°",
+      "date": "2026-08-27",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQV1dVSWZtRFJweE9FU3YtZVlNV2lTbXFFa0ZmZUtvTWdNYmU5ZDBZYTlfb09DY1V2VldDaGx6TWI3UlBaNzE4UTQzTjRpQXRfRkF5b2Jlak5MNGF6bW4xR3Z4QkpPaHNrclRuSlRaTWFkckY4dFZPQTZqeTVGVldiaEtlNVA4TzFjcjhJc2VROGp0OWxDZmNz?oc=5"
     },
     {
-      "title": "Video Taylor Swift, Beyonce and more pay tribute to Dolly Parton - ABC News",
+      "title": "Taylor Swift Releases ‘I Knew It, I Knew You (Piano Version)’ Video as ‘Toy Story 5’ Gets Streaming Premiere Date",
+      "outlet": "IMDb",
+      "date": "2026-08-27",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96NlZxVVhEbTFiTlZOcUhNYXVhaGxNLXY1WFV3MHVwUi0xeTVyWHdZT0RRU2FJNk1YQzFvdVpuck5iM2I2ZGFXN1FlYlpFRURyTmw4bGFhTi1fRHJsNDRURm81Q1FqdmM?oc=5"
+    },
+    {
+      "title": "Travis Kelce and Taylor Swift 'enjoying' married life as NFL star 'completely dialled in' on new season",
+      "outlet": "hitc.com",
+      "date": "2026-08-27",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcnJCSnNJb2RIZ3lDYjF6elVyNWxwYTJEMG5GUjJUajBFT2tjOVlCT2ZBYWt1ZE5rN3k5VUEyQ0VQVjQyNHhuWnR6MTdaOFg1bWVCQ0RWUGpySDQwMTNpb0EyUHJ2ckZfREU5Z3RkNkY5SVFmcmE1MDJLRkY2cmZqc0RrUUcyN2tnMnAzY184bHhPSlRLWUluZkZ6S3JzOGttd2hWUkVZU0dfNnlqSHd2eWN0Uk90XzlUbDBNQ2Nn?oc=5"
+    },
+    {
+      "title": "Taylor Swift Releases 'I Knew It, I Knew You (Piano Version)' Video as 'Toy Story 5' Gets Streaming Premiere Date",
+      "outlet": "Just Jared",
+      "date": "2026-08-27",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUW9XSmd0b1psekRQSE9SMGM2emJiWmlJbnN0OGF6Wk1VVDByeTYzUGtWMDlHT3BOQVdTQkk4cDM3YmI4VnhKaHJ6aUVUdldSbk9SRVE3UTJOQ043a283UFlUMlUzTEFoZEFuTXM3UWxlczA1VTBibjljYlk3Tk1lWlFzVWZDWHUySDJ2RHVaanpoNC0tNlB6bUowcXllUGdLd0lnaEd2XzdyLUdDMTJkYzNCS3RQWlFIQUtkZVlwcE1MRnE2QWZtS3BoUzJWdHJLU1BXOXdYN2NuVFNK?oc=5"
+    },
+    {
+      "title": "‘Figuring Out Their New Normal’ — Taylor Swift and Travis Kelce Reportedly Navigate Through Tough Schedules Months After Massive Wedding",
+      "outlet": "Yahoo Sports",
+      "date": "2026-08-27",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb3pvRjl3OEE1UkFocng2R3hoWkRzLTkzNEZobTlSQlBlZ3ZYRnJrYVM1UzRONlZHUDhrT1FoQVktTEdFcWZJeUNjNFpFaFNXN1ZOLTVPQXd3WTRqa0xBRnFLTGhxTGtYT1Q4aFZOX1RDXy1fYklhZkZTM0ZNcnRSMGQzc3FZZHhxNDE4Zg?oc=5"
+    },
+    {
+      "title": "Taylor Swift & Travis Kelce Face a New Challenge in Their First Months of Marriage",
+      "outlet": "SheKnows",
+      "date": "2026-08-27",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVExEU1pBeFdxYVBZYjVxdzVBZ284Q1h1T09PRW5EaTVtdXRDZFl0Zkk1MWN2OThUYVQ0VzJkQ1VvZDl3RFhlMTBMX192eHhOZ2tKZmZhMFdxRnBiNDV1ZWtxOHJBUzRveF9YTjdsN2lYNzEzQU94aUkxMGRMczBLMll1cm16NUJnODVUaXZ1SEFLYkwxY1BoREF6c0dmZnU5a3ZnUzdiSE4?oc=5"
+    },
+    {
+      "title": "First look at new Taylor Swift music video - ABC News",
       "outlet": "Breaking News, Latest News and Videos",
-      "date": "2026-08-26",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBFcFFzcVZZM0hhbzhZU3djYk1KZVhlRVBEV0RyZmgzaEthcDQ5NTN0UmpUMWJleWNQN0I5MGpTU0RpdEU4TU1QdEFudUk?oc=5"
-    },
-    {
-      "title": "Dolly Parton tributes include Miley Cyrus, Taylor Swift, Kacey Musgraves, Jane Fonda and Vince Gill",
-      "outlet": "Temple Daily Telegram",
-      "date": "2026-08-26",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUGM1dHV5V2V5Z2V3ZkVlQUs5UjJuSkU0THllU3F5Z1NySHF6T1lUcmZ5OUdXVWtNQmxZbUtPbkd0U3VBT1FHR3Rpak9oWVFoajI5UDc4bGdDTWJaV3I2U1dBQnU2NVk2c0dCeGxGUWpJeF9VbmJ1aXRJWFV4UXdSZDVRMnBQMnA3aGZ5U1JpTHE?oc=5"
-    },
-    {
-      "title": "Creator of Taylor Swift class named interim School of Communication dean",
-      "outlet": "The Miami Hurricane",
-      "date": "2026-08-26",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM19WVV9hcm55QVNXaVozY01lS1R3OEJqUlpfd0RVSVpRZGNhMGZkMEF0UU10WENLNVR2X3FHTllkOE5ycDdwUldRVVFUZXVfWmRfdGh1VVpLaWY1QTVyMU9lUzdRZV9pTGlXYWtDaEVsc25oRUtjWnNXckVEaU1tdG9ENVU5cFZkU2hNZlZXdzJ3R1RialJ6UjZlb3ZZaVhiZVA4NVV1bk9qZldNNlRoQTFzM0o?oc=5"
-    },
-    {
-      "title": "Taylor Swift Shares Touching Tribute to Dolly Parton, Calling Her “True Grace and True Grit”",
-      "outlet": "instyle.com",
-      "date": "2026-08-26",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUEhBUXJONkpwRWJkc0l1dmw3aE9TQmNPZkxRWWJXMk9GazZlemRuNzVGMkhBQ2lrbVF2alltdzBObFR0LTRQbFJwSjlnTnpzVFNTaDg0M3E1dW9KUHM5ZHNLZl8yQVVYUE9kUjdRRmNmLW9GenkzS19falVuMDNNbXBFQWpFSHRKNmU0VWliNzV3NXlr?oc=5"
-    },
-    {
-      "title": "Taylor Swift breaks her silence on her “unmanageable” fame and takes a dig at her critics months after her wedding to Travis Kelce",
-      "outlet": "MARCA",
-      "date": "2026-08-26",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPS2Y3OU94cUVSTFM5TExUOEJPaTd6RzZScGVpaEVocFIxYjhMZWlRZllxMlVsS3JOZEEyQ3V2b0tSbkhsQ2VoUGJRTFZOaFFfWWZSMi1ZQTY0S0tmTmJjS0ZLMnl4SXpMWnE0NW5XM05IYkxjMnFtUFRfSDQxenVicTRLbzRtVTBxVVByeTRWYlRpQnBfOFNRS2VpYldhOHhtekdSR3FLRkNwU2hQUVRnUGt6TUt5QnhHbzRQY2h0MEZqTXR4TFFlZlFYdTZHX3o0TENSaEVXTE8xQ04xRlhOYUpGWnd2NjNNOXBfUlNPZUVDN3JNdjZxRHNRNHYyRXpKRDVQU0ZlZnk3Y3VwaVJYVE1aMkU3U1lpbXfSAZoCQVVfeXFMUHJaeDE3QmVQZkhtdFBoU05ub19KME10YWRsdUhXM1dLMHRrT3F2bWl0cWdXOE8yRzI5NV9nVV9lTDFMSUt4aTdXcGdCcU9LRXVyVVlkaHcxZXZvVXZNbWQxSFdqaUhObkZ4ZVpoWnplckdMWTc0T256d1dTMTNTdXhKbkVPbjRvSlp2TFBJRTNnQXRHUWt2X2VpSldWeVVvMVUzcE43bm93RVhkSkhjc2QwcDBXWl81SnZvb3FKVjdCb3pXU0FmdE5ZcUJseTJjMWZ0WmFIaFdLd2JYVkFSYmRTcjFQQW1aOWlkaTk3c3FBcm16OTQ3aWhCNDIyc1FER2h2Q0N6SzRLMjlidDdfX2pQZ0ctSjVYZU1n?oc=5"
+      "date": "2026-08-27",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa2MzQmozaTdLRjBRa0VNN3dYMWt2LUxTQkp4LWZYR2ItcFE3NE9sOTcyd3I4aERJY21UVVFNLU82d1VkVjJsOERpSkNmWDF5RmJLOS1KdEExRFI5eUYyTUZtTUFwUlZRY2tYMEprRnFrZ3hscWpveFl6V2pSQUI2NnNrSVk?oc=5"
     }
   ],
   "bio": {
@@ -2369,7 +2364,7 @@
     {
       "title": "5 Things to Do: Oswego History Cemetery Tour, Taylor Swift Trivia Night, ‘Mean Girls’ Broadway Musical",
       "outlet": "Shaw Local",
-      "date": "2026-08-26",
+      "date": "2026-08-27",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSkE0LTZBdEt6eXhyRHZpajhVZ2tQazBIZVJGWDdBdHZhX3BnRklpd0Z2S2Y2cWVGeGhxdHlEeGZjMS1POUhSa0dGQUN3MGgwUUxpNnh0Q3lkX215Ui1xcnNCNG53ZFZJanJXeGVXUkF2Z1JNT0RydlJORXlLQm91eDY1UEhMdFkzRHhMSExwTldVQUstcEdoaVp5aVFZdktfdld0R0JzN0NKYzd4SmxvRUo0R2Qzc2lEd1ZpN2g1THhfOFBWZndRamdQS2JteGJzX1hsdHd1YmdPVmE1?oc=5"
     },
     {
@@ -2385,16 +2380,16 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZzd2cVJPdjdabjVoVlNDMThnSko0TUJQODQ4LWdYdXJlclNSUkx4WlBQWURzWkpZalAzc3k4UGh2NVpLd3ZSd2pOX2taX19fMnJDZWVPcFR4S01pcXVKVkJUNXpSVUVqbUVRTnVCOGRJZFZCRjJrMlBIc3EweW1WWVdrXzJEUUhFMklGRmIydDlWREN4MjFQS0c5QzhURGNibXBSOWNlTjRzN0tHQ0RWcGVtMndmeEE?oc=5"
     },
     {
-      "title": "Taylor Swift's Ring Steals The Show At Grammy Museum Performance",
-      "outlet": "TMZ",
-      "date": "2026-08-25",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWFBrQjlZU2lmdWJOZnFPNkdXbzBScjh5eXNtQUNBLWJFWno2Zzk4dHNSUi04UUxYeHdTQnRiN2ZzZFA3QUlNMUZBSHNvSkd3MnMyUEtuYi1mSDdUZHNvS1MtUnk3aFdFLUVweWdzMEpIRHMwMGNIQkctRURHaEg4TmIzblR4SDZRVVBiNC1rMHk3R2VVeVczMllMcXl6LU1XWElj?oc=5"
-    },
-    {
       "title": "Taylor Swift performs mashup at Grammy Museum Icon Sessions gala",
       "outlet": "upi.com",
       "date": "2026-08-25",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdGlrQjh0cFRzWWhCTmJZOWxkMzNVTDZFZ19seE1lNG5GQ0ZyczBWTDBFTUNZem9mTXhQX1M5SG5wdEQ1ejRxb2NYYzduRlZRZ3B0ZGZqSDJuZ2NXLTRJYnp2M3YxT3pKVmxzOXNoYmJtTWNxMmk2ZjZkMlBvZkZQVEs2RnZyaENXX0NSdXhrZFRFcVl4VEFBTTQxZmttVFVwUWVhNFNIQ0Y2aG1qMUVUSVJNOXBBX3I1S1h3bNIBwgFBVV95cUxOVkRNOWJjQkQ1UE1NbjFaSFNmMHk2bWxfNHlYSl9tTm10OUZ2QmZITU5EaFpiSFVvdFo1VE5VX01sRTFkejBMWjZZZjZEbnJBV1J5UHVZQWlOZ1FFSXlGamFwX0R6QmhtV01aWGxnNEZJWUhCQmd5WUdkemNnQVJHRXAyMVM5OEh6T3hIbTdhc0paTnFsQUFHcnAtcWhsUDlZYkYycE1xbHNnT0pxWUhPcXZGSzhPZHJ0N0RkSVBKSmR0dw?oc=5"
+    },
+    {
+      "title": "Taylor Swift's Ring Steals The Show At Grammy Museum Performance",
+      "outlet": "TMZ",
+      "date": "2026-08-25",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWFBrQjlZU2lmdWJOZnFPNkdXbzBScjh5eXNtQUNBLWJFWno2Zzk4dHNSUi04UUxYeHdTQnRiN2ZzZFA3QUlNMUZBSHNvSkd3MnMyUEtuYi1mSDdUZHNvS1MtUnk3aFdFLUVweWdzMEpIRHMwMGNIQkctRURHaEg4TmIzblR4SDZRVVBiNC1rMHk3R2VVeVczMllMcXl6LU1XWElj?oc=5"
     },
     {
       "title": "Taylor Swift's 2023 Eras Tour, Ranked the 'Highest-Grossing' in History, Beat No. 2 by $631 Million",
