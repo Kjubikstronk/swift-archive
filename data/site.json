@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-27T22:25:32.855Z",
+  "generated": "2026-08-27T22:25:45.819Z",
   "artist": {
     "name": "Taylor Swift",
     "full": "Taylor Alison Swift",
@@ -323,7 +323,7 @@
       },
       "releases": [
         "itunes-1595423133",
-        "deezer-68491961",
+        "deezer-130716962",
         "itunes-1440934573"
       ]
     },
@@ -431,7 +431,7 @@
       },
       "releases": [
         "deezer-874936972",
-        "deezer-227786",
+        "deezer-72093192",
         "itunes-1440932737",
         "itunes-1860454442"
       ]
@@ -1534,6 +1534,8 @@
       "copyright": "℗ 2020 Taylor Swift",
       "genre": "Pop",
       "via": "apple",
+      "recordType": "single",
+      "deezerUrl": "https://www.deezer.com/album/131557962",
       "kind": "Single",
       "year": "2020"
     },
@@ -1702,18 +1704,18 @@
       "genre": "Pop",
       "via": "apple",
       "recordType": "album",
-      "deezerUrl": "https://www.deezer.com/album/9007781",
+      "deezerUrl": "https://www.deezer.com/album/302068167",
       "kind": "Album",
       "year": "2014"
     },
     {
-      "id": "deezer-68491961",
+      "id": "deezer-130716962",
       "title": "Red (Deluxe Edition)",
       "date": "2013-05-14",
       "trackCount": null,
-      "art": "https://cdn-images.dzcdn.net/images/cover/56a83d3002710bf2044b86c01db665aa/1000x1000-000000-80-0-0.jpg",
-      "artSmall": "https://cdn-images.dzcdn.net/images/cover/56a83d3002710bf2044b86c01db665aa/500x500-000000-80-0-0.jpg",
-      "url": "https://www.deezer.com/album/68491961",
+      "art": "https://cdn-images.dzcdn.net/images/cover/177ec7bf4d0fcd50e9ece647fa8474cd/1000x1000-000000-80-0-0.jpg",
+      "artSmall": "https://cdn-images.dzcdn.net/images/cover/177ec7bf4d0fcd50e9ece647fa8474cd/500x500-000000-80-0-0.jpg",
+      "url": "https://www.deezer.com/album/130716962",
       "recordType": "album",
       "via": "deezer",
       "kind": "Single",
@@ -1759,7 +1761,7 @@
       "genre": "Country",
       "via": "apple",
       "recordType": "album",
-      "deezerUrl": "https://www.deezer.com/album/68496491",
+      "deezerUrl": "https://www.deezer.com/album/130721292",
       "kind": "Album",
       "year": "2012"
     },
@@ -1847,7 +1849,7 @@
       "genre": "Country",
       "via": "apple",
       "recordType": "album",
-      "deezerUrl": "https://www.deezer.com/album/689149",
+      "deezerUrl": "https://www.deezer.com/album/130716982",
       "kind": "Album",
       "year": "2010"
     },
@@ -1903,20 +1905,9 @@
       "copyright": "℗ 2009 Taylor Swift",
       "genre": "Country",
       "via": "apple",
-      "kind": "Album",
-      "year": "2008"
-    },
-    {
-      "id": "deezer-227786",
-      "title": "Taylor Swift (Deluxe Edition)",
-      "date": "2008-10-04",
-      "trackCount": null,
-      "art": "https://cdn-images.dzcdn.net/images/cover/9c0e80bb3c16e1c987cf235929eb7757/1000x1000-000000-80-0-0.jpg",
-      "artSmall": "https://cdn-images.dzcdn.net/images/cover/9c0e80bb3c16e1c987cf235929eb7757/500x500-000000-80-0-0.jpg",
-      "url": "https://www.deezer.com/album/227786",
       "recordType": "album",
-      "via": "deezer",
-      "kind": "Single",
+      "deezerUrl": "https://www.deezer.com/album/130714702",
+      "kind": "Album",
       "year": "2008"
     },
     {
@@ -1931,6 +1922,20 @@
       "genre": "Country",
       "via": "apple",
       "kind": "Album",
+      "year": "2008"
+    },
+    {
+      "id": "deezer-72093192",
+      "title": "Taylor Swift",
+      "date": "2008-03-18",
+      "trackCount": null,
+      "art": "https://cdn-images.dzcdn.net/images/cover/e9dd628cc4dd15850a13b4151cce9075/1000x1000-000000-80-0-0.jpg",
+      "artSmall": "https://cdn-images.dzcdn.net/images/cover/e9dd628cc4dd15850a13b4151cce9075/500x500-000000-80-0-0.jpg",
+      "url": "https://www.deezer.com/album/72093192",
+      "recordType": "album",
+      "via": "deezer",
+      "deezerUrl": "https://www.deezer.com/album/321177137",
+      "kind": "Single",
       "year": "2008"
     },
     {
@@ -2195,12 +2200,6 @@
   ],
   "news": [
     {
-      "title": "‘Toy Story 5’ Sets Disney+ Streaming Date; Taylor Swift Drops Piano Version Music Video",
-      "outlet": "Murphy's Multiverse",
-      "date": "2026-08-27",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMm45emN4V18wcVVnT19WZEhwSkRkSXZSdW5HenV5eXZuRFdSMHM4NjFHQVVnaE1iYXdYMlpNUEk5TFh5YWE4azFJTm53WmUweHZBTmJQb3BfZ1lNX3FmUkdfaGRxUDdIdDRXaWJrbDJLVmNlUHlaUFRHS1B1d2MzQTh5cUhzVHBpV0EybVR0dDhxMEtUYW5VX0hraUxSa3d0ZnRpVmxGNHNHWll2RzVDY1pBcVFrcXU2V0E?oc=5"
-    },
-    {
       "title": "Star Who Died 17 Years Ago Is the 2nd Most Buzzed-About Celebrity of 2026, Just Behind Taylor Swift",
       "outlet": "parade.com",
       "date": "2026-08-27",
@@ -2213,28 +2212,10 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ZeWpqWHdaQVdxOWtFdm0xRmhNem56dnZ2UjRON0xTX2RCcE9TMUFrY1pPU01mUklMdkFoc0NjMDlYR2ZZMC15T0VSajNDcVBhd0RuaWdBWnp4ckJIdWFWWUhVYlVSaVkxX0F3dkZaVlFGRTlWR2lRMHdSNGQ?oc=5"
     },
     {
-      "title": "‘Toy Story 5’ Sets Disney+ Date, Unveils New Taylor Swift Music Video",
-      "outlet": "Daps Magic",
-      "date": "2026-08-27",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUUVfMmZYQ21JYkJlcndZcUt2cG1XQkdHU3hyWXRXRVBhaG5iMTBNUHVxTXdua0pFYzVhQzdjU2NnRW1HSHBjOTFSSWQ0Nmw2c0RybGtvY0F3U0plTkc2dURYSEJYbmpJTThIQ19SVXA0aFlCUTZNMmk5bUpaRnhKTGFUNDJhVHNVMDBiaTd3dVFhODBJZjRKSmo0VXQ?oc=5"
-    },
-    {
       "title": "What Taylor Swift previously wrote in a note to Indiana Fever star Caitlin Clark",
       "outlet": "hitc.com",
       "date": "2026-08-27",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbTRBa3NSeEZDUDBDVzFId04tN0ZUZEVZV3RWMWJzeUpQazVxQzdJYlBiUURDOHFyZkN2WU51cnZzMWcycDFUdzFnal96cUU0VmtFLUQ2dC1JQjNTeTVxeDBmMXNlWmxJZzM0aHFLaWpWckN3czNZd1F5cGY2aUUzWEhMbm1oaVhVUUxjU3Q0dkRPbW5nY0NGQTBWM2F2SllXcXJFMA?oc=5"
-    },
-    {
-      "title": "Taylor Swift pays tribute to Dolly Parton following her death at 80: ‘Her legacy will be an everlasting one",
-      "outlet": "Yahoo Lifestyle Canada",
-      "date": "2026-08-27",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tSWNBT01lR1hRT2I3ZWhVVDZqc0V3MFF0ZG1PTVdFZXd4ZjlRdTBzMjlpS0YyNHFrRDNIeEdidjByY1doMXBqOVgwOXd4dU5FNnpmTnl1RlNMMDN5V09OVm9STGRpOVFuR2ZXR0JtRk9Xa2JpX2pGSlhRN3dFdw?oc=5"
-    },
-    {
-      "title": "Kirk Cameron Warns Taylor Swift is ‘Discipling’ Millions of Young Fans",
-      "outlet": "Beliefnet",
-      "date": "2026-08-27",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZzk3Q1ZqNUJSZDJMcnRxSTlrRUhKY0M4aWRvTkRfOTNaNk5xelVUaHJMY2d2Y2lldTlnejJGY3NzaTNndXBKN3NHT2lSWjBibEVQd1R0OWY1V1JyQjBiRXhMRTg0OHlpYkJGbzJmek1ITElfc2hoZ1BWRGpQWnhFYlV6Qk1KOTd2LTM4VWVneHk1NXdPczNVeDZmemhYakVQU3A0T2lNOEZmaWcwdnBWUkt6OVlMMDM1c2tfYnh6U0xCXzBhMy11c3F3?oc=5"
     },
     {
       "title": "Miley Cyrus, Taylor Swift, Julia Roberts and more stars pay tribute to Dolly Parton",
@@ -2249,16 +2230,22 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ01MNGxzUlBxc0dyTHBUbFN6M0lJaENLa0RIakdZTko2dHpuN2tZbm9IVUFfWGp5Wk1hZVBEaG13NmhEdEc3ZnQxbmZHS01kMkdEMkRIaGNMc2QxWmRhWE02ZlRHanNsUmR0RENudWl6V0tnWFZVeFBMWE1EUGRqOU1adFM0dHROd1ZjRjgySnZGa3NkRENTRUJxWQ?oc=5"
     },
     {
-      "title": "Dolly Parton on Taylor Swift: “I just admire her very much… and what all she has meant to so many young people”",
-      "outlet": "IMDb",
+      "title": "Taylor Swift pays tribute to Dolly Parton following her death at 80: ‘Her legacy will be an everlasting one",
+      "outlet": "Yahoo Lifestyle Canada",
       "date": "2026-08-27",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwZEt6SXdXRWJ1bTZ1S0RJYWtna0pRVV95Wl9ueGZ3ODlVbW9ONTBfckhMWkxualpidDk4QUs1X1BLbXdNQlh1bUpQSE1zQ2h4RVU2aHRlOW9JLVFJZ1dua19rRFhxWVk?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tSWNBT01lR1hRT2I3ZWhVVDZqc0V3MFF0ZG1PTVdFZXd4ZjlRdTBzMjlpS0YyNHFrRDNIeEdidjByY1doMXBqOVgwOXd4dU5FNnpmTnl1RlNMMDN5V09OVm9STGRpOVFuR2ZXR0JtRk9Xa2JpX2pGSlhRN3dFdw?oc=5"
     },
     {
       "title": "Taylor Swift is back in the studio? New music report sparks fan frenzy",
       "outlet": "The Express Tribune",
       "date": "2026-08-27",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYl8tNjV1c1ZMRnZGdE54QmxQWG43aW1FMlkwSjB6SzhIdlRqVllwdDFHMWlPd1VlWUF5WV9aY0xKRzJueEZvSlQ5cVVoaGRWUnpLTE5wbXhWUmZZYWxoemlwRHk1QkpybTFETU85dHF4SVdNTFJtN1FGd214VUsxVU9PLUlLS3BKV2pJYzE3TVBmbHNuN1J2Y1c3NGU4eUdId0d1Mllhd1ktUdIBsgFBVV95cUxOY2V5THliV204NEVtS3N4cC02LUw5dUF2MlFpSTVabG56OU5xbGxkMDhBNC1YU1F6d1UxSFhrd2FzZUtpMTFjRzV6NjB4TU9LZ3pLUG1pbzRZNkhDQnM2VmVnVFFtejZWTVRTbmR2NDJ6dDZ1TGJWYTRELWpaOWYybVNqQVVHRnVjODRlc0FoRUJhQ29qcWxzakJKdERPcWFpT0lianZOTEVyWWYzMUlWanJR?oc=5"
+    },
+    {
+      "title": "Dolly Parton on Taylor Swift: “I just admire her very much… and what all she has meant to so many young people”",
+      "outlet": "Martin Cid Magazine",
+      "date": "2026-08-27",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE42Q2VnZWhRdTByUHRpVV80M01aNWkweWRzMDNmOU1IZDROWE5QdnY1RzQwWDhGQ2FfOFl0UG1JeFExYkJvRkZhY0ZDLWg3SkZaVXRNUHM2YjctU3JUSXd1M3M3YUVwNGNyQ1d5dW1ld1FzcHdyVHlF?oc=5"
     },
     {
       "title": "Caitlin Clark’s rumored Taylor Swift-inspired 'Nike Caitlin 1' is marketing brilliance",
@@ -2271,6 +2258,18 @@
       "outlet": "Inquirer.com",
       "date": "2026-08-27",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOY09YSTR0aVZXbjZReWJMb0hwckl2NFJxaDlncFhtakx1Wk1jSVM2T05WY2cxYjR2ZUk3QnNLVDBPR2hCWFpZMzE0NDl3T2o2WjZqMlUwZUxmUHVjbXJheTZRd0JEdElKX2FVME9qandoT253SGRmb3dQX21qYVJQZnlJNngwYnY3d3hJQWdIdFhQOU0yLVBrUTl1Q0JyVmFjLTBkbE9rNA?oc=5"
+    },
+    {
+      "title": "‘Toy Story 5’ Sets Disney+ Date, Unveils New Taylor Swift Music Video",
+      "outlet": "Daps Magic",
+      "date": "2026-08-27",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUUVfMmZYQ21JYkJlcndZcUt2cG1XQkdHU3hyWXRXRVBhaG5iMTBNUHVxTXdua0pFYzVhQzdjU2NnRW1HSHBjOTFSSWQ0Nmw2c0RybGtvY0F3U0plTkc2dURYSEJYbmpJTThIQ19SVXA0aFlCUTZNMmk5bUpaRnhKTGFUNDJhVHNVMDBiaTd3dVFhODBJZjRKSmo0VXQ?oc=5"
+    },
+    {
+      "title": "Kirk Cameron Warns Taylor Swift is ‘Discipling’ Millions of Young Fans",
+      "outlet": "Beliefnet",
+      "date": "2026-08-27",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZzk3Q1ZqNUJSZDJMcnRxSTlrRUhKY0M4aWRvTkRfOTNaNk5xelVUaHJMY2d2Y2lldTlnejJGY3NzaTNndXBKN3NHT2lSWjBibEVQd1R0OWY1V1JyQjBiRXhMRTg0OHlpYkJGbzJmek1ITElfc2hoZ1BWRGpQWnhFYlV6Qk1KOTd2LTM4VWVneHk1NXdPczNVeDZmemhYakVQU3A0T2lNOEZmaWcwdnBWUkt6OVlMMDM1c2tfYnh6U0xCXzBhMy11c3F3?oc=5"
     },
     {
       "title": "Travis Kelce and Taylor Swift 'enjoying' married life as NFL star 'completely dialled in' on new season",
@@ -2337,6 +2336,12 @@
       "outlet": "IMDb",
       "date": "2026-08-27",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96NlZxVVhEbTFiTlZOcUhNYXVhaGxNLXY1WFV3MHVwUi0xeTVyWHdZT0RRU2FJNk1YQzFvdVpuck5iM2I2ZGFXN1FlYlpFRURyTmw4bGFhTi1fRHJsNDRURm81Q1FqdmM?oc=5"
+    },
+    {
+      "title": "Caitlin Clark turns her Taylor Swift fandom into a new pair of Nike sneakers",
+      "outlet": "MARCA",
+      "date": "2026-08-27",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQV3YzY0pEM2RWU0Myc1N3Tkx5OUdONi13MDNoOGkwR056aGdrTFdpejhxaFRQVzUxRHNDQ1I5dXl4UHRDS1FraFNsb3c1aUhLSjJPRWxyNU1wdGtkUDlmaGI2d3g1N3NCcGRqN2p0X2d4Wkt2a2VacEtqUzFXSkFNMHNvam1ucmpuSWVLSDc3M0xNZzNYU3BvMld0MC1ZalN3U19aLV9SU2lvYzlvRXhRYXl0VEtPZHlrTlRIQzFFRjlvSldrdTdMX2ppNUt6V0IwRGdCcDd1dXFHQzlrRlHSAd4BQVVfeXFMTnloeUwxb3VyREdWRzRXNXNYRnplMVRnQThDaGM2aGtfZFNPNUtKVUxUelgzRWkzQnpFR1Y0MUE1OXZLMTR2QkNxbUlBZXEyQUZKTGtZSHpLTC02RDVzUDNibnJFZVlwMVhPcHhLT3dITlgyYUdfV3dObEJYZXhtQ0RPcFhrbUxqZ3pFX25rcld5NkhjYjA4YXVYUFh3VkdkUEl4dE13ZzBTeFJzWnJ6TWJoRVQzbE5zSW9DYmxIa3RNc2xMTkk0ZTFRMllQX2trYk9hWFBNM29RblA5NmNR?oc=5"
     }
   ],
   "bio": {
