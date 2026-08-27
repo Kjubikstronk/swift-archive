@@ -348,10 +348,20 @@ function initScrollEngine() {
   const byId = new Map(eras.map((e) => [e.id, e]));
   const cards = () => $$('.era');
 
+  /* Writing these six custom properties on :root invalidates every rule that
+     reads them — 28 of them here, several resolving color-mix() — so the whole
+     document restyles. mixHex rounds to whole channels, so a slow scroll spends
+     most of its frames producing the exact strings already set; comparing first
+     turns those frames into a no-op and costs one string join. */
+  let lastPal = '';
   const applyPalette = (pal) => {
+    const key = PAL_KEYS.map((k) => pal[k]).join('|');
+    if (key === lastPal) return;
+    lastPal = key;
     for (const k of PAL_KEYS) root.style.setProperty(`--${k}`, pal[k]);
     if (themeMeta) themeMeta.setAttribute('content', pal.bg);
   };
+  let lastTlHeight = -1;
 
   let lastReadout = '';
   let lastY = window.scrollY;
@@ -359,13 +369,24 @@ function initScrollEngine() {
   const paint = () => {
     const list = cards();
 
+    /* ── measure ──
+       Every layout read this frame happens here, before the first style
+       write. Mixed together they force a synchronous re-layout: the palette
+       write below dirties :root, so a getBoundingClientRect() after it makes
+       the browser flush layout again to answer. This handler used to do that
+       twice per frame. */
+    const y = window.scrollY;
+    const vh = innerHeight;
+    const docMax = document.documentElement.scrollHeight - vh;
+    const tlBox = tlFill && tlList ? tlList.getBoundingClientRect() : null;
+
     // ── palette ──
     if (list.length && erasSection) {
       // A rail wider than its box means the mobile carousel, where the
       // meaningful axis is horizontal.
       const horiz = rail && rail.scrollWidth > rail.clientWidth + 12;
       const target = horiz ? rail.getBoundingClientRect().left + rail.clientWidth / 2
-                           : innerHeight * 0.5;
+                           : vh * 0.5;
 
       const centres = list.map((el) => {
         const r = el.getBoundingClientRect();
@@ -413,9 +434,11 @@ function initScrollEngine() {
     }
 
     // ── progress bar ──
+    /* scaleX on a full-width bar, not width. The gradient spans the element
+       either way, so the rainbow stays squeezed into the travelled fraction
+       exactly as before — but transform skips layout and paint. */
     if (bar) {
-      const max = document.documentElement.scrollHeight - innerHeight;
-      bar.style.width = (max > 0 ? (window.scrollY / max) * 100 : 0) + '%';
+      bar.style.transform = `scaleX(${docMax > 0 ? Math.min(1, y / docMax) : 0})`;
     }
 
     // ── timeline rainbow fill ──
@@ -425,15 +448,21 @@ function initScrollEngine() {
     // than the list, and measuring it ran the rainbow past the last
     // milestone and straight through the button. The track (.timeline::before)
     // is drawn on the <ol>, so measuring the same box keeps the two aligned.
-    if (tlFill && tlList) {
-      const b = tlList.getBoundingClientRect();
-      const done = Math.min(1, Math.max(0, (innerHeight * 0.7 - b.top) / Math.max(1, b.height)));
-      tlFill.style.height = done * b.height + 'px';
+    /* Same swap as the progress bar. The element is laid out once at the
+       list's full height — rewritten only when that height actually changes,
+       which is on resize and on "Show all" — and every frame after that moves
+       only a transform. */
+    if (tlFill && tlBox) {
+      const done = Math.min(1, Math.max(0, (vh * 0.7 - tlBox.top) / Math.max(1, tlBox.height)));
+      if (tlBox.height !== lastTlHeight) {
+        tlFill.style.height = tlBox.height + 'px';
+        lastTlHeight = tlBox.height;
+      }
+      tlFill.style.transform = `scaleY(${done})`;
     }
 
     // ── nav hide ──
     if (nav) {
-      const y = window.scrollY;
       nav.classList.toggle('nav--hidden', y > lastY && y > 400);
       lastY = y;
     }
@@ -1010,11 +1039,12 @@ function renderFacts() {
 
   const paint = () => {
     quote.classList.add('is-out');
+    // Must match .facts__quote's transition duration in style.css.
     setTimeout(() => {
       quote.textContent = facts[i];
       count.textContent = label();
       quote.classList.remove('is-out');
-    }, 400);
+    }, 260);
   };
 
   const go = (step) => {

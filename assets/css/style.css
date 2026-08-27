@@ -59,6 +59,15 @@
      dock is hidden. Overridden in the <=1000px block. */
   --dock: 0px;
 
+  /* Hover motion is wrapped in @media (hover: hover) and (pointer: fine)
+     throughout this file. A tap on a touch screen fires :hover and leaves it
+     latched until the next tap elsewhere, so an ungated lift left cards
+     floating with no pointer anywhere near them. Colour-only hovers are
+     harmless and stay ungated; .nav__links a:hover::after is deliberately
+     ungated too, because it shares its rule with .is-active and gating it
+     would drop the underline from the active link on touch.
+     Hover durations sit at ~200ms: hover is seen constantly, which is the
+     "reduce it" end of the frequency scale, not the delight end. */
   --ease: cubic-bezier(0.22, 1, 0.36, 1);
   --ease-io: cubic-bezier(0.65, 0, 0.35, 1);
 }
@@ -225,17 +234,23 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
   -webkit-backdrop-filter: blur(14px) saturate(1.6);
   border-bottom: 1px solid var(--line-soft);
   /* Transform only — background follows the per-frame palette writes. */
-  transition: transform 500ms var(--ease);
+  transition: transform 250ms var(--ease);
 }
 .nav--hidden { transform: translateY(-105%); }
 
-/* Scroll progress. Width is written each frame from the document fraction. */
+/* Scroll progress. Laid out at full width and scaled from the left each
+   frame, rather than having its width rewritten — the gradient spans the
+   element either way, so the rainbow still compresses into the travelled
+   fraction, but the frame costs a composite instead of a full layout. */
 .nav__progress {
   position: absolute;
   left: 0;
   top: 0;
   height: 3px;
-  width: 0%;
+  width: 100%;
+  transform: scaleX(0);
+  transform-origin: left center;
+  will-change: transform;
   background: var(--rainbow);
   box-shadow: 0 0 14px color-mix(in oklab, var(--r5) 70%, transparent);
   pointer-events: none;
@@ -431,15 +446,17 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
   font-family: var(--mono); font-size: 0.66rem;
   letter-spacing: 0.1em; text-transform: uppercase;
   white-space: nowrap;
-  transition: background 250ms, color 250ms, border-color 250ms, transform 250ms var(--ease);
+  transition: background 200ms, color 200ms, border-color 200ms, transform 200ms var(--ease);
 }
 .erachip img { width: 22px; height: 22px; border-radius: 6px; object-fit: cover; flex: none; }
 .erachip__yr { opacity: 0.55; font-variant-numeric: tabular-nums; }
-.erachip:hover {
-  background: var(--chip-glow, var(--glow));
-  color: #12101A;
-  border-color: transparent;
-  transform: translateY(-2px);
+@media (hover: hover) and (pointer: fine) {
+  .erachip:hover {
+    background: var(--chip-glow, var(--glow));
+    color: #12101A;
+    border-color: transparent;
+    transform: translateY(-2px);
+  }
 }
 
 .hero__inner { width: 100%; max-width: var(--maxw); margin-inline: auto; }
@@ -500,9 +517,13 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
   display: inline-flex; align-items: center; gap: 0.6rem;
   font-family: var(--mono); font-size: 0.68rem;
   letter-spacing: 0.18em; text-transform: uppercase; color: var(--dim);
-  transition: color 250ms, gap 350ms var(--ease);
+  transition: color 250ms;
 }
-.hero__cue:hover { color: var(--ink); gap: 1rem; }
+.hero__cue:hover { color: var(--ink); }
+.hero__cue svg { transition: transform 200ms var(--ease); }
+@media (hover: hover) and (pointer: fine) {
+  .hero__cue:hover svg { transform: translateX(0.4rem); }
+}
 .hero__cue svg { animation: bob 2.6s var(--ease-io) infinite; }
 @keyframes bob { 0%,100% { transform: translateY(0) } 50% { transform: translateY(4px) } }
 
@@ -577,7 +598,7 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
 
 [data-reveal] {
   opacity: 0; transform: translateY(26px);
-  transition: opacity 900ms var(--ease), transform 900ms var(--ease);
+  transition: opacity 500ms var(--ease), transform 500ms var(--ease);
 }
 [data-reveal].is-in { opacity: 1; transform: none; }
 
@@ -707,9 +728,11 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
   box-shadow:
     0 0 0 1px color-mix(in oklab, var(--era-glow) 45%, transparent),
     0 34px 80px -22px color-mix(in oklab, var(--era-glow) 60%, transparent);
-  transition: box-shadow 700ms var(--ease), transform 700ms var(--ease);
+  transition: box-shadow 200ms var(--ease), transform 200ms var(--ease);
 }
-.era:hover .era__art { transform: translateY(-6px); }
+@media (hover: hover) and (pointer: fine) {
+  .era:hover .era__art { transform: translateY(-6px); }
+}
 
 .era__art img { width: 100%; height: 100%; object-fit: cover; }
 
@@ -726,10 +749,12 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
   mix-blend-mode: screen;
   opacity: 0;
   transform: translateX(-40%);
-  transition: opacity 500ms, transform 1100ms var(--ease);
+  transition: opacity 250ms, transform 550ms var(--ease);
   pointer-events: none;
 }
-.era:hover .era__art::after { opacity: 1; transform: translateX(40%); }
+@media (hover: hover) and (pointer: fine) {
+  .era:hover .era__art::after { opacity: 1; transform: translateX(40%); }
+}
 
 /* --era-glow, not --era-accent. Measured across all twelve palettes the accent
    bottoms out at 3.11:1 on Red, which fails AA for text this size. The glow's
@@ -813,9 +838,11 @@ a.chip:hover, button.chip:hover {
 .era__swatches i {
   width: 1.7rem; height: 1.7rem; border-radius: 50%;
   border: 1px solid color-mix(in oklab, var(--ink) 25%, transparent);
-  transition: transform 400ms var(--ease);
+  transition: transform 200ms var(--ease);
 }
-.era:hover .era__swatches i { transform: translateY(-4px) scale(1.1); }
+@media (hover: hover) and (pointer: fine) {
+  .era:hover .era__swatches i { transform: translateY(-4px) scale(1.1); }
+}
 .era__swatches i:nth-child(2) { transition-delay: 60ms; }
 .era__swatches i:nth-child(3) { transition-delay: 120ms; }
 
@@ -827,17 +854,19 @@ a.chip:hover, button.chip:hover {
   font-family: var(--mono); font-size: 0.66rem;
   letter-spacing: 0.16em; text-transform: uppercase;
   position: relative; overflow: hidden;
-  transition: color 400ms var(--ease);
+  transition: color 200ms var(--ease);
 }
 .btn::before {
   content: '';
   position: absolute; inset: 0; z-index: -1;
   background: linear-gradient(90deg, var(--r1), var(--r3), var(--r5));
   transform: translateY(101%);
-  transition: transform 460ms var(--ease);
+  transition: transform 200ms var(--ease);
 }
 .btn:hover { color: #12101A; }
-.btn:hover::before { transform: translateY(0); }
+@media (hover: hover) and (pointer: fine) {
+  .btn:hover::before { transform: translateY(0); }
+}
 .btn--sm { padding: 0.6rem 1.1rem; font-size: 0.6rem; }
 
 /* ─── latest ─────────────────────────────────────────────────────────── */
@@ -906,13 +935,15 @@ a.chip:hover, button.chip:hover {
   position: relative; aspect-ratio: 1; overflow: hidden;
   border-radius: 12px; background: var(--surface); margin-bottom: 0.8rem;
   box-shadow: 0 10px 30px -14px rgba(0,0,0,0.7);
-  transition: transform 600ms var(--ease), box-shadow 600ms var(--ease);
+  transition: transform 200ms var(--ease), box-shadow 200ms var(--ease);
 }
 /* The -1deg tilt is deliberate: it stops a wall of thirty square covers
    reading as a spreadsheet. */
-.rel:hover .rel__art {
-  transform: translateY(-6px) rotate(-1deg);
-  box-shadow: 0 22px 46px -18px color-mix(in oklab, var(--glow) 70%, transparent);
+@media (hover: hover) and (pointer: fine) {
+  .rel:hover .rel__art {
+    transform: translateY(-6px) rotate(-1deg);
+    box-shadow: 0 22px 46px -18px color-mix(in oklab, var(--glow) 70%, transparent);
+  }
 }
 .rel__art img { width: 100%; height: 100%; object-fit: cover; }
 
@@ -922,9 +953,11 @@ a.chip:hover, button.chip:hover {
   background: linear-gradient(115deg, transparent 35%, color-mix(in oklab, var(--r5) 40%, transparent) 50%, transparent 65%);
   mix-blend-mode: screen; opacity: 0;
   transform: translateX(-50%);
-  transition: opacity 400ms, transform 900ms var(--ease);
+  transition: opacity 250ms, transform 550ms var(--ease);
 }
-.rel:hover .rel__art::after { opacity: 1; transform: translateX(50%); }
+@media (hover: hover) and (pointer: fine) {
+  .rel:hover .rel__art::after { opacity: 1; transform: translateX(50%); }
+}
 
 .rel__title {
   font-size: 0.9rem; font-weight: 500; line-height: 1.35; margin-bottom: 0.15rem;
@@ -961,7 +994,7 @@ a.chip:hover, button.chip:hover {
   color: #12101A;
   border-color: transparent;
 }
-.more button svg { transition: transform 400ms var(--ease); }
+.more button svg { transition: transform 200ms var(--ease); }
 .more button[aria-expanded="true"] svg { transform: rotate(180deg); }
 .more__line { flex: 1; height: 1px; background: var(--line-soft); }
 
@@ -1026,17 +1059,19 @@ a.chip:hover, button.chip:hover {
     color-mix(in oklab, var(--surface) 60%, black 18%));
   border: 1px solid var(--line);
   transform: rotate(var(--tilt));
-  transition: transform 550ms var(--ease), box-shadow 550ms var(--ease), border-color 550ms;
+  transition: transform 200ms var(--ease), box-shadow 200ms var(--ease), border-color 200ms;
 }
 .cat:nth-child(1) { --tilt: -0.6deg; }
 .cat:nth-child(2) { --tilt: 0.9deg; }
 .cat:nth-child(3) { --tilt: -1deg; }
 
-.cat:hover {
-  /* Softened, not flattened — like a hand lifting the photo off the page
-     rather than the card snapping upright. */
-  transform: rotate(calc(var(--tilt) * 0.3)) translateY(-10px) scale(1.015);
-  border-color: color-mix(in oklab, var(--cat-glow, var(--glow)) 55%, transparent);
+@media (hover: hover) and (pointer: fine) {
+  .cat:hover {
+    /* Softened, not flattened — like a hand lifting the photo off the page
+       rather than the card snapping upright. */
+    transform: rotate(calc(var(--tilt) * 0.3)) translateY(-10px) scale(1.015);
+    border-color: color-mix(in oklab, var(--cat-glow, var(--glow)) 55%, transparent);
+  }
 }
 
 /* Fixed per breakpoint rather than a fluid clamp(): the Instagram embed has
@@ -1055,7 +1090,7 @@ a.chip:hover, button.chip:hover {
   box-shadow:
     0 0 0 1px color-mix(in oklab, var(--cat-glow, var(--glow)) 55%, transparent),
     0 0 40px 6px color-mix(in oklab, var(--cat-glow, var(--glow)) 30%, transparent);
-  transition: box-shadow 500ms var(--ease);
+  transition: box-shadow 250ms var(--ease);
 }
 .cat--feature .cat__frame { width: 8.5rem; } /* 136px — --ig-scale: 0.252 */
 
@@ -1163,22 +1198,26 @@ a.chip:hover, button.chip:hover {
 .vid__thumb {
   position: relative; aspect-ratio: 16/9; overflow: hidden;
   border-radius: 14px; background: var(--surface); margin-bottom: 0.8rem;
-  transition: transform 600ms var(--ease), box-shadow 600ms var(--ease);
+  transition: transform 200ms var(--ease), box-shadow 200ms var(--ease);
 }
-.vid:hover .vid__thumb {
-  transform: translateY(-4px);
-  box-shadow: 0 20px 40px -18px color-mix(in oklab, var(--glow) 60%, transparent);
+@media (hover: hover) and (pointer: fine) {
+  .vid:hover .vid__thumb {
+    transform: translateY(-4px);
+    box-shadow: 0 20px 40px -18px color-mix(in oklab, var(--glow) 60%, transparent);
+  }
 }
 .vid__thumb img { width: 100%; height: 100%; object-fit: cover; }
-.vid__play { position: absolute; inset: 0; display: grid; place-items: center; opacity: 0; transition: opacity 400ms var(--ease); }
+.vid__play { position: absolute; inset: 0; display: grid; place-items: center; opacity: 0; transition: opacity 200ms var(--ease); }
 .vid:hover .vid__play { opacity: 1; }
 .vid__play span {
   width: 3.4rem; height: 3.4rem; border-radius: 50%;
   background: linear-gradient(135deg, var(--r1), var(--r5));
   display: grid; place-items: center;
-  transform: scale(0.8); transition: transform 450ms var(--ease);
+  transform: scale(0.8); transition: transform 200ms var(--ease);
 }
-.vid:hover .vid__play span { transform: scale(1); }
+@media (hover: hover) and (pointer: fine) {
+  .vid:hover .vid__play span { transform: scale(1); }
+}
 .vid__title {
   font-size: 0.92rem; line-height: 1.4; margin-bottom: 0.2rem;
   display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
@@ -1192,9 +1231,11 @@ a.chip:hover, button.chip:hover {
   display: grid; grid-template-columns: 6.5rem 1fr auto;
   gap: clamp(1rem, 3vw, 2.5rem); align-items: baseline;
   padding: clamp(1rem, 2vw, 1.4rem) 0;
-  transition: padding-left 450ms var(--ease);
+  transition: transform 200ms var(--ease);
 }
-.news a:hover { padding-left: 1.1rem; }
+@media (hover: hover) and (pointer: fine) {
+  .news a:hover { transform: translateX(1.1rem); }
+}
 .news .date { font-family: var(--mono); font-size: 0.65rem; letter-spacing: 0.08em; color: var(--dim); font-variant-numeric: tabular-nums; }
 .news .head { font-size: clamp(1rem, 1.6vw, 1.25rem); line-height: 1.4; min-width: 0; text-wrap: pretty; overflow-wrap: anywhere; transition: color 300ms; }
 .news a:hover .head { color: var(--glow); }
@@ -1237,9 +1278,11 @@ a.chip:hover, button.chip:hover {
 .tour__wire-list a {
   display: grid; grid-template-columns: 4.5rem 1fr auto;
   gap: clamp(0.75rem, 2.5vw, 2rem); align-items: baseline; padding: 0.85rem 0;
-  transition: padding-left 450ms var(--ease);
+  transition: transform 200ms var(--ease);
 }
-.tour__wire-list a:hover { padding-left: 1rem; }
+@media (hover: hover) and (pointer: fine) {
+  .tour__wire-list a:hover { transform: translateX(1rem); }
+}
 .tour__wire-list .head { font-size: 0.95rem; text-wrap: pretty; overflow-wrap: anywhere; }
 .tour__wire-list a:hover .head { color: var(--glow); }
 @media (max-width: 640px) {
@@ -1267,6 +1310,9 @@ a.chip:hover, button.chip:hover {
   position: absolute;
   left: clamp(3.5rem, 8vw, 7rem); top: 0;
   width: 3px; height: 0;
+  transform: scaleY(0);
+  transform-origin: top center;
+  will-change: transform;
   border-radius: 2px;
   background: linear-gradient(to bottom,
     var(--r1), var(--r2), var(--r3), var(--r4), var(--r5), var(--r6));
@@ -1285,9 +1331,11 @@ a.chip:hover, button.chip:hover {
   left: calc(-1 * clamp(1.5rem, 4vw, 3.5rem) / 2 - 4px);
   top: 0.7rem; width: 9px; height: 9px; border-radius: 50%;
   background: var(--dim); transform: translateX(-50%);
-  transition: background 400ms, transform 400ms var(--ease), box-shadow 400ms;
+  transition: background 200ms, transform 200ms var(--ease), box-shadow 200ms;
 }
-.timeline li:hover .body::before { background: var(--glow); transform: translateX(-50%) scale(1.4); }
+@media (hover: hover) and (pointer: fine) {
+  .timeline li:hover .body::before { background: var(--glow); transform: translateX(-50%) scale(1.4); }
+}
 .timeline li.hl .body::before {
   background: linear-gradient(135deg, var(--r1), var(--r5));
   box-shadow: 0 0 0 5px color-mix(in oklab, var(--glow) 22%, transparent);
@@ -1312,7 +1360,10 @@ a.chip:hover, button.chip:hover {
   font-family: var(--display); font-weight: 700; font-style: italic;
   font-size: clamp(1.3rem, 3.2vw, 2.6rem); line-height: 1.28;
   min-height: 4.5em;
-  transition: opacity 400ms var(--ease), transform 400ms var(--ease);
+  /* 260ms, and initFacts()'s swap delay in app.js must match: the quote is
+     hidden, its text replaced, then shown, so a longer JS delay leaves a gap
+     of blank space and a shorter one swaps the text in plain sight. */
+  transition: opacity 260ms var(--ease), transform 260ms var(--ease);
   text-wrap: balance;
 }
 .facts__quote.is-out { opacity: 0; transform: translateY(-10px); }
@@ -1339,9 +1390,12 @@ a.chip:hover, button.chip:hover {
 .footer__links a {
   font-family: var(--mono); font-size: 0.68rem;
   letter-spacing: 0.14em; text-transform: uppercase; color: var(--dim);
-  transition: color 250ms, letter-spacing 350ms var(--ease);
+  transition: color 250ms, letter-spacing 200ms var(--ease);
 }
-.footer__links a:hover { color: var(--glow); letter-spacing: 0.2em; }
+.footer__links a:hover { color: var(--glow); }
+@media (hover: hover) and (pointer: fine) {
+  .footer__links a:hover { letter-spacing: 0.2em; }
+}
 
 /* ─── empty ──────────────────────────────────────────────────────────── */
 
