@@ -39,6 +39,27 @@ const relative = (iso) => {
 };
 
 /**
+ * Ask the CDN for the size actually being displayed.
+ *
+ * Apple and Deezer both serve any square size off the same path, and
+ * build.js stores one large URL per release. Rendering that into a small
+ * slot is what put 14.6 MB of images on this page — the twelve era chips
+ * are 22px wide and each pulled a 600px cover, and the era covers arrived
+ * at 1400px to be shown at 445. Measured average oversizing was 10.5x.
+ *
+ * A URL from an unrecognised host is returned untouched, so a source
+ * changing its path shape costs the optimisation, never the image.
+ */
+const sized = (url = '', px) =>
+  url
+    .replace(/\/\d+x\d+bb\.(jpg|png)/, `/${px}x${px}bb.$1`)
+    .replace(/\/\d+x\d+(-000000-[\d-]+\.jpg)/, `/${px}x${px}$1`);
+
+/** srcset for a fluid slot, so a retina screen still gets a sharp cover. */
+const srcset = (url, ...widths) =>
+  widths.map((w) => `${sized(url, w)} ${w}w`).join(', ');
+
+/**
  * Cap a long list and add a "Show all" toggle. Collapsed items get `hidden`
  * so they stay out of tab order and the accessibility tree until revealed.
  */
@@ -169,7 +190,7 @@ function renderEraChips() {
       return `
       <a class="erachip" href="#era-${esc(e.id)}" title="${esc(e.name)} · ${esc(e.year)}"
          style="--chip-glow:${esc(glow)}">
-        ${thumb ? `<img src="${esc(thumb)}" alt="" loading="lazy" decoding="async">` : ''}
+        ${thumb ? `<img src="${esc(sized(thumb, 120))}" alt="" width="120" height="120" loading="lazy" decoding="async">` : ''}
         <span>${esc(e.name)}</span>
         <span class="erachip__yr">${esc(e.year)}</span>
       </a>`;
@@ -220,7 +241,7 @@ function renderEras() {
       <article class="era" id="era-${esc(e.id)}" data-era="${esc(e.id)}"
                style="--era-accent:${esc(p.accent || 'currentColor')};--era-glow:${esc(p.glow || 'currentColor')}">
         <figure class="era__art">
-          ${e.art ? `<img src="${esc(e.art)}" alt="${esc(e.name)} album cover" loading="lazy" decoding="async" width="1400" height="1400">` : ''}
+          ${e.art ? `<img src="${esc(sized(e.art, 600))}" srcset="${esc(srcset(e.art, 400, 600, 900))}" sizes="(max-width: 900px) 88vw, 445px" alt="${esc(e.name)} album cover" loading="lazy" decoding="async" width="1400" height="1400">` : ''}
         </figure>
         <div>
           <p class="era__no">
@@ -505,7 +526,10 @@ function renderLatest() {
     <article class="latest__card">
       <div class="latest__art">
         ${fresh ? '<span class="badge">New</span>' : ''}
-        <img src="${esc(r.art)}" alt="${esc(tidy(r.title))} cover art"
+        <img src="${esc(sized(r.art, 600))}"
+             srcset="${esc(srcset(r.art, 400, 600, 900))}"
+             sizes="(max-width: 900px) 88vw, 445px"
+             alt="${esc(tidy(r.title))} cover art"
              width="1400" height="1400" fetchpriority="high" decoding="async">
       </div>
       <div>
@@ -532,7 +556,10 @@ function renderDiscography() {
       (r) => `
       <a class="rel" href="${esc(r.url || '#')}" target="_blank" rel="noopener" data-kind="${esc(r.kind)}">
         <div class="rel__art">
-          <img src="${esc(r.artSmall || r.art)}" alt="${esc(tidy(r.title))} cover art"
+          <img src="${esc(sized(r.artSmall || r.art, 300))}"
+               srcset="${esc(srcset(r.artSmall || r.art, 220, 300, 440))}"
+               sizes="(max-width: 640px) 46vw, 210px"
+               alt="${esc(tidy(r.title))} cover art"
                width="600" height="600" loading="lazy" decoding="async">
         </div>
         <h3 class="rel__title">${esc(tidy(r.title))}</h3>
