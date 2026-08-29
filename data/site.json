@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-29T07:06:59.186Z",
+  "generated": "2026-08-29T16:44:38.509Z",
   "artist": {
     "name": "Taylor Swift",
     "full": "Taylor Alison Swift",
@@ -1987,7 +1987,7 @@
       "album": "Love Drunk (Bonus Track Version)",
       "date": "2009-09-08",
       "art": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/c9/ee/12/c9ee12e7-8215-5d51-ce01-7be14e1a7e81/mzi.hhgorzwt.jpg/600x600bb.jpg",
-      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/22/d3/02/22d3026e-aff4-323b-58d2-b22f68e703d5/mzaf_14981042874267165740.plus.aac.p.m4a",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c5/a4/89/c5a489fc-a1b8-330b-c7f3-7db5c404783a/mzaf_12849768850455103209.plus.aac.p.m4a",
       "url": "https://music.apple.com/us/album/two-is-better-than-one-feat-taylor-swift/329757886?i=329757892&uo=4",
       "ms": 243563
     },
@@ -2093,6 +2093,13 @@
   ],
   "videos": [
     {
+      "id": "XwCWKSO0F8s",
+      "title": "Taylor Swift - I Knew It, I Knew You (Piano Version) (Official Music Video)",
+      "date": "2026-08-29",
+      "url": "https://www.youtube.com/watch?v=XwCWKSO0F8s",
+      "thumb": "https://i1.ytimg.com/vi/XwCWKSO0F8s/hqdefault.jpg"
+    },
+    {
       "id": "_9jaJtmraXA",
       "title": "Taylor Swift Performance - The Icon Sessions at the Grammy Museum",
       "date": "2026-08-24",
@@ -2189,27 +2196,20 @@
       "date": "2025-11-28",
       "url": "https://www.youtube.com/watch?v=yX2kZ8OIsfU",
       "thumb": "https://i2.ytimg.com/vi/yX2kZ8OIsfU/hqdefault.jpg"
-    },
-    {
-      "id": "dSSqCoCiQVs",
-      "title": "The End of an Era\", a 6-episode docuseries, streams on @Disneyplus beginning Dec 12 🫶",
-      "date": "2025-11-13",
-      "url": "https://www.youtube.com/watch?v=dSSqCoCiQVs",
-      "thumb": "https://i1.ytimg.com/vi/dSSqCoCiQVs/hqdefault.jpg"
     }
   ],
   "news": [
-    {
-      "title": "Indiana Fever Star Caitlin Clark Had 3 Words for Taylor Swift on Friday",
-      "outlet": "Athlon Sports",
-      "date": "2026-08-29",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdm9Bd2h1b2lvUjRKN0FIajBONHQ5QWdxeEVhMEUzOGlVVnl2bGxyeEg3U1Z3ZTYta0RKbWpFVU8zVS1BdUV1QndmQV9FbXhFZXVmYkFEeUJuV1VnU0R3UjdSNDZnbjhxcS1ra2RjR1NJSVBFNG1UdEVLTExYWmwtdjNkZHYxSkRkNmdfTDRR?oc=5"
-    },
     {
       "title": "Taylor Swift donates USD 50,000 to a Connecticut resident after a car accident while trying to help teena",
       "outlet": "The Times of India",
       "date": "2026-08-29",
       "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPYWFmS1RxWHYwdUdfUFhaOFNCQ0lqZWFBOTdnWEFvM3BZVlktd0d0M0V0Ym9aa1I5YWhzSVU1Vnl3T18tV3lFcmNVb2NfYlVKRXdUUHl4QWVORW1rb1hUZjMyM1lJX0FJR1BORzEtYjZ1TnBjblFsZkxwMVpDMlNrU19jNW90bDJQcHlvQ1dpWFQxREdVNlFqSWFHSF9PczVYR3VDeExvLUwtM3VOQVFpMkJMa1VRU202RWwwclhCNkRzYTA2M29yQ3JlU3ZxWk5lZmZOLTJtbHBrWjhCbXVSVEVibUFfVllIVndMN1hvclN2V2VFWVV3clVSb21TZ3BRLUNBZ0dxZWhYSGpXUzVJRVBLQ1g1OUphT2FiNnZCN2tKWFhIc250VG5lSdIBsAJBVV95cUxPdlYwZnlHN3AyQUNmd01pbGI0b1dFSTJQb0pGVE16Z3VINUJSUVhSVTBsWEV1b0h1SzloOGFTZkJFTWx6cnNmbzJRZXdPRzVCb0VhWVRZU2lRS204UTk0UzJXSnR6N1VuSTM3YXpSWkFYWUJDdFJsT3p2S1FuZkc4eE80RGdSeWEwQWhtWkdrbndPX0VTUU1QOXJlb3l4WEYxWXQxTjhmd3JPSGI0MVBtVEF0Nm5KVEpHajVsSnBjclVKcHk4MGRLVFNvcVpaREdzV0JCT0xQMjJSMEV3cV9RTDNRSW51TmZpdnQySG5FUm9KVWhOSXZKUUh3N1lCWUtlOVI3QWhmQVB6MWtFZDY3bEZ0V3FNMG9Vc1ZzX3REUnRFdkJVWWI5OHRsTDk3Ulo3?oc=5"
+    },
+    {
+      "title": "MUST READ: Glen Williams man who helped introduce Taylor Swift to Canadian audiences headed to Country Music Hall of Fame",
+      "outlet": "Halton Hills News",
+      "date": "2026-08-29",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNbzlJODJ1c05aZ0lGZTJLcjl1cWJUWHYzMmgtbW1Uc0NGN2QtM1JBa1dqYlRiRzA4ME00aXY4SUt5N1doQTNKQlVycWlRNlBLd3M4RTQxdFZxRVNyV1hwNlI3VDd4VVVxdE9OU1FabzNoU1FuQW5CNHpWcUFjUzFfQ2p4bHJjdVJleEt3d05oUXZvN1M2QnRDZERKSzM5eElpSXA4TEpwakNWMWlGZkNiTEZydFdkbFJ4SmZYYjdaODBoTXgtbkJkdG1TVmxFTmtlVGRkVWp1WlBabFhCdTJ4RWE1dnpoVW1LWm1fWFFtNmhrX0xVZTJkZVJVSGR5X2ZUdUE?oc=5"
     },
     {
       "title": "Taylor Swift Makes Top Donation to GoFundMe Supporting Good Samaritan Mom",
@@ -2218,10 +2218,52 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTU1uSFd1T3dvdzFPZWtCbHpYdFhPREZRU0FUT2dJUGI4R2FVT1o0OHROdUg4Z3RvU0N5bHpWVVJwN0RoeGN3N1BoMEhhWWVmSklRajJEOUtFQVdZOURXLUhTbVRmMjl4Ry1hZlhvRkJoT1lpd2hobHp4VEJZcVhyUWNTMFlIMzRBZEQxZDJseDlTYlk3X0RCX015T3JNSDdONThlZw?oc=5"
     },
     {
+      "title": "Caitlin Clark reveals Taylor Swift's reaction to Nike Friendship Bracelet Caitlin 1s",
+      "outlet": "Yahoo Sports",
+      "date": "2026-08-29",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSG1XcE92SE9ETUk0UnpkVnFxb1Fvd0ZEbWJsb0VWQmJ6Z3NXc2tpTnVPaFJBVG50V0lneHExSnBZcFpWaGloaXdGN2lQbllpNWJJb1RMVkJvb01uRkxFXzNsalZ1UF9xcWlOTkRuNFhKTTNZWUV0VXFBdlJ3TUhaNTlaLWRhZWFwM0VCXw?oc=5"
+    },
+    {
+      "title": "Will Blake Lively and Taylor Swift Be Seen Together in Public This Year?",
+      "outlet": "NEXT.io",
+      "date": "2026-08-29",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUkpGSHQzd0RTQi1aXzIzRFNVeDIzcjdtRzR4Sng2UzlXUmw3VlF1cHpLYXhzSFA1YkdoUVZRR1o1QWhMYWtKU1FzLWRPdld2MWdZTTY4c3puM1RhazlTaXY3MXlDUVV1Y2Z0UUFLUVVtdHcxSmRzVkp2WlhnU1gtRi01RGhqUmI3S0FyWkI2UnhXNGZ4TFhWQ2wyTlhHX1YtZnBwc0YtakNZUzV4RW53b2FFSks1eEE?oc=5"
+    },
+    {
+      "title": "Taylor Swift donates $50,000 to help mother hit by car",
+      "outlet": "NME",
+      "date": "2026-08-29",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVm5nV3pNTGtCZ2RYNjNiLTBGQW1IVURfMXc5bW5ZcjdJZWsxQUhmT3hISnJhNGRNSWNnUTd5cXZWWi1HRVVsQ1V2UnNhQXZWbEZ6ZWtQUzhWYXZ0NDdxWVBZN3E5N3B3QzlXVWNhdWRfc3NpeFNvUnFVaU9pLXFrVDFlSkdkdG1iWVB3UENR?oc=5"
+    },
+    {
+      "title": "Travis Kelce Flashes His Oversized Chunky Gold Wedding Band as He Dives Into the NFL Season",
+      "outlet": "instyle.com",
+      "date": "2026-08-29",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORTNTbWVWTnF3dW81ZzJzRjJCRDlTa0pmZl9mdkRCUTlRQXN2MnRidlBTVHRwOWtoWGJXSkpiR1lUdWlWV1J3aUhlVC1NSmV1RzJYTDYyb3oxTkZ1bjVubDFPdW5jdi1BRXVkYUtvOFZNeTU4M1c2V01EWFZRd1kwZUhTVmdTakM5OHBZ?oc=5"
+    },
+    {
       "title": "Caitlin Clark shares what Taylor Swift thinks about her new Nike shoes",
       "outlet": "hitc.com",
       "date": "2026-08-29",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaUktN1FVczloZi01X2FOOW52UjBSRENqT2c2X1FjOHpvX3BuejZyYXRzcHdtRFNFVjNYWjZlT0h3UmE2TTBVYUFPZWltd3U3UkxiVVRTMGsxZHpuZDRyaDQySzBvb0hFUlUtZmxidFZGUVdSNzlGb0R6Y1gxTDZ3ZVZOdVZ6dXlreE96UVNBdkM2Nk51RWxZ?oc=5"
+    },
+    {
+      "title": "Taylor Swift Helps a Mom in Need",
+      "outlet": "parade.com",
+      "date": "2026-08-29",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jZ2RycEpzM29Sd1dNdTRpUXBlTHU0aFFQZktPVV9PZTRialRHTUR4YVRkM3JTYk1UeXI2N0x0ak5UXzNpUVYwanJQY2FtTWp1MERJUWNjT3doZmgybC03M3NiX3FDbWc?oc=5"
+    },
+    {
+      "title": "Taylor Swift donates $50k to injured woman’s fundraiser",
+      "outlet": "The Lagos Review",
+      "date": "2026-08-29",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUTY4S0lySmtWa056d3YtdFl0amg4VGlzTXpSbWtRejVsRmw3ZUlaVTVPbTZNb2Z1bWRHZDZVaXRYX3IzR0ViMkFPNGNZdTlpdjBMNFNSd2pXdFdXRmV2bnB6dWMydml6QkFNVTh5cERpYzBjcW1rRkxfNEUwemxRRFZ5cDRBdFk?oc=5"
+    },
+    {
+      "title": "Taylor Swift Gives $50,000 to Mom Hit by Car After Saving a Teenager",
+      "outlet": "Yahoo News UK",
+      "date": "2026-08-29",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qMmRzTkZHQWJBWXdkdC1RUUFLWUxQVlZKS1N4di1ENEZFam5ObHBTcXlZMlEyNjFBeVFEQ0NoX0dVYWF3RklSMDNCOGw1WGtRTXltRndFTjA1YWd4SktuSzhFREhTZkRmbjFvcU1EVTVJc2gz?oc=5"
     },
     {
       "title": "Taylor Swift Reportedly Writing New Music While Mysterious 'TS' Symbols Appear Across Cities",
@@ -2230,58 +2272,34 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZndKemZVWncwTndxUUFBQVZpN3J6RjdsT1VKcnJ5UXFiXzZLWHVOcV8xZHpUZWFaekthNl8xRkl5UnF0cUZNOUpwRFZNalpiczhCTGltRWxmUjZvbkE3dGNlckYzaUdVZUxVaTNYV1g5emlFYzNWTkVmVU4xMzVVLUlJUEpHZy1rbVhyMWZpV1pfcjZGUFBnYm1IRDQ?oc=5"
     },
     {
-      "title": "Taylor Swift Shares Heartfelt Message After Surprise $50,000 Donation",
-      "outlet": "heavy.com",
-      "date": "2026-08-29",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRHBMV19uSzUweDRRT1dobjU4WW5FVjV5UldDNVlxQ2VpQjZKNFlDc2RETjI5bDdJNlZrRE03bVJlcUotT3ZNdXl3V09nVDRYcnBUMmR2QzIzQ1o2bnZobkZGZmN3NXRkUElwb18xZFpZbjlJaWJKVWY0U3o0YzNtVDJrS2pVeWh4VHZxNmFlMWlkaVlWV0ZDRy1rV0xkSFBMZGhUUjFxWmxXRmlsWHFWVU1yWVREajQ?oc=5"
-    },
-    {
       "title": "Caitlin Clark Rocks Taylor Swift-Inspired New Shoes in Trending Photos from Fever's Practice",
       "outlet": "Bleacher Report",
       "date": "2026-08-29",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOS1wc21VUmZiN284bGUxeDJNa2tWa0FkQmhoMHZxSGNJeEFyQTFjRWpGaVFIVkMweUtHNGNGcFpoYmYtV3o1OTBDck1tMWN4ck9iMWZ4dTRlLVlEeGlRdXQ1YkJpR1ZzRmZuckRkOV9INHhKeUFJRlB4ck9lVHFPTmpzd0RHU0c3NFQ3UTF2cXBwU1ZJNFh3eUZoYkViTVB4bjdvdzMyMHdSY2QyUktRQS1sTjFfWUxRSDN2eW1hZ3dJZm1lOXJn?oc=5"
     },
     {
-      "title": "Taylor Swift Donates $50K to Mom Hit by Car, Sends Heartfelt Message: ‘Wishing You the Best Recovery’",
-      "outlet": "Us Weekly",
+      "title": "Taylor Swift's \"Coping Mechanism\" For Feeling Overwhelmed Will Change Your Life",
+      "outlet": "Yahoo",
       "date": "2026-08-29",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOUlueXBxSENrSkdlU0tiZFc5cnhZQmszckVzM1ktdVlqOTRNRVpmbVVaeUI4aFpUTl9hUFVudUtuUWk5WkJZRkFzRGtQS1BfelZBNEZ3SGE4UnExZ0lhc2pTTU5TUlF1ekNxZW5VUVdaaUJwN01QSGdVckFUZnRBQ1hjWlg0anJUbTJhT3hHSVdaOHdUR2t3NGJMRzFGMEd1T2haeHJqZw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbm1uYU1rSFNPS3RXb0pLT2wwZTNqaEhPUUx0NzdGV3lKRjlGLTdyLWgzdGFVYVpuUUQ2Ymp4cS1NQXlIWGJGa0RqMHNRV2RQbExFbmlLMTdnZEFWSmEzZzZyLVA5WHBLQ2huNVhUY2ZjNkhmX2ZycUZTWUFKUElmNTY2alVRemRRZGdJXzNQY2RfbVVHTDdsdTBCenhuOGMzWmJaUDViSQ?oc=5"
     },
     {
-      "title": "Taylor Swift 'writing new music' as she and Travis Kelce settle into married life amid fresh ‘TS’ teaser sightings",
-      "outlet": "contactmusic.com",
+      "title": "Taylor Swift Shares Heartfelt Message After Surprise $50,000 Donation",
+      "outlet": "Yahoo",
       "date": "2026-08-29",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPY0ZpSzhFRHFxS2wtQUJWYXlOOWE5VmJ6Q01QZjlsUmtuaElrT2owWWxYMmlCVUQtY3FHRk5lMURhUmZNT2w1NXlFak9BVWhDWXdhNkQ2Q2lvZ29NcVVIYkQ0UU04UVJrRTBQUG9lU1pidUp5a284LVZOSWV2YkJLX3UyZzktUlBwYm50V3hGSEhGRTUxeDhaSWJucUJaellRay1GSlhtS2dwaFlzZkJ6eEgyNGlwcVdoNzBZZ1E3LXNXdHZNWEZhaWRYb2puMkFLY0JHcTBMSlJGSUotdjVhRW5VZHZZSG84T05uRG1B?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUkZXRzE2eE52MXJsMHZSRk5UbGpDQ2dIdzBtTmVid2FkWktHNFpMWll0UE5JRElnZUVmSWhXNUYzYTMwSjBScVVJQzBvMVExdWNMU2kwMFg2bWhOQ2EybjhMQVZQSlBhSG4talNKT0NGejF2X0xVaDA3U1Z6aXFfdTBRckdNMGZkQjZnS2pzcFZiM25OSHhTY3hJNnRWaFdFZ0RqMFdNRnpxZmM?oc=5"
     },
     {
-      "title": "Caitlin Clark Reveals Taylor Swift's Opinion on Nike Friendship Bracelet Caitlin 1 Signature Shoe",
-      "outlet": "Bleacher Report",
+      "title": "‘Taylor Swift is not losing any sleep over me!’: Don Spencer on Play School, fame and his 65-year music career",
+      "outlet": "The Guardian",
       "date": "2026-08-29",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPa1FXUlJOaHliWTcwekQwbjZyVTJ4NzhWS1dkQkhNLXpJcjQ4N1ZtMC0ycE94X3VkelM0X3oyTmgtZHFkdmhEdEpHeWVBQUtST1JGeHFpZUNQTWxHR2cxelYyTkJDVENyOUdwek9ja1Y5TkNJNjlLQVBfV1FCR2dxcFBHcVdmMUJiLTAyUnUtdzNHbU85dnhLMkx1RGFoN3lFSWNTRGx0alBuV2JmTUlBd3pleUpMdTM1UW1YdlNnVXgyR1ozWVRsejQ2aGJMdi1YLUlZcA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVXJ1WHV5aW5jYVFqOHlQNTNOTWpKalZvd3hocG5oaHlqMEVjS0U1ZU5wREg1NGNVaWN5WEtoVmRpaV9KbTlmZi1vdk5ZQUo5WEwtMXNkVTN6U2Z6LThTVENoWlg2dE95M2tZcTMzeGt4Vm9JUGpJUlRjNHhvRDNJRFdPbTFvajc4emhVMEw5SGo?oc=5"
     },
     {
-      "title": "Taylor Swift Donates $50,000 to Help Mom Injured While Saving Teenagers",
-      "outlet": "Just Jared",
+      "title": "All The Things Taylor Swift's Exes Have Spilled About Her",
+      "outlet": "Yahoo",
       "date": "2026-08-29",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU2U3VDhwRFRxVjF5VGFkT3NXWDRlWGhlbHJIUkRCM2NTRGdPQnRYV2VOU1JkdkFaZjZidXZUaG9TYW5hZmtReTkxMEJ0MDZvS2s2OHAyQkZmVU1Fd3E0YmhTUjR2RHU2akNZcXM1Z193LU1aYzQybHdyQ1VRdmNpbXRRNVRDa292YXNXMnpBcXNMakZmTWJjV0ExZWNPX3BCU2F1bk8zYUFYamc?oc=5"
-    },
-    {
-      "title": "Taylor Swift News Emerges Ahead of Chiefs-Seahawks Preseason Game",
-      "outlet": "Athlon Sports",
-      "date": "2026-08-29",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTkM2QkRYdWt2U3BWeHA5d0pLcDFTTVcybk1qQ1ZISFltTVg4Nm9mQXM4SXhPY0pxOVo4TVY0UjJDeWhpVVhzY2k5RGlSRDBQb0hGM1lYNlE3YnJ1U0x4VG8tUi1VdmtKVU0wVTVTTkFRUzRUVUhYcHpab0JFU3NkSml1dmRVM21STW9Kc1BwQQ?oc=5"
-    },
-    {
-      "title": "Travis Kelce ‘Hates’ Being Away From Taylor Swift With Chiefs: Report",
-      "outlet": "heavy.com",
-      "date": "2026-08-29",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZWZQV2tZcjJaSnFTWUo0SUh5c1JQcElFVndWWkhJVF9pQ1p2VzBzZEw2b1VfS0lWQV95N2YzR2sxaVVZZ2JvbnBOcFp2TmNhcWZVWjNRaVZPV0l6RXJTOEVHUEdFcUw5MGcxRHdKcERnX2sxOWhELXlvQzR0S3lXRUFZODUyQW16XzFr?oc=5"
-    },
-    {
-      "title": "Caitlin Clark reveals Taylor Swift's reaction to Nike Friendship Bracelet Caitlin 1s",
-      "outlet": "Yahoo Sports",
-      "date": "2026-08-29",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSG1XcE92SE9ETUk0UnpkVnFxb1Fvd0ZEbWJsb0VWQmJ6Z3NXc2tpTnVPaFJBVG50V0lneHExSnBZcFpWaGloaXdGN2lQbllpNWJJb1RMVkJvb01uRkxFXzNsalZ1UF9xcWlOTkRuNFhKTTNZWUV0VXFBdlJ3TUhaNTlaLWRhZWFwM0VCXw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU2xSZEpOSGpXZTBPbEtqWUU4SDN3bkVVZlo2eHpwYzd2QlVMZ3d2R09kc09Ld3d0eVdRYkVCNnM5aDM0blFDOTZaYktvMkNVY3hZRXJfRXVqc3k1LU5kQTFVSkVoWWFTbXBSOWl5WFBsTFhCa0E0cnVBV09XOHVSaXYycWVpTjc0MkJ3YWJTY3p0anpDUmc?oc=5"
     },
     {
       "title": "Caitlin Clark Reveals Taylor Swift's Reaction to Her New Friendship Bracelet Shoes",
@@ -2290,58 +2308,40 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWFlacGd3eUNVTVVMaVptYlFVVzRzNmY0SEhCb0xfMzlsTnhCVFpIdmxxWFN3NVlOUm9JRlBfVl9udmp0eTJ6bDdSdWdGS1ZzQ2dnVzdWNlRhd2Fadmd5UHQ1ekxuTTg3MTJXMVBBWXByQ3A5Tm9mdnlDazdTYm10QVRLUS1jVkQ3eTEtaw?oc=5"
     },
     {
-      "title": "Taylor Swift Donates $50k to Help Mother Struck by Car",
-      "outlet": "Rolling Stone",
+      "title": "Taylor Swift Donates $50,000 to Help Mom Injured While Saving Teenagers, She Responds",
+      "outlet": "Just Jared",
       "date": "2026-08-29",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaUx5bzlSZlhPUTdQM2NKbFNrZFJLTTVFTGpkNVRJY1hVU1VpOVg1VWhTSFZFMm0wQ0p3ekhEbWJJc3JaWFhQM3U1eGxUaFQzN0pjUHQxaHR4ZHlQd193RHFfajZTNU5MaEh5YUs3SVJWSjBjRFZUTm9VeHA2cFZEeUhMbEtqZlhBR0NDSGJYVkpIN0UtUTYtY0pkWUp2NTNCbGc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU2U3VDhwRFRxVjF5VGFkT3NXWDRlWGhlbHJIUkRCM2NTRGdPQnRYV2VOU1JkdkFaZjZidXZUaG9TYW5hZmtReTkxMEJ0MDZvS2s2OHAyQkZmVU1Fd3E0YmhTUjR2RHU2akNZcXM1Z193LU1aYzQybHdyQ1VRdmNpbXRRNVRDa292YXNXMnpBcXNMakZmTWJjV0ExZWNPX3BCU2F1bk8zYUFYamc?oc=5"
     },
     {
-      "title": "How Travis Kelce and Taylor Swift are navigating 'new normal' after wedding",
-      "outlet": "sportingnews.com",
-      "date": "2026-08-28",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMXNmTWhhOXV3aXNxR0NfS1JEZ0RzSEUycnE0eE1qdjI5VHIxQjV6ck1JeHg3Ump2WGlzeWZfQ3ZMZE54ZFo3RVhhRnhtaVRCRWxOSG16azFEMEFIRVFVMGJSNHFWWTJMVVhsSkhVTS1jSVRxTFlTN1BFalhtR0M2eGswdW1nWm9jeG9IRDhvaldQTjFzNUFzNUF1MUJEYVd3UFRYQ2dYZk9lZnZULWxPcHlOOUhqV1h3ZVl5dUdJalpycWozc2pSc24wSmF0b3hiY1NfdmFlTUJ6dngwVERPSXM5U2s2b1gwUVlsbzZ3?oc=5"
+      "title": "Taylor Swift Donates $50K to Mom Hit by Car, Sends Heartfelt Message: ‘Wishing You the Best Recovery’",
+      "outlet": "Us Weekly",
+      "date": "2026-08-29",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOUlueXBxSENrSkdlU0tiZFc5cnhZQmszckVzM1ktdVlqOTRNRVpmbVVaeUI4aFpUTl9hUFVudUtuUWk5WkJZRkFzRGtQS1BfelZBNEZ3SGE4UnExZ0lhc2pTTU5TUlF1ekNxZW5VUVdaaUJwN01QSGdVckFUZnRBQ1hjWlg0anJUbTJhT3hHSVdaOHdUR2t3NGJMRzFGMEd1T2haeHJqZw?oc=5"
     },
     {
-      "title": "Taylor Swift’s Surprise Performance Came With a HUGE Reveal! Plus Travis Kelce’s Sweet Chiefs Moment",
-      "outlet": "Yahoo Sports",
-      "date": "2026-08-28",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQVY2S2VEOXNHSUdiZ0ZBT0JVckZzUTVHeVZkZ083dkQ1RXRCQ0lWZXZOY1ZoeUZqMzYtV2xwRlFBOFpOOUgycDI4YVpzeGJVZUg1LVpWc050WDN4TEJMV1hIM1hXTGt4Nkt5dEVlQm5uLUFGUkY5UGw1R1R2eEJ2TElHV214QjR1V25PcE5B?oc=5"
+      "title": "Taylor Swift Donates $50,000 to Woman Hit and Injured on RI Highway",
+      "outlet": "Go Local Prov",
+      "date": "2026-08-29",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVGN1NW5VaS01RXNjVGR3azhMOXNCRUZlMm5QR012MlJ1OGFCb3BuQVMySWhMal9XT25xcWNHSk9yNFhGWjV2ZlpRdXEybjM5azFaQnhFSlBhbUd2V0dFdXF5azRyVktmcmh0UWZhc0hyZUpWcjlZU1FTT3pvOHg1aUItUF9zOEdqcEo3M05nRjFuYjlZeWM0QmZfeXE1TmlRQktXdlVwTQ?oc=5"
     },
     {
-      "title": "Travis Kelce Is ‘Missing’ Wife Taylor Swift as He Gears Up for NFL Season in Kansas City",
-      "outlet": "Star Magazine",
-      "date": "2026-08-28",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZXZZRnZXTFZMQXJPa1NRVmtJT3NwWmJHMTJraWpsXzhHX3NrbXJJSTlhMTI4dExIS2NKNXM0ZTFlejAyc2tXS2xFV1ptYUZ4LW5Na0QyVTBLTUVndzFXSWV3TW1zUy14VE9Va1hUV1gxOEYwckNIZGxTVTZWQVpPd0NBak9RYkJGa0lRX2EwRXVJZTdmSTREdUdCNTVGNGk1ZTk5VnM4Skd2UXdyeF8ySWVR?oc=5"
+      "title": "Taylor Swift News Emerges Ahead of Chiefs-Seahawks Preseason Game",
+      "outlet": "Athlon Sports",
+      "date": "2026-08-29",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTkM2QkRYdWt2U3BWeHA5d0pLcDFTTVcybk1qQ1ZISFltTVg4Nm9mQXM4SXhPY0pxOVo4TVY0UjJDeWhpVVhzY2k5RGlSRDBQb0hGM1lYNlE3YnJ1U0x4VG8tUi1VdmtKVU0wVTVTTkFRUzRUVUhYcHpab0JFU3NkSml1dmRVM21STW9Kc1BwQQ?oc=5"
     },
     {
-      "title": "Taylor Swift Tax Suit + Iconic Seafood Shack + 3 Biz Owners Charged: RI Week In Review",
-      "outlet": "Patch",
-      "date": "2026-08-28",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM0tlelVydGprM3dHZFJOZkt3U0JhTHV1clBqcmpxamFxbTIzQ3MyWEZCai14Q1h0ODV3TmRYZk96N0RMUUdMVU1YR2FjU2VkX1VtNVlaV0NLNmVleC12MHJxWjdvemZEREN2Tno4eFF5Y2FlRy1tQXZ0SHFQb3lDRG5DRklGbWdmS0JmdEhvaThoQmktTmVWQkQ0cXZmdUphcUt4NWlXUGZGMjdxYUZGUkZn0gHQAUFVX3lxTE5jLVZscXdEcjlJcjZLWUMtVUFVZjhvby1SYnpEZzVDUk5zTzRyUG1zUHJRYTdSR3pRbkEtNlNXWGtTX0FsLXpVdGpMUk92bnRnZnIzVmF3WlF6djN6XzJjVXhwbkNvYk10SjU0VFRTLXJYeXFFcGY3ZEp4NlkzeDhPb01PdHJreXZaZm9FeXJMN2xpYk9KNmJJTGZKeDRhMWsxYVVKMnpPWjV4U3UzelprZjhXOGlfMGdmZUVCSy1JUURUUlpnMWpfOFk2bmpsZGI?oc=5"
+      "title": "Taylor Swift Donates $50,000 to Help Mother Hit in Car Accident",
+      "outlet": "Complex",
+      "date": "2026-08-29",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOclNmZ1djcVYtWXlnZ0l2alFBR0FXX1NNMmt4dlFldWxZNnI3aF9RdW9LTkhlYW9wN0hBQ2FhY1oya2RqOUJId1VyYnBQem11NDNmUllndXFXb1dSUW01a01ERlVqY1BKdFU3VUJITjdvdDg2QWRMMGROR0ZJckdxMHI4UE9hczNUd2JxY2lRMXhLYXZ1TXc?oc=5"
     },
     {
-      "title": "Caitlin Clark Debuts Taylor Swift-Inspired ‘Friendship Bracelet’ Nikes",
-      "outlet": "Just Women's Sports",
-      "date": "2026-08-28",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYkFBLTZla0llQ0FHZjFfSk44cWxGTVpBUUVSdTRFX0NJTHFuYW82X3VLZjZQN28xVmtUQTFVWWpxZng4Z3VwWEpOUERSV1V4VlQ2SUJJUVhvTmRPbkljaXFlYm9GcGl4NGpaS2p6OGdVdHZfcWlNWHVCSm5ORTAwYzhmR0pLa0tQNTF3TUxPTmlOa0RLbGxPQ01nTk96eHdkWFJ4eXFCOA?oc=5"
-    },
-    {
-      "title": "‘Taylor Swift is not losing any sleep over me!’: Don Spencer on Play School, fame and his 65-year music career",
-      "outlet": "The Guardian",
-      "date": "2026-08-28",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVXJ1WHV5aW5jYVFqOHlQNTNOTWpKalZvd3hocG5oaHlqMEVjS0U1ZU5wREg1NGNVaWN5WEtoVmRpaV9KbTlmZi1vdk5ZQUo5WEwtMXNkVTN6U2Z6LThTVENoWlg2dE95M2tZcTMzeGt4Vm9JUGpJUlRjNHhvRDNJRFdPbTFvajc4emhVMEw5SGo?oc=5"
-    },
-    {
-      "title": "‘Travis hates being…’ – The one thing Kelce dislikes most about marrying Taylor Swift",
-      "outlet": "hitc.com",
-      "date": "2026-08-28",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT3pFbk5BQmRYSmdtMDAzTHpXUi03YmJQS09XWnY0enhiSGI4UHBBYTJJanpUdkxfYWxCaDBmYTZZOGJPejlxRDJnLXM0OUhHQ2VMTXV0eXZPWnI0aWViWVVhOFZUc1NObm0yVjZmajhPYkJySFJPRGJYU2dFU1R2RE83U0hIR1hWeTVwdEtPZjM4NVJEbjdNWkdUaGVsVVhnNUVQUw?oc=5"
-    },
-    {
-      "title": "Taylor Swift, music icon: “it’s better to think you look fat than to look sick”",
-      "outlet": "Diario AS",
-      "date": "2026-08-28",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdThKcjA4Rl9Ea2szVHJvaDM5WmctOW9FVkpzV2x0SzJCdVBnU1BLVWdQMVJ4Qmx3ZFdJWEdUOXZjVlZJNFJkYVAxZDlqNE96MHRVWHhhazNHYlhnd1lkVjQwMWxzZUNDZWxIMHc0QzZwbGZ4Nk1DN3dlbWFpRGxmX0pVOWpVRm5oVC1SUEEzWkhnbC1uYVVmYUFrSkN2dU5qUVM0RERfU1hQZi05SWdJVEhTN0NrVHpU0gHMAUFVX3lxTE91cW9ISlcxdWNwZEMyV0NselduNi13TDFoajFKWDJvMjQ3c3hkVFF0ZnZpX0Y4ZVR0cVVxVzZsRWhtcGF2blVSc1NORWJMNGc5am1STlNNZTRGWmxTYkRkNTUtR0c0SElvaDFWTkk0LXlIekFXRG1nY1FhVUtkQVlPUmU4S1M3cGlRNjFhdVQ0anljNUc1U3E2Tld1MGZEaG5aSE9IQmo5bTl4X2I1ZDBMYXZ0aWFpTGxzZ3p1cFRzRzRFdmF1Z2R4WE02UA?oc=5"
+      "title": "Taylor Swift 'writing new music' as she and Travis Kelce settle into married life amid fresh ‘TS’ teaser sightings",
+      "outlet": "contactmusic.com",
+      "date": "2026-08-29",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPY0ZpSzhFRHFxS2wtQUJWYXlOOWE5VmJ6Q01QZjlsUmtuaElrT2owWWxYMmlCVUQtY3FHRk5lMURhUmZNT2w1NXlFak9BVWhDWXdhNkQ2Q2lvZ29NcVVIYkQ0UU04UVJrRTBQUG9lU1pidUp5a284LVZOSWV2YkJLX3UyZzktUlBwYm50V3hGSEhGRTUxeDhaSWJucUJaellRay1GSlhtS2dwaFlzZkJ6eEgyNGlwcVdoNzBZZ1E3LXNXdHZNWEZhaWRYb2puMkFLY0JHcTBMSlJGSUotdjVhRW5VZHZZSG84T05uRG1B?oc=5"
     }
   ],
   "bio": {
@@ -2366,12 +2366,6 @@
     "dates": []
   },
   "tourNews": [
-    {
-      "title": "5 Things to Do: Oswego History Cemetery Tour, Taylor Swift Trivia Night, ‘Mean Girls’ Broadway Musical",
-      "outlet": "Shaw Local",
-      "date": "2026-08-27",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSkE0LTZBdEt6eXhyRHZpajhVZ2tQazBIZVJGWDdBdHZhX3BnRklpd0Z2S2Y2cWVGeGhxdHlEeGZjMS1POUhSa0dGQUN3MGgwUUxpNnh0Q3lkX215Ui1xcnNCNG53ZFZJanJXeGVXUkF2Z1JNT0RydlJORXlLQm91eDY1UEhMdFkzRHhMSExwTldVQUstcEdoaVp5aVFZdktfdld0R0JzN0NKYzd4SmxvRUo0R2Qzc2lEd1ZpN2g1THhfOFBWZndRamdQS2JteGJzX1hsdHd1YmdPVmE1?oc=5"
-    },
     {
       "title": "Taylor Swift revives Eras Tour magic with Grammy Museum three-song piano mashup",
       "outlet": "KECO 96.5FM",
@@ -2401,6 +2395,12 @@
       "outlet": "People.com",
       "date": "2026-08-01",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZGRQZUpMSWRVamFVRDRjSk9taGJfNzVMOEo1NUxiUGp5OVc1MzJSZUNHTDRRcGVuY2g3YUx4SWFpUTRGZzdtS3NjYTBVZ0FDVlpJY2c5aVdVeFd5NXdxZlZHT1hfQzd6RHk5N091R2x6cTc5WU9OUzVLa2RMQXZrOXBpc0JzZFVxaUVibkpHRjF5cVBUV2JCMHR4dFhtX0w2UXhYVklSa0M4ZG1kTkNHMzJMNjRTVEwtbVdGaVpoaER3QQ?oc=5"
+    },
+    {
+      "title": "Taylor Swift’s ‘Eras Tour’ Is Now an Emmy-Nominated Phenomenon",
+      "outlet": "Yahoo",
+      "date": "2026-07-08",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeEdQTTRVdm5wdEZrQ1czRjlxNXJtSXlCVUVWVzMzYXdIeWVlVlhUVU1ZZlhMaHdHbDdWcERBOUJsb1FIcWc5bExicUVJV1VBNjJpdVlNbjZuanpmT242QjJkeUhBejZ0RThaWl9tTWlUWkRwYm9LYVpTcnZTeWtPUVZGcW16eTZnSzBfSENPYl80RFU?oc=5"
     }
   ],
   "timeline": [
