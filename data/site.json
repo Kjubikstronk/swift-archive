@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-30T16:42:50.545Z",
+  "generated": "2026-08-30T21:08:54.857Z",
   "artist": {
     "name": "Taylor Swift",
     "full": "Taylor Alison Swift",
@@ -2059,7 +2059,7 @@
       "album": "Bigger",
       "date": "2018-06-08",
       "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/61/47/91/61479192-0df9-808c-e770-2cac803d08f1/00843930034574.rgb.jpg/600x600bb.jpg",
-      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/ee/5c/9d/ee5c9db3-b783-66d0-b2a4-84193a3feec1/mzaf_13955297856693853214.plus.aac.p.m4a",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/04/6b/dd/046bddba-936c-8432-9a4a-5a0db668a959/mzaf_14893935878687889493.plus.aac.p.m4a",
       "url": "https://music.apple.com/us/album/babe-feat-taylor-swift/1370652421?i=1370652656&uo=4",
       "ms": 215113
     },
@@ -2200,48 +2200,6 @@
   ],
   "news": [
     {
-      "title": "Taylor Swift donates $50k to injured woman’s fundraiser",
-      "outlet": "The Lagos Review",
-      "date": "2026-08-30",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUTY4S0lySmtWa056d3YtdFl0amg4VGlzTXpSbWtRejVsRmw3ZUlaVTVPbTZNb2Z1bWRHZDZVaXRYX3IzR0ViMkFPNGNZdTlpdjBMNFNSd2pXdFdXRmV2bnB6dWMydml6QkFNVTh5cERpYzBjcW1rRkxfNEUwemxRRFZ5cDRBdFk?oc=5"
-    },
-    {
-      "title": "Harry Styles makes cheeky wedding remark at Madison Square Garden, fans link it to Taylor Swift",
-      "outlet": "WION",
-      "date": "2026-08-30",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOM2k4MmlvRjdPUEJDWS1yaEl5UlgtUE5zR1V1MFExRTN0OWV4RGRqRDdHQy15b0pHWXZBdUdhTk92X2lWTGJvQ1JMUTg1VkhQNkwxYkJjQjBRdnNrcXJvWkp4Wnh2cmItQ2hnMGFUMEpZbHIwM2FKcndjNXJZNmQ1el9GcnJWS1N6MlFtbWpJb1hBZFBWVnd5ZW9TYlg5TDVMcWNac0xIQi10X0VKMXR1VzB4VjVxLXZUYTVSVDhxWmdCTUswWUFJekRYZFA3WEl3c0RsbUtKWm9kd3NjX3lmc216b3YzNUVoQUtMRtIB8gFBVV95cUxQSV9TZF84eGNIakNNcUhiUDU2RVlYOVBqQUtPeXRURWdnS2QxNVFRdjJHbkVJampfTGZ0OEY1UzNJbUVqY0M0RTVCNmJlLVR0RkVMcFJabkFWQUpRUUhPczBpNE14Nms2dVl6Y0VUcnpuSHczMktNSU1NV0IybTVySVRlUTlROEVNWU0xTG1YQkVXZmt0U2FkUVdyZ2x1QnVsZ1ZrQV9QTjJ5OV8zQ0lRTFdlN0tHV2ttN1lUV3dmRFAyRUNZdGdWOTBlV1F6dGs5MU5aT2FhdmlvdTdicFJFdE1iOHFIMVlTQ3pzbUt2UkZvUQ?oc=5"
-    },
-    {
-      "title": "Taylor Swift Donated $50,000 to a Woman Who Saved a Teenager at the Cost of Her Own Health",
-      "outlet": "Inbox.lv",
-      "date": "2026-08-30",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOWVxY0g3TXJHSGN1YXk2RU95MlFqWGtHbW96SU5uMTdqS3VNSE5Sa2FNQkIwM3l5eVpyWWQ0TjkzcjNwUkFwalU0bFp6UG50dmxoYm03SHo3bHRfM1RBN2toeXExRTkwUmtkU2plcllYWjJpY21xVHVacDdUN1JUcU1NZGVLMGtCaWhPTVQ1NVhYalZZb2JMU1doV3FlQTdXUjE2dE9yTF9fZEIxNG5HcnpVWEptTTFHdkMyeUpWMWVjWnlaLW04NG1sOA?oc=5"
-    },
-    {
-      "title": "Harry Styles Takes Cheeky Swipe at Taylor Swift’s Wedding With One-Line Madison Square Garden Joke",
-      "outlet": "The Times of India",
-      "date": "2026-08-30",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNeXM1d0dXME8wdVR3NlF3d0NmMkpxSW9lTzJkY0FFY1BfLVFEcl9ZZkVLNXJhcmhLYW1nWDRpTDFmMUtrdlVaaF9hZGpvaldKUURyUGhFY09tUkhBWThBekJuTmlqYUlsTDdUa2s4TEdwYXZPSEU0S1k5dXl5SVlDaFB4RkZPeVlMUjhLNHlXaWZmWGRBeHl6eVZySDNJT0wzbFFENnZ5Y2lvajJwU0hZd2NIWHdraW05OEVMaExDZVlXR1BVSDNFejA1THZfS1NwdFNLX2pPMm1CYTJwY2k2ODVoazBOZFRqaDVGSlNGUXFVZ1FNSFAyeXN2UlRCUU1hT3luSFBqckpWX25jUFRQM3N6cXbSAZoCQVVfeXFMTXhValVDcy1JODN0Nm5ycFp1OVZRUTNqMzJmbVNXem5PWmhLRlZEM0Y3Nm9seEtTaUc1WjgxU3JQQ2xHa0hoU0wzeGJyOG8tWWhFTkpWdnF4TU9WakNqN1hTSHdPT3FQUXBLU0tELVo5NURPR1J3Qmc0Y0k1WEZOOFgzRHhWQjdGSkpwUWdRMUJlYTlla2ROMUhGZUdRWmJhejNRNTRTbm1hR281d292OEV6cm1YaGd0MkV3Qm82Q25xakpCZUJDcEI4ZUFRQXhxV3oxX1RSVFRjQ3I1UUNzakhjVUM0TVhXenFpU2x1QXM4cW9DOWpsRHRXSnZtLVFYT2ZPNDNxVkJfb2JDWndpbmg0ZnZqZ1NNUDdn?oc=5"
-    },
-    {
-      "title": "Harry Styles jokes about Taylor Swift’s wedding during MSG residency",
-      "outlet": "NME",
-      "date": "2026-08-30",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcUNZODBHQmM1N3UyZEZNSXlvUDFjTVlWajBvNXFLczFWeU9RaFpJRzl5UHFwdTJKZGZVeHBlSU1laGtEZFdXTWh2R3J4U2RiZENudEFhZjhtem80MEZlOUR0NldreE93QVFoQmM0SDJTNzV5VFhoWjM1d3lOeER4UnBkeTZqTTdRYUh5QkhjZk9Nd2ZkYlY5dHVlaU5adGZGZ0RkY2xMY1NCUQ?oc=5"
-    },
-    {
-      "title": "Taylor Swift stuns with big donation to woman injured while helping others",
-      "outlet": "NZ Herald",
-      "date": "2026-08-30",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMjVUNFhmNjl2Yzh0VHJtM1dvOUtmN3lmQmI1dUp6aWJiNi1qMHhTbEliSjVQQm5oLU5iZ25wN0RPdmVHN0piZi02Vk40MXJTRjRjR2xqc3p2UXFweldtY0FrLWJ0d2ZJNHcyT0NkM3RvS2hhZk41Mk9NYlhkcmhpaExmeVJTUVpodWw3R2ZCdUI3bkU3aXljQ2ltMTBPalVteWVvNVZldjVnSzN4dWFnLUVvemdYempmUzNodDNqUURqblJSY3VwVERyMV8yN2NXVlhtenhRcGU1Y0JzXzB5bjhyWQ?oc=5"
-    },
-    {
-      "title": "Travis Kelce Is ‘Missing’ Wife Taylor Swift as He Gears Up for NFL Season in Kansas City",
-      "outlet": "Yahoo",
-      "date": "2026-08-30",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPd0lxS0R5THR6UkNacC1sd0VrWFRqYjNLOGRTUW1sYWpWMDI3Rlk0RHFUREpzYVVmVkl1Q3hFLUc2bnB4dDRrTDBkMUpmV1lpNnNqeWIyVzQwbHFpekUxeG1SX0hXZ1NvMmxoZklGalFEQXU0Z0pSRmNTMW9vX0g5SVQyeDJDMjdYLTk5SlRVNVFEdTVT?oc=5"
-    },
-    {
       "title": "Harry Styles gives a shoutout to ex-Taylor Swift a month after her wedding to Travis Kelce: ‘And they als",
       "outlet": "The Times of India",
       "date": "2026-08-30",
@@ -2254,22 +2212,10 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA1UlRSaWhmaVBzMWZmMWNJbWJMUWNCUktOOGlyd2RzZGVPQTRrclpMbEVFYmFxM3ZvS3RmM01acE1lZkN4T2lIZTFVbFlNNmtLNS0yWGFOZ0o4ak9PZmJHUHBmeXhFTTh6SXBUaUhPNWZNWjZidklFSkt2NDBQdw?oc=5"
     },
     {
-      "title": "Taylor Swift Reflects on 20 Years of Music in First Performance Since Wedding",
-      "outlet": "Yahoo News UK",
-      "date": "2026-08-30",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5OZHVJNGJDTFVPWWY4YzJldzEwakYzdG5jUlhHbWxjMmJCeHZXbC1wS0lGZUNHelNmMHhSTDhUcWdkRk5sTFFwQlhQZUtla3I4SkI1OERQUThQdTQ2LXFqYUJCLVdOdXg3RlBSMjNHV1prbDQyRTJBSzBxUQ?oc=5"
-    },
-    {
       "title": "Taylor Swift donated $50,000 to the mother of three who was injured while rescuing a person after a car accident",
       "outlet": "Українські Національні Новини (УНН)",
       "date": "2026-08-30",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTFdsSEZmVmx4TzRBemlzUTNCZ1FoN1o4N3JyVU5jNEJSSzRhTGd6VjZUazF0TzF1V1pqU3NDTE85aUowOUJ4c1lCOWJhWVJiX2RVN3d3NzVKUmdTelVaY3EzRkRCNV9abTcybnJWWXdjdWFqUlBhUU5CS3JIOWxfd3dRT0RCTG9hVWNXOVZGZG92RnNYTzRaWXIzY2R5eHUzUHlHQ250M2VRbFZUdmFHbUl3SlJWM0VoMXpZbU9oSFhPVXZJSDMzTlhYS3VsTmRlSEdWaWtB0gHUAUFVX3lxTFBQM01Fc1IwWW9DU0R1dWdjNnc0bHBvSlZfVmNXT1hJQzJfdURGWjVZNUd1WjdYOXdKT3pqQUlhMVRSSHhieHJFU3A3R29FLXZMcXl6REh4MllqaGVQNzJxNG5UNE9nUkV4WlhvR1RrVEVXSDQxUml2Q2F3a2JmakZ6TnFzdGdfZXdXMFdnNDdDcUE1UmM5U1hnZWFTYVJDSUI3Z2tKYjgzalJzZlFPbmZDUkRtbF9oR19nUFRfSjByMEhpSWlwemUwU3hnWVR3SzVTdy1l?oc=5"
-    },
-    {
-      "title": "Harry Styles makes cheeky joke about ex Taylor Swift’s wedding to Travis Kelce",
-      "outlet": "the-sun.com",
-      "date": "2026-08-30",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRlplbTJ1VW51MFh5M1JHZ0FneTBFVF9SUmdxMVl1eXJMQnJpamU3djk4ajViVXFmN3FWakM0OHA4dFh5NF96REw0WHhHOTMwX19pUmtqZVRpUkZkUXAzc0NPNmJ6OHhlbmdoaVVFWmJVRkJPbm4tM1hPbXZNbzJDanJhWjBsblZjeTdBT3RmXzUzS1UzLTg1Z05UZl9DbHk2aFE?oc=5"
     },
     {
       "title": "‘Sending Support’: Taylor Swift Donates $50K to Mom Injured Saving Teenager",
@@ -2278,28 +2224,16 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaWNpM3VObzB3b2ltTExJWk9DUjlOUllTckdCdUlJT0gzRkU5M3pMRXRrOEhrQnZNbXcxVmItMHdSbzd3VzM1WDBlbTFZYnI0QXM1NUFmM2pvcERObHI2XzR2YUttWnZiNzNUcXROLUlKNFRWaXVLM285SUNXYXRkbEpwODRTR0xIYndKRGg0aTlLdXRzQlFVUVJadndYLXlyQ2FLVTBzMA?oc=5"
     },
     {
-      "title": "Taylor Swift reveals that her hit track \"I Knew You Were Trouble\" was originally written as a piano ballad before transforming it into a high-energy song that fans know. Link to full story in the comments section.",
-      "outlet": "facebook.com",
-      "date": "2026-08-30",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSWxnN0k1TnJtSDU2eGl5VlJ4bVBxMnBEcG0yTXdwcW1ZQUVWNVAzcTA5S3dpSk4yQXlFTEJ1LXBmU25QWmxELXpDaW1LQlZGR05WS3F0b2VVamhNc1BNeEhXc0V5UkxXNkFEdXh4QXVsVEszbG1KUzNTRWNCWFV5NXVNcy0xRTNCQ054RzdDRWg5WTdaejdFaVEtUk1RWkZRbmJ4WTVlV05nU01TOGFRVFFlbC00a0VuZVB0Ny1BNTIyeEE0VGk3YzhhU2thOG1UTEZ3cXNjUQ?oc=5"
-    },
-    {
       "title": "Harry Styles Shouts Out Ex Taylor Swift at the Same Venue Where She Married Travis Kelce",
       "outlet": "Just Jared",
       "date": "2026-08-30",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTWtKbl84SktNbV83alpib05aTVJfOEZBaUl2ZVFaRVZRLWFNSXc4VHZFMDE1ZnBwU3RyVHg0WjYtYnVuQWQwZHlLZDBIaDhXNkpTZ2xXQmpub3NsVnBISVpwQXZhbTVGSDRLTUZiVUZ1SG5zaEhWMS04SVp3MFJMMlZFRGp6Wl91NlJabTQxanhOazJZX0dKSnlBTkhBLXREZlh6ZXlGV2NEaVU3OUU0bVJiVXJVYzdQTkJacU9HMHN3TnAw?oc=5"
     },
     {
-      "title": "Harry Styles Pokes Fun at Ex Taylor Swift’s Wedding to Travis Kelce",
-      "outlet": "Yahoo",
+      "title": "Taylor Swift reveals that her hit track \"I Knew You Were Trouble\" was originally written as a piano ballad before transforming it into a high-energy song that fans know. Link to full story in the comments section.",
+      "outlet": "facebook.com",
       "date": "2026-08-30",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX3F3Mk9QSlk3cnFQYmg1ajZrU3ZLQ2VkTVlUbEppZVc0c1ZfRFZnMHdDbVZtcWlYNG8yTjNoa2xzRkJZUkhOZWVkTjlTSTJ0eFIwNXJoOHlzWEFvYmI4aHV4OFhsYzBhZElZWXNHM2owMjBfSEJjcFU2WVB3akxzYVo2UmRkNEVxd2tnRzhseVBXTUFJMWRoZ0RNcw?oc=5"
-    },
-    {
-      "title": "Harry Styles Jokes About Taylor Swift’s Wedding During Madison Square Garden Concert",
-      "outlet": "IMDb",
-      "date": "2026-08-30",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Pek5kSFNMX013aTVkYmZUUl9FSWVXRE9ZU05Hd0ptV04wS2R4ZDh6a0Q5VG5MQjNIcGwyY3ZzMzFsTm8xVmkxZ1VnOG5vLW14alp3X2NXZWNEQUN2X3ZZdDEtOUNEZw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSWxnN0k1TnJtSDU2eGl5VlJ4bVBxMnBEcG0yTXdwcW1ZQUVWNVAzcTA5S3dpSk4yQXlFTEJ1LXBmU25QWmxELXpDaW1LQlZGR05WS3F0b2VVamhNc1BNeEhXc0V5UkxXNkFEdXh4QXVsVEszbG1KUzNTRWNCWFV5NXVNcy0xRTNCQ054RzdDRWg5WTdaejdFaVEtUk1RWkZRbmJ4WTVlV05nU01TOGFRVFFlbC00a0VuZVB0Ny1BNTIyeEE0VGk3YzhhU2thOG1UTEZ3cXNjUQ?oc=5"
     },
     {
       "title": "‘Adults' cast extends open invite to Taylor Swift, Sabrina Carpenter",
@@ -2308,10 +2242,28 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zNmpaZkUzWThxUVgyUDhhM1h1eGlpSzJyNnNzODkxUjJpLTRRcTdHWjNSa0dTNl83S0d0NEQtMjN5WDB0TE9QWHVTbVpFdUkycC0xRW9tcW1mTUV6VWtsWm1qaXNkTEkwUm9LWDZkZ3hVTTk0QUNPSDZHSkJwQQ?oc=5"
     },
     {
+      "title": "Taylor Swift, Travis Kelce Get Shoutout From Singer’s Ex Harry Styles",
+      "outlet": "heavy.com",
+      "date": "2026-08-30",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNczZkbDZNTlZCZDZOem4wU2FNV0hLVGNNYW5ua2cyMWtHNzN0M19CSHBvbmNiR1Z5bDhYcnFfUm1HeFdJVUNTNVVmTHFiWW9McnZVVVBSU0UyQUZHVk1uUVNwUTRJYUxmU3YzWDE3S3V0YVBhNXU3bFM3blFNQ0xmQmQ2bGRCb1o5VHpPeUQwX19CY0xvdFRKQVk2WXFUWEtobTN5akF0ejNhbjJfOFE?oc=5"
+    },
+    {
       "title": "Harry Styles Gives Ex Taylor Swift’s Wedding a Cheeky Shoutout at MSG Concert",
       "outlet": "Socialite Life",
       "date": "2026-08-30",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB1Rll4TjJ2SExHZHRqRzJIWnZZeGZxYjduUUJzeWpVYkFTSjBvbUJjaUlUVUxKTmpmdjZNQXRZZHN4NnpzakthdGlMRVRaVnJ0QkNaZjc2NlYzUzNxd0ZNVGdaQlo2bUV3Ui14bFZUSkp1aWc2dTdBbUszOUZEdw?oc=5"
+    },
+    {
+      "title": "Harry Styles Jokes About Taylor Swift’s Wedding During Madison Square Garden Concert",
+      "outlet": "IMDb",
+      "date": "2026-08-30",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Pek5kSFNMX013aTVkYmZUUl9FSWVXRE9ZU05Hd0ptV04wS2R4ZDh6a0Q5VG5MQjNIcGwyY3ZzMzFsTm8xVmkxZ1VnOG5vLW14alp3X2NXZWNEQUN2X3ZZdDEtOUNEZw?oc=5"
+    },
+    {
+      "title": "Harry Styles Pokes Fun at Ex Taylor Swift’s Wedding to Travis Kelce",
+      "outlet": "Yahoo",
+      "date": "2026-08-30",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX3F3Mk9QSlk3cnFQYmg1ajZrU3ZLQ2VkTVlUbEppZVc0c1ZfRFZnMHdDbVZtcWlYNG8yTjNoa2xzRkJZUkhOZWVkTjlTSTJ0eFIwNXJoOHlzWEFvYmI4aHV4OFhsYzBhZElZWXNHM2owMjBfSEJjcFU2WVB3akxzYVo2UmRkNEVxd2tnRzhseVBXTUFJMWRoZ0RNcw?oc=5"
     },
     {
       "title": "Harry Styles References Taylor Swift's Wedding During Show at MSG",
@@ -2320,16 +2272,52 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ0NVM29aWjhhUTdndFIyQUlOM2xNMzZrY2psaU5ITVN1ZDQ0VGw0OE9CenFGaFdTbk11b0pZUjVoLWEwQ1VOWnZtSmtHMG1qQWRzTzdxU0laN3hFcG1pbUlwQWJzbW4yZlFoV1lORHlyYmFFamdkYk53c0tlRHdYbmwyR190NUxZMHhtd25fZw?oc=5"
     },
     {
-      "title": "Taylor Swift, Travis Kelce Get Shoutout From Singer’s Ex Harry Styles",
-      "outlet": "heavy.com",
+      "title": "Harry Styles cracks Taylor Swift joke at Madison Square Garden",
+      "outlet": "The Independent",
       "date": "2026-08-30",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNczZkbDZNTlZCZDZOem4wU2FNV0hLVGNNYW5ua2cyMWtHNzN0M19CSHBvbmNiR1Z5bDhYcnFfUm1HeFdJVUNTNVVmTHFiWW9McnZVVVBSU0UyQUZHVk1uUVNwUTRJYUxmU3YzWDE3S3V0YVBhNXU3bFM3blFNQ0xmQmQ2bGRCb1o5VHpPeUQwX19CY0xvdFRKQVk2WXFUWEtobTN5akF0ejNhbjJfOFE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMURrMXVMa2tzZWZWWlZ4MnhvUFIwWk5TRm1VcFJ5Z2RPZ0tEcjZCRVNOUDU2NzRETmFTak9vNEdLUGF1dWNQeUpjejQ4S2NyRDc5cWJmV0VfR2hNbHJpRmZRSjJwcEJvT3I3Tkc3WGI5cHozVlM3SDE0WUxCYXd4WXAyQm94QkJHeEx2UTdrU3A1TTBPZEVhc3V5SERhWHF3akE5NTBnekZGYUoyVzBEdndaZ3VnNW9xMlRERTVGNjhFUDZ1aWRxWg?oc=5"
     },
     {
-      "title": "Taylor Swift's ex Harry Styles pokes fun at her MSG wedding after being unable to attend",
-      "outlet": "HELLO! Magazine",
+      "title": "Harry Styles Breaks His Silence About Ex Taylor Swift’s Wedding With a Cheeky Quip Onstage",
+      "outlet": "Yahoo",
       "date": "2026-08-30",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYWZ0aWFWOUg3V2FXYXcyRmR1aTVrY3VKdXpoTE5rZlBpNXN5QTgwUXlJb2ZXMzJsSzdjZ056LWgzWWdIX1dXN3VpZDFqMUg4UE1PRmFldkowTDVYS0pnX1F3Nm44bTVOaklKYzFCQkZ1dUNpcWlWZ09jNjJhUmpFcVdUMlNrSktVS3lPbTZBRUg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTUNnU1FPY04tTl9IZGphUGdxVDh2YnBsUDhQY1VxcldDbTI1aEFRR1liYW5BUlZTcjRHWFNkal9OVUZwUU1XbHVmYV9mdlZKZmNwbXpRTVFNVjhDMDhMNVdCOGMwaFpLcXRDMF9NV19adE1tbl9ZV19wVWxXZjdOLTNSZkllZDlUOU0zX29sb01kSU1NUzR0NEFwclplVnhBaUE?oc=5"
+    },
+    {
+      "title": "Harry Styles brings Taylor Swift into the Madison Square Garden spotlight during his NYC residence",
+      "outlet": "MARCA",
+      "date": "2026-08-30",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPRXNUWUZjTUFEMzlpVlNZVlNZdmp0OXVFMDN2dlJVVEcwQWN6SzdYdURzdTBiRk5KVVVzejVRYjVrZS02TW1uTFg4RTFGdTFmeE5SeXBwVXZmem9GTF9iVWdzV3RYcHZ1bEFaY0JWcHl4UWNJdzNzTXJDQTVkel9KRmNDMjl0eE0xRFB6RzZJMzVrSHJXYzVSOU55VzQyYm1rVkVFNFhueDcxME94WVBpWHpCeDFFdFFNOGkxdWZacVcwd3lGWl93dGEtd3JMd19xSW5EeU1hWnJTMTF5NW04Q2kwQWlLZHlvMVZ2eG5SMnl5czdzVGtEVFB30gH6AUFVX3lxTFBxQk91QWljcVNxalR6WnJuREZwTUZSdG5jT015NjNWNWNfVklRMW85ZktEYTNDbG0tTFpHczlkdXUxaWE0NEVPMXExVEhaWXB1cHV2NUtGOERmY0xQZ2Z6VUNtYUhya3V2NGJtemY3RTJlMHdBTjl2QUVnMmtUQ3VvbW9wZk1xdmZlQ2g2aTZaMWgzZGs3bkdGTkIzMkxlUjBaRzhiX29ZQ01iQzV5OGpkVWY2dUQyNWNpZWoxUWlkUG12ZExpaXZBb091OWJ6ZnRQNnQ4TWh0NG9fUVplZl95bHA4aENqUkhraU8yRllERjJZblVrcEU4dkE?oc=5"
+    },
+    {
+      "title": "Taylor Swift’s First Performance Since Her Wedding Is Pure Nostalgia",
+      "outlet": "parade.com",
+      "date": "2026-08-30",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcU0xbkk4Nl8wZ1c5Z0FtOHpaRXdrbkVjNFpLcFFrWnBnYm52cTJWVnJ4N09xRVozbjM4a3kxWmRWbVZQWVhkeTZ4V2pDalZwQ3BiRzVPUjVxUW9UX190Um0tT016eENsR09LUUlMOERqWU1wX0c5Sm8wM2UzTWpad3NhMVliNGViY2R1emJsNTFMYV8xS2c?oc=5"
+    },
+    {
+      "title": "Caitlin Clark reveals Taylor Swift's reaction to her new Nike “friendship bracelet” sneakers",
+      "outlet": "MARCA",
+      "date": "2026-08-30",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNMl9BTmdjTnQ5ZHRiMXB6dVZMRHFWOXdOT0ExZU5LSFJQdUJfSnlpTjc1UU00eFgtTVoxV3g1eDQ0Tjhmdmx2T2ZMcklyM0RrUFMzNm5Ec2lCSzFtbkdoNm1PQUdvNTlWMTFPZ0VZOVRkSlFRaTNoMERpVzJ0czVCR0lHR0JJN2twVFFqakFuUkxGMkdZSnVrcnNwMVhfZzB6NGtXbWE1ZUZpdS1WdVEtaDdhTG1pM3VyOTZhWFduc3RBaUxHWkJrX1FSY0JYUnFkSXRoV19aYkQzQ2doMllEeF9MdmJjcU5WdENKZVN2OU1FYknSAfMBQVVfeXFMTklWVXBRenh0SUZRN19BTVdTc2ZsNTBuNllUREZaME9WbDJjZER6eC1yTGlHczdYbFhOenJ0MG93MUVSNlZuaWVVZXFiUF9qYUN1RlYxRndjZXZza3hvQjdDVjdJTGNsVk1WaUZsTERqWmV2ZkhqM044eW51Y1NDMDEwYkdtNGZBZ1BYaVJPVnJ2Ul9FbnBHSkJTRFE5QjdlVDhnWmZLZ3lHOVFVcVZzQnRqaXljRjNfUTFqak4wV3dscXZqYTZydlJJN0xQMnhQSFI4U2RZSlRON1lIZTdTM2dVbW5vS1ZSVUJiLUR0VzAydms4?oc=5"
+    },
+    {
+      "title": "Harry Styles Nods to Ex Taylor Swift’s Wedding to Travis Kelce During Madison Square Garden Concert: Watch",
+      "outlet": "Yahoo",
+      "date": "2026-08-30",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSDQ1ajA5LXhwSmx1YmFRYldIMk5YeURlRGpJY1hqcy1fRWpHWTU3dGFOdkx1SWFtcG9mZDYtcG85cjhmSjc3dWZ6S2JKNGFtSFh3TTJWRGFrbEsxZ0phOGhZSEJoSWNtNTlrd1BpUFRwX2lqUmhaVmJzYlRGMm1fcWRVbkJXNW9jSWJiMWR0MFAyM0wzOGduc29BSWtfQQ?oc=5"
+    },
+    {
+      "title": "Taylor Swift is still on the minds of her exes making a surprise appearance in Harry Styles’ thoughts",
+      "outlet": "MARCA",
+      "date": "2026-08-30",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxObVg1VXdmYzRRbk5teHhYVG53UGRRMHFHQWlPNmVuc202LTdPOGxNM3R2dFB6bVVzWlNpNWxyUl9UeDNVRWUzQVFvV1ZVX3VpNFZ0d2VlSE1nelg4ZWpjZ3VJdmhFd0lrVU42OVlaX0RJNFROOWI1M19pQkhHTnhOakR0U2hYWEgwcHJnUjlXN1hTRmp4OWhZRHc5aExsQnNreU9IRGhYODR1STd3NzZpUl9NSlJqZDRXMDhKQU9vQU11ZVY1ZUZaYzlDbURTOWROMHgyNEQwc1l5RUNGcjVVcmgtMEM3WjFmMFBoc1BHMS0wdWpr0gH0AUFVX3lxTE92R3lkbXF6a1BJVlZ4cWJ0RkJkQUlER1NKeHVmR0lUc2ZjRVMzNWdFZ3dwQUtBQUFmX0lIbEVWRTBSb2dyS3lWajdrUl9aa0hVb3Y2bVpDUXZZVVluOWVzWWxxNWVneUI4SGh2OEhUNmo2MUsycExaZTIwejJ6VjZBNlBjdDBVaWdnS01NTmx4YlFaQ3Q0X0NPb1pRNFo1UHVITUdWRnNCa3B3eXp4UGNYdmdMSDZjSC1uU1dwcHEwSkxrT3pNRnI4ZGlTeVNDRW1COTRsdFM5bWc1SEtvTlJJaGx5Ym9JZ0lJYnN1NXVpcFAxYzQ?oc=5"
+    },
+    {
+      "title": "Harry Styles Needed Five Words to Make MSG Scream Over Taylor Swift’s Wedding",
+      "outlet": "Yahoo",
+      "date": "2026-08-30",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb3dleWF6amo4RldYS21wOEM5aS1abWtkTUV2OVZxelJzbmtQaXFTSkJYaURleVRyV1FpZktfU0xPeVNwUnBkX2VxU282UmltdG5WM3MzazNOcDB2LUhxMVZFRDBrUGl6NC15UkJ2S2tCVjl3NENhSGVWMnBHWlZtTzVKbVNxYktjNnhDSWhFLXdHQjgxd2c2d0M0cFR4cTlvU3c?oc=5"
     },
     {
       "title": "Harry Styles Just Acknowledged Taylor Swift’s Wedding in the Most Unexpected Way",
@@ -2338,10 +2326,22 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUzFtTzBFZHZhMnljcHo3dS01a3dzWDJ2QWthVGVFWk5ENHc5ZGtmbzhIck5CMjhvWmJkRTJhWEZoSDQ2d1lqd2NROFdfaFNtaW9ES24xY0RFMVdUUVNuVEQ2LVdjUHJ3MHNJbDhBN3k2U3JZMXptWUVvRFBGaUp0Y3ZaNE04VEhmSEVJMjJsN0JnODlZMmk3R2hyeC1zZUstTHMyY3h4VQ?oc=5"
     },
     {
-      "title": "Harry Styles cracks Taylor Swift joke at Madison Square Garden",
-      "outlet": "The Independent",
+      "title": "Award-winning singer-songwriter Taylor Swift has donated $50,000, or more than P3.11 million, to a mother of three who was seriously injured after saving teenagers involved in a car accident. Read more in the comments section.",
+      "outlet": "facebook.com",
       "date": "2026-08-30",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMURrMXVMa2tzZWZWWlZ4MnhvUFIwWk5TRm1VcFJ5Z2RPZ0tEcjZCRVNOUDU2NzRETmFTak9vNEdLUGF1dWNQeUpjejQ4S2NyRDc5cWJmV0VfR2hNbHJpRmZRSjJwcEJvT3I3Tkc3WGI5cHozVlM3SDE0WUxCYXd4WXAyQm94QkJHeEx2UTdrU3A1TTBPZEVhc3V5SERhWHF3akE5NTBnekZGYUoyVzBEdndaZ3VnNW9xMlRERTVGNjhFUDZ1aWRxWg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOU1lnZkh6OEdhOXZIbDZaeG4wbjhwVHNaV0V4Qm1wcVF0aEhrbXA2b2ZnMEphaXBlM3ZMLVNZNHdrRGdadl9BNklLVHdkWHFuWEcxLW9nYUZBREZEX3g5YWVsYVpveTYwTF9tNUg4STdxenpOSGd1QjZGMkE0Ri1zN002SkhaVUR3eXhIVVlpQ3Bhb1ZEakk3QTFyOFJrMTVzVktaLXpwWlRVeTNDSkdhN0lOWDNBY3FYcGE2YnZGd0h3TzJ4ekpHdUtPMHBUVEdrc19BenBOdw?oc=5"
+    },
+    {
+      "title": "Taylor Swift's ex Harry Styles pokes fun at her MSG wedding after being unable to attend",
+      "outlet": "HELLO! Magazine",
+      "date": "2026-08-30",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYWZ0aWFWOUg3V2FXYXcyRmR1aTVrY3VKdXpoTE5rZlBpNXN5QTgwUXlJb2ZXMzJsSzdjZ056LWgzWWdIX1dXN3VpZDFqMUg4UE1PRmFldkowTDVYS0pnX1F3Nm44bTVOaklKYzFCQkZ1dUNpcWlWZ09jNjJhUmpFcVdUMlNrSktVS3lPbTZBRUg?oc=5"
+    },
+    {
+      "title": "Taylor Swift Drops $50K Surprise On Connecticut Mom Who Nearly Died Saving Teen On I-95",
+      "outlet": "DailyVoice.com",
+      "date": "2026-08-30",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbVg0Sk0tWlpPTC0xQ3RWUFhOcWNtUWl1RmNKR2FiYU50Q2ItNzFVcXp4MzBqd1lMTlJpRmE1UmhOd2Y5Rk1QR2d0aUVMYUNmZXBmWUEzMTNoU3FoakZyaU5kNEt1ZXlxQVo4STgxRUpranlkeWMwZTdXZmdsd1Q4eUpMMml6OXlhZTlQV0NGRzhLM1Z6UUE?oc=5"
     }
   ],
   "bio": {
@@ -2373,6 +2373,12 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVi1DUUdWVEpsMmxyOGhjbGFFVHpueWVGRV9JWnp4aTVCU1JPQTFQSWJoNF9ZUlpxM1dLYkxJaHVHUGM1dTltZW9JUVVrMFYyMUd1eUxpYlpld19OSkZJdWRWT3ZHazl6aFVHc1lDMUVXOXJQcm9Lck1XeVRyU1lveDh3N0M1Sm5OeFN0RzlMNG8xb3lMRkNrV1gtUkRNYlNYRFE?oc=5"
     },
     {
+      "title": "Harry Styles Nods to Ex Taylor Swift’s Wedding to Travis Kelce During Madison Square Garden Concert: Watch",
+      "outlet": "Yahoo",
+      "date": "2026-08-30",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSDQ1ajA5LXhwSmx1YmFRYldIMk5YeURlRGpJY1hqcy1fRWpHWTU3dGFOdkx1SWFtcG9mZDYtcG85cjhmSjc3dWZ6S2JKNGFtSFh3TTJWRGFrbEsxZ0phOGhZSEJoSWNtNTlrd1BpUFRwX2lqUmhaVmJzYlRGMm1fcWRVbkJXNW9jSWJiMWR0MFAyM0wzOGduc29BSWtfQQ?oc=5"
+    },
+    {
       "title": "Harry Styles References Ex Taylor Swift and Travis Kelce’s Wedding at Madison Square Garden Concert",
       "outlet": "Us Weekly",
       "date": "2026-08-30",
@@ -2385,22 +2391,16 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB1Rll4TjJ2SExHZHRqRzJIWnZZeGZxYjduUUJzeWpVYkFTSjBvbUJjaUlUVUxKTmpmdjZNQXRZZHN4NnpzakthdGlMRVRaVnJ0QkNaZjc2NlYzUzNxd0ZNVGdaQlo2bUV3Ui14bFZUSkp1aWc2dTdBbUszOUZEdw?oc=5"
     },
     {
-      "title": "Harry Styles Makes Cheeky Comment About Ex Taylor Swift’s Wedding During MSG Concert",
-      "outlet": "E! News",
-      "date": "2026-08-30",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaTZlc1RYVEtwWnZwQWtfVGJFY0loTjl4QXBJcUZKamZtQXhVTmpfRXRBWURCWUZKVVlpT2hBd1VwR2FxREY5MGZCTUtodVktcWJMS2pxYmloNVRMWHBkd0FIbkVHRkxFUS1rV2dkd2NfTUxid2g4emc1Zk9QbGNDRkFzaHRmSGI2TENEWnVUdEp2ODZXTC1icnlVM2JDNnJZYmRkcEJDX25faF9Y?oc=5"
-    },
-    {
-      "title": "Harry Styles Nods to Ex Taylor Swift’s Wedding to Travis Kelce During Madison Square Garden Concert: Watch",
-      "outlet": "People.com",
-      "date": "2026-08-30",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYzB4a3BlTk9DWjk0UXU3Ui1xQTdyVDRUSGx1V2Z5aHQ1VEEzS2o5U1VoYlRTM2VoWXM3Q2R5Y0s1MndZOHNVa0k4OTg2aVJBMjFmd3RfNXF2VlUyM3lrM0hlbVlocUJ5MGFSblhPV2RuTmdLbExiWTNMa0hCWlI0QWgydEdTUmlaMlFxcGtmTnUzLWxWYzlXU0NDYkF3NnlSTVFfdQ?oc=5"
-    },
-    {
       "title": "Every look Taylor Swift's Eras Tour dancers wore to her wedding",
       "outlet": "Yahoo Creators",
       "date": "2026-08-30",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTzZkNDI2VXVPNUNCNFVqMVZfZTQ2SHNVdTZRcHBKYm01YWxBLUpMODJzeFBtMUswdEFNZHlvMWdQOXdZT0RBVnN2eVkwQThrWVVNdDdqNzFmUklEay1PVEpEOFJFRWNPZE9lZVBEbVJCXzllTXczQkNHN0gwTnhTNDZ6VGhOYVFsMEFueGpmdGV4TFhYMTU0ZlQtcmE5aFIxMFJDT2dza0dKTzZyYUFub3RSSXVWeENRMWx1R1piWnlwN0FpYUJRaEN3TEVGVkdwcnJtY1VrWTNXTG8?oc=5"
+    },
+    {
+      "title": "Harry Styles winks at Taylor Swift’s wedding while performing at MSG",
+      "outlet": "Entertainment Weekly",
+      "date": "2026-08-30",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTnl2UFRfSm5YdHIwYmxmQXZtVXo1bHdpd0cwckdqRE9uaFZjc0swR3FQRVdSbDB5aVdNRDlsS3dtU2pTR1VrV3lTejVLWFloZ1dMMlVDNkJwM29EYjVPSXA1NExlOWNuV2w1MV9NdXZjdGY2ZlBsNDJwdmtFYy15cGQwNGJzNmNpaTBqOG5QLTk?oc=5"
     }
   ],
   "timeline": [
