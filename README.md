@@ -1,5 +1,7 @@
 # Swift Archive
 
+<img src="assets/banner.svg" alt="" width="960">
+
 A Taylor Swift archive organised by era. Discography, videos, news and shows keep
 themselves current without anyone touching the repo.
 
