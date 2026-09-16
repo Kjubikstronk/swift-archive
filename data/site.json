@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-16T04:52:25.573Z",
+  "generated": "2026-09-16T11:39:25.006Z",
   "artist": {
     "name": "Taylor Swift",
     "full": "Taylor Alison Swift",
@@ -2200,28 +2200,82 @@
   ],
   "news": [
     {
-      "title": "Jason Kelce shares details on Taylor Swift, Travis Kelce wedding",
-      "outlet": "Yahoo",
-      "date": "2026-09-16",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMDFDR3pwN3l1Yjh0NE9fVThzOF9QU2ZzeHVBMHYwbExqR05VVE9Na2ZZSXVrb09pdGdlMFJDN3Q3SU9tLXVRVWNOX1pabUR2Y0pfdmUxM2c5QS15SllBRWZSUHk5ajBNZERuNDkyUWo2TzZQTE9RZ20wZW5tXzMwbWJtcnpWYjhDWW94TUNqZ1lPNm5DUW1aNkthNkJBRmhVQlkxSmNn?oc=5"
-    },
-    {
-      "title": "‘You Do Have a Job’ – Lip Reader Decodes Taylor Swift-Tom Cruise Conversation at Chiefs-Broncos, Pushes Back on Viral Speculation",
-      "outlet": "Yahoo",
-      "date": "2026-09-16",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWlVjRV9YMkVLUENSVEM2NzI2djJ2SGI1UW9XQXRxZk16NEdiZ0VManludW5CT2FQVWV4dFo3WHE3cGhPclZuaEY2dTFpSUg2R0hNZS1YY0FsaVJ3ejhLUjdMdkpvdWllQnBTZzhVMDRLby1XZDdDVGc3Rk5XVVItYVRyNFZWVVdoMVQ0NUlONG1KU1lYal9MYzYwVDk0YlVo?oc=5"
-    },
-    {
-      "title": "NFL Reacts to Taylor Swift and Madison Beer’s Week 1 Appearances",
-      "outlet": "Athlon Sports",
-      "date": "2026-09-16",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVTNoSG84Vy1PLVR5YjJGNUUwbzY5SG9kVWRueEFLSDJiSVlrMVdpRUJKek5Wa1VLeUZDYkQ0ZkVEUUowUklxMTlJV1BJTG9NbUxneXAtVjRBVmd6VTZIbFpjMHh1NDVQSVhHMzdpbHBTeXRMQThuYVNXU1pOcU0zczJDSnQwUFpEZkRqYm96U0J6aGt0VVJZSU11c3lOOEhwX0E?oc=5"
-    },
-    {
       "title": "Taylor Swift and Travis Kelce go to extreme measures to keep nosy neighbors away from new Ohio mansion",
       "outlet": "Yahoo",
       "date": "2026-09-16",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcVhweEZZSjhFM2NWY2kzV3oxV2xnNDJ5ZE9TNHdDZmFsZ0laT0Fhd2VhRkIzRi1Bd05FbVNldEh4d3V0aWxmTzMyNG5nX1hPZXNxRDc4TkY3eGFwMzA4dkk0Mk8yT1A5aUJBd1EwR21tclN3SFJjRTFBSTd6YTJzRWl6bU9yRTZXaHcyeV9oa2VJMUsyLVdrbTZFdEszTDdwblpPN253?oc=5"
+    },
+    {
+      "title": "This is Taylor Swift and Travis Kelce's house in Ohio: 11 bathrooms, a five-car garage, a theater, and extreme security measures",
+      "outlet": "El Mundo America",
+      "date": "2026-09-16",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYk54c2lqZWt6bllNOEUwTUdtVFBra0JFNUlmd0gzUGZ6czdTbkh3TXVFeGExTURWblg5ZFVlUTlxZGVJbDB1OTBEd2d6SzlKMm54aWRDckwwNHZlVEhSNU9SbVRfeHFSVU9zQXZXbFJ0b1ZfMWxhMXBlN0h4SGt6eXlYdHFUdw?oc=5"
+    },
+    {
+      "title": "TAYLOR SWIFT WILL ATTEND HER FIRST CMA IN TEN YEARS",
+      "outlet": "KBOE",
+      "date": "2026-09-16",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HY3JnSGNTUVlqV0psNVROYzRZN2NpZEt2T2N0QjFHOU5ZMWJsbXI0OUhFYlZRR3FhRy1ZOTAwYnd6RnVsQ01ZUGpWUGdBcDZXWGVqcUhTWGFYNnBSWDgxQjRramNUNEJ2UHJfcFNPOWF5X3A3U2kzRUZzbFBEWkE?oc=5"
+    },
+    {
+      "title": "Inside Taylor Swift’s ‘top secret’ Emmys appearance — and the gift she gave cast",
+      "outlet": "Yahoo",
+      "date": "2026-09-16",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOVZVUjA0SjZPZDNmOHNwZ1djVXBHNGtBTHB2ckJreWNFTW1XSjdCZXVGc1lLd3RNQjU4UGlXZkVuVzZheVR3S2RoeDJtQXBqSTBXdEtJUUI1MWhpRDVKTVZCdmYxNjliMUE4aG4wbzhwVlc3WVp3TWRFZmZlcS1CS1hUTU9NWWxXZE5ZbHhyWVhLQXNKWFF6MQ?oc=5"
+    },
+    {
+      "title": "Pat McAfee dishes on what it’s like to watch football with Tom Cruise and Taylor Swift",
+      "outlet": "Yahoo",
+      "date": "2026-09-16",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPck5Vdm5lbGR0LXZrYmtnRGxBY2MySmZNRlZWRkJYMWkwdHBLcGdhbEdxZ2RZcFNXZkp1WU9ZRjhaZWV6X2JpSFlIcmNSaWJTdmVsN0dOMDcyN3MyTHh1VnJVYUt3bW1ObjN2TFVWRXI2b1k3OVpnTXVSdVI4V0trSHJ0Wjg2ZnVUQUJIUVd1OHhVTHVBUzlJbkVnZFA1YTEwVnkyVQ?oc=5"
+    },
+    {
+      "title": "Pat McAfee Details Taylor Swift’s ‘All In’ Vibe While Watching Husband Travis Kelce Play Football",
+      "outlet": "Yahoo",
+      "date": "2026-09-16",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONlNYZ2hzckV3aXNTRzJacDFWY0hIYTJlOTBmd1N3TDk3Z3d4djEwa1VqX3pvRHNET0tYblI0dVFyWDBPaEZJNjh3ZmJoZThrajVyNGJoNlZCNW9YaXQ4aTZXVDVudGNvQmpfSWpxWXdiQXh3ZmhiNHZyY2xkS2g3VkRwcDFTeWRlVDhaRFNQdFExNUxyMkhhQXJGa1NNa2F0N1Jn?oc=5"
+    },
+    {
+      "title": "Taylor Swift and Travis Kelce reportedly ramp up security at new $5.3 million Ohio mansion",
+      "outlet": "The Express Tribune",
+      "date": "2026-09-16",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTGxYaGZ4emtRUVFIMzVkZjMza0hzYkxaUG9PNXJjNTh5S0RCTXhSSlJzMXlmVEtKcTA1dDBuaXQ1d1BXWXpYVUk1WHkyc1pZQlZ3bGtJWS01aThGdkJtckdFdmd3ZzVKX2h5LTVIeUhkT2xtYVlCOGsxcEhwOFhMX1J0Y3VHVGpvYm9tNzgwbjIyN1A0NmtiTXRVVWl5S2pCS0FFSndFOHBEam15RmYzS3RiN24yal9PdWJHVHBYcFV0VmvSAcsBQVVfeXFMT19IOXY1RmFValBtR1hDOEM3Zi05UDJvNzk5Nm1UbUZ3ZmRkMXdnUWRLRXVBbFo5eFU3QTNrd09MUm9MSFZIcHZ5RUNEZDRxbHNWNG45UmhFV2pqN1dVaDR3VFcxWjdHZHRpRGtXNG11ZUVfV1RyaHdqamh4MFB3eXhMMEtadjN1QzZNTGlpUnF4dzlfbFhQcVd3MmN2SGppOWYxcnNQSUk0T3g0SW1XeU11NERnZG1PSE5LQzRuSVZUOG9DVTd4YURmLTg?oc=5"
+    },
+    {
+      "title": "Taylor Swift Appears to Lash Out at NFL Cameras After Broadcast Cuts to Her Again While Fans refute claims",
+      "outlet": "heavy.com",
+      "date": "2026-09-16",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOS0x4OFZPbzM5aHRsMnk1RFJnYlJsN1lKYmxCZWZMRmhmdlVpSW9hUDF2MFY3WFpvSUtic0I2ZmVSakpQZVhDemRBNFNMQ2hHVFRuNzRxUlNCTXZyVVlBLVdyUDMwNU0tZDFRM3o3X0U1SS0yNEExVGZtOTZ3VHh3dGZXTW9mbkg5T0ktR2RCWVRqM2lwWGw2MDlVWjV2b3RqSXpJQ0xjMG5qZHZ6TE1NMHhKYlEyRDNSSGFrU0ZGbnJDTGJWbWJiSG1MX0dlYzJxVXY5LXVhYXpldU5VWW5LbGEyNDRHYi1NN044?oc=5"
+    },
+    {
+      "title": "Pat McAfee reveals if Taylor Swift is a real football fan after watching Chiefs’ NFL opener together",
+      "outlet": "Yahoo",
+      "date": "2026-09-16",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPN195aFBvUC0xOEl0OXRBUUVQQUZmTkhDWFBlNU0ycWIzM3VRYW5BbHZReFQwalVRdFdGT09rblUwS2xpSGhCUG1xTVFqMWduOE12VHc1T0plZm9hM05UUXVFdnVsN0pXLThyclRkTVZ3bVZ6eFlwcFR6YnJhRUNVTWJHWFVMek1rNTdjN1FMaWlFSUs3dlREZndYNmx0eXJvc1BJ?oc=5"
+    },
+    {
+      "title": "Taylor Swift brought cookies to Emmy sketch taping",
+      "outlet": "Yahoo Lifestyle Canada",
+      "date": "2026-09-16",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaVhXMHRYSG9PZnpBQmJhVlQydXJmcVRwVkU1bkJsbEsxTEJHMXlTXzcwRmQzd1dnZlRRc0lUazhoZlpteE5sakFwbDBvOEF0N3k2c2FWeXBWcldmNE5IZEJHNEpqRFpwanZteFF5WGJGZURPZWlfNDFlcEMzS195bg?oc=5"
+    },
+    {
+      "title": "Pat McAfee 'sweat all over' Taylor Swift during first meeting",
+      "outlet": "Yahoo Lifestyle Canada",
+      "date": "2026-09-16",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9lUG9vVkxzXzNGWXZCUndLSU9mLUtaVGJ1NjVhRmkzcUtZVFVsSktNZnZPM0YzSkxHZUtxUHJmeV9nQlpTdkVtNGU2OWFkUFNENUFsVmFwMHNwVllPNFZOOFh5VllOWTUtZ0w4RzBUbmhabzJrSlMzLTZ3?oc=5"
+    },
+    {
+      "title": "Ice-T Says Taylor Swift 'Handled It Like a Champ' During 'Top Secret' Emmys Sketch With 'SVU' Cast, Gifting Cookies After Filming",
+      "outlet": "Yahoo Lifestyle Canada",
+      "date": "2026-09-16",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yRHRpYkxrbm90ZGFFbXNRY0pfX0hlc3N6eVdCTlMtXzc0MVZtck5GQlEtdXhxMzgzblp6T2s2Zl9HdlNVd3ZlQ0lLOXAwdHlOYmgwYjRGX2p2UGR6N0hOUXM4MDdjSUtLZHM1ektaT3I5bFE?oc=5"
+    },
+    {
+      "title": "Taylor Swift Debuts Her Newlywed Game-Day Style at the First Chiefs Game to Support Husband Travis Kelce",
+      "outlet": "people.com",
+      "date": "2026-09-16",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOGNEYmtwbFMwRFZWLXA2Yi00MUV4ZFYybDFMUmlQU1pVOTQ2eFNycFhOUGZvTWJ5bHJ2R2xVS0FYTEk3MmZQQkxoelFWRmlLSUNMVkRWSm53UXNuMnpPX1F2MEtPUkV6Y3F6eEhFcmg1UkNQdWMzU0tKbWZDZEZIMTJnZGdiLVljakc3SmJHNA?oc=5"
     },
     {
       "title": "Exclusive | Inside Taylor Swift’s ‘top secret’ Emmys appearance — and the gift she gave cast",
@@ -2230,16 +2284,46 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOR1RqZFBRNGU4QnFKTnpaRE1SQ3RqTm9tTFkwLUJDWVlJUUFZUFNwRnVpR21yWHloWmcxcGsxckh3VUNLZ3Nvb203LVMwNWlpNXVDZXBtOUw0Ymt0QmlFT0hkTE42bGhoaF9ld2o3Z0dMRmZkVGhYYVYzUmljTUtneXYyTlluTWF6UDRzRmtnVFdJSG96WjM4Tkd3?oc=5"
     },
     {
-      "title": "Taylor Swift Debuts Her Newlywed Game-Day Style at the First Chiefs Game to Support Husband Travis Kelce",
-      "outlet": "People.com",
-      "date": "2026-09-16",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOGNEYmtwbFMwRFZWLXA2Yi00MUV4ZFYybDFMUmlQU1pVOTQ2eFNycFhOUGZvTWJ5bHJ2R2xVS0FYTEk3MmZQQkxoelFWRmlLSUNMVkRWSm53UXNuMnpPX1F2MEtPUkV6Y3F6eEhFcmg1UkNQdWMzU0tKbWZDZEZIMTJnZGdiLVljakc3SmJHNA?oc=5"
-    },
-    {
       "title": "Exclusive | Taylor Swift and Travis Kelce go to extreme measures to keep nosy neighbors away from new Ohio mansion",
       "outlet": "Page Six",
       "date": "2026-09-16",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSU9jMkUtS1ZwMkJsOElYSThTNnhEVzBGNU9HdG44Z2otUFl6LWxaSFdja3BYSFdsendDZ2tmWEZoSDhSQXBhenI3UklaZGlBaVFlMEtQX2RpRTRDalVYa2IxaFZob01TQlBJWXhZMVprNU5NTndJX2Zsb1lSeGd2VVFTYU9qSDhxY1JMNHJsNGozWXZKRmdoOGx5eWVlYS1QeEJMYUZ3T054aWJKbWhXa0ctYS0?oc=5"
+    },
+    {
+      "title": "Travis Kelce Reveals How Taylor Swift Helped Shape His Return to the Chiefs",
+      "outlet": "instyle.com",
+      "date": "2026-09-15",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbGtfUHFkem04elJzQnloR0E0MndGWTRXSkFyQnZ4dlJacHdlRmFUeTQ4WFAxQnk4aWdiQ2diTGhIbVFLTWN0M1RoWmpPQ1RvTFY5UWUwSUIybm1oNk9nYmlxSFFndUFGbW9SaDdGNEwtdktvTWNiR1E1cWtoZ0NYMWxOVVlCQ2RKdHV6X1oxOFVFRHc4bkVkWnB4Q0t0ZGpSSldqOENGNkFkamFrNmNj?oc=5"
+    },
+    {
+      "title": "Taylor Swift Releases Cryptic Message During Emmy Awards",
+      "outlet": "newsweek.com",
+      "date": "2026-09-15",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE40YmdIX2hTcXZaSWdnMC1zQURfWVZpUjV3b0l0TFFIbk10ZTNvYVl1SHNmRUVjRzRmZ3UyaFV1cElkak9DRDhGTHV6Wjk5ZXVEdE9EaWNjMktGV3dkN1FMRXZyUkp3RWQ4UEpRbHNZTXQ1aGF5RU1Rc3c5ZXI?oc=5"
+    },
+    {
+      "title": "THE JOY OF WATCHING PATRICK MAHOMES, ALONG WITH TAYLOR SWIFT AND ... TOM CRUISE?",
+      "outlet": "Jay Mariotti | Substack",
+      "date": "2026-09-15",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE41QXQwRWVzR2ZQYmlEWVRnYmk3aThVUmI4QkNDcms4S1h0S0NGSVd5QUswc185MVdEX1pnckg2X0lHZ1RPb29jN0NJNEtUNWVRSXY4RXNuenkwNzNIQ2NLSDZUREhTNG0xdTNxWF85S0l3M1FhY0gzQml3?oc=5"
+    },
+    {
+      "title": "Taylor Swift’s Guest in Residence Micro Minidress Rides High on Her Thighs",
+      "outlet": "Yahoo",
+      "date": "2026-09-15",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR3N2WFQ1SDk5RXdyd3JpdEJ5QlF0SGh1NUxOYTZleW9lSUI2RXRENkRXMTVvOEc5MkdPTm5pNkFhb0tsclhwdUpDSXZuTWdibjlYR0s4S0lkWGhhQTRaODFfSUt0ZTJHQTRDN3RzWHVfbF9DZTFVdHJVMzRoRWJfeHJyRk5oWjlCRV9zcGxSRFVMT0J6dkdIamF6V2tHTVFTOGVSci1Jdw?oc=5"
+    },
+    {
+      "title": "Here’s What Taylor Swift and Tom Cruise Were Talking About at the Chiefs Game",
+      "outlet": "cosmopolitan.com",
+      "date": "2026-09-15",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNakxIVi1UY1FqR05NcS01SlV4ZU9mbnpVRXRxTlhLblZzenV1ejNWTFB2NFpsTklFUEdMY1lSN3ZNTUFEdnNpQjhFOXlCaUwwbEJ4WG1mR1pWTy1yZFoyREw0MDdLekRXaDcxZFQyTjFkdm81elk1RzNzV0RpOVQyeFBIcER1a2JadjR4cURVcnNybWlJY1BQTHF1Z0s?oc=5"
+    },
+    {
+      "title": "“Focus on Football, “So Annoying”: NFL Fans Call Out ESPN for Showing Taylor Swift After Travis Kelce’s Huge Play During Chiefs vs. Broncos",
+      "outlet": "Yahoo Sports",
+      "date": "2026-09-15",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWXBVYVZyb0tRRHFXVXYtZ3ZDQ1pvT014cUFuc3Nra1NxTjIwVVdBMDdrRUw0UFdwSndBa0Y4UUN0X194NDdHT1lRbEpPZl92Yi0wYnVYUTdaOFBjMkcwOWMzckxMQ1NFdGFKVGdqVFZEMGdlZzZEcjBuQUlpRHZQWEJ4QklqaFQx?oc=5"
     },
     {
       "title": "Is Taylor Swift at the Chiefs game tonight? Latest updates for Week 1",
@@ -2248,100 +2332,16 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYmoxaFg4c2VjS0cwd0ticzJQSUJ1MEc5VDZNbWo4Yk54T2FmTko1ZmtpWjlJOS1tYkFvTEtaaElUeVJoTlRLczY0RzB5aWotckwxMlNNV3B5U2NQN2x3c2xyb0tVQnh2cGV4dU9wSFdmaXM3QjBGTWVHWktQOFpGbVJqQVMyYVNiZ1lpUmhtMHdXdXdTeUJndG1hbEpUSmdZWEE?oc=5"
     },
     {
-      "title": "Taylor Swift spotted at Travis Kelce's opening game in Kansas City on Emmys night",
-      "outlet": "USA Today",
+      "title": "What Did Taylor Swift Say During Her 2026 Emmys Cameo? Breaking Down Her Cryptic Easter Eggs for Swifties",
+      "outlet": "people.com",
       "date": "2026-09-15",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN1pfd2VBeFE3OXpuX3R1NkhmZkprbGNGSUx1RnN2S252TXJHRDBpMTdEWmNpR3pKQnNwanNDZ0YzMWNlaVk4ZlRCTlo0SFNxeEFxelJtNUs5Wk1YOUJfT0hYZjVkVUxnSVlwZjZtUGk0aC1BcWc5VE1OSnprYmZwZGFLaUVzbldmT1dGYTdWTGFTTGdpdk9IOFA1MFZRcW9STzcxYVBGbw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQanFNVmVXdE4tOUMxUV90VUJkTmxlMG95Ny1JRERLd19WZkpobC0wcWk3QUNmWE5tSlZ3NW5vZlRCLUlxUHR1bTJod3dtNkRlTWYyN194Qm9NOWZFRWo4Mk9POEd1Q0h2UWtaU2lFOUE0YmhmeXRIRFM5YzdJQnZDX24taFdUTkN4bXVERTVqWUdEOExMVjgxdXNuTWJDQXh1R0VsNllCeVFRbDc3Wm44V2hRWQ?oc=5"
     },
     {
-      "title": "Taylor Swift joins Mariska Hargitay in mock 'SVU' skit during Emmys",
-      "outlet": "USA Today",
+      "title": "Dakota Johnson and Machine Gun Kelly Spotted Together at Taylor Swift’s NYC Apartment",
+      "outlet": "Kiss 95.1 Charlotte",
       "date": "2026-09-15",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSlJNbFlJdEZTdU9wbjZidlN3TWgyUUhrOGZvTElWWXNsX0VGVWE5TThCVnZaNXJGSUptT005cVdwZ3UtS19kT25GbGZrYnRFQ0FkLW54YzI5S3JfOWZxZFZxakw1TWZpZkEzU3gzck9UQWR3ZWt6ZGl6R19tOVhBRkl5MjhZSFpZX2hJOVlxZzRlY21URWdIVkhBRlJTaFd3MC1RQmZ0SjJnMFpvX0JHdE9aSTZodWg4M1BMRXgtRkQ5TE1GMkFjNk8wUktfSmRkalFPeE1CZXJMc1ZwT184?oc=5"
-    },
-    {
-      "title": "Taylor Swift Makes Surprise Appearance During Emmy Awards",
-      "outlet": "TMZ",
-      "date": "2026-09-15",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcEVyQUpCdll3aFdna3paTU1vQm5Dd0w2Z2JUN3VHT1psVUV3R0xIUXk4R1FZaHpXQnc0NWhIdUJ4QV9KZTJpbTRzWVZFWkpWN3dSbXhUMi1fVGhLNXdqc19Ld05SeHRRb0VqRUdZOTMzTjZndTZYdG5pQ2NRTTRZTzU1aVdHZw?oc=5"
-    },
-    {
-      "title": "Taylor Swift Spotted at Chiefs Game to Cheer on Husband Travis Kelce",
-      "outlet": "TMZ",
-      "date": "2026-09-15",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWjJWaVlsTUVBMlRDQUJCV1NjYnAxNGFnV24tR05BTDJzbUdXV2NjbnZUbnBTNHZoLVN6MFYyTmgzMVp4YU1kNnNnWFIyUjNZb2liVXVZNmhjM1EwbzZadlE1ZFlpdFc4Z2hweXFEeXVCSzZSaUVFcU1nMllmdl9hMEFmYw?oc=5"
-    },
-    {
-      "title": "Taylor Swift Makes Surprise Cameo at Emmys 2026, Showing Off New Super-Short Haircut",
-      "outlet": "instyle.com",
-      "date": "2026-09-15",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLUM0aTBmTUlMbEZnWHJvUXdBVXVhd2hDdmtKSmtTVGJHQmp0akxzeHByZ1BVMXFMeWVwWVFDbDNRWkM2X2VjY0pzeDZlMVQxcUEyMnJFVnlfaWduYS1VYUx2ME5fbjN5SUUwVURwSVJUT0kxc3FvRkpGbUZ6dG8tNHlPQ3dqQQ?oc=5"
-    },
-    {
-      "title": "Emma Roberts and Kate Hudson bond over not getting invites to Taylor Swift and Travis Kelce’s wedding",
-      "outlet": "Entertainment Weekly",
-      "date": "2026-09-15",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYkU4XzBtbEFxUFN0WkN0eS1OTFFnVGZzUDVCXzNEOEZWOTdJa0Q3d21LT2JybXp0Z1FVOEpwRWFjWmZpa21Jb2hpenJzVF9iekk0VHU1bEZvUDBuTjBuTXg0QTdRNGVHMUdDNXp6MXoxTC1zeHVUUlJEWGozQngxSU5SSFk1cUpESUpKMmNB?oc=5"
-    },
-    {
-      "title": "Taylor Swift crashes Mariska Hargitay's 'Law & Order SVU' sketch at the Emmys",
-      "outlet": "Mashable",
-      "date": "2026-09-15",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaWo4amsxSlo4NVpOVFg1ZG05Y0pld0Qwdmxva09yZERzdzNJeXp2dHUwZmxxQmlzdzBCeVVsYlF2MDFZQWdLaXRha3JzVXZMdkk1WmxyS0lXeHlEQUVnd3k5a2JnVXZDS2pISU1JcHdLWGtvSkp4RGpNeW1LNktKcFFYSklmRHNscXViNHNzN2NkcUxOeE9uOWJSbE4?oc=5"
-    },
-    {
-      "title": "Emmys Producers Tell All on That Taylor Swift Cameo, Catherine O'Hara and Dolly Parton Tributes and More",
-      "outlet": "TheWrap",
-      "date": "2026-09-15",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU3ZqVmVXQ3d0X0Z4VndXQy1PQkM2Z1VKekx0VEh4Ti1oNkwxekhzUFNyYU1GV0hOZzJneXQ1OHhOdzBVVldibG1UdGRQY2g2WHlsdlZVX3U4RGF6ZlRhZ3FHQ21WemJvemNFSUJpVmxGNzZaZVhtcEpzbjc2ajRPQUYtTUV6QjNqVXZfMWlncWtOeU5hNU5ZVGJrQUtNNmNkNGtBSnd3ZHFZOEdWMFg0?oc=5"
-    },
-    {
-      "title": "Taylor Swift appears in Mariska Hargitay’s ‘Law & Order: SVU’ Emmys skit",
-      "outlet": "WHIO TV",
-      "date": "2026-09-15",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWG1hN19COVlYTTZHQzVuZWs0dDNJam9RNmtOTHE3NjNTMTV4Mk9HdlJkV3Fjend2bmFlTjJYbDVWY2h3cGxsYmZrSmdIUUV3Mm5sWFZrekpRRmpXYWdpOElsTVh3SVFoVTZTNU5STTNhMk9qdEpDc2pfOG1hYkN0akppX2RsS1BGUzJsN1R6SHRKRmw2OFpYeXhOWWQybFZtaE1qWWQxTm0zdUY4c1ZEZGJFUnZwYUxyUGwzWGdUdG9veHk4?oc=5"
-    },
-    {
-      "title": "Jason Kelce Shares New Details of Travis Kelce and Taylor Swift’s Wedding",
-      "outlet": "People.com",
-      "date": "2026-09-15",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQmtrYnZHd0RqbEVNa3A4bXRQcFQ5am9MWWJBbHBScWNoSUlEUUZYRUJEMkUxZklXYlFVUEpzNzBJQVNjT19za2dQQldLcHc1Yl9hZkx0LXJyLUZKQlZqQkp2dWJjNml2RTV6MkFlOUd0QU5QN2dJeWtIaEJGVFdmSUFIM2MwTlo2bi1kYXFSTmtaaExIWlJJTGVZMA?oc=5"
-    },
-    {
-      "title": "Taylor Swift Fans Claim She Didn't Want the Camera to Pan to Her After Travis Kelce's Touchdown: Watch",
-      "outlet": "Yahoo Lifestyle Canada",
-      "date": "2026-09-15",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwN3dzOVdCb3BvSjhmaVhsT3ZMaS03Q01FRWpJWUhOc1dBOHR5cTl0UlhGZW9MR1BvWFRfR2JBdldyS2RWYW5uV2lWX1pRTmg2R2FPNlhsdkZvd0Fad1JSZXItdWd0VXZ1Y2VYVmVtNmlaNEN4VWlSQg?oc=5"
-    },
-    {
-      "title": "Why Dakota Johnson and Machine Gun Kelly escaped to Taylor Swift’s NYC apartment on date night: ‘They hit it off’",
-      "outlet": "Page Six",
-      "date": "2026-09-15",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMHlDZXVla29VNl9zbWxQZkNLSEJqVW50N2pobFBpLXlSeHZQUnJmNVd4RkU5MnBYcXpSdUN5a25adWhBRkUtS3huaFlwc3ZyNE5QRjNnYmNyTlhuNzdIYXZUUUNCSWhxV1hJekZqYzVhQi14dmk0WjhzdmgzbTdzWG93MUNiYVdta3dTVkE2b05wQ2o1TTJzdkZWalljQzlrMGNGM3hUX3dHUTUwcVRhWFdwNXU2M0pfaG5RWGY1S2Q4bEx4OGFmUXd0bzdRNHFxYm5kZnZXU0k5Z2pHT0VFdU5TX0Zjdmh4RWdBQQ?oc=5"
-    },
-    {
-      "title": "Taylor Swift Surprises in 2026 Emmys Skit with Mariska Hargitay",
-      "outlet": "People.com",
-      "date": "2026-09-15",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQzRQZzF6NjBPQ245enRYVXRhZEUyQ2N6RGpIXzFhV3o0QUQyUDlndzBWZk1vZnR4NzNkRjFtSmdDMVpYR09fcjFVOXBGMXJIeVlmZXVVSVJ6OUc4X0lERG55OUVPazdoS3lDNEROSHNvRUh0ck82Y2VSbEp5WmFTMGFxbGhRRkpCY043NEs4TQ?oc=5"
-    },
-    {
-      "title": "Taylor Swift Chats with Tom Cruise as They Cheer on Travis Kelce at First Chiefs Game of the Season",
-      "outlet": "People.com",
-      "date": "2026-09-15",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN0lyNnJaUGNZa0l3RXdfNzBMZzF4bFFkUGVkRjdpZ1JKcUhQSmlyVEVlSUNhVmE4bXhVaEthNFpZN3hKRjNDbWExck11eXg4aHRuQTRwTnhvSlM2TERRUWFUQTFkOXltaGgyZG9HdG8wYV9QUGdPMGJDUDVHNHlLcHpVd090OFhTdDcxSFRGWG5hZTNYd1hQWUg0c1ZiNVB6Y04tWnNiT00wSkplTUpBMTZSLXQ?oc=5"
-    },
-    {
-      "title": "How Taylor Swift played a key role in Travis Kelce's Chiefs return",
-      "outlet": "Yahoo Sports",
-      "date": "2026-09-15",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQazNNNjdjNjNvQmhzOXNqeWw4UVlkc1dBcEdGNzdPTHRGZFFZalNwejQ1QW1EV0VUdE9jeE91QTNPc2hPX0F2d3RBMU9XWEZzNzZ5QWtwOFhrMDF3V1F1UFB3NHZRT3JmSU12Sm4wUHdqTEdmQm1Jd1dBbDlHZjZYeDlVOA?oc=5"
-    },
-    {
-      "title": "Taylor Swift and Travis Kelce: 9 photos of the couple from the Chiefs’ win",
-      "outlet": "Kansas City Star",
-      "date": "2026-09-15",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNzNCM29xWUlNYmJvYmRjNndKZ2hTUHE0YzBJa2xLcF9lV3VBa09TdE1jVW1heXJURzU0N2NpOHh1MzVBdXM5OTcwZjRjb2Vvc2ZNM2NSYmhMTjFSZWctWFhnbGdRTDYxc0FBdGVFc09NR1ViQXB2OWlpamw4WTFmQk1lQjFfcXQ5YlVtU0FOQ2kxZ9IBkgFBVV95cUxOWFJOT3ZnSzJobmlwa2ZPTFZVaWJkMU9MMmZFUHZpa2dSRGNTNjhid25wY2h3U3BCTks3OE9Bc0dJY0pwMGlsUUU0SDE0dFZuMUtUMERmM2hUSWlMSS1SQnpQeTd3MmtfSm5DdWNvT2N4TEVHYVJNX0FQNjdHcXFVOXA1QmZSS3MxTFk0TU8zdmJSdw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONTRrSXpUN0cwMWozZ21zTDlmWHVKb3Y1LTVLYVBNX2dLOUtLVUJfaGFsSThuY0JpXzFjbVFNb1NzQkN5NGxWTHRoc0tnOEMxbFpGRldSTno4Tlp5OXFDOGRSb2s4Vnp6V2pueGlXbWt0OHh1WDNqeXhkSFprMlNXcVdDWlVVc2FTN2VwTXRqWHFDYTVyOW9JdU1GejlVamdSVnpCbmxNQ0tpandoUDVaS1RiLVBwUEk?oc=5"
     }
   ],
   "bio": {
@@ -2367,20 +2367,20 @@
   },
   "tourNews": [
     {
+      "title": "Taylor Swift's Eras Tour dancers at her wedding: 14 of 15 have shared their looks so far",
+      "outlet": "Yahoo Creators",
+      "date": "2026-09-15",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNd3FLVUJNVVo2SmhwTl9ZUFBOR1BpSTdOejI5MUdmRnVxSHY0aU5VcXFyZWVrMm5nZXNRbW9qSThfeU9Sa1NPMl93OWJiUmN4U2tjeVgyRUV6NGJsMHl5OHJLYVdWX3ZyN09rdzZYNmtIeThfSGRJek1zRTVmZHVLeXJGRjUwaUpHMHdDNWhUR3ZJRFcxdFg5QlRjYVZkWU5PUm43amQwOW9qb1pLSF9TRTc1dFdGZEg1ZG1fTHdnN1lFdjhYVGdzaFd1U1ZtaEFJU0pEV2tHMWVPLVRN?oc=5"
+    },
+    {
       "title": "Taylor Swift stunt double and immigrants telling their stories brought together by new Berkeley festival",
       "outlet": "Berkeleyside",
       "date": "2026-09-14",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQmlkaVQ3N2lDNGd1UWZ4WEpjN1A2a0ZtTm1wNXRsNXBVREdFLWlrWmNzYXpsR185bWZndUN2NUpORkdwbXY0MHJMMTBrZXlfd1BYeDZTakRjNk9UekZZZnpWV215bGVaSVZlQlFvM0dxdUFBelp0Tkxwa0J3RTc0RlNsU3Q1b1kyckIxOEctOUQ4WWtNQzRzVGFhZ09RNzRsMFlhNzFsUDQxWUR3OHpRdHJJM3BlSlJGVHJhWnZEb0pPU0c0V0VLTDdOXzZHbU5vNFdtS1dmdWF6ekFS?oc=5"
     },
     {
-      "title": "Taylor Swift's Eras Tour dancers at her wedding: 14 of 15 have shared their looks so far",
-      "outlet": "Yahoo Creators",
-      "date": "2026-09-13",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNd3FLVUJNVVo2SmhwTl9ZUFBOR1BpSTdOejI5MUdmRnVxSHY0aU5VcXFyZWVrMm5nZXNRbW9qSThfeU9Sa1NPMl93OWJiUmN4U2tjeVgyRUV6NGJsMHl5OHJLYVdWX3ZyN09rdzZYNmtIeThfSGRJek1zRTVmZHVLeXJGRjUwaUpHMHdDNWhUR3ZJRFcxdFg5QlRjYVZkWU5PUm43amQwOW9qb1pLSF9TRTc1dFdGZEg1ZG1fTHdnN1lFdjhYVGdzaFd1U1ZtaEFJU0pEV2tHMWVPLVRN?oc=5"
-    },
-    {
       "title": "Watch Taylor Swift | The Eras Tour | The Final Show",
-      "outlet": "disneyplus.com",
+      "outlet": "Disney Plus",
       "date": "2026-09-10",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMTd1NzJiVDRld3RDYnozd3dhbG1jUE8wcTFHWmVkTDU2blUzWlUyUlZlMWhqSkl4ZExBcV95TFlKSXFCcFNXM0RQeloxRFdGRDB4cU5IV0FXdjJ4SmRoLTVWekhVcEYybUxULU1NZ2JPNDdSRTRkSXl2NUhQTVFTSFo1RmplYjlzbmZZ?oc=5"
     },
@@ -2397,10 +2397,10 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORl9PLXVlTlFRbHh0VWMwQjRRbkhUQXNHNDRzUHJOREVyOHBMNG5fUDAyVGZCeEVkeUt5bDBXblhOMDc4RkdxZk9wVjlKRTdJZGtITlEyZVhEY1NOZ2Y5U1RDYV9PQVphRFg0SUhWdExkUnRZNEJEWVhrbUUtcEM1NEVKWnY3YUVuX1lfaEUyNDBlVnFaaE5jZWh4WlhOZXZMeXc?oc=5"
     },
     {
-      "title": "Taylor Swift Tour Dancer Jan Ravnik Says Her Wedding Was ‘a Great Night’ (Exclusive)",
-      "outlet": "People.com",
-      "date": "2026-08-01",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZGRQZUpMSWRVamFVRDRjSk9taGJfNzVMOEo1NUxiUGp5OVc1MzJSZUNHTDRRcGVuY2g3YUx4SWFpUTRGZzdtS3NjYTBVZ0FDVlpJY2c5aVdVeFd5NXdxZlZHT1hfQzd6RHk5N091R2x6cTc5WU9OUzVLa2RMQXZrOXBpc0JzZFVxaUVibkpHRjF5cVBUV2JCMHR4dFhtX0w2UXhYVklSa0M4ZG1kTkNHMzJMNjRTVEwtbVdGaVpoaER3QQ?oc=5"
+      "title": "Fans Are Not Buying Taylor Swift’s Tour Date Rumors",
+      "outlet": "Yahoo",
+      "date": "2026-07-30",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRzdKYktnZEFNRk1zYWxPcUJKcHQ2cndRcWxmYlFtd0ZPNEdYYlBibnlJMXFldlV0NERCWTZYVkFyWGFrUFFYTkZpVlhETHBHVFAteUdwelFnV1ZLblZ1c1YtclJDNTlGTWMzN2lZdEhSYndYc1ZnRnpQRFVHcTdFRnJXUzdsb0ZnYWxSb2dlMFRCdDJzRVV4V1FR?oc=5"
     }
   ],
   "timeline": [
