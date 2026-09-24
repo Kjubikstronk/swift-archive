@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-23T21:31:54.610Z",
+  "generated": "2026-09-24T04:55:39.054Z",
   "artist": {
     "name": "Taylor Swift",
     "full": "Taylor Alison Swift",
@@ -45,7 +45,7 @@
       "releases": [
         "itunes-6814995859",
         "itunes-1888604488",
-        "itunes-1833328839"
+        "itunes-1844456724"
       ]
     },
     {
@@ -573,13 +573,13 @@
       "year": "2025"
     },
     {
-      "id": "itunes-1833328839",
-      "title": "The Life of a Showgirl",
+      "id": "itunes-1844456724",
+      "title": "The Life of a Showgirl (Track by Track Version)",
       "date": "2025-10-03",
-      "trackCount": 13,
-      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/1400x1400bb.jpg",
-      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/600x600bb.jpg",
-      "url": "https://music.apple.com/us/album/the-life-of-a-showgirl/1833328839?uo=4",
+      "trackCount": 38,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/3f/2b/0b3f2b1a-6557-4a7c-40af-5f86269965c9/25UM1IM53942.rgb.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/3f/2b/0b3f2b1a-6557-4a7c-40af-5f86269965c9/25UM1IM53942.rgb.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/the-life-of-a-showgirl-track-by-track-version/1844456724?uo=4",
       "copyright": "℗ 2025 Taylor Swift",
       "genre": "Pop",
       "via": "apple",
@@ -2210,118 +2210,70 @@
   ],
   "news": [
     {
-      "title": "Travis Kelce Reacts to Taylor Swift’s Wedding Ring Flash in Viral Touchdown Celebration: ‘Proud Wife, Baby’",
-      "outlet": "Billboard",
-      "date": "2026-09-23",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOamRHb0taRkloeFpwaFRHQmZUSGdLdkNTa2RNUXZsbmh0cHRMQlJCT3lmN25pcmlXRzJpSmdPa2NFemxDT0lsdGpDVEVuaTZIODUybW95dUZURW8tN2VqN0dpVWd5TTY1OEZfSmVyd3ZzY3lUaXhYcDNrSnZpRXVYVFotNnV4ZVZBcTZmUUl6YVlENmU5ZlRMUHZ1cFlwclRkNDctZTdvVFFIRVNG?oc=5"
+      "title": "At Least Taylor Swift Isn’t Going on Tour",
+      "outlet": "Bloomberg.com",
+      "date": "2026-09-24",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUWhqR284SmdiX25QeVhHX3FVcWl3djVrNnJWME5SLVU4NGsyenhZaUt0VlVXcE9BN1dYQzdwQXRpZUtFWFRhV0JwQzg1LXdJNWhhYVRSYllJT2FDTDVYOEQ5T0VyemFSTVFkbU9wVTRfUGhMNzcweGpDSmJoN1hncDUxUXd6VEl2N1J4TzJWMEczS01sbkg2U25HeUE0SHc?oc=5"
     },
     {
-      "title": "Travis Kelce says Adam Sandler officiating his wedding to Taylor Swift was 'absolutely insane.' Here's everything else he shared",
-      "outlet": "Yahoo Creators",
-      "date": "2026-09-23",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPUWVNa19kc1BqczhzajNHbXlfWThfQzJScW54OFc0NS1GMllOUWZsOHdNVVE2T0piMWJDM1dZSUgtUWZ5a2JmZXEyWXVNU251QzJVdU9NX2lyUUVvLVBjYVdvTVFDM3JQamEwTUcwYmctQ3I0WUpCSlVhOG9xS0tkX1dpLWVIbG1KZ1ZBR0lVRkxCeXZMdWxJb1d1aHR6SDlPNFBqSlM4R2ZNMFdKVHh3Y1c3ZWExaVRSX1lUZDd2eW13SExpSnNkanVjSnNId3gxSkUxb1h1WFl3bDNBdExEZEFEZjkya2lOVERMWS1ieTBuUEJJRHpNLXpYeVlpdDVYMkF5VHZVTWh1M0dkZWpR?oc=5"
+      "title": "Taylor Swift earns new VMA Artist Director Honors, solidifying her place in music history with record wins.",
+      "outlet": "facebook.com",
+      "date": "2026-09-24",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPczhoTzc4bmdNczdmdWlnVTF0UmlGbUZ4T2RTQTJnSjRhWFY0SlNqMTRaV01ReU9Va0o4ZTVaV1dhNjYxa0hzeHlENkRBMm80bFJuSWk0Z1JsYzVqZ0o5Sjd5SnpjOWtBZlZUc1FIc3FjSWxtSmMwUmxuT0U2dDNXaTluSkdpQ2tWUkRNZ0tyVDZ3SDZtc0lsZjYyaWRkN1pBSE9ZTkUyM2hFTWdmSWptOFBkLVYwWHFteFNyY3RyUFdQM1AtUFFGbnhvQnozX3JyUnkzbkVOTEdzUQ?oc=5"
     },
     {
-      "title": "Taylor Swift confirms 4 new songs in deluxe edition of 'The Life of a Showgirl'",
-      "outlet": "WKYC",
-      "date": "2026-09-23",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYjloVkg1NmVOQUdBWGxsX2x6b1c2UkZxQUZQeTBmQ0tKcGpESFNKaEZSWVVWZTNuYXhXMGRZOURyZlBvYzFCbnZQYzNmeGFxak5PRDJmTVpiS1lwcHB3eW9ycThKWlBMdjF1TXhHRVBfRHo1UGY0Z084MUJnSWlJQkN6NkNUeVRUT0VGRG1BUEZKMElWLXJET3Z2UkY1R3d1VFFkcG5NT0o5LUVYVjdPV2RIQk16N3lZekxJaGZUSnZld0RiMkRiSzhPeXEzT0dCZ0o2eEszLUlZaURDUzNzTkN3?oc=5"
+      "title": "Taylor Swift announces new music, USC students react",
+      "outlet": "Annenberg Media",
+      "date": "2026-09-24",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMkgxdWFGRE96NjBtSl9qM1ltTHNFRHJ2NDZGTmFUdnpnN0NvRDBDbEoyaUxaRTBlRWtvM2ZrYnRkTWp5enlaYWcySXo1YTZoaU1LWHV6b19WNHRLUEc2amlmNTIxVG41UGhvYW80M3NLZXc3ZFVqU1hGX1ZhSTF6MFNTWlJWcjF0OVhZWGZFUzNNYmEzX3NPQWd0b2dTQQ?oc=5"
     },
     {
-      "title": "Swifties Thought They Cracked Taylor's New Album Name, Then She Dropped a Major Bomb",
-      "outlet": "PureWow",
-      "date": "2026-09-23",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB4MXhWY0tuWFU5dlloOXRnMU1xZ1RWNVh6SVBiS3RBdDYteTZfREZkeTZDWW9RekhkaDJHRWI2Q0Z3QnE2Ml9OclFaRHdsejhCdmZDdkJEWDdvU2lEbUJ2YlItV2JhTy1IQ0FQNlhKR2lJaDA?oc=5"
+      "title": "Cryptic Taylor Swift Announcement Turns Heads After New Album Reveal",
+      "outlet": "heavy.com",
+      "date": "2026-09-24",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV0hUSVptNFNSdlRsVmZ2WXQ0VEpMM1FBY1VvZTlQWHdpYnM0Qk5fQ0F4aXExWkxQMnJOcEFlRzZXc0dzMUhHQkJ2ZDkzSkRXVmFzWkpWUUhYVW9MLVZpSVB6elFLbEpkRkhPZTRfMEQ2S2gtYjNkamJrcDRNRWNwemxXQUxBWFloNGN4M1RVNmY3Y09wQ3Q4cDQwYmZiUjJj?oc=5"
     },
     {
       "title": "Taylor Swift announces ‘The Life of a Showgirl: The Encore’ with four new songs",
-      "outlet": "MOViN 92.5",
+      "outlet": "WBAL News Radio",
       "date": "2026-09-23",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX29ndDRHdUgyck5FdlZwQjZaYS1xaGRCQzFYWUg5LWlNbFBSemRjU25JSUxYLUlSdEZWcURLQ3c0ZUc5WDJrdmY1cW8wQWh3clVJQ2ZlV1ltUE8td3BIRURMSlBsM0xCQ3FJVFNnY3BSVDJCMDhJTGFSMkRIa1hCTzczbXJ6ZGhUeDVPanVJVEl4U2ljOGZsZmVCeTVWN3pzTU84VQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYzFQZnRHSjJOS1FJU0hzVmhKQzhXY3d2MG14VTJVWFJudnVfWkZTVlQ4clRmYjhUQTdEXzQwb252TXRNa1prYUlpLWxKSHpvVDlzZzhkZE8zU1FnTE5KTjRtbm8zMENCcHU4MEh1NTNiTzlaMVAwaFNxeng1UnpiRWx5MW5UOGJocWhXSjlEZV9WdnM2dkZRWDFoS3hUdw?oc=5"
     },
     {
-      "title": "Sombr Shares How He Deals With Hate After Getting Advice From Taylor Swift, the ‘Person I Look Up to Most’",
-      "outlet": "Billboard",
+      "title": "Taylor Swift Surprises Fans With New Four-Song EP",
+      "outlet": "KITV",
       "date": "2026-09-23",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVHU4TGx4LWRHQV9wNk5qUHViTWhpYVJGc3FURE4xbTdDMFIzdnFZcTlFVnJZRExQVEJMNjlLYlZTdnE3dUxqVmtWMXpYY2tBWG14T0tnb0t3eC12OWFIR1oyZXoyVmpuS09kRko5T1JEX1hQTlpucUg1NmJPeUJmREdLTEVaMUlFSTJfTjdVbUhDNkU3UmsyejlyZnVzSDA?oc=5"
-    },
-    {
-      "title": "Taylor Swift Goes Pantsless in Tiny Tassel-Covered Look With Divisive Shoes",
-      "outlet": "instyle.com",
-      "date": "2026-09-23",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR1NsQUZsR1cxaDJJY3JzM3gxeC1HeFNwSWcwdWFrODJMWFg0Znh5bDlDd3YzQk9rVjhEU040UHlPT0FreG1WQTBEWlc3a1V3TEE3enpMcXA5OFMyWU9QSnN0ckl1TlUxdzB4VlhHRnBtdDI0VDFscnVsZUthN0RwbmtDTk15LU9FUzFR?oc=5"
-    },
-    {
-      "title": "Taylor Swift’s Next Single Could Give Her A Career First",
-      "outlet": "Forbes",
-      "date": "2026-09-23",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMlBzYmZScmJ3OUhIU3RrUEMwRUlGMjBYVG1HVXV6ZmktLVQ2MmVxZzA5R3B3NmNqdGdMU2c3WldIdjJ6T2hCU2ZIbUlOaDMtdmhQTW4tdDNocmVWalU0eEFaRDlyQndYNnctVWlzSkZlQTZqRHVJUGtFLW1HQmtaWGVVOC1BZ3o0SW5VbEw4LVI2WHFPMWFDYUZsdmJuX0xTUUV3OGVwYzdzbHY3TkE?oc=5"
-    },
-    {
-      "title": "Taylor Swift roasted over 'horrendous' editing 'fail'",
-      "outlet": "Yahoo",
-      "date": "2026-09-23",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYWs5Q19IR0FCYm53U0VWNXRNMHI5VW9BU0FndGdDd3hMYlZkS015Z2tsYmRFOVkxVXFBR2xhUzJTdlFCMkViQUxiV0F3ZnFZZm45dWczWDA3X3JKekJpUXlGVnJReE5DZTIxUm5rMHdMMXFnLThxanpoOXAtOVZNZUd1OWczSW1LOHR0M3pzSHdNaXZVdU9TaGZRa1lXMGtqcDRHSA?oc=5"
-    },
-    {
-      "title": "Taylor Swift’s showgirl style gets an encore, complete with fringe and sparkles",
-      "outlet": "Page Six",
-      "date": "2026-09-23",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRlNLS2NyS0RaTE9fRkxmdzFhRFFBdWFQRHBWbHNiMGpjSWVuZnNDSmFtaWtJUlo1bmRjbGV0WXZzTjBkRFJTWDRjZEoyT29qZ1RIbjVFZDN6QlJCZGpYRnhYeGlacUNnODMzLUFmd1RIc3AxQmw4dFl4Z3p2d1djZXhRdG5ta2tTYmN2QzVHRjVYUC1WM0ZIajdWYzNjU2Z1MmlyMXB5dnp0cGtWSE5NTmFEQmVGZDg?oc=5"
-    },
-    {
-      "title": "Move over, Beyoncé: Taylor Swift to become the most awarded artist in VMAs history with inaugural Artist Director Honors",
-      "outlet": "Yahoo",
-      "date": "2026-09-23",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPZnNZZ2wtRF94MHVOb2hXTW9SLTVoWTZYNWk5akIwbFRPNEZxVmktNkkyQTE3SU83bTlYcVlxd0ItTjFUZXM4dDJiTldPZnZWOTdMYm9vUzRsRF96b1pQSkZUSmdjdXk1RGtsU05MTS1XN2FacldsNEV1MWFndk1YUlJmell2dzljT1NfM2RMLWlYbDhQSFczU1RnVkJKZWxBMk9YbTdMQnJOUGtudXRDaERjNkhuSzBSQXp5dnhXcGMyTVc2N1ZPeUZybm5kUEZ2eHRfcmExU25tTHpoUDFYSWZXeW5STklueENvYWZEVll6ZklpaGJaYXFPc3RDRDdZcVdRLS1Mc1lseDZmWHkydw?oc=5"
-    },
-    {
-      "title": "Taylor Swift to release deluxe version of ‘The Life of a Showgirl’ album",
-      "outlet": "PhillyVoice",
-      "date": "2026-09-23",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPX0puX2VaQk9tY2t3WDQ0VUs1TXdSOWxkYjljU3ZBWVdJaHZIbmZxVkJta295MVBzaUtBYkF6TThNaE92cmozbUpqMGJjeWVjQ0xKVFl6T0xqTDd5bVhDcVctX3h4OVpiWXZNQ0s0NVpPV1JvbmV5V3N4dVdUMHBPUWxHYm5sUQ?oc=5"
-    },
-    {
-      "title": "Taylor Swift’s New Music Includes a Sweet Shoutout to Husband Travis Kelce",
-      "outlet": "instyle.com",
-      "date": "2026-09-23",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb3FLc1BPcFlDR1FxOEQzSFBPb2dTYnRyM1M1MklzeEE3ZTVhN2FGdlRPSGVqeDI2TlViZ1pPREVpZmhXb1MtRk0yVjZmX3lZcXBpODh5eW91WlZsSlJHNFR3SEJIakczeG1XLWs1YWxKZlpfdjBfRGtOM3YyWWt0eTlkV01vT2RCdUNmX3lELTlIT1ZENDJlRm01QVBvMzVo?oc=5"
-    },
-    {
-      "title": "Taylor Swift announces 'The Life of a Showgirl: The Encore' album with four new songs",
-      "outlet": "KOKH",
-      "date": "2026-09-23",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQa0swaFBTTmFQOFJST1lSSTUxLVl1NGJmbFdmNi1TSlBlcFptVWtHdk1KRWhXVDlOSzJEQjA2SFl0NDlFdFZJTzBWdG41ZFB3SFZMN3RiYUNHcTctUzMyMkhOLUpYLVZLa0d2RXgyeUd0UzhFN3VwOGNwZVF2bE96WFRabUxTTTl3aS1uc1dvX1I0NzMydmFYdC1NdThnU25ObUxWdHRNZ2hjcVBTRnNMbUdiZTZfS2RJenpicw?oc=5"
-    },
-    {
-      "title": "Taylor Swift's new single announcement overshadowed by 'horrendous' Photoshop fail",
-      "outlet": "HELLO! Magazine",
-      "date": "2026-09-23",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVnE5aXFscG5aT01TRUNraTNoVlh0aGp5Z096N1lQdGtmM0c5LUNOSE9iYTlsRHhoVkhvWE82ZVNLNF9GLVFxQzVmS1FCUnRCV1lpWi1FY3RydF9UNjVKTlJxN2xDZmlJY1QzYzFiWEVBdGNldmZDSHJVM09Na3p2TmwtcjBGUExvNTJfRU8yc2hlXzBQb2xVMXN0eDFmOWJOQlFHNFQ2ckhKdw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaU93QnNobHl3Yms2S1UzY0FwcXF3WktuX2tncEpLb2o3TFVnNnBCX01hR3plTHRZNWJDMVZmZEZJNTVZR244YlpOMW1VeHc4b1ZKMVhVYjF0TXJickVKaHozZDJFeUszYWtWQmRaSmZfT1hHRF82eVMzbFVoaHpZSm1OWkx6N0x2X1B5dHNFMWtBWm80NnN0b0Z4X2NCbDdaa0JGbkFUcDhxMkp5bjJyaTBDQTZIYUFfY2RoZVVROXQzdU93MEtudi1QOWxCZHgzOUxUaVc3UFlob3ZGbHI2Tg?oc=5"
     },
     {
       "title": "Taylor Swift Gives Us an Encore",
-      "outlet": "Vulture",
+      "outlet": "vulture.com",
       "date": "2026-09-23",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSHRsSVk1aWZUV2NITE9qb01LVlNfUXdTYXQ5RFdIQ3VPTU1VUV9kYVZjemxObVVKRHVtRk9hclVJalpmY1JlXzlmcHJyRVM0OC03czNPRjFRZWhRQ3llcFFrMGFPMUxiSUwxQzJzZ0kyN2xqT3NmNVZ6bkNtcWthOUEzV2NtUFNSSnB3?oc=5"
     },
     {
-      "title": "Taylor Swift behind Travis Kelce’s success, Kansas City Chiefs coach credits",
-      "outlet": "NewsNation",
+      "title": "OK, But Is Taylor Swift Still Releasing 'Debut (TV)'?",
+      "outlet": "Bustle",
       "date": "2026-09-23",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa0d5M3VZRC13TjJtU0ppbk0tZ0NiaTJCZlFTcmxGS1JRNGpFVlRneXNLeWRoMVc0UXVneG1iRFBkUld4b3dHeHE4Q1FOSFlnWXBGVldHVEdNUEVmcC0xWDBmaHgta0w4R0JwSHJ2ZXBuZUtZLWZOSEgzcS03S3ZVOVBGNkVMa0V5ejQ2SVIxTVRodXpIUkpzVGtobWs1MmVS0gGmAUFVX3lxTE13RXlpaklNd1U3M1ozVlpVWm9oZnN2LTd4R29QblVyMWhJZnpSelo0RGlLXzhJYlFZSWxpYkMxcHNNVVh1UmdDYy1hTnFNRG1MeGtCenc3STRWNVVROXozVHFGYXU3cEcwZjRwZS1kZ2dTU3Zmek9rTzd4cGw3SDhNbjZLdWJJRUFKUERLdG9RR3ViZ1NnQ0VONVBKaTdSRVVNTDJHQlE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSVowU2tSVjkzUjR1SHpudXFNNmV5cjAyRWdDaWJ0WHFGTEpxX0tDR1lGdWJRWmhoVndLdE5zS090dEtqdmR1ODlkMDFUTHdIdi1HVkdLb0xUSXhLUVYzLU4wYndDdXFlUGg1WnFua1lwTzFsdVhlWnZDTEVXdGhDcTdTY1RENlo4UFRfY3NwSXBuQQ?oc=5"
     },
     {
-      "title": "Taylor Swift Announces ‘Encore’ Edition of ‘Life of a Showgirl’ With Four New Songs",
-      "outlet": "The Hollywood Reporter",
+      "title": "Taylor Swift’s ‘Patient Zero’ Cover Art Attracts Fans’ Photoshop Claims: ‘Looks Seriously Off’",
+      "outlet": "Us Weekly",
       "date": "2026-09-23",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWXZQS1poRGlfcXNYZEs1Rm1zMWx0R2pEaFBuMlpLVjRzNWpZQXBIamNJMGM4Ul9VdEIzZGltcm9vb2VXM21EdVllMzR6bEhUcUg5TVRsM05nWW8xNWw3SFpOVnVqbFU1Qk1lYjJxNlFNUjdRS040emlvSl96QmViZktYci1VVHdYRXowUExMYUtrak1SY1JxZTYzeWI2aW1sSXFjeXlVTFkwWG1ERHZISFpTS3otTXJM?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWUo2ZzNEd2dkVWpFNklKTTA1bzAtSEZTbHR3RUw1MFRDYUtYcFJXVWhrZG5wZE1UeVRYVXdreXhQNGJhd2kzVFp5UmFMUGxITHBZTGVtcGJSZFRiNGtha0Y3UFlVbThPUjBITUJTZDV1XzBVLTg1Z0dOSmliWkducTVWQlljQkdiWGZlZFh0YUszaEVtMFlWZWlWQ1BLYWR4WVdYZnhQOXZpdw?oc=5"
     },
     {
-      "title": "All of Taylor Swift’s ‘Patient Zero’ Easter eggs fans may have missed in ‘Opalite’ music video, Emmys sketch and more",
-      "outlet": "Page Six",
+      "title": "Clues point to some of Taylor Swift’s new songs being inspired by Travis Kelce",
+      "outlet": "kansascity.com",
       "date": "2026-09-23",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMmpnejF5dER5bG9Gd191aGZnMS05cWV4U0xmM1JMWlI4b2huZFhtMVRtN3M3Tk1MOW5yZ2NFbmZOYzFBM2pya1Q1dVBySVlVblM1NVd0SFFPa29PNmNnbXVqRW1XcHN5a1JPUFRoZHNjeWJoekJlZ1NMWDVaNlFoeFlqMWd5aHI3Tm52Y0JxWXNZaFl1bkN5ZURDbFI4dGZaSTZiTnpFMGlxX2JYUDRGczdYWFROME9wVFZlWHYtdm04Zw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYXQ1dHBrWWVfT01xa21wMkJmMENFZW5IQ3JuZWo0bHdnUTlDcEg0cjMzMU9GYzk0cUJEakg4cG5WT2dlNGxiUmJETXp4RTF2aHVoM2NlbG5ZSXNwMW9UWDd1TkV1UzY2eS11ZnJHSWI1UzhSVWpHZG54WWcxVS14cTV4SWFrdl9TOHRDOWlYYW9tZ9IBkgFBVV95cUxNenhsSFAxcnh2dzZiS0VROG55NElXaWs4SEhGZTU1NDVVcy1rU1RFZmhhTWhKYnAwdFQtQjBYS3hqS3BDZk1HZ19uaXFudWRTLUxqSGpaQjhrakZOd2t6R2RRcldOcG41cHVyWm5yNkdtSW84NTJiTmlYcmp4SlhHLU1XX0V2c2tZVnVvWlVBNVZwQQ?oc=5"
+    },
+    {
+      "title": "Taylor Swift announces 'The Life of a Showgirl: The Encore' album with four new songs",
+      "outlet": "fox11online.com",
+      "date": "2026-09-23",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNW14OEdCVmhCUi16cXFpMFVxR0s0R2haZU1hSEJ6eUszeTM0VUMxdzl6REhjNTE1eEo3WThGWU9jZW0yQ0JTOHNXallLbW4wb2hmYTdBZ3Z6LVVVSGVNdnI4eGFrc2YyYmlGYjZSa0x3VFE3M1YzenpqY21WVFZPWXp3Y2tZS0Qzb2pKeEo3V2tPV0RiX0VzNnBnWVlsRDdvZjczek9hM1JLOXE3NkVvT1ZmUTNrQUplV3dhX3N4NEEzenc?oc=5"
     },
     {
       "title": "Taylor Swift announces ‘The Life of a Showgirl: The Encore’",
@@ -2330,16 +2282,16 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWVVfcmNVQTBRNDItNUk3a3premJRcjJ0RnVxNlhsUU9QdlRPWV9xZThSWVNaSi1YM0xMUHBxMWg4eW1XMW1jM1lVaXUzZk51Q1owSm5Hc3ZFa2FhTnk0aHFhMVFPRFpKNVBWUS1pRlBDek1XZnJYOEpsMHVwNS1fWjZZdkZ3MlRoUS1oRVRiWXQ5Z9IBlwFBVV95cUxPZjY4SUZRWFgxOE1RUVBlQVF6b2R1T2FrXzNTRHJmNzJ0dEhkbVpRaXJwSDF0b3pqRldFRHFtYl95UnFnTmJhVXJuTlVuakNaaUlIQkxsUl96S05kUHZTanFVU2JrZjFYWV93SDRYU2dqb0ZFeDJDZTN3T2RYUEpjY2ZjWTJLaFdNREdJM1ptM2dQSl9FYjl3?oc=5"
     },
     {
-      "title": "Taylor Swift's 'Life of a Showgirl' Trademark Fight Escalates as Lawyers Call Lawsuit 'Nonsensical'",
-      "outlet": "rollingstone.com",
+      "title": "Travis and Jason Kelce loving the Taylor Swift 'that's my husband' memes after TD",
+      "outlet": "Yahoo Sports",
       "date": "2026-09-23",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcjV3ajdUWFNfU1ctNGswQkZJRE9vRnB1bVh6MHBTYWNocmxOY05tM3RNVnJXaXBJVmxyeDdsUVNObmN3RjltTmotVnBTbVQ3YWpsYUdDNlI4SzcxWFdaUW50c1FjWWR1TnV6R0MzNmVZdWpyRE1MUTRXbi1rTHlteWZkcVBpZHJVOEZvRGllb01ONE1Cc0lTOWQwb25OWWFWbUpqMlp6d3lleUNBdG00QWNVQ3VFNEE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTlRWN3VhZ3M5ZFQwczVLVVQwT3E1ZlBZQkF5aTgzM3Nvb0V6b05CSzEwOWxkN3dkQ0l3eFFRbS1kODBIdnVtWXhPR3ZEWHdCeUl6bldaSDdRYlVxeXh6RXNaWC1WMTVtVmhjdlBTcXVkYWk2aUhtQ1JYcUxKa3BtXy1xM1VVc0dn?oc=5"
     },
     {
-      "title": "Taylor Swift announces deluxe version of The Life of a Showgirl with 4 new songs",
-      "outlet": "cbc.ca",
+      "title": "Taylor Swift’s ‘Patient Zero’ single, updated ‘Showgirl’ album aren’t Grammy-eligible this year, but could help her campaign",
+      "outlet": "Gold Derby",
       "date": "2026-09-23",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRFhydkRabkhSQk1YOC1LMURkY1R2TlE1bFl4SGZEek45a21kYXdSOWUtV2x6dVhZTXlFTlB6REVHZU9uWnItVDUxczhTTkZYMy1VaWRBR3lUSnNYU1lzcGRjaGpxejZ2MVVKLXNEcHdXeTlJcmxIb1hLb2daT2lPUXNkT0VfMU9wVjJaT1hEWVdONmpqblcwZ091Q1RVbTlqYUZaQXJDdTRhZnBXSUJzNEV3ZWhzM09ET29hX3B3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMVZ1Wms2VFNXZ180MWJ4d1NyZlZyUHdad2ZlN0F4aEhvSmEzT0x0TnlJbUNhMV9Zai1MZVlmMlFiVDY5dHY4dFRSTURlQ20zNkl0OWxMcll2UHlsRFR3UVYzbDMtWDJqaHhUc0t2eDRQb0gwYVdITUNBTW1tSHhVUnZFQW5laGRMMXJpNlFPSTFYeFhfQjE0TTY4Mjd3aDhYNFNnLUdGYU1KWEU?oc=5"
     },
     {
       "title": "Taylor Swift expands ‘Life of a Showgirl’ with new songs dropping soon",
@@ -2348,10 +2300,58 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTVZXZ21wZDRyRFdHNUFHZ2U3MzF1ckZQbDhVVGpfUVZhYThkNDZXUHlpYzlyTUlHZ0xiN1FFUm9sdTIwTHdwMzBBWDV5OEl3aFYxeHNXUjV1TUNCcDBRWVJ6RnJDNlJ4R21nc2ZxTzZhOWpIVENvaVNxeUJrUUgxWEN2OU1QWkw1VkNwU2lDTm9PdWpvNklQOEpPNmpEQTYxTnViT3pyRmxwVkxKcXc?oc=5"
     },
     {
+      "title": "All of Taylor Swift’s ‘Patient Zero’ Easter eggs fans may have missed in ‘Opalite’ music video, Emmys sketch and more",
+      "outlet": "Page Six",
+      "date": "2026-09-23",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMmpnejF5dER5bG9Gd191aGZnMS05cWV4U0xmM1JMWlI4b2huZFhtMVRtN3M3Tk1MOW5yZ2NFbmZOYzFBM2pya1Q1dVBySVlVblM1NVd0SFFPa29PNmNnbXVqRW1XcHN5a1JPUFRoZHNjeWJoekJlZ1NMWDVaNlFoeFlqMWd5aHI3Tm52Y0JxWXNZaFl1bkN5ZURDbFI4dGZaSTZiTnpFMGlxX2JYUDRGczdYWFROME9wVFZlWHYtdm04Zw?oc=5"
+    },
+    {
+      "title": "Taylor Swift’s latest release still isn’t her wedding photos",
+      "outlet": "washingtonpost.com",
+      "date": "2026-09-23",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR09KX25KTFE3Y0MtVFFoNHlxYVljWVc2TTNESVJBNk0zZ28xcGdmS2Q1OVRDSGp3OFN4S3BDTTktUC1RUHdrTmhWX1ZCWmF5cUg4TktFc0lsNWZHd1A1MUNtdVEwdlRHcFFkZ2ZscFBTRFR6Y0lrOXBveW5yWlZVTi1oSVZrQ3NBeURhQmwzd0FkZVZxVlUzVXBmaEZ0THNlT1pGRjhpd1ctMmFEMHR2YWt2eEFIX3hlbG5Rbkl3?oc=5"
+    },
+    {
       "title": "What Does “Pink Clouding” Mean? Fans Think They Know What (and Who) Taylor Swift’s New Song Is About",
-      "outlet": "Cosmopolitan",
+      "outlet": "cosmopolitan.com",
       "date": "2026-09-23",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMXpxMUhzWk9OTXFydm9kYlkzWmJ1cXM5Ny14anctTWNzWHhBc1RWQ1FOWGdyVXh5ZG43TGR6R3J5TGp5RnJFVUhtMlFKTWlWVS1qbzlCTW1ndC1aRFVxZzVQMGtRbUsxMjFSTnpHN2YtWXBMSXlYTnQ0LWQteDQ3OGhsUWlfWDFFbmZaYTlhNFRkTjhZN3JPYTIzcVhLbi1mdnZiXw?oc=5"
+    },
+    {
+      "title": "Taylor Swift behind Travis Kelce’s success, Kansas City Chiefs coach credits",
+      "outlet": "NewsNation",
+      "date": "2026-09-23",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa0d5M3VZRC13TjJtU0ppbk0tZ0NiaTJCZlFTcmxGS1JRNGpFVlRneXNLeWRoMVc0UXVneG1iRFBkUld4b3dHeHE4Q1FOSFlnWXBGVldHVEdNUEVmcC0xWDBmaHgta0w4R0JwSHJ2ZXBuZUtZLWZOSEgzcS03S3ZVOVBGNkVMa0V5ejQ2SVIxTVRodXpIUkpzVGtobWs1MmVS0gGmAUFVX3lxTE13RXlpaklNd1U3M1ozVlpVWm9oZnN2LTd4R29QblVyMWhJZnpSelo0RGlLXzhJYlFZSWxpYkMxcHNNVVh1UmdDYy1hTnFNRG1MeGtCenc3STRWNVVROXozVHFGYXU3cEcwZjRwZS1kZ2dTU3Zmek9rTzd4cGw3SDhNbjZLdWJJRUFKUERLdG9RR3ViZ1NnQ0VONVBKaTdSRVVNTDJHQlE?oc=5"
+    },
+    {
+      "title": "Taylor Swift announces deluxe ‘Life of a Showgirl’ album with four new songs",
+      "outlet": "KY3",
+      "date": "2026-09-23",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU0Z3NjF5M2YtVnAwZTJhVlB1TDlqYnN6UzhaOXpzanJVMjIwMkxiU3J5NUFUODhQVVFzSFhwUTZTYm5hNmRiWGk3N2c2TnA0T3JfWVpncDRVRDNQS1E4c2dwZEdtWTJUZ3N3c1diYkluQ004VXc1Zm9QR2Zad3BqNkVtdTV4Wm9UcGh6Vmd4YUp0by1fRkJEel82RHU3QVc1c0130gG3AUFVX3lxTE16MzlPeTh4RUxrV012eXExc2VDaGtpQ1owTDJRVXNHQjg5OUxXTXVNQUhCUXdFNE01MlQtZDA4Q3hGeDVIVl9GZUF1cGdhLXE2Q1hEVDAza1dBTWV0MThJa29lNlprckJqMERWYUp3ZEdWQU8xMU95QUhadDhhOHBxUnotaDZYUmNrOHJudFVjN1NpNkYtbERfRE1SRWVPUXhyRUVKS19DVzRDdHVYX1dqZXEyU3NkNA?oc=5"
+    },
+    {
+      "title": "Taylor Swift Releasing Another 'Life Of A Showgirl' Album Version—With Four New Songs",
+      "outlet": "Forbes",
+      "date": "2026-09-23",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOenpYY2Jsc19uS1VTblVuT1Rna0J6S1QwN3JUZnhmLUhjcnBLc01ucUVVN0NxRU5LNmNNRld4S1d0eVZLN2JhUmFzeUY4YXhsRUJaUE95N2RBTG5Vc3hxRGFnekxmVjgtazJEMDVRSUUxazExY29McjdKeVlvZ0hUV0V4cjdhYWFoUDJicXBIcjc4V3ZQX1Z0WGJiUUNVRHk5MzhJUHRrNmN4S1BZdnhaSy1MUnBJWml2aXkyY3VXcDI5MDk3clM4SkwtZi1SczJuQjRj?oc=5"
+    },
+    {
+      "title": "If Taylor Swift and Travis Kelce's adorable dog has you thinking about a Samoyed, here's what you need to know",
+      "outlet": "Yahoo Creators",
+      "date": "2026-09-23",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQmFHRGlZT3AtR3JucFFESTRYM2JKek5jMEd4eDcyekpIZWxhb2p2TUNMdENmMlIwNUQ1TnRFODVOV1dDRjl6eFlsTEFTM0J5c2ZudXItckZkN3FsS25VNnNWQnhQMjJNUS1ZN01udXN0cUREOExrRTdsREQzMlQwOUNUenhhcGhMdElwN2duVTdWQVFBdW84QXlUX1FlRDNDZFA5TDFEWEk3dVpUUmJncEpoUWI3MDN1SzdxSlJpcTVrT0tKdjVlRzcyR0I3T0hTRUVFdWJnczA3dw?oc=5"
+    },
+    {
+      "title": "Taylor Swift said today she will drop a total of four new tracks this Friday as part of the expanded The Life of a Showgirl: The Encore album. Read more below.",
+      "outlet": "facebook.com",
+      "date": "2026-09-23",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQelAtX3hUUC1IMlh2a2F4di12dWZMVDhkSVpWWjh5R0RNeVd2MWFvX3p4bEhGNk5xai16cVlNcVhTXzJPODdlVXZGZlZKcVV3TUdGQjhDaUpEYXdqTnJIc18takVtYWh2UXFEbFhRcEdfTmZQNWJDN3d1WVgxVXp0bjhPVzdoTmF5QzVya1ZtQWthUDRmb3M0UnJlUGc2R0R4UC0za3E1NG8zQ29pOEFRS2VrTzJLS3FlX21MOEdfZlluN1gxdU1mcTItc05EMlpfaFIweQ?oc=5"
+    },
+    {
+      "title": "Taylor Swift announces 'The Life of a Showgirl: The Encore' will be released on Friday",
+      "outlet": "UnionLeader.com",
+      "date": "2026-09-23",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNTkxnc2ZaRWVoMnduckVXY1lsTndyd2EzanJLaFRzalFiWW03U0d6Vlp0blRvdVk3QzFncV9tZGVRYWlqSWJQNnJQejlYM1p6Y25UX0VzMEdhWkZlSXROU1dQQUN5cU5LNVhBU1gtSDFxT0JtVTNaaXBmZHdqNWJsRXp0dWZ0QVVvRmdYQ3NYTnlxek5UdG4xQWdHaVM2RkxuSEs4SGZrVE1mTGhtSkdSVmxjM2FFLWRycURKdmFjMk5SYkljZkpPOHcxUWNTN1RWYjJWQTdUU3M4U0k4Y1pETTROcy1qMEpYalg3MGR0Mk94Mnc0S3dtY0dULW8xaDVkclo3Y1hMdw?oc=5"
     }
   ],
   "bio": {
@@ -2377,10 +2377,16 @@
   },
   "tourNews": [
     {
-      "title": "Taylor Swift announces new single ‘Patient Zero’ as fans speculate over next era",
-      "outlet": "NME",
-      "date": "2026-09-23",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORHVtUTJPM282U0xtY1VYRWhqZFdhZHJUZWZKZ2E1d3NyaXFIaDZ6dHlUR0QzWHUtTTFIbmw0ZEVTcVZDMlFDeEhmSVYxUzJKSVFzVDVNNzFrXzBUVVNQaHVLZDBkaGEtZ1lTMzlqVHZDRmhvSmRsVFlSc1FhTXoxYlRQZ3dJZmNtRndxR1p3MGdGaEZUT0kxM1o4dTNMOE40dFpaa1NmMW5qYmV5RGZIZ0h5R2ViaEZF?oc=5"
+      "title": "Photographer scammed family out of $4.6M in child modeling fraud scheme, blew it on gambling, $200K Taylor Swift tickets",
+      "outlet": "Forex Factory",
+      "date": "2026-09-24",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSnJJWE5ZWVFSQWtfdE12S2FtY283VjM3ZG1zYkRQbWpySWd6LVFnaFdNaVhRaUJscVlHSlp6SGptSjNtRFVHQkZfTzhCV2h3ZVJCVUY3UnM0VW93dDIteXVUWEtxQ2xGRGVoeFphbDBLX2ZBV01rcjhVRUFQdW1CY0hyaExDM1ZnMmlGb0F1Ym93UW_SAZgBQVVfeXFMT2xPZjREaFNZU2FBbnlFZ21YYmo0eW5uWC0yN19YUGlZV3BRSlZWNDNZTkJYUHVmT2c5ZkJVbWN1RjE2ZjdGNWNmWm0zVGJWTnExc2hqdUJzaWVlYk9QOWFySVo1RXkwTENodTY4LWVTT1JiNXVCU1U0WnExMUJKSnFUd0dTUXYzMjdWRXc5NTZpenBVa3RXWHo?oc=5"
+    },
+    {
+      "title": "At Least Taylor Swift Isn’t Going on Tour",
+      "outlet": "Bloomberg.com",
+      "date": "2026-09-24",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUWhqR284SmdiX25QeVhHX3FVcWl3djVrNnJWME5SLVU4NGsyenhZaUt0VlVXcE9BN1dYQzdwQXRpZUtFWFRhV0JwQzg1LXdJNWhhYVRSYllJT2FDTDVYOEQ5T0VyemFSTVFkbU9wVTRfUGhMNzcweGpDSmJoN1hncDUxUXd6VEl2N1J4TzJWMEczS01sbkg2U25HeUE0SHc?oc=5"
     },
     {
       "title": "Taylor Swift announces new song ‘Patient Zero,’ her first since her wedding",
@@ -2389,10 +2395,10 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNmJCOGxnNk1Kb3JuejdLWVotcC1hRDlNakdZN1lMcElFaU9Ya2hNUExLMnFzWHZKSGdjNUs4TmVqZWFkMk5SQ2k0Z0lQb3VyUEx0MGtHeXhnMHhiSWU2UU5IM2s2SlRRbDdEaXlXT3lhNGJwal9CMGhra1ZtNE1Xc193TFBneUsyVk94WHJSZ0dzbUhXR1ZQd1pNRWU2NHBQ?oc=5"
     },
     {
-      "title": "Taylor Swift announces ‘The Life of a Showgirl: The Encore’ with four new songs",
-      "outlet": "sandhillsexpress.com",
+      "title": "Taylor Swift announces new single ‘Patient Zero’ as fans speculate over next era",
+      "outlet": "NME",
       "date": "2026-09-23",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNelhZRThVXzhnb2hDek1sQVBYcEFfYzY5eDd0MzNUcHRzNHFWOS1QT1VIVzVsZDI0YXFJemt1bE1QTllfUjVJMTRUbmlJXzRsTkJ4RkRYcnpaYnFfWTV6TDZ0YjZwUnJNNFVQWk5xYmlrbTByRXk5TEw0SzhaX0JuTmN5VzRsSF9UNEJaRkt4TE00X2d1ME14aFd5OEk3Vm1jcl9pMFIxZlJ1c1p5N1ZVU2o4bEhEZkFCNTctTVdyVUZlTzVoRWtaXzlkSUkxamJzUVhJLQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORHVtUTJPM282U0xtY1VYRWhqZFdhZHJUZWZKZ2E1d3NyaXFIaDZ6dHlUR0QzWHUtTTFIbmw0ZEVTcVZDMlFDeEhmSVYxUzJKSVFzVDVNNzFrXzBUVVNQaHVLZDBkaGEtZ1lTMzlqVHZDRmhvSmRsVFlSc1FhTXoxYlRQZ3dJZmNtRndxR1p3MGdGaEZUT0kxM1o4dTNMOE40dFpaa1NmMW5qYmV5RGZIZ0h5R2ViaEZF?oc=5"
     },
     {
       "title": "Photographer Who Scammed Family Out of $4.6M Blew $200K on Taylor Swift Tickets",
@@ -2401,16 +2407,10 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeldzNmdvejRTVXdZOVBjdkpLSUlMZ2NlNjVRaGRiZ2JZMUtaMU9CMm5Ndkg5aXNXWEtwa2M1Uk9oX2NTRk5KLUIybTZLSEFNS0pMTmNMTm5sNVc5a3daUW9sZWFfUVVSZmdSQXFkMjB3Yy1IclN0bmZpaUVLeDZFbU9pZllQTFo4UzdEY1dSY01FZHU5QUJkU3ZpZXJUT05RR1JoVk9YQ1hHYzdkQlFn?oc=5"
     },
     {
-      "title": "Taylor Swift Announces 'The Life of a Showgirl: The Encore' With 4 New Songs",
-      "outlet": "Pembroke Pines News",
+      "title": "Taylor Swift announces ‘The Life of a Showgirl: The Encore’ with four new songs",
+      "outlet": "sandhillsexpress.com",
       "date": "2026-09-23",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZGRkSmNrWGttUXR1ako4UlV1LUlpTmtrU2JtRHpNNzB1cEIzMkZRNFZPZVcyd1VJN3paczQzMGxqZlYwUktJdnNuNDlPRV9DRFQ3Z1kwSXVFVTdVbERIZTZpZzZERE1kQUZCQ3ZndWxOeHFSRDdFZFE4SDI4M2EyVFBXOWRnVFdE?oc=5"
-    },
-    {
-      "title": "Taylor Swift announces deluxe ‘Life of a Showgirl’ album with four new songs",
-      "outlet": "KCBD",
-      "date": "2026-09-23",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcGVxbzNDOTZOZUxwb1JJMzY1eE1fR3ZfVHZONGczT2x2bDd4bU9MNldUUFJPSjE0S3ZMVEFTTUpiWURqYU5SbkpPTFFPRURYZXNUWXVFRkREd2NUaVFHekNwRzh0NjBvNDEzNFBUZVFNUlNOemEyMHRPcnBCbHV3LVhQRjhrVlBieDRYMlBtcklhVnRGV0Jqenc1S2NaTWJmLUVIWtIBuAFBVV95cUxNU0Nmb192dWkyQ3A4cEdUc3ZkUEcxa0VCS1VWeHZjQ0thcElaT1dXVjBaWVNmR3VPbjRUcGp4YXBVR3VvNTQ1REFvTF9DNVhqWVZEb0dVVEh1TTA2Ym9Qc2IxODdFV1E4anIxcnk4NnpSSDJ6UFVrTFJQQ1ZOMEh6bW5UTzA4U1B1TjFkU09EZFZVVGM1aVhhOVpreWxVUWtROWhpa3dBRmFaaVZSeTlkc1Z6OXNSMGQw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNelhZRThVXzhnb2hDek1sQVBYcEFfYzY5eDd0MzNUcHRzNHFWOS1QT1VIVzVsZDI0YXFJemt1bE1QTllfUjVJMTRUbmlJXzRsTkJ4RkRYcnpaYnFfWTV6TDZ0YjZwUnJNNFVQWk5xYmlrbTByRXk5TEw0SzhaX0JuTmN5VzRsSF9UNEJaRkt4TE00X2d1ME14aFd5OEk3Vm1jcl9pMFIxZlJ1c1p5N1ZVU2o4bEhEZkFCNTctTVdyVUZlTzVoRWtaXzlkSUkxamJzUVhJLQ?oc=5"
     }
   ],
   "timeline": [
