@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-25T11:54:11.619Z",
+  "generated": "2026-09-25T17:14:49.310Z",
   "artist": {
     "name": "Taylor Swift",
     "full": "Taylor Alison Swift",
@@ -9,8 +9,8 @@
   "stats": {
     "yearsSinceDebut": 19,
     "eraCount": 12,
-    "releaseCount": 102,
-    "albumCount": 20
+    "releaseCount": 113,
+    "albumCount": 21
   },
   "eras": [
     {
@@ -38,14 +38,14 @@
       "trackCount": 12,
       "url": "https://music.apple.com/us/album/the-life-of-a-showgirl/1842897453?uo=4",
       "counts": {
-        "total": 6,
+        "total": 5,
         "main": 3,
-        "side": 3
+        "side": 2
       },
       "releases": [
-        "itunes-6814995859",
-        "itunes-1888604488",
-        "itunes-1844456724"
+        "deezer-1103662682",
+        "deezer-950714891",
+        "deezer-829966251"
       ]
     },
     {
@@ -73,14 +73,14 @@
       "trackCount": 17,
       "url": "https://music.apple.com/us/album/the-tortured-poets-department/1736268215?uo=4",
       "counts": {
-        "total": 4,
+        "total": 5,
         "main": 3,
-        "side": 1
+        "side": 2
       },
       "releases": [
         "deezer-661594161",
-        "deezer-650714541",
-        "itunes-1736268215"
+        "itunes-1771721470",
+        "itunes-1736268193"
       ]
     },
     {
@@ -108,15 +108,15 @@
       "trackCount": 13,
       "url": "https://music.apple.com/us/album/midnights/1645937249?uo=4",
       "counts": {
-        "total": 14,
+        "total": 16,
         "main": 4,
-        "side": 10
+        "side": 12
       },
       "releases": [
-        "deezer-510515281",
+        "itunes-1715759490",
         "deezer-446218925",
         "deezer-378929107",
-        "itunes-1649434996"
+        "itunes-1650841512"
       ]
     },
     {
@@ -144,15 +144,16 @@
       "trackCount": 16,
       "url": "https://music.apple.com/us/album/evermore/1544275966?uo=4",
       "counts": {
-        "total": 18,
-        "main": 4,
-        "side": 14
+        "total": 21,
+        "main": 5,
+        "side": 16
       },
       "releases": [
         "deezer-221068422",
         "deezer-217802252",
-        "itunes-1547316125",
-        "itunes-1544275966"
+        "deezer-198167862",
+        "itunes-1545223630",
+        "deezer-192580112"
       ]
     },
     {
@@ -180,13 +181,13 @@
       "trackCount": 16,
       "url": "https://music.apple.com/us/album/folklore/1524793738?uo=4",
       "counts": {
-        "total": 6,
+        "total": 8,
         "main": 2,
-        "side": 4
+        "side": 6
       },
       "releases": [
-        "itunes-1541905871",
-        "itunes-1528111535"
+        "itunes-1541904688",
+        "itunes-1524793738"
       ]
     },
     {
@@ -247,13 +248,14 @@
       "trackCount": 15,
       "url": "https://music.apple.com/us/album/reputation/1440933849?uo=4",
       "counts": {
-        "total": 5,
-        "main": 4,
+        "total": 6,
+        "main": 5,
         "side": 1
       },
       "releases": [
         "deezer-80126642",
         "deezer-76330742",
+        "itunes-1445765846",
         "itunes-1440933849",
         "itunes-1444778002"
       ]
@@ -288,7 +290,7 @@
         "side": 1
       },
       "releases": [
-        "itunes-1708308989",
+        "itunes-1713845538",
         "itunes-1440933512",
         "itunes-1445765736"
       ]
@@ -323,9 +325,9 @@
         "side": 6
       },
       "releases": [
-        "itunes-1595423133",
+        "itunes-1590368448",
         "deezer-130716962",
-        "itunes-1440934573"
+        "itunes-1440935340"
       ]
     },
     {
@@ -353,15 +355,16 @@
       "trackCount": 15,
       "url": "https://music.apple.com/us/album/speak-now/1440920310?uo=4",
       "counts": {
-        "total": 8,
-        "main": 5,
+        "total": 9,
+        "main": 6,
         "side": 3
       },
       "releases": [
         "itunes-1690839749",
         "deezer-130716972",
+        "itunes-1445766378",
         "itunes-1440932770",
-        "itunes-1440935756",
+        "itunes-1440920310",
         "itunes-1445941811"
       ]
     },
@@ -390,15 +393,16 @@
       "trackCount": 14,
       "url": "https://music.apple.com/us/album/fearless/1440924803?uo=4",
       "counts": {
-        "total": 9,
-        "main": 4,
+        "total": 10,
+        "main": 5,
         "side": 5
       },
       "releases": [
         "itunes-1552791073",
         "deezer-130714712",
         "deezer-283925",
-        "itunes-1452859090"
+        "itunes-1440924803",
+        "itunes-1445939760"
       ]
     },
     {
@@ -426,15 +430,16 @@
       "trackCount": 11,
       "url": "https://music.apple.com/us/album/taylor-swift/1860454442?uo=4",
       "counts": {
-        "total": 6,
-        "main": 4,
+        "total": 7,
+        "main": 5,
         "side": 2
       },
       "releases": [
         "deezer-874936972",
         "deezer-72093192",
         "itunes-1440932737",
-        "itunes-1860454442"
+        "itunes-1440913923",
+        "itunes-1445940437"
       ]
     }
   ],
@@ -469,36 +474,30 @@
     }
   ],
   "latest": {
-    "id": "itunes-6814995859",
+    "id": "deezer-1103662682",
     "title": "The Life of a Showgirl: The Encore",
-    "date": "2026-09-24",
-    "trackCount": 16,
-    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/1400x1400bb.jpg",
-    "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/600x600bb.jpg",
-    "url": "https://music.apple.com/us/album/the-life-of-a-showgirl-the-encore/6814995859?uo=4",
-    "copyright": "℗ 2026 Taylor Swift",
-    "genre": "Pop",
-    "via": "apple",
+    "date": "2026-09-25",
+    "trackCount": null,
+    "art": "https://cdn-images.dzcdn.net/images/cover/3b43f946f6478daf5233a41414c34067/1000x1000-000000-80-0-0.jpg",
+    "artSmall": "https://cdn-images.dzcdn.net/images/cover/3b43f946f6478daf5233a41414c34067/500x500-000000-80-0-0.jpg",
+    "url": "https://www.deezer.com/album/1103662682",
     "recordType": "album",
-    "deezerUrl": "https://www.deezer.com/album/1103662682",
-    "kind": "Album",
+    "via": "deezer",
+    "kind": "Single",
     "year": "2026"
   },
   "releases": [
     {
-      "id": "itunes-6814995859",
+      "id": "deezer-1103662682",
       "title": "The Life of a Showgirl: The Encore",
-      "date": "2026-09-24",
-      "trackCount": 16,
-      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/1400x1400bb.jpg",
-      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/600x600bb.jpg",
-      "url": "https://music.apple.com/us/album/the-life-of-a-showgirl-the-encore/6814995859?uo=4",
-      "copyright": "℗ 2026 Taylor Swift",
-      "genre": "Pop",
-      "via": "apple",
+      "date": "2026-09-25",
+      "trackCount": null,
+      "art": "https://cdn-images.dzcdn.net/images/cover/3b43f946f6478daf5233a41414c34067/1000x1000-000000-80-0-0.jpg",
+      "artSmall": "https://cdn-images.dzcdn.net/images/cover/3b43f946f6478daf5233a41414c34067/500x500-000000-80-0-0.jpg",
+      "url": "https://www.deezer.com/album/1103662682",
       "recordType": "album",
-      "deezerUrl": "https://www.deezer.com/album/1103662682",
-      "kind": "Album",
+      "via": "deezer",
+      "kind": "Single",
       "year": "2026"
     },
     {
@@ -516,13 +515,13 @@
       "year": "2026"
     },
     {
-      "id": "itunes-6778230429",
-      "title": "I Knew It, I Knew You (From \"Toy Story 5\") - Single",
-      "date": "2026-06-12",
-      "trackCount": 3,
-      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ae/c1/15/aec11538-c395-b88e-b0f9-7b5b07b8e676/ticket.zkazzkhn.jpg/1400x1400bb.jpg",
-      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ae/c1/15/aec11538-c395-b88e-b0f9-7b5b07b8e676/ticket.zkazzkhn.jpg/600x600bb.jpg",
-      "url": "https://music.apple.com/us/album/i-knew-it-i-knew-you-from-toy-story-5-single/6778230429?uo=4",
+      "id": "itunes-6777576217",
+      "title": "I Knew It, I Knew You (Acoustic Version) [From \"Toy Story 5\"] - Single",
+      "date": "2026-06-05",
+      "trackCount": 1,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/e4/6d/38e46daf-d479-996a-118f-0357082b1941/26UMGIM72467.rgb.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/38/e4/6d/38e46daf-d479-996a-118f-0357082b1941/26UMGIM72467.rgb.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/i-knew-it-i-knew-you-acoustic-version-from-toy-story-5-single/6777576217?uo=4",
       "copyright": "℗ 2026 Walt Disney Records / Pixar",
       "genre": "Country",
       "via": "apple",
@@ -532,34 +531,15 @@
       "year": "2026"
     },
     {
-      "id": "itunes-1888604488",
+      "id": "deezer-950714891",
       "title": "Elizabeth Taylor",
       "date": "2026-03-31",
-      "trackCount": 4,
-      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/14/dc/2b14dc4d-5173-7b38-b0ff-1c30daf5fa32/26UMGIM37308.rgb.jpg/1400x1400bb.jpg",
-      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/14/dc/2b14dc4d-5173-7b38-b0ff-1c30daf5fa32/26UMGIM37308.rgb.jpg/600x600bb.jpg",
-      "url": "https://music.apple.com/us/album/elizabeth-taylor/1888604488?uo=4",
-      "copyright": "℗ 2026 Taylor Swift",
-      "genre": "Pop",
-      "via": "apple",
+      "trackCount": null,
+      "art": "https://cdn-images.dzcdn.net/images/cover/35c40586d95b117b03060b29b9e43eb7/1000x1000-000000-80-0-0.jpg",
+      "artSmall": "https://cdn-images.dzcdn.net/images/cover/35c40586d95b117b03060b29b9e43eb7/500x500-000000-80-0-0.jpg",
+      "url": "https://www.deezer.com/album/950714891",
       "recordType": "single",
-      "deezerUrl": "https://www.deezer.com/album/950714891",
-      "kind": "Single",
-      "year": "2026"
-    },
-    {
-      "id": "itunes-1874387732",
-      "title": "Opalite - Single",
-      "date": "2026-02-06",
-      "trackCount": 2,
-      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f2/77/93/f2779373-dbd5-2948-6383-4aa54ae2aef8/26UMGIM11621.rgb.jpg/1400x1400bb.jpg",
-      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f2/77/93/f2779373-dbd5-2948-6383-4aa54ae2aef8/26UMGIM11621.rgb.jpg/600x600bb.jpg",
-      "url": "https://music.apple.com/us/album/opalite-single/1874387732?uo=4",
-      "copyright": "℗ 2026 Taylor Swift",
-      "genre": "Pop",
-      "via": "apple",
-      "recordType": "single",
-      "deezerUrl": "https://www.deezer.com/album/922105131",
+      "via": "deezer",
       "kind": "Single",
       "year": "2026"
     },
@@ -577,19 +557,17 @@
       "year": "2025"
     },
     {
-      "id": "itunes-1844456724",
-      "title": "The Life of a Showgirl (Track by Track Version)",
+      "id": "deezer-829966251",
+      "title": "The Life of a Showgirl",
       "date": "2025-10-03",
-      "trackCount": 38,
-      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/3f/2b/0b3f2b1a-6557-4a7c-40af-5f86269965c9/25UM1IM53942.rgb.jpg/1400x1400bb.jpg",
-      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/3f/2b/0b3f2b1a-6557-4a7c-40af-5f86269965c9/25UM1IM53942.rgb.jpg/600x600bb.jpg",
-      "url": "https://music.apple.com/us/album/the-life-of-a-showgirl-track-by-track-version/1844456724?uo=4",
-      "copyright": "℗ 2025 Taylor Swift",
-      "genre": "Pop",
-      "via": "apple",
+      "trackCount": null,
+      "art": "https://cdn-images.dzcdn.net/images/cover/d0bed55a0efb3c5c3ddb3dacda67d9b3/1000x1000-000000-80-0-0.jpg",
+      "artSmall": "https://cdn-images.dzcdn.net/images/cover/d0bed55a0efb3c5c3ddb3dacda67d9b3/500x500-000000-80-0-0.jpg",
+      "url": "https://www.deezer.com/album/829966251",
       "recordType": "album",
+      "via": "deezer",
       "deezerUrl": "https://www.deezer.com/album/835672072",
-      "kind": "Album",
+      "kind": "Single",
       "year": "2025"
     },
     {
@@ -606,26 +584,29 @@
       "year": "2024"
     },
     {
-      "id": "deezer-650714541",
-      "title": "THE TORTURED POETS DEPARTMENT | TS The Eras Tour Setlist",
+      "id": "itunes-1771721470",
+      "title": "THE TORTURED POETS DEPARTMENT  TS The Eras Tour Setlist",
       "date": "2024-10-03",
-      "trackCount": null,
-      "art": "https://cdn-images.dzcdn.net/images/cover/5ff71135eb0222c652609cd670daad80/1000x1000-000000-80-0-0.jpg",
-      "artSmall": "https://cdn-images.dzcdn.net/images/cover/5ff71135eb0222c652609cd670daad80/500x500-000000-80-0-0.jpg",
-      "url": "https://www.deezer.com/album/650714541",
+      "trackCount": 7,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f2/e9/df/f2e9dfd0-6602-1aef-6171-51cd3138df86/24UM1IM07019.rgb.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f2/e9/df/f2e9dfd0-6602-1aef-6171-51cd3138df86/24UM1IM07019.rgb.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/the-tortured-poets-department-ts-the-eras-tour-setlist/1771721470?uo=4",
+      "copyright": "℗ 2024 Taylor Swift",
+      "genre": "Pop",
+      "via": "apple",
       "recordType": "ep",
-      "via": "deezer",
-      "kind": "Single",
+      "deezerUrl": "https://www.deezer.com/album/650714541",
+      "kind": "EP",
       "year": "2024"
     },
     {
-      "id": "itunes-1757015576",
+      "id": "itunes-1757016511",
       "title": "I Can Do It With a Broken Heart - Single",
       "date": "2024-07-16",
-      "trackCount": 2,
-      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/e4/61/bbe4619c-1591-4f73-f997-c54f740dd347/24UMGIM77102.rgb.jpg/1400x1400bb.jpg",
-      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/e4/61/bbe4619c-1591-4f73-f997-c54f740dd347/24UMGIM77102.rgb.jpg/600x600bb.jpg",
-      "url": "https://music.apple.com/us/album/i-can-do-it-with-a-broken-heart-single/1757015576?uo=4",
+      "trackCount": 1,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9c/91/2d/9c912ddb-0afd-6d16-28c5-16fbe378bf4d/24UMGIM77102.rgb.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9c/91/2d/9c912ddb-0afd-6d16-28c5-16fbe378bf4d/24UMGIM77102.rgb.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/i-can-do-it-with-a-broken-heart-single/1757016511?uo=4",
       "copyright": "℗ 2024 Taylor Swift",
       "genre": "Pop",
       "via": "apple",
@@ -635,13 +616,29 @@
       "year": "2024"
     },
     {
-      "id": "itunes-1736268215",
+      "id": "itunes-1756208903",
+      "title": "Fortnight (feat. Post Malone) [Acoustic Version] - Single",
+      "date": "2024-07-09",
+      "trackCount": 1,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c1/d1/30/c1d1304e-9687-6682-b64a-19f2388fdf6e/24UMGIM52327.rgb.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c1/d1/30/c1d1304e-9687-6682-b64a-19f2388fdf6e/24UMGIM52327.rgb.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/fortnight-feat-post-malone-acoustic-version-single/1756208903?uo=4",
+      "copyright": "℗ 2024 Taylor Swift",
+      "genre": "Pop",
+      "via": "apple",
+      "recordType": "single",
+      "deezerUrl": "https://www.deezer.com/album/611808002",
+      "kind": "Single",
+      "year": "2024"
+    },
+    {
+      "id": "itunes-1736268193",
       "title": "THE TORTURED POETS DEPARTMENT",
       "date": "2024-04-19",
       "trackCount": 17,
-      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6b/7d/61/6b7d61e4-e6f1-83bc-d645-463aa06b33c4/24UMGIM29563.rgb.jpg/1400x1400bb.jpg",
-      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6b/7d/61/6b7d61e4-e6f1-83bc-d645-463aa06b33c4/24UMGIM29563.rgb.jpg/600x600bb.jpg",
-      "url": "https://music.apple.com/us/album/the-tortured-poets-department/1736268215?uo=4",
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a8/45/fd/a845fd82-d5c1-bffe-806a-ed0700b1c589/24UMGIM29563.rgb.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a8/45/fd/a845fd82-d5c1-bffe-806a-ed0700b1c589/24UMGIM29563.rgb.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/the-tortured-poets-department/1736268193?uo=4",
       "copyright": "℗ 2024 Taylor Swift",
       "genre": "Pop",
       "via": "apple",
@@ -651,17 +648,19 @@
       "year": "2024"
     },
     {
-      "id": "deezer-510515281",
-      "title": "The Cruelest Summer",
-      "date": "2023-11-09",
-      "trackCount": null,
-      "art": "https://cdn-images.dzcdn.net/images/cover/4bb461cef3d1affde86c354b25505442/1000x1000-000000-80-0-0.jpg",
-      "artSmall": "https://cdn-images.dzcdn.net/images/cover/4bb461cef3d1affde86c354b25505442/500x500-000000-80-0-0.jpg",
-      "url": "https://www.deezer.com/album/510515281",
-      "recordType": "ep",
-      "via": "deezer",
-      "deezerUrl": "https://www.deezer.com/album/501953881",
-      "kind": "Single",
+      "id": "itunes-1713845538",
+      "title": "1989 (Taylor's Version) [Deluxe]",
+      "date": "2023-10-27",
+      "trackCount": 22,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8e/35/6c/8e356cc2-0be4-b83b-d29e-b578623df2ac/23UM1IM34052.rgb.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8e/35/6c/8e356cc2-0be4-b83b-d29e-b578623df2ac/23UM1IM34052.rgb.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/1989-taylors-version-deluxe/1713845538?uo=4",
+      "copyright": "℗ 2023 Taylor Swift",
+      "genre": "Pop",
+      "via": "apple",
+      "recordType": "album",
+      "deezerUrl": "https://www.deezer.com/album/505316961",
+      "kind": "Taylor's Version",
       "year": "2023"
     },
     {
@@ -679,19 +678,33 @@
       "year": "2023"
     },
     {
-      "id": "itunes-1708308989",
-      "title": "1989 (Taylor's Version)",
-      "date": "2023-10-27",
-      "trackCount": 21,
-      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/11/a6/80/11a680e6-2e48-08fa-5e87-3f18e838d31f/23UM1IM11868.rgb.jpg/1400x1400bb.jpg",
-      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/11/a6/80/11a680e6-2e48-08fa-5e87-3f18e838d31f/23UM1IM11868.rgb.jpg/600x600bb.jpg",
-      "url": "https://music.apple.com/us/album/1989-taylors-version/1708308989?uo=4",
+      "id": "itunes-1715759490",
+      "title": "The Cruelest Summer - Single",
+      "date": "2023-10-19",
+      "trackCount": 4,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c8/07/95/c80795f1-cace-5dbe-498c-4ac6ee448abe/23UM1IM30381.rgb.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c8/07/95/c80795f1-cace-5dbe-498c-4ac6ee448abe/23UM1IM30381.rgb.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/the-cruelest-summer-single/1715759490?uo=4",
       "copyright": "℗ 2023 Taylor Swift",
       "genre": "Pop",
       "via": "apple",
-      "recordType": "album",
-      "deezerUrl": "https://www.deezer.com/album/505316961",
-      "kind": "Taylor's Version",
+      "recordType": "ep",
+      "deezerUrl": "https://www.deezer.com/album/501953881",
+      "kind": "Single",
+      "year": "2023"
+    },
+    {
+      "id": "itunes-1712546526",
+      "title": "Cruel Summer (Live from TS The Eras Tour) - Single",
+      "date": "2023-10-19",
+      "trackCount": 1,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fd/a3/83/fda38397-c955-a6a3-123b-b25a0b30a869/23UM1IM30516.rgb.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/fd/a3/83/fda38397-c955-a6a3-123b-b25a0b30a869/23UM1IM30516.rgb.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/cruel-summer-live-from-ts-the-eras-tour-single/1712546526?uo=4",
+      "copyright": "℗ 2023 Taylor Swift",
+      "genre": "Pop",
+      "via": "apple",
+      "kind": "Single",
       "year": "2023"
     },
     {
@@ -740,19 +753,6 @@
       "year": "2023"
     },
     {
-      "id": "deezer-418639447",
-      "title": "The More Fearless (Taylor’s Version) Chapter",
-      "date": "2023-03-17",
-      "trackCount": null,
-      "art": "https://cdn-images.dzcdn.net/images/cover/b6ae278c25eea983bfcd193bf6ab8c9d/1000x1000-000000-80-0-0.jpg",
-      "artSmall": "https://cdn-images.dzcdn.net/images/cover/b6ae278c25eea983bfcd193bf6ab8c9d/500x500-000000-80-0-0.jpg",
-      "url": "https://www.deezer.com/album/418639447",
-      "recordType": "ep",
-      "via": "deezer",
-      "kind": "Single",
-      "year": "2023"
-    },
-    {
       "id": "itunes-1677234264",
       "title": "The More Lover Chapter - EP",
       "date": "2023-03-17",
@@ -769,18 +769,18 @@
       "year": "2023"
     },
     {
-      "id": "itunes-1677234360",
-      "title": "The More Red (Taylor’s Version) Chapter - EP",
+      "id": "itunes-1677234192",
+      "title": "The More Fearless (Taylor’s Version) Chapter - EP",
       "date": "2023-03-17",
-      "trackCount": 6,
-      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cb/89/0a/cb890a7c-ca77-2c07-7715-92075cc91061/23UMGIM27286.rgb.jpg/1400x1400bb.jpg",
-      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cb/89/0a/cb890a7c-ca77-2c07-7715-92075cc91061/23UMGIM27286.rgb.jpg/600x600bb.jpg",
-      "url": "https://music.apple.com/us/album/the-more-red-taylors-version-chapter-ep/1677234360?uo=4",
+      "trackCount": 5,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/56/0a/47/560a47a5-3616-bdf8-2bea-e65b868782ed/23UMGIM27339.rgb.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/56/0a/47/560a47a5-3616-bdf8-2bea-e65b868782ed/23UMGIM27339.rgb.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/the-more-fearless-taylors-version-chapter-ep/1677234192?uo=4",
       "copyright": "℗ 2023 Taylor Swift",
-      "genre": "Pop",
+      "genre": "Country",
       "via": "apple",
       "recordType": "ep",
-      "deezerUrl": "https://www.deezer.com/album/417939037",
+      "deezerUrl": "https://www.deezer.com/album/418639447",
       "kind": "EP",
       "year": "2023"
     },
@@ -817,6 +817,20 @@
       "year": "2023"
     },
     {
+      "id": "itunes-1676967257",
+      "title": "All Of The Girls You Loved Before - Single",
+      "date": "2023-03-17",
+      "trackCount": 1,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/22/1b/74/221b7454-3eb1-1117-66fd-d3b18ffc573a/19UMGIM53909.rgb.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/22/1b/74/221b7454-3eb1-1117-66fd-d3b18ffc573a/19UMGIM53909.rgb.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/all-of-the-girls-you-loved-before-single/1676967257?uo=4",
+      "copyright": "℗ 2023 Taylor Swift",
+      "genre": "Pop",
+      "via": "apple",
+      "kind": "Single",
+      "year": "2023"
+    },
+    {
       "id": "itunes-1676966698",
       "title": "Safe & Sound (Taylor's Version) - Single",
       "date": "2023-03-17",
@@ -833,17 +847,19 @@
       "year": "2023"
     },
     {
-      "id": "itunes-1676967257",
-      "title": "All Of The Girls You Loved Before - Single",
+      "id": "itunes-1677234360",
+      "title": "The More Red (Taylor’s Version) Chapter - EP",
       "date": "2023-03-17",
-      "trackCount": 1,
-      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/22/1b/74/221b7454-3eb1-1117-66fd-d3b18ffc573a/19UMGIM53909.rgb.jpg/1400x1400bb.jpg",
-      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/22/1b/74/221b7454-3eb1-1117-66fd-d3b18ffc573a/19UMGIM53909.rgb.jpg/600x600bb.jpg",
-      "url": "https://music.apple.com/us/album/all-of-the-girls-you-loved-before-single/1676967257?uo=4",
+      "trackCount": 6,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cb/89/0a/cb890a7c-ca77-2c07-7715-92075cc91061/23UMGIM27286.rgb.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cb/89/0a/cb890a7c-ca77-2c07-7715-92075cc91061/23UMGIM27286.rgb.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/the-more-red-taylors-version-chapter-ep/1677234360?uo=4",
       "copyright": "℗ 2023 Taylor Swift",
       "genre": "Pop",
       "via": "apple",
-      "kind": "Single",
+      "recordType": "ep",
+      "deezerUrl": "https://www.deezer.com/album/417939037",
+      "kind": "EP",
       "year": "2023"
     },
     {
@@ -860,13 +876,29 @@
       "year": "2022"
     },
     {
-      "id": "itunes-1653490033",
+      "id": "itunes-1655024126",
+      "title": "Anti-Hero (Acoustic Version) - Single",
+      "date": "2022-11-10",
+      "trackCount": 1,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/33/cc/8e/33cc8e67-ec26-7fe6-d8b5-86ab2c588e87/22UM1IM34750.rgb.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/33/cc/8e/33cc8e67-ec26-7fe6-d8b5-86ab2c588e87/22UM1IM34750.rgb.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/anti-hero-acoustic-version-single/1655024126?uo=4",
+      "copyright": "℗ 2022 Taylor Swift",
+      "genre": "Pop",
+      "via": "apple",
+      "recordType": "ep",
+      "deezerUrl": "https://www.deezer.com/album/373565267",
+      "kind": "Single",
+      "year": "2022"
+    },
+    {
+      "id": "itunes-1653491121",
       "title": "Anti-Hero (feat. Bleachers) - Single",
       "date": "2022-11-08",
       "trackCount": 2,
-      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/33/c8/07/33c807bc-0e68-148f-8abc-a1d61e42cf53/22UM1IM30667.rgb.jpg/1400x1400bb.jpg",
-      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/33/c8/07/33c807bc-0e68-148f-8abc-a1d61e42cf53/22UM1IM30667.rgb.jpg/600x600bb.jpg",
-      "url": "https://music.apple.com/us/album/anti-hero-feat-bleachers-single/1653490033?uo=4",
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ff/13/36/ff1336fd-2fe4-2ca7-8b9d-e5c548ebc50e/22UM1IM30667.rgb.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ff/13/36/ff1336fd-2fe4-2ca7-8b9d-e5c548ebc50e/22UM1IM30667.rgb.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/anti-hero-feat-bleachers-single/1653491121?uo=4",
       "copyright": "℗ 2022 Taylor Swift",
       "genre": "Pop",
       "via": "apple",
@@ -874,13 +906,13 @@
       "year": "2022"
     },
     {
-      "id": "itunes-1649434996",
-      "title": "Midnights",
+      "id": "itunes-1650841512",
+      "title": "Midnights (3am Edition)",
       "date": "2022-10-21",
-      "trackCount": 14,
-      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/67/b5/01/67b501d5-362e-797e-7dbd-942b9e273084/22UM1IM24801.rgb.jpg/1400x1400bb.jpg",
-      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/67/b5/01/67b501d5-362e-797e-7dbd-942b9e273084/22UM1IM24801.rgb.jpg/600x600bb.jpg",
-      "url": "https://music.apple.com/us/album/midnights/1649434996?uo=4",
+      "trackCount": 21,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/59/13/5c/59135ccc-8425-415c-7f89-8aeada60088e/22UM1IM22440.rgb.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/59/13/5c/59135ccc-8425-415c-7f89-8aeada60088e/22UM1IM22440.rgb.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/midnights-3am-edition/1650841512?uo=4",
       "copyright": "℗ 2022 Taylor Swift",
       "genre": "Pop",
       "via": "apple",
@@ -952,19 +984,6 @@
       "year": "2022"
     },
     {
-      "id": "deezer-288395152",
-      "title": "Red (Taylor’s Version): The Slow Motion Chapter",
-      "date": "2022-01-25",
-      "trackCount": null,
-      "art": "https://cdn-images.dzcdn.net/images/cover/bcb99616f63632ab0835f0b16e1523df/1000x1000-000000-80-0-0.jpg",
-      "artSmall": "https://cdn-images.dzcdn.net/images/cover/bcb99616f63632ab0835f0b16e1523df/500x500-000000-80-0-0.jpg",
-      "url": "https://www.deezer.com/album/288395152",
-      "recordType": "ep",
-      "via": "deezer",
-      "kind": "Single",
-      "year": "2022"
-    },
-    {
       "id": "itunes-1605534756",
       "title": "Red (Taylor’s Version): From The Vault Chapter - EP",
       "date": "2022-01-19",
@@ -981,16 +1000,35 @@
       "year": "2022"
     },
     {
-      "id": "deezer-287187352",
-      "title": "Red (Taylor’s Version): She Wrote A Song About Me Chapter",
-      "date": "2022-01-18",
-      "trackCount": null,
-      "art": "https://cdn-images.dzcdn.net/images/cover/f9bd3400fccab17432b61808143b982d/1000x1000-000000-80-0-0.jpg",
-      "artSmall": "https://cdn-images.dzcdn.net/images/cover/f9bd3400fccab17432b61808143b982d/500x500-000000-80-0-0.jpg",
-      "url": "https://www.deezer.com/album/287187352",
+      "id": "itunes-1604664512",
+      "title": "Red (Taylor’s Version): The Slow Motion Chapter",
+      "date": "2022-01-19",
+      "trackCount": 6,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fd/7f/21/fd7f21c1-45a7-ca94-5203-dfcfa1b31c52/22UMGIM01788.rgb.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fd/7f/21/fd7f21c1-45a7-ca94-5203-dfcfa1b31c52/22UMGIM01788.rgb.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/red-taylors-version-the-slow-motion-chapter/1604664512?uo=4",
+      "copyright": "℗ 2022 Taylor Swift",
+      "genre": "Pop",
+      "via": "apple",
       "recordType": "ep",
-      "via": "deezer",
-      "kind": "Single",
+      "deezerUrl": "https://www.deezer.com/album/288395152",
+      "kind": "EP",
+      "year": "2022"
+    },
+    {
+      "id": "itunes-1604665348",
+      "title": "Red (Taylor’s Version): She Wrote A Song About Me Chapter - EP",
+      "date": "2022-01-18",
+      "trackCount": 6,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fc/e0/fd/fce0fde1-ab42-4557-a5f3-e10e80c9b5c0/22UMGIM01778.rgb.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fc/e0/fd/fce0fde1-ab42-4557-a5f3-e10e80c9b5c0/22UMGIM01778.rgb.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/red-taylors-version-she-wrote-a-song-about-me-chapter-ep/1604665348?uo=4",
+      "copyright": "℗ 2022 Taylor Swift",
+      "genre": "Pop",
+      "via": "apple",
+      "recordType": "ep",
+      "deezerUrl": "https://www.deezer.com/album/287187352",
+      "kind": "EP",
       "year": "2022"
     },
     {
@@ -1040,19 +1078,19 @@
       "year": "2021"
     },
     {
-      "id": "itunes-1595423133",
-      "title": "Red (Taylor's Version) [Video Deluxe]",
-      "date": "2021-11-15",
-      "trackCount": 62,
-      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/94/95/85/94958532-4e64-f3b3-84b2-f4d207e31c85/21UM1IM25046.rgb.jpg/1400x1400bb.jpg",
-      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/94/95/85/94958532-4e64-f3b3-84b2-f4d207e31c85/21UM1IM25046.rgb.jpg/600x600bb.jpg",
-      "url": "https://music.apple.com/us/album/red-taylors-version-video-deluxe/1595423133?uo=4",
+      "id": "itunes-1590368448",
+      "title": "Red (Taylor’s Version) [+ A Message from Taylor]",
+      "date": "2021-11-12",
+      "trackCount": 31,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/38/9b/15389bf4-8074-06c3-11ee-655b5453af68/21UM1IM25046.rgb.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/38/9b/15389bf4-8074-06c3-11ee-655b5453af68/21UM1IM25046.rgb.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/red-taylors-version-a-message-from-taylor/1590368448?uo=4",
       "copyright": "℗ 2021 Taylor Swift",
       "genre": "Pop",
       "via": "apple",
       "recordType": "album",
       "deezerUrl": "https://www.deezer.com/album/272247412",
-      "kind": "Taylor's Version",
+      "kind": "Album",
       "year": "2021"
     },
     {
@@ -1070,13 +1108,13 @@
       "year": "2021"
     },
     {
-      "id": "itunes-1595218056",
+      "id": "itunes-1595213550",
       "title": "I Bet You Think About Me (Taylor's Version) (From The Vault) [feat. Chris Stapleton] - Single",
       "date": "2021-11-11",
       "trackCount": 1,
-      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/73/b1/94/73b19455-06b7-ed6f-2b00-f367d8c60f51/21UM1IM25046.rgb.jpg/1400x1400bb.jpg",
-      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/73/b1/94/73b19455-06b7-ed6f-2b00-f367d8c60f51/21UM1IM25046.rgb.jpg/600x600bb.jpg",
-      "url": "https://music.apple.com/us/album/i-bet-you-think-about-me-taylors-version-from-the/1595218056?uo=4",
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/df/61/11/df611190-a30e-5444-3497-27891fe6c26c/21UM1IM25046.rgb.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/df/61/11/df611190-a30e-5444-3497-27891fe6c26c/21UM1IM25046.rgb.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/i-bet-you-think-about-me-taylors-version-from-the/1595213550?uo=4",
       "copyright": "℗ 2021 Taylor Swift",
       "genre": "Country",
       "via": "apple",
@@ -1230,13 +1268,41 @@
       "year": "2021"
     },
     {
-      "id": "itunes-6779570150",
+      "id": "itunes-1550667540",
+      "title": "the \"ladies lunching\" chapter - EP",
+      "date": "2021-02-04",
+      "trackCount": 6,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/25/8a/bd/258abdd1-52b2-15f7-9eb1-e1e58cb4fcf5/21UMGIM04872.rgb.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/25/8a/bd/258abdd1-52b2-15f7-9eb1-e1e58cb4fcf5/21UMGIM04872.rgb.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/the-ladies-lunching-chapter-ep/1550667540?uo=4",
+      "copyright": "℗ 2021 Taylor Swift",
+      "genre": "Pop",
+      "via": "apple",
+      "kind": "EP",
+      "year": "2021"
+    },
+    {
+      "id": "itunes-1550666656",
+      "title": "the \"forever is the sweetest con\" chapter - EP",
+      "date": "2021-01-28",
+      "trackCount": 6,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/53/a8/f8/53a8f8d9-4b08-94a0-10c9-caa539d34e17/21UMGIM04871.rgb.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/53/a8/f8/53a8f8d9-4b08-94a0-10c9-caa539d34e17/21UMGIM04871.rgb.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/the-forever-is-the-sweetest-con-chapter-ep/1550666656?uo=4",
+      "copyright": "℗ 2021 Taylor Swift",
+      "genre": "Pop",
+      "via": "apple",
+      "kind": "EP",
+      "year": "2021"
+    },
+    {
+      "id": "itunes-1548507056",
       "title": "the \"dropped your hand while dancing\" chapter - EP",
       "date": "2021-01-21",
       "trackCount": 6,
-      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e4/cf/abe4cfa7-0621-3954-d79b-45b9c860f982/21UMGIM01624.rgb.jpg/1400x1400bb.jpg",
-      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/e4/cf/abe4cfa7-0621-3954-d79b-45b9c860f982/21UMGIM01624.rgb.jpg/600x600bb.jpg",
-      "url": "https://music.apple.com/us/album/the-dropped-your-hand-while-dancing-chapter-ep/6779570150?uo=4",
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a5/84/5a/a5845a2d-f9fc-ef27-fd14-4ac1d4ca8620/21UMGIM01624.rgb.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a5/84/5a/a5845a2d-f9fc-ef27-fd14-4ac1d4ca8620/21UMGIM01624.rgb.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/the-dropped-your-hand-while-dancing-chapter-ep/1548507056?uo=4",
       "copyright": "℗ 2021 Taylor Swift",
       "genre": "Alternative",
       "via": "apple",
@@ -1244,19 +1310,16 @@
       "year": "2021"
     },
     {
-      "id": "itunes-1547316125",
+      "id": "deezer-198167862",
       "title": "evermore (deluxe version)",
       "date": "2021-01-07",
-      "trackCount": 18,
-      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/18/93/99/189399a7-95e1-324b-e40a-bd9e3ea22a95/20UM1IM14847.rgb.jpg/1400x1400bb.jpg",
-      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/18/93/99/189399a7-95e1-324b-e40a-bd9e3ea22a95/20UM1IM14847.rgb.jpg/600x600bb.jpg",
-      "url": "https://music.apple.com/us/album/evermore-deluxe-version/1547316125?uo=4",
-      "copyright": "℗ 2021 Taylor Swift",
-      "genre": "Alternative",
-      "via": "apple",
+      "trackCount": null,
+      "art": "https://cdn-images.dzcdn.net/images/cover/5bced293f3a0568a5f5111f92cbca47f/1000x1000-000000-80-0-0.jpg",
+      "artSmall": "https://cdn-images.dzcdn.net/images/cover/5bced293f3a0568a5f5111f92cbca47f/500x500-000000-80-0-0.jpg",
+      "url": "https://www.deezer.com/album/198167862",
       "recordType": "album",
-      "deezerUrl": "https://www.deezer.com/album/198167862",
-      "kind": "Album",
+      "via": "deezer",
+      "kind": "Single",
       "year": "2021"
     },
     {
@@ -1292,29 +1355,40 @@
       "year": "2020"
     },
     {
-      "id": "itunes-1544275966",
-      "title": "evermore",
-      "date": "2020-12-11",
-      "trackCount": 16,
-      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/82/33/6e/82336ed3-3d1b-e920-b0a7-61775acd0f33/20UM1IM14847.rgb.jpg/1400x1400bb.jpg",
-      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/82/33/6e/82336ed3-3d1b-e920-b0a7-61775acd0f33/20UM1IM14847.rgb.jpg/600x600bb.jpg",
-      "url": "https://music.apple.com/us/album/evermore/1544275966?uo=4",
+      "id": "itunes-1545223630",
+      "title": "willow (the witch collection) - EP",
+      "date": "2020-12-16",
+      "trackCount": 6,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/6b/09/db/6b09dbb4-86f6-f477-3d45-fea75f43daf9/20UM1IM17389.rgb.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/6b/09/db/6b09dbb4-86f6-f477-3d45-fea75f43daf9/20UM1IM17389.rgb.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/willow-the-witch-collection-ep/1545223630?uo=4",
       "copyright": "℗ 2020 Taylor Swift",
       "genre": "Alternative",
       "via": "apple",
-      "recordType": "album",
-      "deezerUrl": "https://www.deezer.com/album/192580112",
-      "kind": "Album",
+      "kind": "EP",
       "year": "2020"
     },
     {
-      "id": "itunes-1541905871",
+      "id": "deezer-192580112",
+      "title": "evermore",
+      "date": "2020-12-11",
+      "trackCount": null,
+      "art": "https://cdn-images.dzcdn.net/images/cover/5bced293f3a0568a5f5111f92cbca47f/1000x1000-000000-80-0-0.jpg",
+      "artSmall": "https://cdn-images.dzcdn.net/images/cover/5bced293f3a0568a5f5111f92cbca47f/500x500-000000-80-0-0.jpg",
+      "url": "https://www.deezer.com/album/192580112",
+      "recordType": "album",
+      "via": "deezer",
+      "kind": "Single",
+      "year": "2020"
+    },
+    {
+      "id": "itunes-1541904688",
       "title": "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
       "date": "2020-11-25",
       "trackCount": 34,
-      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/dd/6a/2f/dd6a2fec-2476-b44a-f2cc-8a2736143d8c/20UM1IM08851.rgb.jpg/1400x1400bb.jpg",
-      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/dd/6a/2f/dd6a2fec-2476-b44a-f2cc-8a2736143d8c/20UM1IM08851.rgb.jpg/600x600bb.jpg",
-      "url": "https://music.apple.com/us/album/folklore-the-long-pond-studio-sessions-from-the/1541905871?uo=4",
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0f/a0/14/0fa0144d-6cd5-792a-1589-3e1f0c25db49/20UM1IM08851.rgb.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/0f/a0/14/0fa0144d-6cd5-792a-1589-3e1f0c25db49/20UM1IM08851.rgb.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/folklore-the-long-pond-studio-sessions-from-the/1541904688?uo=4",
       "copyright": "℗ 2020 Taylor Swift",
       "genre": "Alternative",
       "via": "apple",
@@ -1354,6 +1428,34 @@
       "year": "2020"
     },
     {
+      "id": "itunes-1741959447",
+      "title": "folklore: the saltbox house chapter - EP",
+      "date": "2020-08-27",
+      "trackCount": 6,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/12/fd/fa/12fdfaf4-abb6-f4ba-93ab-d978373c0972/20UMGIM74036.rgb.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/12/fd/fa/12fdfaf4-abb6-f4ba-93ab-d978373c0972/20UMGIM74036.rgb.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/folklore-the-saltbox-house-chapter-ep/1741959447?uo=4",
+      "copyright": "℗ 2020 Taylor Swift",
+      "genre": "Alternative",
+      "via": "apple",
+      "kind": "EP",
+      "year": "2020"
+    },
+    {
+      "id": "itunes-1528773673",
+      "title": "folklore: the sleepless nights chapter - EP",
+      "date": "2020-08-24",
+      "trackCount": 6,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/39/e2/bd/39e2bdde-b161-c57a-7a32-5aca7113340b/20UMGIM72908.rgb.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/39/e2/bd/39e2bdde-b161-c57a-7a32-5aca7113340b/20UMGIM72908.rgb.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/folklore-the-sleepless-nights-chapter-ep/1528773673?uo=4",
+      "copyright": "℗ 2020 Taylor Swift",
+      "genre": "Alternative",
+      "via": "apple",
+      "kind": "EP",
+      "year": "2020"
+    },
+    {
       "id": "itunes-1741958878",
       "title": "folklore: the escapism chapter - EP",
       "date": "2020-08-21",
@@ -1365,22 +1467,6 @@
       "genre": "Alternative",
       "via": "apple",
       "kind": "EP",
-      "year": "2020"
-    },
-    {
-      "id": "itunes-1528111535",
-      "title": "folklore (deluxe version)",
-      "date": "2020-08-18",
-      "trackCount": 17,
-      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8c/ef/c2/8cefc23a-61b7-05ff-b52a-bb1e4922087c/20UMGIM64216.rgb.jpg/1400x1400bb.jpg",
-      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8c/ef/c2/8cefc23a-61b7-05ff-b52a-bb1e4922087c/20UMGIM64216.rgb.jpg/600x600bb.jpg",
-      "url": "https://music.apple.com/us/album/folklore-deluxe-version/1528111535?uo=4",
-      "copyright": "℗ 2020 Taylor Swift",
-      "genre": "Alternative",
-      "via": "apple",
-      "recordType": "album",
-      "deezerUrl": "https://www.deezer.com/album/167766152",
-      "kind": "Album",
       "year": "2020"
     },
     {
@@ -1400,67 +1486,19 @@
       "year": "2020"
     },
     {
-      "id": "itunes-1513205695",
-      "title": "ME! (Live From Paris) - Single",
-      "date": "2020-05-18",
-      "trackCount": 1,
-      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/00/f8/0c/00f80c2c-2770-2f5d-1f3e-cbc41b24b21c/20UMGIM36101.rgb.jpg/1400x1400bb.jpg",
-      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/00/f8/0c/00f80c2c-2770-2f5d-1f3e-cbc41b24b21c/20UMGIM36101.rgb.jpg/600x600bb.jpg",
-      "url": "https://music.apple.com/us/album/me-live-from-paris-single/1513205695?uo=4",
+      "id": "itunes-1524793738",
+      "title": "folklore",
+      "date": "2020-07-24",
+      "trackCount": 16,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7c/04/ba/7c04ba17-2ff8-21b3-0ac0-7d141f86e924/20UMGIM64216.rgb.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7c/04/ba/7c04ba17-2ff8-21b3-0ac0-7d141f86e924/20UMGIM64216.rgb.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/folklore/1524793738?uo=4",
       "copyright": "℗ 2020 Taylor Swift",
-      "genre": "Pop",
+      "genre": "Alternative",
       "via": "apple",
-      "recordType": "single",
-      "deezerUrl": "https://www.deezer.com/album/148632702",
-      "kind": "Single",
-      "year": "2020"
-    },
-    {
-      "id": "itunes-1513205762",
-      "title": "You Need To Calm Down (Live From Paris) - Single",
-      "date": "2020-05-18",
-      "trackCount": 1,
-      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/21/54/36/2154368d-a452-cc83-d862-9956ddd1b9cc/20UMGIM36102.rgb.jpg/1400x1400bb.jpg",
-      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/21/54/36/2154368d-a452-cc83-d862-9956ddd1b9cc/20UMGIM36102.rgb.jpg/600x600bb.jpg",
-      "url": "https://music.apple.com/us/album/you-need-to-calm-down-live-from-paris-single/1513205762?uo=4",
-      "copyright": "℗ 2020 Taylor Swift",
-      "genre": "Pop",
-      "via": "apple",
-      "recordType": "single",
-      "deezerUrl": "https://www.deezer.com/album/148632802",
-      "kind": "Single",
-      "year": "2020"
-    },
-    {
-      "id": "itunes-1513199534",
-      "title": "The Archer (Live From Paris) - Single",
-      "date": "2020-05-18",
-      "trackCount": 1,
-      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ef/08/7e/ef087e26-ce7c-d6f6-1600-c754010308d3/20UMGIM36100.rgb.jpg/1400x1400bb.jpg",
-      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ef/08/7e/ef087e26-ce7c-d6f6-1600-c754010308d3/20UMGIM36100.rgb.jpg/600x600bb.jpg",
-      "url": "https://music.apple.com/us/album/the-archer-live-from-paris-single/1513199534?uo=4",
-      "copyright": "℗ 2020 Taylor Swift",
-      "genre": "Pop",
-      "via": "apple",
-      "recordType": "single",
-      "deezerUrl": "https://www.deezer.com/album/148632782",
-      "kind": "Single",
-      "year": "2020"
-    },
-    {
-      "id": "itunes-1513199567",
-      "title": "Lover (Live From Paris) - Single",
-      "date": "2020-05-18",
-      "trackCount": 1,
-      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/e0/97/cd/e097cdb3-6129-4ad4-b212-363b2e70dc11/20UMGIM36105.rgb.jpg/1400x1400bb.jpg",
-      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/e0/97/cd/e097cdb3-6129-4ad4-b212-363b2e70dc11/20UMGIM36105.rgb.jpg/600x600bb.jpg",
-      "url": "https://music.apple.com/us/album/lover-live-from-paris-single/1513199567?uo=4",
-      "copyright": "℗ 2020 Taylor Swift",
-      "genre": "Pop",
-      "via": "apple",
-      "recordType": "single",
-      "deezerUrl": "https://www.deezer.com/album/148632722",
-      "kind": "Single",
+      "recordType": "album",
+      "deezerUrl": "https://www.deezer.com/album/167766152",
+      "kind": "Album",
       "year": "2020"
     },
     {
@@ -1496,6 +1534,38 @@
       "year": "2020"
     },
     {
+      "id": "itunes-1513205762",
+      "title": "You Need To Calm Down (Live From Paris) - Single",
+      "date": "2020-05-18",
+      "trackCount": 1,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/21/54/36/2154368d-a452-cc83-d862-9956ddd1b9cc/20UMGIM36102.rgb.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/21/54/36/2154368d-a452-cc83-d862-9956ddd1b9cc/20UMGIM36102.rgb.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/you-need-to-calm-down-live-from-paris-single/1513205762?uo=4",
+      "copyright": "℗ 2020 Taylor Swift",
+      "genre": "Pop",
+      "via": "apple",
+      "recordType": "single",
+      "deezerUrl": "https://www.deezer.com/album/148632802",
+      "kind": "Single",
+      "year": "2020"
+    },
+    {
+      "id": "itunes-1513205695",
+      "title": "ME! (Live From Paris) - Single",
+      "date": "2020-05-18",
+      "trackCount": 1,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/00/f8/0c/00f80c2c-2770-2f5d-1f3e-cbc41b24b21c/20UMGIM36101.rgb.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/00/f8/0c/00f80c2c-2770-2f5d-1f3e-cbc41b24b21c/20UMGIM36101.rgb.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/me-live-from-paris-single/1513205695?uo=4",
+      "copyright": "℗ 2020 Taylor Swift",
+      "genre": "Pop",
+      "via": "apple",
+      "recordType": "single",
+      "deezerUrl": "https://www.deezer.com/album/148632702",
+      "kind": "Single",
+      "year": "2020"
+    },
+    {
       "id": "itunes-1513212576",
       "title": "Cornelia Street (Live From Paris) - Single",
       "date": "2020-05-18",
@@ -1508,6 +1578,38 @@
       "via": "apple",
       "recordType": "single",
       "deezerUrl": "https://www.deezer.com/album/148650942",
+      "kind": "Single",
+      "year": "2020"
+    },
+    {
+      "id": "itunes-1513199534",
+      "title": "The Archer (Live From Paris) - Single",
+      "date": "2020-05-18",
+      "trackCount": 1,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ef/08/7e/ef087e26-ce7c-d6f6-1600-c754010308d3/20UMGIM36100.rgb.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ef/08/7e/ef087e26-ce7c-d6f6-1600-c754010308d3/20UMGIM36100.rgb.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/the-archer-live-from-paris-single/1513199534?uo=4",
+      "copyright": "℗ 2020 Taylor Swift",
+      "genre": "Pop",
+      "via": "apple",
+      "recordType": "single",
+      "deezerUrl": "https://www.deezer.com/album/148632782",
+      "kind": "Single",
+      "year": "2020"
+    },
+    {
+      "id": "itunes-1513199567",
+      "title": "Lover (Live From Paris) - Single",
+      "date": "2020-05-18",
+      "trackCount": 1,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/e0/97/cd/e097cdb3-6129-4ad4-b212-363b2e70dc11/20UMGIM36105.rgb.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/e0/97/cd/e097cdb3-6129-4ad4-b212-363b2e70dc11/20UMGIM36105.rgb.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/lover-live-from-paris-single/1513199567?uo=4",
+      "copyright": "℗ 2020 Taylor Swift",
+      "genre": "Pop",
+      "via": "apple",
+      "recordType": "single",
+      "deezerUrl": "https://www.deezer.com/album/148632722",
       "kind": "Single",
       "year": "2020"
     },
@@ -1652,6 +1754,20 @@
       "year": "2017"
     },
     {
+      "id": "itunes-1445765846",
+      "title": "reputation (Big Machine Radio Release Special)",
+      "date": "2017-11-10",
+      "trackCount": 31,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7f/81/c1/7f81c122-95d2-c42a-f1d8-49db7cc88951/18OPBMR00211.rgb.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7f/81/c1/7f81c122-95d2-c42a-f1d8-49db7cc88951/18OPBMR00211.rgb.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/reputation-big-machine-radio-release-special/1445765846?uo=4",
+      "copyright": "℗ 2018 Taylor Swift",
+      "genre": "Pop",
+      "via": "apple",
+      "kind": "Album",
+      "year": "2017"
+    },
+    {
       "id": "itunes-1444778002",
       "title": "reputation Stadium Tour Surprise Song Playlist",
       "date": "2017-11-09",
@@ -1736,20 +1852,6 @@
       "year": "2013"
     },
     {
-      "id": "itunes-1444614274",
-      "title": "Red (2013 CMA Awards Performance) [feat. Alison Krauss, Edgar Meyer, Eric Darken, Sam Bush & Vince Gill] - Single",
-      "date": "2013-01-01",
-      "trackCount": 1,
-      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ce/f2/2c/cef22c14-ffd9-00d6-a991-fe5a744c91ab/00843930011476.rgb.jpg/1400x1400bb.jpg",
-      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ce/f2/2c/cef22c14-ffd9-00d6-a991-fe5a744c91ab/00843930011476.rgb.jpg/600x600bb.jpg",
-      "url": "https://music.apple.com/us/album/red-2013-cma-awards-performance-feat-alison-krauss/1444614274?uo=4",
-      "copyright": "℗ 2013 Taylor Swift",
-      "genre": "Country",
-      "via": "apple",
-      "kind": "Single",
-      "year": "2013"
-    },
-    {
       "id": "itunes-1445003682",
       "title": "Sweeter Than Fiction (From \"One Chance\") - Single",
       "date": "2013-01-01",
@@ -1764,18 +1866,30 @@
       "year": "2013"
     },
     {
-      "id": "itunes-1440934573",
-      "title": "Red (Deluxe Edition)",
-      "date": "2012-10-22",
-      "trackCount": 22,
-      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/38/e4/31/38e431ce-dde5-53bd-4c61-adb98816a838/12UMDIM01012.rgb.jpg/1400x1400bb.jpg",
-      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/38/e4/31/38e431ce-dde5-53bd-4c61-adb98816a838/12UMDIM01012.rgb.jpg/600x600bb.jpg",
-      "url": "https://music.apple.com/us/album/red-deluxe-edition/1440934573?uo=4",
-      "copyright": "℗ 2012 Taylor Swift",
+      "id": "itunes-1444614274",
+      "title": "Red (2013 CMA Awards Performance) [feat. Alison Krauss, Edgar Meyer, Eric Darken, Sam Bush & Vince Gill] - Single",
+      "date": "2013-01-01",
+      "trackCount": 1,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ce/f2/2c/cef22c14-ffd9-00d6-a991-fe5a744c91ab/00843930011476.rgb.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ce/f2/2c/cef22c14-ffd9-00d6-a991-fe5a744c91ab/00843930011476.rgb.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/red-2013-cma-awards-performance-feat-alison-krauss/1444614274?uo=4",
+      "copyright": "℗ 2013 Taylor Swift",
       "genre": "Country",
       "via": "apple",
-      "recordType": "album",
-      "deezerUrl": "https://www.deezer.com/album/130721292",
+      "kind": "Single",
+      "year": "2013"
+    },
+    {
+      "id": "itunes-1445766378",
+      "title": "Red (Big Machine Radio Release Special)",
+      "date": "2012-10-21",
+      "trackCount": 32,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/da/ba/bb/dababbea-e44f-008a-7be3-7c1079ed2eb7/18OPBMR00213.rgb.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/da/ba/bb/dababbea-e44f-008a-7be3-7c1079ed2eb7/18OPBMR00213.rgb.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/red-big-machine-radio-release-special/1445766378?uo=4",
+      "copyright": "℗ 2018 Taylor Swift",
+      "genre": "Country",
+      "via": "apple",
       "kind": "Album",
       "year": "2012"
     },
@@ -1791,6 +1905,22 @@
       "genre": "Country",
       "via": "apple",
       "kind": "Single",
+      "year": "2012"
+    },
+    {
+      "id": "itunes-1440935340",
+      "title": "Red",
+      "date": "2012-01-01",
+      "trackCount": 17,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/0d/7e/250d7e42-3a2f-19ac-f865-f1e04a4a1f97/12UMDIM01007.rgb.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/0d/7e/250d7e42-3a2f-19ac-f865-f1e04a4a1f97/12UMDIM01007.rgb.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/red/1440935340?uo=4",
+      "copyright": "℗ 2012 Taylor Swift",
+      "genre": "Country",
+      "via": "apple",
+      "recordType": "album",
+      "deezerUrl": "https://www.deezer.com/album/130721292",
+      "kind": "Album",
       "year": "2012"
     },
     {
@@ -1852,13 +1982,13 @@
       "year": "2010"
     },
     {
-      "id": "itunes-1440935756",
-      "title": "Speak Now (Deluxe Edition)",
+      "id": "itunes-1440920310",
+      "title": "Speak Now",
       "date": "2010-10-25",
-      "trackCount": 20,
-      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cc/4c/9b/cc4c9b86-1ff8-09bb-4d1f-1069cbacbc87/17UM1IM06953.rgb.jpg/1400x1400bb.jpg",
-      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cc/4c/9b/cc4c9b86-1ff8-09bb-4d1f-1069cbacbc87/17UM1IM06953.rgb.jpg/600x600bb.jpg",
-      "url": "https://music.apple.com/us/album/speak-now-deluxe-edition/1440935756?uo=4",
+      "trackCount": 15,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/23/57/d423579f-24f7-5c82-ed10-fbfd21ceef25/10UMDIM00487.rgb.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/23/57/d423579f-24f7-5c82-ed10-fbfd21ceef25/10UMDIM00487.rgb.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/speak-now/1440920310?uo=4",
       "copyright": "℗ 2010 Taylor Swift",
       "genre": "Country",
       "via": "apple",
@@ -1909,14 +2039,28 @@
       "year": "2009"
     },
     {
-      "id": "itunes-1452859090",
-      "title": "Fearless (Platinum Edition)",
+      "id": "itunes-1445939760",
+      "title": "Fearless (Big Machine Radio Release Special)",
       "date": "2008-11-11",
-      "trackCount": 29,
-      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/59/dc/cb/59dccbb0-73f9-701e-7b5b-58c902ddfe68/09UMDIM00338.rgb.jpg/1400x1400bb.jpg",
-      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/59/dc/cb/59dccbb0-73f9-701e-7b5b-58c902ddfe68/09UMDIM00338.rgb.jpg/600x600bb.jpg",
-      "url": "https://music.apple.com/us/album/fearless-platinum-edition/1452859090?uo=4",
-      "copyright": "℗ 2009 Taylor Swift",
+      "trackCount": 26,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/01/c4/1a01c4e4-b49a-4179-b8fd-5ae6a0b3c7ee/18OPBMR00217.rgb.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/01/c4/1a01c4e4-b49a-4179-b8fd-5ae6a0b3c7ee/18OPBMR00217.rgb.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/fearless-big-machine-radio-release-special/1445939760?uo=4",
+      "copyright": "℗ 2018 Taylor Swift",
+      "genre": "Country",
+      "via": "apple",
+      "kind": "Album",
+      "year": "2008"
+    },
+    {
+      "id": "itunes-1440924803",
+      "title": "Fearless",
+      "date": "2008-11-11",
+      "trackCount": 14,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cb/6e/a7/cb6ea70a-6cb8-89a0-4da7-91e2d04a7bba/08PNDIM05386.rgb.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cb/6e/a7/cb6ea70a-6cb8-89a0-4da7-91e2d04a7bba/08PNDIM05386.rgb.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/fearless/1440924803?uo=4",
+      "copyright": "℗ 2008 Taylor Swift",
       "genre": "Country",
       "via": "apple",
       "recordType": "album",
@@ -1981,14 +2125,28 @@
       "year": "2007"
     },
     {
-      "id": "itunes-1860454442",
-      "title": "Taylor Swift",
+      "id": "itunes-1445940437",
+      "title": "Taylor Swift (Big Machine Radio Release Special)",
       "date": "2006-10-24",
-      "trackCount": 11,
-      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/f1/e0/d0f1e04e-a58c-7dc8-15d2-79c62dd94e5a/06PNDIM00825.rgb.jpg/1400x1400bb.jpg",
-      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/f1/e0/d0f1e04e-a58c-7dc8-15d2-79c62dd94e5a/06PNDIM00825.rgb.jpg/600x600bb.jpg",
-      "url": "https://music.apple.com/us/album/taylor-swift/1860454442?uo=4",
-      "copyright": "℗ 2006 Taylor Swift",
+      "trackCount": 30,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1e/bc/ee/1ebcee9e-88f4-5ac2-9a75-6519c3b62ecd/18OPBMR00218.rgb.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1e/bc/ee/1ebcee9e-88f4-5ac2-9a75-6519c3b62ecd/18OPBMR00218.rgb.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/taylor-swift-big-machine-radio-release-special/1445940437?uo=4",
+      "copyright": "℗ 2018 Taylor Swift",
+      "genre": "Country",
+      "via": "apple",
+      "kind": "Album",
+      "year": "2006"
+    },
+    {
+      "id": "itunes-1440913923",
+      "title": "Taylor Swift (Bonus Track Version)",
+      "date": "2006-10-24",
+      "trackCount": 15,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/e1/48/bee148d6-d16c-d8f7-0173-d6cf6d684aa1/08PNDIM00678.rgb.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/e1/48/bee148d6-d16c-d8f7-0173-d6cf6d684aa1/08PNDIM00678.rgb.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/taylor-swift-bonus-track-version/1440913923?uo=4",
+      "copyright": "℗ 2008 Taylor Swift",
       "genre": "Country",
       "via": "apple",
       "kind": "Album",
@@ -2214,148 +2372,148 @@
   ],
   "news": [
     {
-      "title": "Taylor Swift gives 'The Life of a Showgirl' an encore",
-      "outlet": "yahoo.com",
+      "title": "Taylor Swift releases 4 new songs for 'Life of a Showgirl: The Encore.' What do critics say?",
+      "outlet": "Yahoo",
       "date": "2026-09-25",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ2h2anowQVh3dDNwYXZHU2xRQkRtWktLYWlQdUQxRGxwZ1I4Mk9mSFpkMFl4dXFXY0lmMFhrMEZVRDc2aHNyakR0VnFzaS0xOXNLZTExZHJlbVh5c3BIem5DX1ZxOU9IVzlpbHNrX25GS1R0MVg5WlIySUNJcWI4dTBLN3VibmRUV3c?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZWN3d0tCcWhrV05WdnFxRjcxQzJHaUIwcXdXN2t1QW1oYWp2OWMtdUptUE85N0hSYTJPc0VCQmRGTk52TFdtd3dDY0lsalZGcE10T2lxNGVqWU1xS0NLVmdmejNQXzB1NWxJQmF6LUdrNWNnaGowUGYtNWlDaU9lT1pwUlphYWNGM0VscGJmWGh3WTR5UHVxR1dJUzNnVjBXV2swVGd0dmliaTVjTnVfdXpQQzlnUF9HT2dMM2Q4QkpobF9HdGFja2JhZ1pESXVLLWR2Nmx4RzgwTGFaXzlYdFo5dXgyYUk?oc=5"
     },
     {
-      "title": "Taylor Swift's Encore Songs Decoded: All the Easter Eggs",
-      "outlet": "AOL.com",
+      "title": "Taylor Swift Reveals Inspiration Behind New Single ‘Patient Zero’ About a Toxic Ex",
+      "outlet": "extratv.com",
       "date": "2026-09-25",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBIaThCNUloVDNrSGhqR0kwWHhkaU41Y0h5Z3ZJVFdOYVlKQ01RQWs0TzFsTENNa3IybFN4R1NSMjdrTUZ4WDJsXzliS1VTdDFCenBpN3dzMmk4WkI4OTF0cFdGQ3lsYjA5SjdwS1c3TXJ1YTdja05SMkh3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOHBCbWVrOUk2VmNxNEc2THFyS3l3UWJZblRUMXdJSE5IcGQ1NnpkRzB0Y1dFYTFjSnN3QTN6U2tXWldtY1IwWnVGQUt5V0F3cUtXN0pCQ2F6ZXU3SEc2bHZsa2lUY0xLcm5kTkZscjRQZkhYcGEzRXo3aUoya2VjdHNWdW50YVhDWHl0Z0dIZnlVdw?oc=5"
     },
     {
-      "title": "Which Of Taylor Swift’s Exes Is ‘Pink Clouding’ Actually About?",
-      "outlet": "marieclaire.com.au",
+      "title": "From Taylor Swift to Randy Newman, Check Out This Playlist of Cleveland Songs",
+      "outlet": "clevelandmagazine.com",
       "date": "2026-09-25",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNamtRVWtjTW1VSk53ZGRhbmtrNFZPVFpIRTdPYUladS01RGF0LWdnSGF4V0ZaV0xRRWhqaUpkLWhQMWZIUmsxVXVna2ZaVEZIaE02WnpSbjEyZklMM0ducW9KOGp4WVhsN0NtMDZQNDlsQkpSUFlWbFNzSHByM3liWHByZklSVTYyU1NNdXVDdkY3NDBzcFVodFJxbEJfc0Vhbm9n?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTmJjXzNLdm81WW1maDFUYXl5SmRVSTZrYVNLZnVlVUp0X3ZoNUMtNUhnR0QzeHlnVlU1REJvNUo4RXcxWkNuTkd3TWpMOW95LW56TDQtczBFOGMwekFkUHNkdktwTkN2OUpwWG11U0dVMjdUY25Hbm45U0JYRE0zSmZsNl9kaWQ3bi1pUzRteWh5RzhpMG1Bam9yVXl0emJlaEVESTAtS1ZxdzJrekVnVVgwcGxRSFU?oc=5"
     },
     {
-      "title": "Taylor Swift’s Classic Fall Top Is Easy to Style with Jeans, Skirts, and Trousers — Shop It from $10",
-      "outlet": "People.com",
-      "date": "2026-09-25",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNmN6aDhjR1Vqd3B2bkxkblJoUWh3MFBpbmRRXzRlemd5TFAzb3kwblJ4V28wR05sTFB4MTNEM3g2VURZY2xLRkwzcjhINUpOZGRSOGtYcnBOaGd2TEV0YWtSVW5BaF9CU09WRjRJZmpDMldYV29tMnBrWkNHck81UVFXWHJQUQ?oc=5"
-    },
-    {
-      "title": "Taylor Swift's hearfelt declaration for Travis Kelce on new song",
-      "outlet": "Yahoo Lifestyle Canada",
-      "date": "2026-09-25",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY0VDRk12MkhoYkdENWRDT2pPb0V3U2lQOUJsR25heXEyMW9HXy0zTDF0UTJadHFFUlAyRzF3c1dKaTFfSnFSWTU0NnpTZEc3cW9iaHcyek1pekw3WFdQbHN0SXg1Z2k4MXlmSWZoQkNaaDBadnNwUlQ2UGNWcU5HMVZLdVE2NlJLX1c4?oc=5"
-    },
-    {
-      "title": "The Life of a Showgirl was Taylor Swift’s worst album. Its encore is a whole lot sharper",
-      "outlet": "The Globe and Mail",
-      "date": "2026-09-25",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObjRZVlJLOFJCUVYzOUd5ckMzZXVZcWpaRHdwZ2tzZVZXYUFXTDd0RVB3N1BhUk14WmlqeXlnMkZFQXM2WjNNN1dFUWtxNDVCbi1WWTlOSUwzNU9GQU1SNEtXM0tuX2lNQnNza1VGWnNEQWhFSmtsQTFMaURydFBKam03eS1Gc3RwMzFoWDBybW9Lam1ROGxGbXNYbkszUzA1MU5Dejd0SndVQThP?oc=5"
-    },
-    {
-      "title": "What Does ‘Patient Zero’ Mean? Taylor Swift’s New Song Puts the Phrase in the Spotlight",
-      "outlet": "AOL.com",
-      "date": "2026-09-25",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2aWhnRmF2cmZxQlNCQnlpd1hrUGFuVHExVlVnRHhMOFZaXzlrRW1Eajdrdk1BRzFmVTJMYWg4SlJVWTByQS1jLTFFeDBjWFJBVFVPRS1KYWs3blNqQUc5VUFlS3BjOVExb1VfRXlyMnQxbDRjNFYyV1VPNXNsZw?oc=5"
-    },
-    {
-      "title": "Taylor Swift Dropped These Easter Eggs Before Announcing New Single 'Patient Zero'",
-      "outlet": "Yahoo Lifestyle Canada",
-      "date": "2026-09-25",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ua0lLeEZIaU5OaWgyTFo4UW10Z0RYZ19mZ2Nmb2VfQ0FjRGNpUUxTSnM3TlF4QkFrR3RZcTNNMG10Qy10SHItWG5JX0tPc1dDX3djbV9FWnRGeFl0V3pOcmNnWWc1ZmtzVUJCZWw3dUdXT21XdHRqODlhOWJiQXM?oc=5"
-    },
-    {
-      "title": "Taylor Swift 'Babylon' Meaning: What Is the New Song About?",
-      "outlet": "parade.com",
-      "date": "2026-09-25",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZDN6TGJ3aVVIdFViSjNiX0xaRXZ0dHNnNl9Tc0V2NzRwTFpwZk9feFE1bUlOQUpsdmh0b01tYy04R045dTloTHR6allOXy1GYTlZYlNjV1dBM1RaNWVnc2NZZE9IT1EyNjFQWUs4M3ZkdzU0NzdfREtLblhGTlhqYVRCSzJUZjjSAY4BQVVfeXFMTUozWEVPdmtRV2JpdlA4N3otdmx1MGh3MVJvd0x6VllMcnYxb2I5REVxZk9HcTlpY3AtX0hOYklGWnNkby1XVGNCVkVOWFl3U0xRMEowWGNYNFlsWnlzWjc4U0JKZTNhMTdaU0JTY2FZYzliUGtBaHkxb2pYTnlJMGJvRXd1d0hWZ3pkQklIZw?oc=5"
-    },
-    {
-      "title": "Taylor Swift's 'Cleveland!' is love letter to Travis Kelce",
-      "outlet": "News 5 Cleveland WEWS",
-      "date": "2026-09-25",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOa2Vvb2RLSjRUUWZFamZQUld5cm1GMmFvbHNZZEQ5SzdMZkRrOTFKN1VfV3hveDlWMEF5VTVnc3hBN21kU0FucVZCUEhIQWxKLWFuNWpXR1RJaDBoR1FtVUpGTVBlYU9NZmxESlg4cTBScFpCX3p3eVNYNTVoeVNBeVoyanIwd1I0TEMzRFItaVkzUWZiZnprTjNlSzBsVl9Va2NN?oc=5"
-    },
-    {
-      "title": "Dakota Johnson Says She and Taylor Swift ‘Work Really Well Together’ on ‘Patient Zero’ Video",
-      "outlet": "Billboard",
-      "date": "2026-09-25",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLU9kNmRRaXduU29kdlpOMGNPcDFFV2s5Y1FBSUdoVmxKTjJSVUgwek43NUVGb3VoUjlmbjdvUXpmTWZJOEFFV3g1TEdJZE16bDFvZlRWR0F6Q3pCRi10OTVybmhSR2cxajVxUl9ySjdWOWptV1R3RWdqdUJiWTRMRGdOeUhoWjRKcGRnX2U4Tm15b0gwWTVBRGEySWdmd3ljbVp3blBZWWlFMTFoZ3QxRVVhZEY?oc=5"
-    },
-    {
-      "title": "Do Taylor Swift’s ‘Patient Zero’ Lyrics Point To Joe Jonas & Sophie Turner?",
-      "outlet": "marieclaire.com.au",
-      "date": "2026-09-25",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSVphNUF4UzIxZWFuMkV5LTNkaXlRcDVjOUs3UUZsT25veDlHMmVZRzJ1M1JNVVVmRlVOcmpWeHBiUzNwQVl1X0J5OXE0eFlKRUxjcjNIQ3FWRG9YRWY5Y0FDalhDMC1VTGFyUXVyQWQxYkh0bHVvTmtjdE81RWdiXzJIODZIanM3cWFudFk4TEQtZHRxTDBtWEE3eUdtTWVRU1FNRlVUVmtBUVE?oc=5"
-    },
-    {
-      "title": "Taylor Swift releases The Life of a Showgirl: The Encore",
-      "outlet": "bbc.co.uk",
-      "date": "2026-09-25",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nQ1VUeG1oMnhxcFhvZXJRWUVwSXlhZm9pZGctMENKZ3pxZWFWUHJWdmxjb2hTNk01SFlGRmdvc1lFbExONTVvMGZRcDZEdXVReUw1NnpkQlVOd3dwVE0wM29IdkI?oc=5"
-    },
-    {
-      "title": "Taylor Swift to receive inaugural Artist Director Honors at MTV VMAs",
-      "outlet": "cbs19.tv",
-      "date": "2026-09-25",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNzBhWmVnRHN3bmhOLW9ScXY5dlpMTmhMRzdUYmw2d3RieVVxTlB0QlNFZ19NVjhHZ0U0cHJsb1pqSUZhVjdMZ2dqVFF6cTEyWGJHUEJEY1hqeXRrY1Y0NEdTeEVKUGJ4aHlud3Vla05DNUJJR1hzb05maVRoTDVHN0tXaWJtc0pYUHFOYVFTaEcycndUZGZNelJRN0FoVGtieFZzVFdjQVJYQno1REFoczM3X2pKTDBQV1BTaDZ4ZGJYYlVzSTVxMTFRemZJUXdyMFdFSnBvSnpDZGRaUXI3WA?oc=5"
-    },
-    {
-      "title": "I’m a Swiftie and even I think these new songs are terrible",
-      "outlet": "The Telegraph",
-      "date": "2026-09-25",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaVR2SGxiRS1kbENzWFlablJZTC1uNFZGTnBHVlRWZHM4SWtfUHdxUVdRa0ZXNVR6bmd0SjFKMEJURzFiVE82YVZJM3NXR1k0VUY5NUdEMnFHMXhWaUwyT0xRbk9MdzByN3NuVTd5RWZfOHJIa0ppck5DUW0yN1RrVVQ2aDMzNnI5TkJMdE1ObzRfZkU3Smw5QzlpOC1LQQ?oc=5"
-    },
-    {
-      "title": "Taylor Swift’s “Babylon” Lyrics Reveal A Haunting Cautionary Tale",
-      "outlet": "marieclaire.com.au",
-      "date": "2026-09-25",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLUs1RHI4WU1sdDVHS3lOcTlCd2ppcnh0TmFHYnRRU0tma3pESmV3S3A4OTRCZDZUb0ZBX3NDcnVsUTJWazJVV0dGWkVuRzBUNndKU1FBek92TXdZelYtTlhxQlMtMno3YkM5OXRmZGx2U0NYZ1JCaGdyTGpZZ01NeHJFQS1zVkFHeHNWejYxM2hLRzRyWnM2cw?oc=5"
-    },
-    {
-      "title": "Taylor Swift – The Life of a Showgirl: The Encore (Album Review)",
-      "outlet": "ratingsgamemusic.com",
-      "date": "2026-09-25",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOalMtM29MTTBNLUVfMEZJT0EtdjEzb19YcUxJbjZhendvVWtMX2NIdk55MWYwZ2F1M3NEMEFNTTd5NkV1U2tMUTB5cmdDVG1tMGo5NkZVZ2tYak1tblhPcW9CV2haMFVCR19ZNDJFNF9yN1RsckVHZjh4SGpiYlFjVTM3NVExYlBJOTFVU0hQYzJCM0xNMldOandxT0Y1dm9PNVE?oc=5"
-    },
-    {
-      "title": "Are Taylor Swift's Pink Clouding lyrics about Tom Hiddleston? The true meaning explained",
-      "outlet": "Capital UK",
-      "date": "2026-09-25",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdXgxMFNwNHM5T2dwNW5LTHFBTUxYMElPRENRWlZNMjAxbU1tYmlBX2RlTC1hbkpvYkNtdHh1N3hjZW5PaC1WdFpkQkdhWU1BeXZjZDBLdjhSeTVIM2xxem1IdVVUeWhOQ2FRZ1JfTWpCeE1VcjIxb3dSVFpUelFiRllJNUlWczU0d1hFNDA0WmlJSDhoWE4tUnhB?oc=5"
-    },
-    {
-      "title": "Taylor Swift - Patient Zero (Single)",
-      "outlet": "showbizbyps.com",
-      "date": "2026-09-25",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YYkF5MlhWV3lKMDFQRDAtNzI4QWlhN1BlcklCYmRHb3FxOERDYlFiaE9BUG40SW02R0FPVlhJX0J3UFVYVVJ3ZFpPaHhCZi1RbHU4UDJvY0F4MERzRUR0ZGtTZHdIb3Iya01tQnBTNElkYnRiQ0VKaXhaNC1WZw?oc=5"
-    },
-    {
-      "title": "Taylor Swift drops 4 new songs on ‘The Life of a Showgirl’ encore edition",
-      "outlet": "Cleveland.com",
-      "date": "2026-09-25",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbURzN0RLbjFtTGdEcHl4T0lna2Y3NG1ZdUNjdXoyZzdkeUF0RXZpM1EwSVB5Rl94MVJGZmNDeElIczhkckd0THVadFo4YnFjYmFwRU9GZ2xJckNsUGVnSW9pc0xVZTYtbFJOSThoZWtaNWJxMERtdzVSS25BczFBYzFPNVlTME9FMWZQalo4UUFhYW1GN041dG9xMVpvMldGMGxoeEVHLWVSQlNScS1vRkRXalR4ckQzLU1WY0F4TC0xdw?oc=5"
-    },
-    {
-      "title": "Taylor Swift's 'Pink Clouding' Lyrics Appear to Be About An Ex-Boyfriend She's Apologizing To - Listen Now!",
-      "outlet": "Just Jared",
-      "date": "2026-09-25",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMTRlR1d2bFpjSF9fdUttNDB5SEt2UElncW1hdzQ4SjM2U2tNZlM4M3ZjLTk1elQ0U1dnZUJfdFBvU2JTX2VJZ3VGLVczUTRkTERPcE1IanMtQ1IwellaQ25ldXZuWUZUYkNCZ2VIU0RKbXVfY29Cd1ZXQk1SclpGdzJ4cw?oc=5"
-    },
-    {
-      "title": "Taylor Swift’s “Pink Clouding” Lyrics Are About an Ex She Met at a “Cursed Time” Who She Regrets Letting Down",
+      "title": "Taylor Swift’s New Song “Patient Zero” Is a Brutal Warning About a Toxic Ex",
       "outlet": "Cosmopolitan",
       "date": "2026-09-25",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcjNDVlVSWGlrU3RlV1B0ckYtZDBJOTBVVVhLeHNHYkZTRS05UGlHR0trcGI0c2t4dXc2NDJRQVFDR05GZGR0SlpHX3pxaTlmX3R0V1QxUnNmWmdGV3lDRUk5OUEyMzRTdEVncXBzZ0RUbkhzOHRNbkxVM052WnJETGN6STBZOWdhV0RiWGdOZmFLM2RMTl9wOGo4QkxPeE9kd3NpTg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRk4wY2pQMVRscUZxd3g4dFRlM0pjV2t0TUUwTldybklqVmF5ZGdvZjFnbzBRSG5jalhUSVc1UDdNT2hfTlBVZjVMa3hrQU9KTGJWN0dpQjlZQi13dGFSLVpaOVliTE1VbUljMEp0ejJpdHFyTkYxQzJnZWZYZjZtZzhWRTM5R1hoelRoQUdEZnJabkQ4NTYzajlaVFlBaEJHMk04?oc=5"
     },
     {
-      "title": "Taylor Swift’s ‘Patient Zero’ Is About a Toxic Relationship She ‘Walked Away’ From",
-      "outlet": "TODAY.com",
+      "title": "Even Swifties Admit Taylor Swift's 'The Encore' Doesn't Deserve A Standing Ovation",
+      "outlet": "SheKnows",
       "date": "2026-09-25",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM1dOUVB2RnRkSDZGNHBWdWhTaEJ2eXlaOEVzSGRGNkRMcUhtYk1WVENIYUhLRE5ULU1YWGRhY00wd3JhTHhqdGFYcFZlYWRKSkpXY0Q4VW9jdzRUQnA4X2ZubDByTzFmZW44cGZrR25lQVlZYWtRR2MtbzhWU3czbHkxMHRSZmFWZzBxQkdJWTFCUW42?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV0pXRnhkS1h3NXlhOUo5NW5xbjFMTENScTBWS0k4TmNFejJINzZ5MzQ3Rm1HM1RuQURZbmQ3NzFaajkyY05jVm1EUkJtZ01TOHhzUUZQUi1aT3RDd3RYYzRZLXRzNGlZNDMzZlNIYXZ6Q3p0ZEExam83S1lhblZ6M3hreHhlX2gyc0w1ZkxhaC02a291QWZsNWtGbGpTd2VQUVhLU1ExSUZhYWhT?oc=5"
     },
     {
-      "title": "Not New York. Not Paris. Taylor Swift's latest travel obsession is Cleveland",
-      "outlet": "USA TODAY 10BEST",
+      "title": "“Cleveland!” Is Taylor Swift’s Message to Everyone Judging Her Relationship With Travis Kelce: “Hate All You Like”",
+      "outlet": "Cosmopolitan",
       "date": "2026-09-25",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTUlTdlNHSkVBNmNxbnRmZ2p3M0VYbTJ2QXBPX1I3YlVzQnVGSkdUcXQ1VXJDVGNfNEJfX3hwOUR6MWlRc2xkNjVFN0loTXNpS2VjcTc0UDRRRUFkMVF3WndqYy1HS0t1NFQ3NFk2VzFmOXNVQnp5aGRPenEydl93V0d3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSjduaDhuM2U5Rzh1WDVmeTJWU3pzcnB1QzVidzg0REJlUlp2WWpzZkpvalJ0RVNuSEdMejVfbE81R0tpM3MtQkdNYjVEUGhyb2dCRk9NMXg3cUpPQkl3Tl9vT1ZEWVNBNFdvdHVXOGdnSjZPdzNOVUFDelFHZkE4bFN4eF90dVluXzU5WVFlWW03TW85NlM0OXFLeTU0dTA?oc=5"
+    },
+    {
+      "title": "Taylor Swift adds 4 'encore' songs to 'The Life of a Showgirl'",
+      "outlet": "The Detroit News",
+      "date": "2026-09-25",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPU2dlazZFako5MFZtYnotRUtkbU5GUmhpM3JfTFdMT1pHbG4zeEV3TEhuWVVXQXFRTmItTHhKYkVrckM4LTNFOFN2bnJPVGNJdzV4MG9GbzBraUhCZm5RNmlBMHRJWnlJaF9nckJYdW13YktuRHB3R29HaGlXTTJnRVJjUVM4Umlkc1R5YnBRWEQwcGRobXQ2cW1lYkt5Zl9EZ1gwOWktY0VXTm1qWHcyNWVhOG8zWnZFbTd5YkRGZms4M24yeksxY1RjMXFTOGs?oc=5"
+    },
+    {
+      "title": "Why fans are convinced Taylor Swift’s ‘Pink Clouding’ apology is for ex Tom Hiddleston",
+      "outlet": "Page Six",
+      "date": "2026-09-25",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQelJySThPZ3dVS2tjNjdHb01PUjEyZm84em5hQ0FHZWRaY2tNbDJXaHBZMVBiR3lpSkJjdERPbXNtNmNyZ2M4U0pmbUxxVHBtT2JmdzBMdGVFVzFHVFR2c3FRa3k5bkVtdTVPMGhwVS1pdFFpWHdkYmNjbjNMajkyM3VwQmZERXNXbGJhVnF5Y19zQ0JwS1QzY25FYVhFZk5xODk0?oc=5"
+    },
+    {
+      "title": "Here are the lyrics to the 4 new Taylor Swift songs off 'The Life of a Showgirl: The Encore'",
+      "outlet": "5newsonline.com",
+      "date": "2026-09-25",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcWJ2aTF2QXhoNVRJRHRBSm5vbHpiaUFPbTB4eDlsOVo2RXBUUi1BSVM0OEt5UWtKaXFVcm1FbWQ5RzQ1d1g0ZG56NGhIWTIxM0pLeUpCa2ZUSDdKN3FMUDNvMjFFZHFPNlJrbWk3dmJoam8wSHhhb2dSajl6dVNZSVdpaEthcjROU1NqelpTNkQ4bjFHbjRMMEtlWWQ0cUVBREVtR2lyVUFpMmN6X05PTFlSUlJpQWk1TVBxZjhqLXNLUVdxbkZEUUIwV1I3UFZHRnp5RjFjQk1hNWNXZTdEVHBSTXIyUQ?oc=5"
+    },
+    {
+      "title": "Taylor Swift 'Cleveland!' Meaning: Fans Know Exactly What Her New Song Is About",
+      "outlet": "Yahoo",
+      "date": "2026-09-25",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ0hPU2hGNjd1VDFlajhvdDJVclRUV1JPME5ON2t2LThINWg0d0R6c1ZueEphbnFqcWpMSFFNenR0XzhTWFBVcTVoTm1IN0RiZjdHTVlNNmVpT0F2SU5MTlJ6X21JOHMzbmo1cnl3S3hBN1hRZS1sUW80SGpYbGh0R2ZhblJKLTVCWms2RFpQZHY1c0lVVjJ6ZjFzeG1tRzI0R2hJ?oc=5"
+    },
+    {
+      "title": "The Subject of Taylor Swift’s ‘Patient Zero’ Finally Identified After She Revealed an ‘Interesting’ Chain of Events",
+      "outlet": "StyleCaster",
+      "date": "2026-09-25",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZERobGttNFpCWEtnOEUtakduR0JwRGRCQlB2Q01qaFZiRjBiQUlqUHJvVXpONlJ0cUV4TDdzaTZkUndkU2s4ZHdyQ2p5cWJ4M2hXVFhueVFNblppQ05UakxBR0FES3hPOUhMQnlheElvelFXeThIRXJCVXRqY3daV2c1Wl96a1ZUVnpuTDBoM3YwclNJamhjelg3NFlyZGc?oc=5"
+    },
+    {
+      "title": "Taylor Swift, Tinashe, Madonna and Charli xcx, Kenny Chesney & More: New Music Friday Guide",
+      "outlet": "Billboard",
+      "date": "2026-09-25",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMFNoRUdkaW1ZbU51ZG9kVXlfT0l4TnJ6T3ZMM1ZKVHV5X2tUTUN4ckZtMlIwMjZvR3dKaXJ4bWtTZ0tMUGtEWi15OTRxY3JNdHg0Y2h6NU9ucTM5VFd5OERjejFna1BfcWtrWWZ0TE9TTEZIR3k5WjFvSGFUak1NMHFTWUh5SDl1UWlnaXotODdXaFhqdUhGSGdMQ0VjZXBXNXR4bGE3VFJPUQ?oc=5"
+    },
+    {
+      "title": "Taylor Swift Shares How Toxic Relationship Inspired New Song ‘Patient Zero’",
+      "outlet": "Just Jared",
+      "date": "2026-09-25",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObnlkdkFGUkJjd3VMbkdwQXpnT0FuODllLWE3QXlPTkFrX3RXZ2JUaVdaWVpHWTNTdk9COVl1N0JJNEpXREtLelI2WVUyTkFZM2cwb01kaGFVYlNCb0VwMlkzS3NsUE1GQ2tLMm9rMFNYZmpkOHNTdUJjaF92cG9kejY5bHBwaHg3ZXE3cjFRSGhoSTFjbl80Nzg2dnZneE4yeGF0bmlZa3NfdWVyOWttMw?oc=5"
+    },
+    {
+      "title": "Taylor Swift’s 2028 Grammy Campaign Is About To Begin",
+      "outlet": "Forbes",
+      "date": "2026-09-25",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbTBKX2ZMdXFEd2duMEw0NmhSR1hxWXptazJReExLVVExUGlLb1hQd1FSb0w3Q0FRRkhYUUpoaVM3UDFheUFmX3duY0V0UXBiUTVoYmFTRW9iMlp4cEJqalM3OHdvQVFjb28zRVFxQzZJaUhyTmtPRmxhQmN2ZU9MNHFtR1FfcGxpeHdDemVOLW1zLUZJZXBpWDc5SGZManRuVE5RS3YtenRmQQ?oc=5"
+    },
+    {
+      "title": "Taylor Swift issues brutal warning about toxic ex in scathing ‘Patient Zero’ lyrics",
+      "outlet": "Page Six",
+      "date": "2026-09-25",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORHcwcjV0QmlVX2tnSzIzWDFpYmMzMWF6T2hlQWNMenBPNDNvS29nQXBVY0hrWnljTDVTMFVVWnlkRkYtazR3bjBHSTdYUTZWZ0R5UDNmazY4T3Fpam9aWXpxM0p5VXo3Zm9EZlh3QWpJZm5kU1psWGJuQjV6MVNKR0NUN2ZLX2lqMkRwVGluS2RTVG5raVUza09XaXdIRFZnSm9uRE9leElHM0hoR1VVUTVETUgtRElrWURpUGcyVzVIZUJOS3c?oc=5"
+    },
+    {
+      "title": "Which ex is Taylor Swift’s song ‘Pink Clouding’ about? Fans think Tom Hiddleston",
+      "outlet": "Entertainment Weekly",
+      "date": "2026-09-25",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT0oxSHhCRlFsRVJURmdYd1Jrd1pOblc4d3RLLWp4N1VOdVVfN3RnYmhIb0Y0NElRQ2dlZzg0bFNOQ3BoUzM0T1p3ZUJuOHFiX3JMRU4xNjdpZ3lucEIzWmtxTWpCUEZnZFdBWnR6Mjg1b2psblYyTEpEMjhCQXVxbUNCQWhlbjRFLUN3?oc=5"
+    },
+    {
+      "title": "Swifties Think “Pink Clouding” Is About Dating Tom Hiddleston After Her Messy Calvin Harris Split",
+      "outlet": "Cosmopolitan",
+      "date": "2026-09-25",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQmJ0Mzl2QlQ3WFFxOEM1N3dUdF9kT282WGQwZllxbE96dC1NVTN4V19ScmhSSldMZm1vdTdUUExxWWlwampuQWhPOHZMTlZoTGh0QXM2UjY0ZWlNYVNuV05NV1ljY0ZueUVEa2t2Qk1WZWxMdGVQRjJENHMwQ25reWJHY0ltamN5WTVzZG1NRlhIcjFCTDViVzVRRXI3NU5pV09WME81aHVYdjZGenR3YVVLZ2NNMmhvVXhKOWwxTVcwcldIMUw5TzRWenlydUJCQ1RxSUlsZWZXSExXNE04MnliOHppemlPTlNnQQ?oc=5"
+    },
+    {
+      "title": "Taylor Swift delivers an ‘Encore’ that nobody asked for",
+      "outlet": "thetigercu.com",
+      "date": "2026-09-25",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObjNlWWdEQU11XzRDLW93Q2EzQ1BUdHc0Wk8td2RnYlhtenI3SThfaHpxSzhhVDltWF9mVEt1RHdBNUU4VS0waTd0eU9CWWVUVVVqUjdUMnE3ZkQ0cVgySFA5TXJ0VXYtNTl3NDRLVU5ja1dudEc3ZnRoMHpGcHNyOU10eF9DSjAxdFpkanB3MzBIOFBWSUhFSDZZdDM?oc=5"
+    },
+    {
+      "title": "Taylor Swift wrote a love song for Chiefs’ Travis Kelce and his hometown",
+      "outlet": "Kansas City Star",
+      "date": "2026-09-25",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORzNwNlJKeVI1REJkWVd6WGdHblh1RWlMbDNLWXQ4Z2hZSXFTaHBfVmJ4QWJWQTcxSDJMY1VVUmJyQjZWbkhMRlczYS1NLWJHRDlsTGdzSUJ6V2JwMWE2dWE4Rl9fVklzZkQxWUtteHhWazlERTY0eEVCRm9PUE1aanY5akVoeENEYnF6QnhoVlFRZ9IBkgFBVV95cUxPbmRIOUhwaUZONEhpS3l1U1NabVBPQnJKVGdrM0Y2b0Z3QnZGdFpuTU0zZVpjSUNDLVFSemhaUWc0MmpSNEZMeFNRTHhyVDgteXNLNGh4V0drZEl4Q2tOQnZGNXhwY0xzSWlTLUNFZHJ0VTNKek5zVmNlckhicWNsMzBaRGZLY1pzbURhN0NLU1VqQQ?oc=5"
+    },
+    {
+      "title": "The Pulse: New Taylor Swift songs, Ally the Piper coming to Albany, and it’s National One Hit Wonder Day!",
+      "outlet": "NEWS10 ABC",
+      "date": "2026-09-25",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPazcwSGF2NHhHcUpmdVhOamMtREZRRDZoNFJlUHVaT2tES1AwMGk0S0dCLTVKMC02U0dBZy1RMFBtalVYaWVSUkhGeDNEUExzbGNOVmtBSHNhSzJ1NEdpS3laWlFzeDdmWUM5Q08yS2FGbUlLM1RfSUVpX3Fxam1mUDJDNFdIWmpvQl9TaF9LQUFMNWFGTGpaSFB1Z05qTmM4SjR1TEZlbzh0N2N5U3U1aV9TUDJtSGpmZzBKS29Ud0dkWVRKMWFnRUd1djgtR0VHdmlVcTl30gHbAUFVX3lxTFBYN3RYZGhUV21zWFpnWmp0WWpPYmc5bEFfNlVvbGxkSEdOTEFXLVhnY3RvY0ZBek9zUjEzaE9TcmRGbFV6VXRQTjhhb25oVTJ3TUVvNzJUamFxOWtoR3JDM3Q3ZE0zaDU3TENyVWFmVjVRQlpBT0pwUzQ1TDd3b2dCaFI2bVRxRTlQRHpWUlc5YVdvZWtnUE1TemFRSEZtOXk1al9sZkZrQXZBQXdYQ21rUm9BRU5SM1VWT2tPc3BLbkhUeC1IZGRHbFZwcmItdGM1aVlaYmgxVmRlZw?oc=5"
+    },
+    {
+      "title": "Taylor Swift 'Cleveland!' Lyrics Take Aim at Haters, Reference Travis Kelce Wedding",
+      "outlet": "TMZ",
+      "date": "2026-09-25",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNXlhd2Vod0o3ZGhDYnNqZE50Zy1iZFdnSnZJaEJSMzAyWFVVcVdvTU1tQmd4TzZXVENpMFIwRWpfb0p6Xy16YjNackxuY2pkTjVWYldsRW9FWWU3NUZubnJjT3RJVFJhN1pvOW96aGNnOWljQ0c5NDFnWExqd3RlSnNnc0pka2RXNmc?oc=5"
+    },
+    {
+      "title": "Tinashe, Blondshell, Taylor Swift, and All the Songs You Need to Know This Week",
+      "outlet": "Rolling Stone",
+      "date": "2026-09-25",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYzFUOE9nWkU0Wkg4QWNZcW8wdmYyUUd2bGRRNW5BcnBLLTU1eFgtNzFWT0JSMWFRTUY2ZFBmUDg4UFBvRExSZV8zejN4aWpFTjF0Z0h6RGtvYmk3TGdrMWRLM01yT0RIRHNDaHFXZ29VR3hxSzU1TjFsY2lmMnRMaFk4Z1pFaEhsU2RBdVpZNFV3djVGX1E0b2JvM0ZOa05TMzd2UDhUVjdFZnRzZjFOTzJLcG1MWHM?oc=5"
+    },
+    {
+      "title": "The Taylor Swift ‘Encore’ Reviews Are… Not Great",
+      "outlet": "Her Campus",
+      "date": "2026-09-25",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM21wMzYyZ0xFZXNDczRoYWhrZFJYRmFzeEw4TUxrUWJKLUJ6em5SOW51YjY5anYyTmdpZ2RwVWFBY05DWUlEcXJldjdBTzVQclFwMnRtRjRoT2k2dnc2QjJtSUt4azN4UlJVRUhYb1VHcWc2QUwyenEzZXlhQ1VNczdRRHg2NHJyZmpnYUktaWsySW8wUkE?oc=5"
+    },
+    {
+      "title": "Taylor Swift’s ‘Babylon’ Lyrics Are About a Relationship That Didn’t Work Out – Listen Now!",
+      "outlet": "Just Jared",
+      "date": "2026-09-25",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVTEyZldtN0NmV0JndTBvMEtWejFJUzNvYmFuNXBQWXU2SE9fLXQxTk5fOXZQT0hxcjZVR19JTzdTZzZpSTc5YWEyX3hINWVBN2xSVkJwTGNuMjJ1anJ6dFhkYW93d2ltQjAxSmc5NXdCLUpIb0JMdm1pTFk0V0ZsQjM0R01CTG91N0QzWjRmZ3VkY0x4UkxhVVc5TktJbU1ZZmljLWhNTElscnJXN19GVC1sX21DYWJlcDVmRHRvVQ?oc=5"
     }
   ],
   "bio": {
@@ -2381,10 +2539,22 @@
   },
   "tourNews": [
     {
+      "title": "Who is No. 1 on The Tennessean's Top 10 concerts at Nissan Stadium?",
+      "outlet": "The Tennessean",
+      "date": "2026-09-25",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaEFER2dYbV9zVEJ5cS1vMHBSWWY3cTJXWWo5SGhhNllCMXhvRnNYem9VTzZweE9QRE9adEpLYVdFNDV4MjQ2cEFVTm5VZlVSeDg4QV9OaHZmcTRWOWRXV0RXN1o1Sm1nUS1wSGtOb25vc0JITXRIWm5DMXFrT1RCLVFzcmQ3dEgycEVWRExhRnV1UjhycWJRWHV2QUZYMGd6WS02NUJiSnJONERIMmhXTThfS0ZkdnBYczJiWmV2R0J2MVBtaDV6d29yQ0RMQzQzT3B3QU5ZeHJua1Nfc1h5YmpNd2ZxTnM?oc=5"
+    },
+    {
       "title": "Taylor Swift’s Tour Dancer Jan Ravnik Reveals He’s a Homeowner 10 Years After Moving to the U.S. in Emotional Post",
       "outlet": "People.com",
       "date": "2026-09-25",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVVlYVTk1RllnVWw0SVlJYlZoMWNhT2ZobjFuTVA1SWtqRzhzZ3V3Z0ppd3ZZenJSdGZKcGtfX1hxbGxiU3Bndk5uZWdDanVPWkp6ZjRnMjBRdlQ5bFFoUTROVEdkbmtDOHZSQVlWaEVwSzJ2ZkpWYUhtQzE1Uk0teVlKZmlsN1FwSnFSYjBVc19ZUXYxeE50RmhKd2lNcTZzS25sQmlQRkVfSm1TU3RWT3R5U0hJbXZkcWhySlh3?oc=5"
+    },
+    {
+      "title": "Photographer Jailed for Five Years After Scamming Family Out of $4.6M and Spending $200K on Taylor Swift Tickets",
+      "outlet": "PetaPixel",
+      "date": "2026-09-25",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSXU4cXg3LVEwa0lEQTV1RnNDVEtHMUM0VVdWM0l6MFdSSHpIbW1VWkMtbzB6Qm5YdkNHcEs4TDRRSWE0dFBNUDcyQ1lUWHJneGFvLWswa0thTDRJN0VhZE1RdEktT1pTMTBrc0p1WDNzcndOdGR4S0Y5d3hwaURlWkx0bF9VeC1Rb0EwRHpyNnhKOTRxbFQ5WFV4RDhLaGFVZV9POHRTVzRodTgyblBDQlUzMEg3Z250aUFqOW9WTi1paHV4QW1nRGRJQ3ZxVlJrNnJPMldndWtxODgt?oc=5"
     },
     {
       "title": "Taylor Swift gave her tour crew $197M in bonuses after the Eras Tour including $100,000 checks for her truck drivers",
@@ -2403,18 +2573,6 @@
       "outlet": "Wide Open Country",
       "date": "2026-09-23",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeldzNmdvejRTVXdZOVBjdkpLSUlMZ2NlNjVRaGRiZ2JZMUtaMU9CMm5Ndkg5aXNXWEtwa2M1Uk9oX2NTRk5KLUIybTZLSEFNS0pMTmNMTm5sNVc5a3daUW9sZWFfUVVSZmdSQXFkMjB3Yy1IclN0bmZpaUVLeDZFbU9pZllQTFo4UzdEY1dSY01FZHU5QUJkU3ZpZXJUT05RR1JoVk9YQ1hHYzdkQlFn?oc=5"
-    },
-    {
-      "title": "Taylor Swift announces release of 4 new songs",
-      "outlet": "Good Morning America",
-      "date": "2026-09-23",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUktPOHNQS183U3c5NGRPaTVJejZhTHN1aTdMdDY0bVJSYUp3TTJDV1k0d09ScDVhUHlLZmJ2UzAzRF9QcG1lYWNQZi1YVnRvMl9ibDFMQUJWM3lqX3RRODdlbUpaX0NFTE9xNGRIX3B2YVVBRjdvb1FFYVZRc3ZzQk1qbk1PeTc3Vml2Z0dQQWJvQ3M1enpncEp0TGREWlZRcDNVTFR2WXrSAa4BQVVfeXFMTWF4TG5taWZ6ZXVJcTN0b0RIUFYzbGNDaEZjQjlqczNJdjNrNTRmSmNLT2llbnUzR2RaaF9JclF6NS1YU0RUVmVXTjBpNTE5dUNuczEwWHJFVkRYQldMLVpwNWdiczdrQjhFaTJWOGpuYVB2N19nVFFZZU9Nc3ZiRWQzLXdnY0w4ZmdQTEpSUUlONkhRa3dzc0NNOVRIaFEyV1FjY0FkaFNVRGFmRm1B?oc=5"
-    },
-    {
-      "title": "At Least Taylor Swift Isn’t Going on Tour",
-      "outlet": "Bloomberg",
-      "date": "2026-09-23",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUWhqR284SmdiX25QeVhHX3FVcWl3djVrNnJWME5SLVU4NGsyenhZaUt0VlVXcE9BN1dYQzdwQXRpZUtFWFRhV0JwQzg1LXdJNWhhYVRSYllJT2FDTDVYOEQ5T0VyemFSTVFkbU9wVTRfUGhMNzcweGpDSmJoN1hncDUxUXd6VEl2N1J4TzJWMEczS01sbkg2U25HeUE0SHc?oc=5"
     }
   ],
   "timeline": [
