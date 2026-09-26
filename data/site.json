@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-26T16:26:09.895Z",
+  "generated": "2026-09-26T21:12:41.541Z",
   "artist": {
     "name": "Taylor Swift",
     "full": "Taylor Alison Swift",
@@ -2182,15 +2182,6 @@
       "ms": 178426
     },
     {
-      "title": "Patient Zero",
-      "album": "The Life of a Showgirl: The Encore",
-      "date": "2026-09-24",
-      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/600x600bb.jpg",
-      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0b/be/8c/0bbe8c0a-dc77-af41-97a5-c745cc43d38c/mzaf_11790447166833591507.plus.aac.p.m4a",
-      "url": "https://music.apple.com/us/album/patient-zero/6814997249?i=6814997425&uo=4",
-      "ms": 225868
-    },
-    {
       "title": "Pink Clouding",
       "album": "The Life of a Showgirl: The Encore",
       "date": "2026-09-24",
@@ -2216,6 +2207,15 @@
       "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/58/f2/54/58f254a3-25aa-0542-bf46-4627c8f2e06b/mzaf_5527018976386911832.plus.aac.p.m4a",
       "url": "https://music.apple.com/us/album/babylon/6814997249?i=6814997429&uo=4",
       "ms": 219366
+    },
+    {
+      "title": "Patient Zero",
+      "album": "The Life of a Showgirl: The Encore",
+      "date": "2026-09-24",
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/600x600bb.jpg",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0b/be/8c/0bbe8c0a-dc77-af41-97a5-c745cc43d38c/mzaf_11790447166833591507.plus.aac.p.m4a",
+      "url": "https://music.apple.com/us/album/patient-zero/6814997249?i=6814997425&uo=4",
+      "ms": 225868
     },
     {
       "title": "ME! (feat. Brendon Urie of Panic! At The Disco)",
@@ -2345,40 +2345,28 @@
   ],
   "news": [
     {
-      "title": "Travis Kelce Has the Sweetest Reaction to Taylor Swift Saying “That’s My Husband”",
-      "outlet": "PureWow",
+      "title": "Taylor Swift Takes Over Top of iTunes, Spotify, Apple Streaming Charts with 4 New Songs, Rockets Updated \"Showgirl\" Album to Number 1",
+      "outlet": "Showbiz411",
       "date": "2026-09-26",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc05YMktIdTZtT2NPU3IwdHY0Uml6b0RZRFhyUkUybzdJbEpPSnN0aXVJYlJ2OTBMaGJ2WFZWdG9iaXYwUk1hTlBBTWVHeC1tRDhQY0Y1WWtLSjkwWmR2MHg4eFlaZHdIRUtzNXdsc2VsR0F2UFpMMnBpbmN4ank1SHFxMzF5THg5UHU5WjdDSQ?oc=5"
-    },
-    {
-      "title": "Taylor Swift’s “Patient Zero” Debuts at No. 1 on Spotify With the Biggest Female Debut of 2026",
-      "outlet": "Yahoo",
-      "date": "2026-09-26",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYmJzX1hPQ1hzSXBQMEh5Wlp4aUtUYWxDampwS2RkcUd3dWdTd2J2OWpGbmtHbTQ3aTZCdkRHUkFpSXFrVlhkOXl6cFpXSUM3UEZsbnhuYU1hTmx4XzQ0LUhwOVdrMzh2bkpCRzdpM21ZRlN0bk5lRzAxVW43dHJmRjlNanVHUzNTSTNjTmJRVkwzcVNNZFFHVG1aQ2NaWkk?oc=5"
-    },
-    {
-      "title": "Taylor Swift’s cryptic ‘000’ bio change sends Swifties into full detective mode",
-      "outlet": "SILive.com",
-      "date": "2026-09-26",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSlZNRWs3VldNMWpVcVJ6SE1xSHh3aWdVMndvMzlxTDFLdkdiWHpqTG5Vb1FjNnNlU0p0OEFFYkF2em9qY1JFYTVtQm1tS0ZjcV9wVzR3TlFrYXBiVmpWYlA2TWZwWVY5c3lpMmx4bmpWc2gtMlpwN0p3dkhqcnAyYXh0R3dfSzcwbXo5RDJNYjBrMkxzVEtVbURfbW9VbzAtaklfLV9GdHB5aHdGNFo1d21VRmdOVG9obkRyUEFKM2JWVXFp?oc=5"
-    },
-    {
-      "title": "How to spend a weekend in Cleveland, the city Taylor Swift just put in the spotlight",
-      "outlet": "Yahoo Creators",
-      "date": "2026-09-26",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeXd1aFZqSTNGMFQ5OHNwUzJqWGVnUGY4bmZUVFhYLXlKS3plbFJxd2pOR2JpVXktVlo4V3BLc19TaEQxSFhDcFpLeFJ2c29PX05uVXpvVnptS19MMjVaY1AxZndCOEVjSkV3eDJPVVc5LTMwRmt2VWt3akVkZzd2YTBVNXdSZFRTWEtjakg0ODdiR3BTb2s2SjlrMFJ2X3lqcEg2Z2FQa3hvcDFUbkRpTktmcHNaWHZ5OVNlMzdoeFNDRVV1WGxFQ09pSkNxUjJfZGNleUs2RWs?oc=5"
-    },
-    {
-      "title": "Taylor Swift and Travis Kelce spotted with Chiefs teammates at JoCo mini-golf spot",
-      "outlet": "Kansas City Star",
-      "date": "2026-09-26",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON29saGFad0RrazFkZ29ETjgtbXpCMnZpNVhiaWtGeFdPcEc1T0pkUUx0dkMwaElLTndlaFZMZHVELWxKUTVIMzFCVERUY2dwRnRQWlJkRm4zNi1LMTNUZXgxcFNtME40R0l6YmNudllxTl9Mc3pqbzUyM09TRS1RakVXbnI4VURBVzNjaDZxaXE1Z9IBkgFBVV95cUxPdTQtRVUxVkN4Y194dDE4M1BBM0xRRmhxZU9xU0NsalJVUnpFZ1NDTVJrQ1pYb1lZT3VlV1JyUmVVYVJveVIzUGZ4clhTbUdPWm9lNFNhYmMtSWl2X2ZEcEItSjZ1SE8yVTV0a25abXVvX1VoQ3lDLTEwODNBNk5ZTldlVmp5STk4elhaM3lnaU5OZw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOcndacFFtTVBsZTdOMW95TzdfV2M2MG1oWGkxMzhpZDlQU2VlRDlqUmxKWmM3NnJZOC00dXlDWnVMTGxhelVVRG5MejB5NEdNMW1WQnhXUWNJbjE5TVUtSFpYRGNSUXdJMUNpaGgtN2stSUF6ajJzNWctVHVGQm8wS1htVlRNRlNpVFgtU0FUUGlvR19WNDFQbUJaM0lRTnl5dmVyUTNwYUFuZXhlNzhSV1g1cVdyNmt4NzVoNXg4dUs0T2lYdUVmUGJVaENweldLR21KcEhLNHpDT1hNVHVCSEFRa0RYby1KRnVLaVlya1lqRS01WS0wclN3?oc=5"
     },
     {
       "title": "‘Taylor Swift 2.0’ – Stephanie White Gets Candid About the Circus That Follows Caitlin Clark Everywhere",
       "outlet": "Yahoo Sports",
       "date": "2026-09-26",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQy1lc0gyeHN2Nk9zUldXNTB1MHF0MC1lR0VnRlcyUmNYTGwtc3JGN1ZQZmZOUnQzTktpVGdYdUpxTDNiMFRBT1hCTGZqOEUza2poYi1zcU9GblVjVEVGZkVRS3RGbDZ0MjdVU082SGpMek9tY1cxeHJobV9KZGJLVA?oc=5"
+    },
+    {
+      "title": "Taylor Swift breaks two Spotify records with \"Patient Zero\" release",
+      "outlet": "Paste Magazine",
+      "date": "2026-09-26",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbHc2V0o4LTZGSDJockY0bnRHc1ZvVTRLT3dFbm5iVW0tb2NpeXpOSjdVUmtoQ21KVW9EWnFVN1pYYWR5YnhLY3R0eGNuZmlka3NXWkY0VEhBSXFCbG9HVWJfdXNlNDFyUFktOHB3YXpQVXdNT3EyU3ZWamc3RVFVbWZyeXNpaFVBTnNfVzN2c2RlSy1wejBRdnRXQ19USE1sd05qMlVETUprdWl6M3p3YjgyTWs?oc=5"
+    },
+    {
+      "title": "Album Review: Taylor Swift’s ‘The Encore’ is a personal, catchy add to ‘The Life of a Showgirl",
+      "outlet": "Daily Bruin",
+      "date": "2026-09-26",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOenk5VEZfdWtnRERKT2lqQW40X2c2SGFVaTdKeXJFbFNTU3p5SUhyZkQ5UWNZdU5rVGl5Y19UdDFNUHpQZGtNTEh1aGpobE9EdUdJbUF2RGV0S1NHZkVhR2JOT1E0LXBrRDNfamh2Mk5TLVJBU29TS2ktOV93SUF2anU5d0lpeGJZeHczQ0VHdWdNUEdsYWFISi1hVXUxdmQtMWVaRThJSHV2dzFxenBHWUVucXlPVUZYU2txaWFyZFc?oc=5"
     },
     {
       "title": "Taylor Swift just put Cleveland in a song title. Here's what makes Travis Kelce's hometown worth the tribute",
@@ -2393,28 +2381,10 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFByRGJfUjZWai1JNTN5NWs1b3VPWWVfYVVCWUw5NTl3NU1XUHlPcnI2bjUwWVhuaGNMd1ZFcDhhWmFFMG93dW45LTVEYkFUNVViVnFIRWxpaWRhS2ZCem1aQmJUUEtmaHVoVHFxS1FMUzR1YVNKRXdFb2ZNd19wQQ?oc=5"
     },
     {
-      "title": "Album Review: Taylor Swift’s ‘The Encore’ is a personal, catchy add to ‘The Life of a Showgirl",
-      "outlet": "Daily Bruin",
+      "title": "‘The Life of a Showgirl: The Encore’ fails to bring Taylor Swift back to the spotlight",
+      "outlet": "North Texas Daily",
       "date": "2026-09-26",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOenk5VEZfdWtnRERKT2lqQW40X2c2SGFVaTdKeXJFbFNTU3p5SUhyZkQ5UWNZdU5rVGl5Y19UdDFNUHpQZGtNTEh1aGpobE9EdUdJbUF2RGV0S1NHZkVhR2JOT1E0LXBrRDNfamh2Mk5TLVJBU29TS2ktOV93SUF2anU5d0lpeGJZeHczQ0VHdWdNUEdsYWFISi1hVXUxdmQtMWVaRThJSHV2dzFxenBHWUVucXlPVUZYU2txaWFyZFc?oc=5"
-    },
-    {
-      "title": "Taylor Swift Shares Personal Footage With Travis Kelce in Her “Cleveland!” Lyric Video",
-      "outlet": "ELLE",
-      "date": "2026-09-26",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLWlOV0lKeFRMTjNrU0dNWklMN1pUblFjYnpxU3NUS0w4c2lUWTZzSEVmam5ZNmdPcTNRYzdMMFZmVmFCRWFvUXY4RkktSnZvNmpXMjdNaktoVnM0U0pHUWZORGo3dkV3bkI5RHFvWWlxa0hhRGE2eUlfclRhS0NVMDNYUGpoYjJ2NEdBUURDZWVrZGdKbFotelBXSU4xcTBUal9RQWkyWDdvVWc?oc=5"
-    },
-    {
-      "title": "10 Songs Taylor Swift Has Written About Travis Kelce",
-      "outlet": "People.com",
-      "date": "2026-09-26",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xQ2tmRThDVTZEQ2dxdlZJR0RQQ0J3aEZxUnpfWmFjbktrblEtRnRyZzBtVjdHUmpVSFBkRkxlbEluLW9VSDJma0hUS0NqYlVNRzV2bF9aMU5DSmJiUEFPSTJLRXUyeU9lVmNJaTl4Y1NJYnM?oc=5"
-    },
-    {
-      "title": "Taylor Swift Shares Personal Footage of Her Visiting Cleveland with Husband Travis Kelce in New Lyric Video",
-      "outlet": "People.com",
-      "date": "2026-09-26",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdlpqSHZZTk1xRDJSbEE0M1l0M1BmMTFSX2d3czlPeVhFOWJyR2RxeHhSVF9SUk5UaUZ0Q3JoU2E0QzBGbktldzEwMkd4WEFNREZvQXBheU9jTGFJaHBCV29kYmRYTjlnMmdBUVY5N0I5NDd1NGM4cDF5T2hwNkVoMGJxcmdsVTJDNWt3OGJDVTNsU2hTNUlELUFkOC1McXYtQzJ5Wkt6dzUzVHAyaHNhMjJMRm9LZ2l2c0RTSWZnUEhuNEFlOGIwaHM5WkdGbW9k?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQW9sdVV5bWJCR29RakhfdzIwV0RYY3RBYTBKUFIxZWk2Wm5aNFFVTVFKaVRjM1dZQkxQRHlwbV9YSHRFeUlNMVpGNm8wS1FNTjFvd0ZBTEtYd1FLaWt4XzVLQUxzcXNLOWVuLVlabkFZZW1Xal9nWGxXQkdLbXVQcnBVam9mMjBQdjgwLUJ6ckhKN3dMTFo2TER3NUVscFpTbURWNkk0UWN3dTZmemdXM3dOSkZuQmNXSkpoajBKcGZQbzB6dFJxNzJRYVY2RVEzWUVIbWhMamh6ZW5WZ0FpZnpHQkgwbE0?oc=5"
     },
     {
       "title": "Taylor Swift Seeks to Toss ‘Life of a Showgirl’ Trademark Lawsuit After USPTO Cites Confusion Risk",
@@ -2423,10 +2393,22 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVEFHVXNlRERpQXprSkQ1Y0NFUXdiQW9kRnVBNzV6T1llY3hyRmpzVVhFd2o2UmZGXzZHemtWdjIzTndRTTZRSkF1RXNpX0F5aWxfX3lkbUJsQXpiZXVJT244REVUekVrc3VvNVozaVdaUUoxYl9xcXNCYVFGV3Zsc0VTTWNKOFg1UlhaeGxqaEN1M084Z3ZYYWJQcHpDaF9zVm9mZjVxRQ?oc=5"
     },
     {
-      "title": "The Leap: New music from Taylor Swift, SNL is shaking up their cast, and more!",
-      "outlet": "TCU 360",
+      "title": "Taylor Swift Drops ‘The Encore’ Follow-Up to Her Hit ‘Showgirl’ Album",
+      "outlet": "Modern Diplomacy",
       "date": "2026-09-26",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT1R4TmVQellRV2stRlkzczN6aUREeWxub3NlbF8zREc5SnN4TjhmMm5CVk5fcDZYOExmT3FqRThpd0RzMUZGSS1WUDlJYWwzRVdtZm1hRmgtU0xVaTVfdXlmVDlWOEZOVExBVDkwaHNxbmotdlk5WWE0Qlo2NElEbXNwS2pXTWFnckZSUkt3SFRqWkZmdTd1dXpnMU51am8tNDFUYmpINUg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVEFwR0hncEFJZlN2V293T0dabFFkN3V2alo5dlhHNVM4VXpHUzVKSDRFdUhtSmhCOExUYzlmMjFpYVdaWGdwSzlQM1VydGhjLXRuOVRtMkFBSE96dlA2MUdpdkoyeFhyTzZQZzUyanNROUVYaURxbEhiSGZhSWhTV0I0ZGZSSHJHNGNKeXZ6ZTFwejlRV1plQm5tZHQ5MEIyQjdtLXlydw?oc=5"
+    },
+    {
+      "title": "Taylor Swift Shares Personal Footage of Her Visiting Cleveland with Husband Travis Kelce in New Lyric Video",
+      "outlet": "People.com",
+      "date": "2026-09-26",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdlpqSHZZTk1xRDJSbEE0M1l0M1BmMTFSX2d3czlPeVhFOWJyR2RxeHhSVF9SUk5UaUZ0Q3JoU2E0QzBGbktldzEwMkd4WEFNREZvQXBheU9jTGFJaHBCV29kYmRYTjlnMmdBUVY5N0I5NDd1NGM4cDF5T2hwNkVoMGJxcmdsVTJDNWt3OGJDVTNsU2hTNUlELUFkOC1McXYtQzJ5Wkt6dzUzVHAyaHNhMjJMRm9LZ2l2c0RTSWZnUEhuNEFlOGIwaHM5WkdGbW9k?oc=5"
+    },
+    {
+      "title": "Taylor Swift unveils never-before-seen Travis Kelce home footage in ‘Cleveland!’ lyric video",
+      "outlet": "pagesix.com",
+      "date": "2026-09-26",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc2poMXRSWG01OHFfQXd4Tmc2ZXluS0Z4NDN3c3pVQ19XSjZHckNiQ29IQWpQM3hSS0VocFZxX0ZCa00yZE0wc1psRXo1Vkh1d0MxdXl6NlNZTWoybldnSzFXOVRsanF4RGxUX051blVGcXIxQ19yYmI0Zzc3SUwxYWxZODBoWHhhMnB4aU5zcGc2NVF0dmtMS0M4SkRtaF9DWW5VUUE1a1MyV2ZmQlF1UVY1dFBXeWM4QVhCRnBn?oc=5"
     },
     {
       "title": "Taylor Swift Shares Rare Glimpse at Her and Travis Kelce's Road Trip to Cleveland",
@@ -2435,16 +2417,28 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNFVQSks3SExleFBpNnBENTZXX3FIVGstZ2J1YnJhRG9OOFhISWR4S0FiZ0JHMWJvRlo0MTRwLWRydThmQnpNRzZIZzRZRVkxaVpWb0pHMmEwX2pVTkxsTF81Ty13U0E4RXowbWhiUVg3QVlBQWxteWt4S1c3akNmWTdoTXREVFFjWWNERDhFc1AwZzBZSXRzeWlMU3Y1QnJQRTVLZmhuYw?oc=5"
     },
     {
+      "title": "Taylor Swift Sets 2026 Single-Day Spotify Record, Thanks to ‘The Life of a Showgirl: The Encore’",
+      "outlet": "Billboard",
+      "date": "2026-09-26",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbmZ2RUNtVEcyYmlWMUpCVU5lZFpCUzNDZlJhcVZsVEVic3NBcXVLRVdnYm9VM2NZc1lab2VDZFZPWS1IeGtsS3lBa3pDRFpScUhHaG5RRWlia1Nlb1BmVkNucEVFZHE0VUhfMGFsUTFxUkRSdzk4OXdTdU5xSW11dGdoZE1JbzhCekxfQVdxN3RjWTJtdXNPdlZPNFhxNGR2?oc=5"
+    },
+    {
       "title": "Taylor Swift drops ‘Sparks Fly’ as a standalone single with 108 million views",
       "outlet": "Martin Cid Magazine",
       "date": "2026-09-26",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xSndaOVJWNS1YN2Y0alBFRkpLUU1WS0RuWE5idFVXSUtVaWFOWjhGMS1uWlpuZEx6R0xubTdnNG0zMmxoRzZiY2RkdDJzYTJjLTdyWFRDdjJuclJOVXZveVlmeGpKY1pqMUVz?oc=5"
     },
     {
-      "title": "Taylor Swift Breaks Spotify Record With “Patient Zero” Surprise Release",
-      "outlet": "Deadline",
+      "title": "How Taylor Swift’s ‘Patient Zero’ Music Video Will (and Will Not) Impact Her Oscar Chances",
+      "outlet": "IndieWire",
       "date": "2026-09-26",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zbUJiRS11X3QtTm1Dc1piMUNQUko1bXNEOUhadUQzWGNIWDZ4c0xxNDEyUGFRWG1NSWs3NlVhSmhVVWJRWHhPN1FYSFJnVll1c0plWFkyazRZWTlKUlhVZDJvR1ZyZnFFSm9EVm9ZYTkxTVE5c3hHR0o1aGh0YVk?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbHVkd1Q0ZjhkR1Yxa3BpUWhCNmVxaURUYXRSbDd1RGFGemRxMHBsR2FocDRYOFBRSVlySVVoMXZqU1hwNnNXaVZuOWFhdF9HMUExQmJ1aDhuUXRHN1ZYLUdmZi1FUmdVTzNWQkNOOE9YOTZ4R2s1NDBJSzR3d3prYUxvaktDNFppRkl2eUtwNjBENkVtcE9XbQ?oc=5"
+    },
+    {
+      "title": "Taylor Swift ‘The Life of a Showgirl: The Encore’ Review: A Superfluous Addendum",
+      "outlet": "slantmagazine.com",
+      "date": "2026-09-26",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQalN2cjZOYUdNZ2RyY3dvamJCRzh3NVNSY3JFOHg3ajJ1Yl9id2hhcmhOWXFNR1JubUJkeW9VY21jY3pTeVJRakdYZVJsQ3BaX2t5UjVLZ1pUc1ZxU1JyVDVDdDhMRHdMYlNzLVRQTzI5UF92ZDdpTnB5R29wVzlsRGl2blhFZTNqeDVuVHEyeHlTQ3FuN2diYnY3b3k?oc=5"
     },
     {
       "title": "Taylor Swift wedding: 7 of the sweetest details from her Madison Square Garden ceremony with Travis Kelce",
@@ -2453,40 +2447,46 @@
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWTRla1NMSFVNRkNwekJlS1F2eTJmX01JOE1Jd21tNjRGRjJjaktENzNDcDFrcnJtTHRjZ0dFY25qcG0wMmVlZFZwYkR5VUhSQjdtM0xPNXZnYldSM2tJOG0yX3o4Y2FISkU2V3ZyVWFIUm1rcy0wV0V0QUNUNFJ3WHJJVXVQVUVZLXVKeFFMU3ZiS1NuNlhmNDFEai1HSG12TXRLWThJVnhfMTFCZWVfNF9fMGtKMzcwUHduR1d1QkQ1TG9EaEZPd2QzZElsSEZLalQzbk4xdDk2a2RFcTI1VHZCRWhoWk9JQWhmVWJjM3M2R1hm?oc=5"
     },
     {
+      "title": "The Leap: New music from Taylor Swift, SNL is shaking up their cast, and more!",
+      "outlet": "TCU 360",
+      "date": "2026-09-26",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT1R4TmVQellRV2stRlkzczN6aUREeWxub3NlbF8zREc5SnN4TjhmMm5CVk5fcDZYOExmT3FqRThpd0RzMUZGSS1WUDlJYWwzRVdtZm1hRmgtU0xVaTVfdXlmVDlWOEZOVExBVDkwaHNxbmotdlk5WWE0Qlo2NElEbXNwS2pXTWFnckZSUkt3SFRqWkZmdTd1dXpnMU51am8tNDFUYmpINUg?oc=5"
+    },
+    {
       "title": "Taylor Swift Is Losing Us: Encore Reactions",
       "outlet": "Vulture",
       "date": "2026-09-26",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85OW1iUUQ4MHhueFVwVG04SEVTSEFvMmg1YVhiVk5EVDBaRUgxWW00X2pzNFFRVHYzTkJvSWhHYktiTE03Ynl5SVJ4NkZEQ2UzdjJHTEI5cEk4MWV4em14eGhxa2dIWGpOZmlZZjlOdTI3Q1h1?oc=5"
     },
     {
-      "title": "What to know about Taylor Swift's 4 new songs - ABC News",
-      "outlet": "Breaking News, Latest News and Videos",
+      "title": "10 Songs Taylor Swift Has Written About Travis Kelce",
+      "outlet": "People.com",
       "date": "2026-09-26",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUHFuMWhYdTl4NXQyeDdJaWVCZWpFNDQ5M3dDQnBxLVY3RmVXWVFPNk5BNlRiREhNVlZpcUZJSDlLNlRuLVJwbWc0a2o1TW9XM0x1OTRBM2xNc2hpVmd0alViSDI3UlJ1Uk4zSUlJV3ZFQnJzNEFtUlozNFBGQ0wySTNkQXhOSzFZRlcwelFRVGdOeHduNXlJaXZkVTNPUdIBowFBVV95cUxQTks5cHpHYkp4LUItR2ZBZkkyZm1RcVdhajhuQkFhWU9BQnNsSE9ZZFJVaU55eUFXam91MS1NVk55akxBWjVKNXVPck9ucF9VRXhvWk81ZlY1SkZsYk5tSkNGMXNDb24tSnVJa1JnS0tBWXNKYk5MWThxOU5tdmFQQ1dFR2dwUll6VWpPQ2NmSHNaMjljamJaWlVCdnFBZjBod0dJ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xQ2tmRThDVTZEQ2dxdlZJR0RQQ0J3aEZxUnpfWmFjbktrblEtRnRyZzBtVjdHUmpVSFBkRkxlbEluLW9VSDJma0hUS0NqYlVNRzV2bF9aMU5DSmJiUEFPSTJLRXUyeU9lVmNJaTl4Y1NJYnM?oc=5"
     },
     {
-      "title": "Forbes 400 Excludes Oprah Winfrey and Taylor Swift",
-      "outlet": "Yahoo",
+      "title": "Taylor Swift’s four new songs are The Encore that no one asked for",
+      "outlet": "Paste Magazine",
       "date": "2026-09-26",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQXF6dmNObFBUN2ZDbW5lUFFQaDE4VEVsS00xa1lsdWZyZGI3Zk50WkU4eDlTT29JNU56QW44NU54LWpONU1sZl9JbllNNmg4S1RGZHBTc1NWaG1yTFFvVFpfTnJTWmhQTHE0MnFEZy0zNkIwR3M0ai1xZGVTMWwzaWRnMkpCMmxJWFdmX1drcVB5Sm5pbE5lWVRhd0oyaVJCNVR4Z1hR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSTVOMUFTVWNldWpQTnN0Sm84dzdDZjVFMWJKRnFZd09tNG9wXzF6Z3h6aEFrMHh5MG5kelJLWnE5bHNLTFA0M2dnZldqUERoeUw3MnNyUDdoalV4cU5McEhiNWtyTUhHSnVLWE4wNDY0X21wb2pDSU93TWtPdGZ1Y1dzQVRtSVJhc3dGYUpBaVQ5V2dkS210R3R2SUFTOUZLRUZGaw?oc=5"
     },
     {
-      "title": "‘Patient Zero’ and 9 More Songs We’re Talking About",
-      "outlet": "The New York Times",
+      "title": "Taylor Swift Breaks Spotify Records With \"Patient Zero\"",
+      "outlet": "Deadline",
       "date": "2026-09-26",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcjJaYnZWdmxQMjhiZDJOd1RVRVI1Z2ZBQmxPd2FQR3hLc2ctellGNVVVSjdlTmRybXA4WHBwRDJ6N1BFQXFjOVQ0TkZGV1FZSU5EVUFWbV9zVkVnUXhEWHlrMElGS0x2UHhZUE9qeU5MdV9HM3p0WlpXQUYwN2wyVGpEaUh0dWFvckViNENBZTkyZlhhOG9PaQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zbUJiRS11X3QtTm1Dc1piMUNQUko1bXNEOUhadUQzWGNIWDZ4c0xxNDEyUGFRWG1NSWs3NlVhSmhVVWJRWHhPN1FYSFJnVll1c0plWFkyazRZWTlKUlhVZDJvR1ZyZnFFSm9EVm9ZYTkxTVE5c3hHR0o1aGh0YVk?oc=5"
     },
     {
-      "title": "Taylor Swift’s ‘Cleveland!’ Lyrics Address Critics of Her Relationship With Travis Kelce",
-      "outlet": "ELLE",
-      "date": "2026-09-25",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdWJ5bGNMb1QtMGlYZEFaMEROSnRmQ1hMS2k0bVFhcHl6bDVxNDNES0x1TmlHdnlTZWRDVi1EekNMQWxIRHExV1dxQWZUWFVUeTJ5MWU1MllCZmRxbHljSHRXZTBqQWZHWlBVdmptajR4ZUZfdnY4TVp0X3ZSWjlYR0h2TWswdzdlRkJTWTh5NTM3RGk2M3RuaWRNV2E?oc=5"
+      "title": "Taylor Swift's Short Post-Wedding Haircut Looks Incredible Curly Or Straight",
+      "outlet": "women.com",
+      "date": "2026-09-26",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTzdTdjRGWENld2hHdUNnem84Vkp5Sk9zbGxMdVNNYWN0MUNVUTJ2NUxDZ0RVQkNTZUVEemVvNHlkZ0tiMHZEOXFLQk1IX2R6WXFDbWx1ckV4VUJXSk9vdjBKN29rcW43YWhkMmJVbktfa2NpZ01XNVZyNHBndFlpZ3JjZjdWVG8xSHFVU2pBY2tEZ2NDZVE4?oc=5"
     },
     {
-      "title": "Taylor Swift Shuts Down Critics in Travis Kelce Love Song \"Cleveland!\"",
-      "outlet": "E! News",
-      "date": "2026-09-25",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQTdrZEhQMXlPOGN6ckFWaWlfUl84bDZXWnp2Sk1GTThlTVhHSGFpclJlZEgzZk9jX0xyYjNpcTZfUUNmbVRYSjgyQW81N1dlekpPZVl5MTNLZDRlcUxlUmhEV2p5Zm9DX2t0Z3F0ZF92MV85blZTWkxLd2dFOURDNHJjSEVVdDVrR0ZBRUJXSWR6WnZhTmM3aGdSU205M01FTDVR?oc=5"
+      "title": "Why Fans Think Taylor Swift’s Song “Pink Clouding” Is an Apology to This Ex-Boyfriend",
+      "outlet": "instyle.com",
+      "date": "2026-09-26",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYTNHY2Z5UDdOUlNsLTBvblhxd1lHRjI0Y2s1YW9QOHdLRXR1NG5weXBRMkdsYzg5a3k3akFOYlJieG9UQXVSUHZ6S0pWbUE1Yk14QW9QZjZha1RNNG1SNXlWTnNnZXI3b3lyY29BcHNSNWVpNzZucWlLYTFrLW90SXFhS0N5UWUtTDN1OFVEUkM2bDA?oc=5"
     }
   ],
   "bio": {
@@ -2513,9 +2513,15 @@
   "tourNews": [
     {
       "title": "$4.6M Child Modeling Fraudster Blew Stolen Cash on Gambling, Taylor Swift Tickets",
-      "outlet": "casino.org",
+      "outlet": "Casino.org",
       "date": "2026-09-26",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWVloN0UzWEhSd0pNcHhEaHFVLXlGZG1Za1ExNmJxTXV0ajMxNVhVcHBqdnFzV1ByUkxZRFNObXBSNEwzakVDLVJCRGQxaTRhZVJreVBXeDRmcURrYVpTREhFb2h4WnlLWTRZYmowbzM5SUdScVBLeHNlSmZGa2NKazBhb1FhOE1ueWVsYmZUQkU4VXc0SVdnb25qVUgzMkxEVkRJUjFneVRLRzU1?oc=5"
+    },
+    {
+      "title": "Taylor Swift's Eras Tour dancers traded sequins for black tie at her wedding. See every look",
+      "outlet": "Yahoo Creators",
+      "date": "2026-09-26",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTEdZWE5JQnV0ZVloX2RvWndsUmtwT09BeVFGSUpuOHNOd1VTckhVTElCMzRfeFE2MERtRVFIbHptWWoydE1VckRqaWZZa3VjRHJtNEMwQnItTkhLUEV0NEd1SUNTa2MtMVNzcFpwSWtBQmRJRHR2eFFHTTRIQ0FwT1Fzd1MzRFBEaWhoTVp4T1dLd0k1X0tnR0NfVFZUREU2Y0lpUEhVS3hGRTV0Z2JjaVRkaEZ4M3RBUFFrUlFuNTVnYWRDS0NudXdfTndBcGwyNUdfLWpvdmVGS0lQaThpVVZn?oc=5"
     },
     {
       "title": "Who is No. 1 on The Tennessean's Top 10 concerts at Nissan Stadium?",
@@ -2540,12 +2546,6 @@
       "outlet": "Realtor.com",
       "date": "2026-09-25",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTkpWMDF1bEhGZmxTSXc4b2hZdW0xMTNaYjUzWUphcXFUTTB5Xzh2U2ZESU54Y1BrbkpKTzA2eGg0cHJra01QLXBfeUJWSzRVUkprcXZYS1hrWnlHTHlBMmhzUUc0aVFEOF9CVU1aZlBlNlRuV0pnV1lFSDlLQ0tCTFFXRjAtRGhwdzNoMk10Q1Y3NHVLRmc?oc=5"
-    },
-    {
-      "title": "Taylor Swift's Eras Tour dancers at her wedding: 14 of 15 have shared their looks so far",
-      "outlet": "Yahoo Creators",
-      "date": "2026-09-24",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNd3FLVUJNVVo2SmhwTl9ZUFBOR1BpSTdOejI5MUdmRnVxSHY0aU5VcXFyZWVrMm5nZXNRbW9qSThfeU9Sa1NPMl93OWJiUmN4U2tjeVgyRUV6NGJsMHl5OHJLYVdWX3ZyN09rdzZYNmtIeThfSGRJek1zRTVmZHVLeXJGRjUwaUpHMHdDNWhUR3ZJRFcxdFg5QlRjYVZkWU5PUm43amQwOW9qb1pLSF9TRTc1dFdGZEg1ZG1fTHdnN1lFdjhYVGdzaFd1U1ZtaEFJU0pEV2tHMWVPLVRN?oc=5"
     }
   ],
   "timeline": [
