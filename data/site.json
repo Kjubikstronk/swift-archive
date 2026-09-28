@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-28T14:00:29.830Z",
+  "generated": "2026-09-28T23:18:40.125Z",
   "artist": {
     "name": "Taylor Swift",
     "full": "Taylor Alison Swift",
@@ -2191,24 +2191,6 @@
       "ms": 225868
     },
     {
-      "title": "ME! (feat. Brendon Urie of Panic! At The Disco)",
-      "album": "Lover",
-      "date": "2019-04-26",
-      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/3d/ab/493dab54-f920-9043-6181-80993b8116c9/19UMGIM53909.rgb.jpg/600x600bb.jpg",
-      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c5/6f/e3/c56fe3a6-2f25-b545-6135-aaba0a838569/mzaf_1819099962104489735.plus.aac.p.m4a",
-      "url": "https://music.apple.com/us/album/me-feat-brendon-urie-of-panic-at-the-disco/1468058165?i=1468058706&uo=4",
-      "ms": 193000
-    },
-    {
-      "title": "Shake It Off",
-      "album": "1989",
-      "date": "2014-08-19",
-      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/89/4a/4a/894a4ab9-b0b0-9ea5-ca41-8da0b9b79453/14UMDIM03405.rgb.jpg/600x600bb.jpg",
-      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/04/86/32/048632f7-a5c5-0f5d-6213-a9e89c3a99b3/mzaf_8458239339293825693.plus.aac.p.m4a",
-      "url": "https://music.apple.com/us/album/shake-it-off/1440935467?i=1440936016&uo=4",
-      "ms": 219209
-    },
-    {
       "title": "Pink Clouding",
       "album": "The Life of a Showgirl: The Encore",
       "date": "2026-09-24",
@@ -2216,6 +2198,15 @@
       "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/88/d5/1e88d560-253f-3fa2-87a0-2f83b9681948/mzaf_11928544907491655022.plus.aac.p.m4a",
       "url": "https://music.apple.com/us/album/pink-clouding/6814997249?i=6814997428&uo=4",
       "ms": 190690
+    },
+    {
+      "title": "ME! (feat. Brendon Urie of Panic! At The Disco)",
+      "album": "Lover",
+      "date": "2019-04-26",
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/3d/ab/493dab54-f920-9043-6181-80993b8116c9/19UMGIM53909.rgb.jpg/600x600bb.jpg",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c5/6f/e3/c56fe3a6-2f25-b545-6135-aaba0a838569/mzaf_1819099962104489735.plus.aac.p.m4a",
+      "url": "https://music.apple.com/us/album/me-feat-brendon-urie-of-panic-at-the-disco/1468058165?i=1468058706&uo=4",
+      "ms": 193000
     },
     {
       "title": "Cleveland!",
@@ -2234,6 +2225,15 @@
       "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/58/f2/54/58f254a3-25aa-0542-bf46-4627c8f2e06b/mzaf_5527018976386911832.plus.aac.p.m4a",
       "url": "https://music.apple.com/us/album/babylon/6814997249?i=6814997429&uo=4",
       "ms": 219366
+    },
+    {
+      "title": "Shake It Off",
+      "album": "1989",
+      "date": "2014-08-19",
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/89/4a/4a/894a4ab9-b0b0-9ea5-ca41-8da0b9b79453/14UMDIM03405.rgb.jpg/600x600bb.jpg",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/04/86/32/048632f7-a5c5-0f5d-6213-a9e89c3a99b3/mzaf_8458239339293825693.plus.aac.p.m4a",
+      "url": "https://music.apple.com/us/album/shake-it-off/1440935467?i=1440936016&uo=4",
+      "ms": 219209
     }
   ],
   "videos": [
@@ -2345,58 +2345,28 @@
   ],
   "news": [
     {
-      "title": "Taylor Swift broke Beyoncé's VMAs record, bringing home 3 new awards",
-      "outlet": "Yahoo",
-      "date": "2026-09-28",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaTZmdUxHZWNrT0lwZkxxYUFHZW9UWWxRcmNTd3VnNGFpNkNZN3U2SmMzeDZOdl92b0tRTTE4Qm42UWtJZzdtaWNtRms0aW53QkVFbk9wdkd0ZzZSS2x0RzhpWWx6Q3NMS3Y4TFUxazR0cnVIT1E3U3FPUTljcXZFZXJXVzh3ZWNGUXBveERTUlNGcXdsb1RKSGpmUFBvUmtCZ19GaTVlVHdaZWZkSmxaTGJzRWxOb2FDY1RkajZhSV80b2kzdWh5ajVFaw?oc=5"
-    },
-    {
-      "title": "Taylor Swift’s ‘Patient Zero’ Video Arrives With a Haunting Plot Twist: How to Watch",
-      "outlet": "Billboard",
-      "date": "2026-09-28",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcV9CVDE4akVMZ1hodEJmOHJDUEFpaFo3ZXBYVmFaMFVReHllU1dKREoyU0REWl9ZNkRHT3JsaFdnWkFwdV9wOFBSS2FDR2dyZHVJVFpjYnJCejE1ZlZZa0RxZFRvcW9LNUtuWjBVMzNNUFBYNlYtUFNncHh0eENmeHRwVms0UQ?oc=5"
-    },
-    {
-      "title": "Taylor Swift Shocks Fans by Swapping Her Signature Glam for Muted Pink Lipstick and New Eyeliner Style at 2026 MTV VMAs",
-      "outlet": "People.com",
-      "date": "2026-09-28",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9GNklReHhvLU8yd1dTYzR0YVRibTJCS2JWOW5McmhRV2s1NGI1cDY5V1RSTXUyVkljcUdQT3hsWVlCaWxqUFQwNllCUm5rSDI4ckI0WlZIcjdYYXpQZTBQV3B5TWVTazY3RGtibw?oc=5"
-    },
-    {
-      "title": "How Travis Kelce Supported Taylor Swift at the VMAs 2026 from Afar",
-      "outlet": "E! News",
-      "date": "2026-09-28",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWXZYZHFDQTB5a25vNURIeTVya2RRQmZSdlZGVUUzOUFrMmJ0b2hzOUprdkpnREt4OXBPZGJlSVpYSFpSSEl1U1k3VnVPcVd6b0ljWk1Vd0FTSjVpdlg0bnZzVFVGV1lORC05RXVGNjA1bU1CY0tGS3ZncVA4Z2V5dml0MXNZYWFYOXVmcmxvbEJpYjZpRVBMRXZNVGM?oc=5"
-    },
-    {
-      "title": "Taylor Swift sets all-time VMAs record. What awards did she win in 2026?",
-      "outlet": "USA Today",
-      "date": "2026-09-28",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaTZ5SUpkeWtwelZoVGN5Qk8tdmxJSDVSQWFaLTBoTDFMSDNSODN3d0VhMXJZUExMeG5WQ0lrZ1h5cURidUpzNFc4MnQwN08wOGdmNjNKRS12VUpqTGNFZHROb29TZGFLY2F5eUlPTnBOZWZjenRIVkZGLW5wdnlFTVppOHdoQkxmNFlFalNzVXEtWHpSNXZQWVZNUFVPSHNlbTVBeHo0LWpIeWQtRmc?oc=5"
-    },
-    {
-      "title": "Taylor Swift explains deeper meaning behind her 'Patient Zero' lyrics",
-      "outlet": "Capital UK",
-      "date": "2026-09-28",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaDBZV1NUWEVkTWUxUmp0QnBLaENZSy1WSjdsa08wUkxPSFRQRlVNVGwwWnNySC1zc1JnZy05Qmd0M29xdDA0c2ZnSXFlYllYbkcyX1kwRFRlOWJISGRiM2ZUQ3hSNG1sbHotSWRMdWNuWGZhcWVaREh1M0h0NzdlaWY3eXk?oc=5"
-    },
-    {
-      "title": "Taylor Swift Receives First-Ever Artist Director Honors at 2026 MTV VMAs",
-      "outlet": "People.com",
-      "date": "2026-09-28",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaWVHbDJKWEtYQVNQT05ZcnpmeWZOU0xQbWRiX0RLZnV2OEwtRjVBVW5tYXJVeG14WGw5WGFGLXptMDhiMG1Wcmp5c2FJVFZCQzRxckFYMEdqZFBSSWs4cjBvS1RyS3RrTlpRSlVxMHlVMGI3cW5DeVpsVmYxR1J6aU9Xb05BcllNQ0hPY3BLenM2UQ?oc=5"
-    },
-    {
-      "title": "Madonna wins 2026 MTV VMAs Artist of the Year, Taylor Swift accepts Artist Director Honor",
-      "outlet": "cbsnews.com",
-      "date": "2026-09-28",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBrWDBlaWVIYUhVZml3bHdITkkyOXE3UnZXT0ZzNjhncFcxVEJxTTlqQVlJT3NXRUpNQzBzZ1hkeHE0X2pMRFFlRHR1b2xUZ1FJbDd1VnZXSm52UmNRUERJWVVxdktEdE81ckQ5UVk3dnJKM0lxVlcyQVdZRQ?oc=5"
-    },
-    {
-      "title": "Taylor Swift sparkles in corseted silver couture on VMAs 2026 red carpet",
+      "title": "Taylor Swift debuts ‘Patient Zero’ music video with Dakota Johnson, Colin Farrell at MTV VMAs 2026",
       "outlet": "Page Six",
       "date": "2026-09-28",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaUdMM1FlWlhfT0pvcGFiZ3ZyQ213MmVDMmtXRzAyYmdVN2I0LU9FOTdwTDhSUXozZ2x1MDUxLW0zbzM3RzctWm1BUXVZeHNaNWdEWHN2a05aUXJ3MFJBaW9vV2lFdkJVUlYzZDhZTkUwMGM3RnVNcUMwd2F0TGUzdnNmMnFFanRBampQMFFwbFZhWklad193aDBFbmExSTFnZ21mLVBrOWJma2g5TUY4?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQVJ1b2dWeHpmb05MUF94VmNqS0FMVUp4VXR1R0dXeWVlb21YVWtBQmpuZk0xSmN4QktoMzVZT01Zam9QM21vSmNqa0Q4dEU2RDZnUndHNEZxSjJueEs3TDRmVG1XQTNma1NGRTlWZlNPOFVBSHdEVkZhQUtkY1ZKVVZKeGFfVVI2ZnJHS3p0N1VpaFZsQXNxM3RHbjkzTFRhR3ZCSXdRbHNmTDNOQlFwajJfakVPdVpCOW1hcEdOUlkzUXhBcUdWZ1l1U0Z2NFU3RlE?oc=5"
+    },
+    {
+      "title": "Bebe Rexha Reveals How Taylor Swift Supported Her During Grammys Dress Struggle",
+      "outlet": "Just Jared",
+      "date": "2026-09-28",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSUFqTF9icTZDa2hqdmRia2dJLW1xdk8ySjFoanFvMERwWFNUeThRY1puSldiQm5FNWUtMmQtbTJMOXZBS203dmV5cUZwSE1FOWlPaDNxbVlsM2FZS3ItZXNscVJWMjZHVndIWUEtbHlqTWZJa1ZBaE42WlkxNHlZSUQ5cXMwcF9yb0xDZlJpT3N1YkYtbzBrNF9mU3FFR080MWlnQTBqZy1DTGNzRFF2amNZQ25NZVRU?oc=5"
+    },
+    {
+      "title": "Swifties Catch A Heartbreaking \"Delicate\" Easter Egg In \"Patient Zero\" Video",
+      "outlet": "Elite Daily",
+      "date": "2026-09-28",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVi1Sbkp3Zkljei1VbkJqZmxhbzFxaVNPS2d4YnJRckNlU1J4bWJYeFhxck1MSmdrYldxRGJ5bVU0Q0ZJNHphYzVWTTFHeEpiUGN1WHowTENuM1UtaElZdE9Pd2xNZVIxNllnM3YwZzZGWVI5U1hvOXhJYkM4SjU0OE5ZNDZEdVBlcFdPVjFLdUhPakE?oc=5"
+    },
+    {
+      "title": "Did Taylor Swift Ruin Music? Todd Rundgren Argues The Case",
+      "outlet": "Ultimate Classic Rock",
+      "date": "2026-09-28",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FRm4tR0lCNWFMcmhOeWU5RXpPWl80X0dvOFROUW1aeUR0SlJrOVJqSWtSSE1kMVFHRVh6N2tRWXlGcndQOXVYcmx4RU12c3ktbzZNTmlKOF9FbmNwTWtKem9zb1Z1TjVPT0Yw?oc=5"
     },
     {
       "title": "Taylor Swift Won at the VMAs. “Patient Zero” Showed Why",
@@ -2405,46 +2375,22 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRHp2S1NVNndlUG03ek5MNVVzck5xVFB4WDhmdTBjNWR6OGdUNFE4RG91aV9MbE44cWRiS1dZQXEtU1pmTS1ScExIUGdnNUNvQzRMb3U5QW4wV0JUdnZNTHBLUmZLS2VpaGVGZTdVWlNUZ0hkUlFmYXR5U0xPWXB4UTktWmZIRUk3TUcwbk9kZw?oc=5"
     },
     {
-      "title": "Taylor Swift Honors the ‘Ultimate Showgirl Dolly Parton’ as She Accepts Video of the Year at the 2026 MTV VMAs",
-      "outlet": "People.com",
+      "title": "MTV VMAs 2026: Madonna wins big, Taylor Swift makes history",
+      "outlet": "wbal.com",
       "date": "2026-09-28",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbk56VEJOYjlRa29LQ2poZER1WnJTTXo1SDFpbEhiU1k3bG1uMHJNN3FZd2JPVVg3ZlBmSzdLeFJYLWpEcXhheS15RlVxRURsUkE3UmdBUVdNbW9yN2w0ZmRLemZNNS1HMVdlSS1FRzZYNmpFYlVtaVljNENzUEI1Mi02b2tPZ0JHNjVMQ1kzNy1OX3I4?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaWtqOHRvaHJYQ09UVXJvVVZmU1JFTDZ5cjZVRXVSRFlwRG9qYm1mQ0YwMkdEVUE4bUtVQmNpYkY3RDAwX0hpdE9jRDRYVWg1cU1XS2RuWmZWLXFPaGltLU5Dcm9MN09JNmZmZHlKT05iZE1CSThLNnhxYlBJaHdwRFdOclk?oc=5"
     },
     {
-      "title": "Taylor Swift’s latest album announcement raises a question about audience fatigue",
-      "outlet": "PR Daily",
+      "title": "Taylor Swift Becomes Most-Awarded VMAs Artist as Madonna, Lisa Also Win",
+      "outlet": "Northeast Times",
       "date": "2026-09-28",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVGEtSEs5blNDS3Y2QV8wUDBRVXNKQnlEdGhuNVR5ZDA0YWRvOEhxY2hFY1VtLVR6bWZ5WUoyZE9pLTg5c2N3akV0MDBvczF4Ykg0a2ZpV2xPempvU0U0b3RqVUE1ZTlIVk03bWVNY3pMNlA4UjZqdkhGdklnM0xTN0x3Y0hjNFJ4cC1hZFpuOUhRWmJ6MDRoZ0w3Y25JZXRhZFgyekx3RV8?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX1o2d2FUNDRxaXVzakhreGxTTHozb3p2S2Y1OG1mNF9zSlVodWp6VkRPdHY1aHV1U2J6d093N2cyQ2JJT2s5cXFuX0FSNGltcjNBdEQ3N3l1cXVpbDN2T0Mya0VNTFlpdldzYXdnelZENDRYamtMdGx3QUV6VFJKYlFuRjdiSUpTdDlqSWpQb2VDdXJkbVEyMHY3M2hpXy1JR0RNVzN6aFFlZXdFdUE?oc=5"
     },
     {
-      "title": "Taylor Swift Sets VMAs Record With Artist Director Honors",
-      "outlet": "Forbes",
+      "title": "Taylor Swift and Dakota Johnson were besties onstage, plus a buzzy ‘Off Campus’ reunion: Here’s what caught my eye during the VMAs",
+      "outlet": "Yahoo",
       "date": "2026-09-28",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTG54ck9YQ2lCdklESmlEZ21jeF9XNzVNMGNYZVZObXJuckdUdWFvdVpzMXVid3ZLLTRLSkZXVy1DQjVNUWFHYS12aEkxQ016b2x2ODN3amNpS0tMVDZOa19qam9xWWFWRHR1NWw5MWZRckJIa3QwNVpKMXpMOGV5QWctZS1IRG4tY0R1YTR3THk2enFVRDZOeHZ1aDU0NFA4eFRZbklPQkZZZG5yRm1DamdHYw?oc=5"
-    },
-    {
-      "title": "All the Easter Eggs We Found in Taylor Swift’s ‘Patient Zero’ Music Video",
-      "outlet": "ELLE",
-      "date": "2026-09-28",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOczl6SlBodVVxNGdVMmxzYXI3STVFaFRRRVFRc2pUOG5SS01DaTI1UEZCTllGTWVKY041bWVVUEJZOGpWZ3B1YmNCLVFvY2xqZmgzdXJILWZ6UUxDeWpLNXFUNEh3YWRsczFXMXRjdDJMLVBPaE5lQTMxT0xSSWYxRjQ5MUFrQVQtOE1GS3g2LWw2and0eXpMRkEyUEQtYk5RTEdvc3JKbEc?oc=5"
-    },
-    {
-      "title": "Why Isn’t Taylor Swift’s ‘Patient Zero’ Video on YouTube Yet? Release Date Confirmed",
-      "outlet": "Just Jared",
-      "date": "2026-09-28",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZURRTHhkZkkzc3BibkFCcmxsRGwyRHNJOGFvUWJYTXZMVjc2ZVNVWWlhdVFYc2xYamYtYm83a2tXajBHbXBZQlBURmg3ZENLSlBpQzBlMXFNeFNjbHl4UXQ1UGVtT0pndmx4R20zTll5bFVIX1ZSWG4xdzdSUmVBVXpPWElqWGZEN2ZjREdmSnJQV1dvb091UlRqamtmQQ?oc=5"
-    },
-    {
-      "title": "Taylor Swift Premieres Self-Directed 'Patient Zero' Video at VMAs",
-      "outlet": "TMZ",
-      "date": "2026-09-28",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Rdkd5ckVfc0J4cnZzYVFndlNid2R2cmdQb1I2eFRjeVhVNkR2N1A2ZzBENkZHNGJra2NHQmR6UnpGN2k3RWRZOTV6c1FGOHNJeFhLaWlyWm1pTTZlb0NHTk50TWtTYzIxTVBSN0psVVNpWUlZc0VBOQ?oc=5"
-    },
-    {
-      "title": "Taylor Swift Explains 'Patient Zero' Video Meaning, Reveals Cara Delevingne's Surprise Role",
-      "outlet": "Just Jared",
-      "date": "2026-09-28",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNXpQMHpTRnNUNWVhVGMxWUVBRFV5QWRlWGZXejRON2s1VElCZjlzSk5CRjdNWGxfN09CUk5NdDNuaGZmdVB6M040TnJNN1VJN1MzdFJmWjZTUFVKVWpvbnVaRkZGd1BHd0hPbmk0dUxXV2xIT29ZeGs2NmxpZmxmblhqNURqSFg4ajNDS2d6RHpETjgyUlNJS1pieGxITXBfcTE3MnZXenY1dkdBLTlVZDhnNjNLZUxWeHVRMjlKcw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOdFU2Y0huYTVyZGlwVF9wazA0dlJvREF3dzRZdzJOemxJUzVSbkZlQzlad3VrTGdsTUllNXUtdjA4RlVpaTVVTGpCNHI4RGY4ZUtNdzZ4R3E5SWUtaGxwbTluaWtsWmI5RE9tZUxWRWh3THRZcmYyYTJBTGxOSEFjSzdPWmZKRkJNSjJ2Nm82VmxDbWx1cFpWYmh0SlpzX0J6YkxBUzFMbW5kaFlRVG1yUEd3MEliMDdRUkFmdmMzZ1plS2lVdV9GZjBOS2JISmpiUEM0ejdsalFhcHN0NVBUQ2lFUE45UVlDRG9ab3FubGlSdC1FZXhzUUtZbmg1MTA2MGdhVUszb3ZJLXdtbGJiLVNaVDZZYmdjcnc?oc=5"
     },
     {
       "title": "Exclusive | Watch Taylor Swift, Dakota Johnson react to ‘Patient Zero’ music video as it debuts at MTV VMAs",
@@ -2453,16 +2399,52 @@
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNelpta3A4OVpUdEhKTHM5QzhnbVRjaXpvYjJtby1xNWhFZUhPYVdPb1VFRWV0SFRwSUFSWjBVSEwwOFkxZ2tXNElMMmJfd1ZxbUUtX2s3U0ZIcDBmcEVwU0dZdS1Zb0ZuOTVBbENVRHZDUUdVa2d1cTdXRFRWOTJvTWZ6bC1sZFE1c1lTdVRuVjBUVHZaaDQtUExkVGFxR0tYbXJCZWN0andIRWZvTmRSV1NjVFJkU20xRkZwVkNHSjdDd2o3akNWcjRqM0F0bndwbDl4Vg?oc=5"
     },
     {
-      "title": "Taylor Swift Just Debuted an Insane New Diamond Ring at the VMAs—and It's About to Go Viral",
-      "outlet": "Who What Wear",
+      "title": "Taylor Swift Explains 'Patient Zero' Video Meaning, Reveals Cara Delevingne's Surprise Role",
+      "outlet": "Just Jared",
       "date": "2026-09-28",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOVVwc0FFR2JoTWFvbmRhanFJMXg1bk4xRjlsSnhUYVZIdm01d2VMYXBhOHhtR19DVEZKRVJNSll0eS1iTEhERkJUM0dCaVdMck80UzZWQ3ZXYV9ydEpBd1BVS3pRb3V6VkRqNEwtZGx5NzJ3a0JianI0dmlaVEpIanpjRTk5RGRRVXBpS2NGSk9qdw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNXpQMHpTRnNUNWVhVGMxWUVBRFV5QWRlWGZXejRON2s1VElCZjlzSk5CRjdNWGxfN09CUk5NdDNuaGZmdVB6M040TnJNN1VJN1MzdFJmWjZTUFVKVWpvbnVaRkZGd1BHd0hPbmk0dUxXV2xIT29ZeGs2NmxpZmxmblhqNURqSFg4ajNDS2d6RHpETjgyUlNJS1pieGxITXBfcTE3MnZXenY1dkdBLTlVZDhnNjNLZUxWeHVRMjlKcw?oc=5"
     },
     {
-      "title": "Taylor Swift debuts ‘Patient Zero’ music video with Dakota Johnson, Colin Farrell at MTV VMAs 2026",
-      "outlet": "Page Six",
+      "title": "Taylor Swift Reflects on Her 60 Music Videos While Accepting the Inaugural Artist Director Honors at the VMAs",
+      "outlet": "TODAY.com",
       "date": "2026-09-28",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQVJ1b2dWeHpmb05MUF94VmNqS0FMVUp4VXR1R0dXeWVlb21YVWtBQmpuZk0xSmN4QktoMzVZT01Zam9QM21vSmNqa0Q4dEU2RDZnUndHNEZxSjJueEs3TDRmVG1XQTNma1NGRTlWZlNPOFVBSHdEVkZhQUtkY1ZKVVZKeGFfVVI2ZnJHS3p0N1VpaFZsQXNxM3RHbjkzTFRhR3ZCSXdRbHNmTDNOQlFwajJfakVPdVpCOW1hcEdOUlkzUXhBcUdWZ1l1U0Z2NFU3RlE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaHVlcFBUQUczT2dXQ1NsWVJ6c3lhUTN4V2N6NTZTdXAyVVVCZmhLNXl3SF9iX2tVQnFRelptRUpPcHNEVmFGUWV0RWppQjVIMWczdWZXYlVTNVBDNFJkYk4wRFN2UVBxc2ZkdHBIdFcwZ0RIUi1UNW95WExRUTFZRE1fRTlrbDlJYk13N2VCWWUtU0I4ckg0bFRlQ1NXSmVMU2tRTFIyc3JLenYy?oc=5"
+    },
+    {
+      "title": "Taylor Swift's 'Patient Zero' Music Video Easter Eggs: New Clues Fans Found in the Full Video!",
+      "outlet": "Just Jared",
+      "date": "2026-09-28",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ2dvYkpUQnRIcnVWdTlaQS1fZGdmZXhZcm9uc2paVlJjNnBoalJjd0hfWHBrNEVldzJMZFctVXB4Z2lMY1UwSEp1aFFrSHU2elo4ZnpGMWo3VTNIN1VSTXI4bHF4Ml9fSlRzN2RaM0RteEFhVzJudnl3aGxUUmQzSTc3MzFKRlNoTUFYU2hlczhjYmhteGlZNU5tS04?oc=5"
+    },
+    {
+      "title": "See Our 20 Favorite Photos of Taylor Swift at Awards Shows Over the Years",
+      "outlet": "People.com",
+      "date": "2026-09-28",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxY0FPMXVXMFhMX3NYczM2dGc3WEhVQXN6d1VmZGo3MlVXTzB5OTlDTzR2Vl9iMWV2dTRQQjFITjlweS1DbVhOeWlpMDRUOF9MaDBjc1U3WEZFem96WTN4ZG5QdXl6UEJ3Q3Ew?oc=5"
+    },
+    {
+      "title": "Taylor Swift’s Latest Win Came With A Touching Tribute To A Southern Icon",
+      "outlet": "Southern Living",
+      "date": "2026-09-28",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9JZ2lMTDZCdEFjUlNTNmRkWTZvY2xOUFFWd05ZdW52SWdGSjBKTE9TbldNRjl2LUJxNjlrNEFyTFFJVDUxeDNWczZ6amFZYTlJUmdmYzRIYUh1OUVJd3p4UjUtVjcyejdweWs3MDQtbUdjZEdubkxUR3BHNVdIUQ?oc=5"
+    },
+    {
+      "title": "Taylor Swift debuts ‘Patient Zero’ music video at VMAs starring Dakota Johnson and Colin Farrell",
+      "outlet": "Entertainment Weekly",
+      "date": "2026-09-28",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa2paS3NMVkQySzEzcy1USkk2YmsxcExuVWFvaVdQbUpxbFNESUd6TGE1VFhvYnRFX2trbDA5N3ptWmdmeVBlNkdsTnlOenRCakpRcTMycVpVdFpOQnNTT3pSdFlFSGloRTZyc0djaHVBcmJ0Qk10TXFJT1ZCUVBYcjBwbktLTUU0OXpoaVlvc1JkbUdCX2pXWnJfMFlKZw?oc=5"
+    },
+    {
+      "title": "Taylor Swift, Kacey Musgraves give sweet Dolly Parton tributes at MTV VMAs",
+      "outlet": "Knoxville News Sentinel",
+      "date": "2026-09-28",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQX2YyTDBMQ1BTV1RmeXdUdlBDRHNMWFZ2TmROalVRQXRFNmNHZ2xwLUVzTGUzRlZZQVFhRkZwcjNhS2hSMFdjV0lqUWZ3NW1zZ0RrT0tjNDRwb2t3N0R1WEkxOG5IV0E1aTM0M2pUQnlZc2h4RnQxZjB4eTZHdmRPZ3NLX0RENW5uQUJaTnV4WVpQbU1SZ0NLanRuYlVEWE5HYkViUThNbXJ6MV9oNk9lUHUtZkstRC14QlB6UW1oTTQtdl9adnpGMWMzSnlqQ01IN3dQY0JVUlNDblE?oc=5"
+    },
+    {
+      "title": "Taylor Swift Honors the ‘Ultimate Showgirl Dolly Parton’ as She Accepts Video of the Year at the 2026 MTV VMAs",
+      "outlet": "People.com",
+      "date": "2026-09-28",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbk56VEJOYjlRa29LQ2poZER1WnJTTXo1SDFpbEhiU1k3bG1uMHJNN3FZd2JPVVg3ZlBmSzdLeFJYLWpEcXhheS15RlVxRURsUkE3UmdBUVdNbW9yN2w0ZmRLemZNNS1HMVdlSS1FRzZYNmpFYlVtaVljNENzUEI1Mi02b2tPZ0JHNjVMQ1kzNy1OX3I4?oc=5"
     },
     {
       "title": "Here Are the VMAs Records Set by Madonna & Taylor Swift With Big 2026 Wins",
@@ -2471,22 +2453,40 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54Q0Z3QzIwb2R3SnNOZ3pmZmV4Q3pzSDBlLVBycWw2bFozcDkzaThldUw0cEllWUVjWmRVdWwwd1V3bG1SR1ZROGlRaVdHZmZnc0NMZHRjZTFKajVpZlhINlhaT2pXU2Y0Skw1RHJLQ3I1SW1zUlBYeTFMSQ?oc=5"
     },
     {
-      "title": "Taylor Swift's 'Patient Zero' debuts at VMAs – How to watch",
-      "outlet": "USA Today",
+      "title": "Taylor Swift sets record for most VMA wins",
+      "outlet": "WCVB",
       "date": "2026-09-28",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWFpBelFybnR6TDdpbVo0NFltZHd0ckppdk9MUnpRcHdGT09USFdHZERDZlZleWJWUDZWZGxHUzhKUTZVelJ5OVNoZ0JfMTR1Y0ZNeFZmRkktS0JWQzBWSVZtRGdwVHlWVnlJQVJWUWlKdnVCNjkxck51RmVBMU03OER0YzlNdFdELUFDdTlzREE2QV9yX3ctVG5GcWV5QURXQ01QTXlCWVlFRDN0bFdlQldHbw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kSFEwQ2ozOHl3OTBoQkRqOXhkQ3JFaU0zLXJHR094WGx2V3JZNDBfckFFeno4cm9ONkhwT09hYk8zcVNVR3d6bndkd2FWVDBIeGJpU0RvZ0NRY2t3VzJ5UTlveFhIMy1WQjBRWnVMY0x4UQ?oc=5"
     },
     {
-      "title": "Taylor Swift celebrated with inaugural MTV VMA Artist Director Honors at 2026 ceremony",
-      "outlet": "Page Six",
+      "title": "Dakota Johnson reveals if we'll ever see Taylor Swift and Travis Kelce's wedding photos",
+      "outlet": "National News Desk",
       "date": "2026-09-28",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcnNxd1pmZ05zY3hxMzV2MkxzdTlrT0gxYVQwZ1FrSHZkVzBlTnVpRHd6NU1WeVVGWGtaTjFHYTRxSHV1SzBDSk1WQzRRM0EweXlwUGV2LVN1Yy15ZmRjdW5mRVhRV01lQ2puXzF3Y1JBNHQxQTBjbkhRQXNzSEJFTEw4aFQyamRDZlVsWU9Lc2Nqc1NCNktVVS1aQXZHN2JCS21NRTNBdFpMQXVNcVR5bDhVdF8tVmpDcGVteHZ5bGZaZ2EyNzlSa0ZGMEQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYnFwR1FQYlBOSzA0MXEzbkdxSmhtMG9zU3hXUHdlZzY3a2hWWTBrYllEYndSSTVvZjRUTy1zRjNRYlFMYWgtU0xqbHZsSEFKdGlrN2xzejBTYjZtMEphMFhvS0xaWFRjZmR2UHZjTlkyTXJ0Qk56UFNTb25aUE40V1FnNDQ3d0d4eVloZzlJcEZMdFY4Z1NUS0R1VGtfYWxjX2FlWTlabjN4N1hSdEZRWjRQQTg2c2pGTUdDMmxoazJESjlqTFBCS0dfbGc?oc=5"
     },
     {
-      "title": "Dakota Johnson Opens Up About Taylor Swift and Travis Kelce’s Wedding",
-      "outlet": "People.com",
+      "title": "Taylor Swift’s ‘Patient Zero’ Music Video Ends in a Horror Movie Twist",
+      "outlet": "TODAY.com",
       "date": "2026-09-28",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUFcwV21MYnktQ2NiRl9iU0FOTEVlMnQxQXBCeW04UHFwMF9OcmxtcDcxdDdNaE4tRVItdnBGTV9JZEs2Ykh3Qko3TThtdFVZN0g3TC1ScjA3QTVBY2J1TmhIQktUd21BdmhhSllFQUVFdVlOQUhXOVFwTU9reHg0amFINDY1YXhpcm9fd3Q4Rk1QUnJENndGczVYeGQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaUl2Y1ZIX1pWMF9EN2NwcDc3cVlxc1JsTS1tN1lrRXFzS2RvWHhGUXV3XzNHM2MyYUE1cUdQUWNUcXBIYXZyR215NFFyT21UU25HZldIb2hoRlM5M2ozNnpqRHhzQ1VQVkFWT2I3c0pCeVc2VFdtTmg4c2lHNjJ0eEtiM0hrZlliYXlKSlVVRmk?oc=5"
+    },
+    {
+      "title": "Taylor Swift Announces 'Life of a Showgirl: The Encore' With 4 New Songs",
+      "outlet": "Yahoo",
+      "date": "2026-09-28",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNVlnVmZPM0x3bUZ5Qno5cmgyRUlkWXVFemdPQk1lLVNjNC1TZDgydlppcUxsZWlTYnZrWGZyZHdObDc2NWdmTjRNczQ3alJKVWZwZEJFWGhROTF1N2E2VDM0MkZlTzFfQlhTbklSZlUxQThSTEdwMDA0dnFHQ3Z6NnZWYUd5ZVl1UVlzLURJU2JIbHQwMk11d2x6X3pxNUZqZlJkTg?oc=5"
+    },
+    {
+      "title": "Todd Rundgren Says Taylor Swift 'Ruined Music': 'She's the Apotheosis of Mediocrity'",
+      "outlet": "Ultimate Guitar",
+      "date": "2026-09-28",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPcXJncmtRWUtqUU1FTFpRZTdzdUYydzFnbmZiUzByd2NoWkhRbHN4cW1lNE1wdXA1c0ZXZmdjQWdpQmRfUFROdnBVZXZyM2NjS2Z2U2o4V1NlYTJ1ci1nc1VpeHl3TnVZaGN1T0p4VzRlTExUQ2I5RUVWN0hYbUw4OTJlOFNMNnZjYmRCeEJYZ1lkVDZxdG44eDF4SFZNSFVQSmk5cEt3b2lpbGpPLWJIeHpqTUJFQ0ZqeUU5LVBoQVVUTUFDbURzY1gydTh6bEJTaUpVeElBOGx2ZlB0WUd5R2JxX19GSHdQbk45OFlaWkUtUTREbHR5MDRUUUVVSzhhTG9UV3VleW1iZW40RWZGTFl6bzR2a1U?oc=5"
+    },
+    {
+      "title": "Matthew, Kelly Stafford cameo in Taylor Swift's 'Patient Zero' music video",
+      "outlet": "Yahoo",
+      "date": "2026-09-28",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdUQ1dlRGRHJlbWk3clpCV1JxR2o2RmV1bHdxRzBPWDFZZ0hjM0JGekxOdWpOUzA4MDVqTUpIak85VkpwWWFidF9iY285dXlDWkxxQWFVOVpSVnpaVEdoelNMb3RDWFlZdjZ5N011Z1ZMdExLWlV2Z21tOV96SlJRMkJ4ZmM0X2l2U2R5cGl0VW9wS1hCeGo3a3hkUk1EeThIbkhB?oc=5"
     }
   ],
   "bio": {
@@ -2512,6 +2512,12 @@
   },
   "tourNews": [
     {
+      "title": "Woman who pushed Taylor Swift concertgoer onto Blue Line tracks gets 54 month sentence",
+      "outlet": "CWB Chicago",
+      "date": "2026-09-28",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQUlrV2xoTS1lMk9jM29UU21ManJNMTVSeng4RU1WQVJncEt1OHpPYjlDcURZazdTckR2alZBb2tud0toOWMxR0pnbXp3eUQtOEt1ZEVfTHFiWTNVdmV4ejAxeVdZQ29wQ2I5VU9aNGYtMDJkREJuLUs3MmhtM0drMzdmV09lTmZpSDVaUnhkZmYzZHhqazNpZVdOUEpza0wxSU9vZ3FYVzdjNDRDNnBpUmdCcVVNMWVVbWZhcFM3Yw?oc=5"
+    },
+    {
       "title": "What Time Are the 2026 VMAs Tonight? Taylor Swift's Record-Breaking Night, Full Lineup Inside",
       "outlet": "JubileeCast",
       "date": "2026-09-27",
@@ -2525,7 +2531,7 @@
     },
     {
       "title": "$4.6M Child Modeling Fraudster Blew Stolen Cash on Gambling, Taylor Swift Tickets",
-      "outlet": "Casino.org",
+      "outlet": "casino.org",
       "date": "2026-09-26",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWVloN0UzWEhSd0pNcHhEaHFVLXlGZG1Za1ExNmJxTXV0ajMxNVhVcHBqdnFzV1ByUkxZRFNObXBSNEwzakVDLVJCRGQxaTRhZVJreVBXeDRmcURrYVpTREhFb2h4WnlLWTRZYmowbzM5SUdScVBLeHNlSmZGa2NKazBhb1FhOE1ueWVsYmZUQkU4VXc0SVdnb25qVUgzMkxEVkRJUjFneVRLRzU1?oc=5"
     },
@@ -2540,12 +2546,6 @@
       "outlet": "People.com",
       "date": "2026-09-25",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVVlYVTk1RllnVWw0SVlJYlZoMWNhT2ZobjFuTVA1SWtqRzhzZ3V3Z0ppd3ZZenJSdGZKcGtfX1hxbGxiU3Bndk5uZWdDanVPWkp6ZjRnMjBRdlQ5bFFoUTROVEdkbmtDOHZSQVlWaEVwSzJ2ZkpWYUhtQzE1Uk0teVlKZmlsN1FwSnFSYjBVc19ZUXYxeE50RmhKd2lNcTZzS25sQmlQRkVfSm1TU3RWT3R5U0hJbXZkcWhySlh3?oc=5"
-    },
-    {
-      "title": "Photographer Jailed for Five Years After Scamming Family Out of $4.6M and Spending $200K on Taylor Swift Tickets",
-      "outlet": "PetaPixel",
-      "date": "2026-09-25",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSXU4cXg3LVEwa0lEQTV1RnNDVEtHMUM0VVdWM0l6MFdSSHpIbW1VWkMtbzB6Qm5YdkNHcEs4TDRRSWE0dFBNUDcyQ1lUWHJneGFvLWswa0thTDRJN0VhZE1RdEktT1pTMTBrc0p1WDNzcndOdGR4S0Y5d3hwaURlWkx0bF9VeC1Rb0EwRHpyNnhKOTRxbFQ5WFV4RDhLaGFVZV9POHRTVzRodTgyblBDQlUzMEg3Z250aUFqOW9WTi1paHV4QW1nRGRJQ3ZxVlJrNnJPMldndWtxODgt?oc=5"
     }
   ],
   "timeline": [
