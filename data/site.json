@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-29T12:56:54.779Z",
+  "generated": "2026-09-29T22:18:20.923Z",
   "artist": {
     "name": "Taylor Swift",
     "full": "Taylor Alison Swift",
@@ -2238,6 +2238,13 @@
   ],
   "videos": [
     {
+      "id": "mw3kSNIxjqo",
+      "title": "Taylor Swift - Patient Zero (Official Music Video)",
+      "date": "2026-09-29",
+      "url": "https://www.youtube.com/watch?v=mw3kSNIxjqo",
+      "thumb": "https://i2.ytimg.com/vi/mw3kSNIxjqo/hqdefault.jpg"
+    },
+    {
       "id": "c0Y4PqvDvqc",
       "title": "Taylor Swift - The Life of a Showgirl: The Encore STATION",
       "date": "2026-09-24",
@@ -2334,51 +2341,14 @@
       "date": "2026-02-23",
       "url": "https://www.youtube.com/watch?v=K3jkKvnemws",
       "thumb": "https://i4.ytimg.com/vi/K3jkKvnemws/hqdefault.jpg"
-    },
-    {
-      "id": "wNYl89BsIyg",
-      "title": "Taylor Swift - Opalite (Ely Oaks Remix) (Visualizer)",
-      "date": "2026-02-23",
-      "url": "https://www.youtube.com/watch?v=wNYl89BsIyg",
-      "thumb": "https://i4.ytimg.com/vi/wNYl89BsIyg/hqdefault.jpg"
     }
   ],
   "news": [
     {
-      "title": "WATCH: Biggest 2026 VMA moments, from Taylor Swift to Madonna",
-      "outlet": "ABC23",
-      "date": "2026-09-29",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV2E5ZTE3Ukk5bHg1YUxTSnZZM0JiaDF5VGxaYkNaZHVKN0RYMk1fWnU5Q0ZMd0o4SlJyeFo1MEgwZ2QyS0c1VVBIT256X3o2ZFZKd21DUWp1aVJDY1hFRkxuT0xvYlpwT0ZrNkRVNXZwcVN2YTQ5WF9jT3pldDIzaE56OGVfRW5EYWc?oc=5"
-    },
-    {
-      "title": "Todd Rundgren Doubles Down on Taylor Swift Criticism: ‘She Ruined Music’",
-      "outlet": "TheWrap",
-      "date": "2026-09-29",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSkRqOXZpc1hMazNyX3Jac2dFbko2ZWNuMUE0dXBJbTZ1RjktNkJORmdXTnMwVXNVMzF1UnhOTDNpQkw4aG1xQURsZXo4Y3VCcVlfZGhsME9tRWJkYmZBQjNqZXJBLUtTSDFHaTJOZ19JNVpnV3dJd0NtTDdscWFmZmlsRks5d2s4UzQ1MXdhQ1NubWJmUXEw?oc=5"
-    },
-    {
-      "title": "Travis Kelce Shares 1-Word Reaction to Taylor Swift’s New Music Video",
+      "title": "Taylor Swift and Dakota Johnson Match in STAUD Swimsuits in ‘Patient Zero’ Video",
       "outlet": "Yahoo",
       "date": "2026-09-29",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbUFUbjV6dV92SHJXbUhxVjR1MVhVYlBqUmdqN3BTaVVNcXZsOFVHblZPZndDUTVseUJVQ2xmeU9PVklOYWNsanh0ZnhTY0l2SjZoYlBLU3lzbVdOckZQRWprOHZCY184T1ZwN0RRYnZ3TkF5Q2ZoV2VKRXFSeDZsSjBQSVJYcUdVUC02dXhLOUZxd3ZVRmFF?oc=5"
-    },
-    {
-      "title": "How Taylor Swift’s Eras Tour movie was born in the ‘bowels’ of Arrowhead Stadium",
-      "outlet": "Kansas City Star",
-      "date": "2026-09-29",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1OcVBYRi11UDFlRXN5bW9OR0hoQ0tuM0ZNaDdEOE9lc1BsYkdlV3NsYWg2NkxkRzZ6c0g3Q2xfU1BzZ08tTUNJRFZHUkpHcnZfUGNxejFtTlp5Z2xzRVpzLXlpNVlzV3czUEhv0gFrQVVfeXFMUDMxcWp2WUtNNW5tSWRvN3I5bXhJTHZlWFo5S3Nmb2FMdGxvQ3Q2ak5odjl0TFZCV0VyeVZjOEdwM0dNMEpKVks5U0MxMDJqS184bmJoNGJUYlJ1UjZIRFI1bEpxWE1vU3ZLNTQ?oc=5"
-    },
-    {
-      "title": "Social Media Users Compare Taylor Swift’s ‘Patient Zero’ to Artificially Generated Song About Trains",
-      "outlet": "parade.com",
-      "date": "2026-09-29",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMnlCNngtbDV1aVI0SnVhekExMzNUMXY2MElFRUlldXlQUWY4VTg4SnR0cnVMS1BRZXJrNENHVTg2UTlwMW52Y1pEb1lDVEJCbDhkYy1mNzMzMWdPYWxXelRiWl85ZGlSak5sNFJlay1IamhfaWV3cFdkSmxTbWRMZ29SNVFPNkg0VWc4Q0xqS2EzT2tKVFRRWjhQZzhCQ1ViUk5MMEsxb2NzcEtjY0c4VE1B0gG4AUFVX3lxTFBjUkQ1dmxXWjNkc0FqdnM3bEl3ZU14ZGtnbHVMREJKTmdxd3NvNlBEcGg1UGZpeFVZdEJKb3VKdWdzVzRDbTYxNDZqZC04aVlQeXZ6YVRCX3BEeHdiRW9ESExmc0dQbUNKeHBNSlBsUnlXRkc5NGZqdU1HdmF3OWhXZUFWaF9lOFNEaVp4VVdzWnRXRFBoRTBBYW9vU1BJUUpkZEUtSWdvOUh4RFlnNHVVOTZQUGlCNEk?oc=5"
-    },
-    {
-      "title": "Taylor Swift dominated the VMAs, but do music videos still matter?",
-      "outlet": "Yahoo",
-      "date": "2026-09-29",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOekZFcDdHMGFSS1o5STFKYS1MT1hfYUZ5YjJYSWdFNWlNdzVkc3pkVm1yVjZ6LTlTR3ZrY3F6WFFPZ29NWm5oSTExdjViTkVTSWEyUEVyYkVjNG9DRlFoeWQwa2tuNEp1NlhnNUdTOTRQSVRTeTBCXzJRWE00NTNGcUhmSUU0S0tCLXFDbzNkSXBZbDlVc0Q2Yzdzd3NWeGdt?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUmRNX3NlRjE2UUVpTVlOWEJQOUtpNFRhZ2RkcGFqUWx2b3pyeFhaZjU1NUpFRHllMGJoS0tvYVg5SFlobHFXR2hGYXFxS19uMXhBcW1iYl9BampSellSdlkyY0dZM2ZMTlFheWlyeW1VS3VpVldHX0pjQy1mblJIaGxNVkVEamg2X3Y5eUdGbS1xYlA1QTg2NGYtaTltbGNyYk02c0h3?oc=5"
     },
     {
       "title": "Matthew Stafford, wife Kelly make surprise cameo in Taylor Swift’s ‘Patient Zero’ video",
@@ -2387,22 +2357,106 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRGVqMV9WR3FudjdJM252ZTBIbi1uQ2tSUS1zYmVwcU1YQnlfUEd0bFNIalN2TjFOWFlQSlJUTUFJbDhrLTlydTkySFJael9LMTN6Z2tvNmt1VngyN2JDSkZ3STBmNXZvamxEQlA0OGFmV29XenJncUw5QkUzRXk0V0oyR0FyeVVOaEtGSWdrcUV0Y0VfSDNRazR2U29WYkplXzdrQ0lrenBxQQ?oc=5"
     },
     {
-      "title": "New Taylor Swift songs leave little impact, lack the spark of her previous work",
-      "outlet": "The Badger Herald",
+      "title": "The Truth to Why Taylor Swift Left Travis Kelce Out of VMAs Speech Amid Claims She’s ‘Frustrated’ in Their Marriage",
+      "outlet": "StyleCaster",
       "date": "2026-09-29",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR0oyenlKc3M5TjRpUk8wVWF4ZjJxeF9jX3poX1dVNEJQZkh1M1I0NjREWjdKU3Z4TmFYU3hiSXducXZrcjBWcktnYkVVLTNjWGlGSkJOZlUyZnFGbnN4ZlAwc1Jqem1fU3FfQ2ZPOTNoQjdjeGpIeVFVblo3NmV4ZFUxXzdnRGEwamFGX2dxb1VkWnhpNnhlSUkxSkxIOHJXUUlNM0d3eFhUOHltSXpqNHVEX0RnUHp2c05fYk0tSzI?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM2ZFdnpiUHBqV3AtVC15TTRKd1ZvYjVzS1N0Y0E4U0dabjQ4UUw2dmdoWHROb3ZZNTRJeFY1YVlaRWQtY0JxMDVPR2JyQjZBRU1DUDVwUW9DVjlWU3ZiMmFTcXJiVUVxQkJyWEt2bk5CQUdVTnNTeG43N2xLOWdZTWUyS0kxcl9iRnVMeXd1d2RfUFg4bTNjc0luRjVvb3VYZ0tiTA?oc=5"
     },
     {
-      "title": "Chris Daughtry on sobriety, ‘butt rock’ and those Instagram thirst traps",
-      "outlet": "Los Angeles Times",
+      "title": "How Taylor Swift’s Eras Tour movie was born in the ‘bowels’ of Arrowhead Stadium",
+      "outlet": "Kansas City Star",
       "date": "2026-09-29",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOWxZZnk5NmxlMS1za3I3WTgtUkNDck4tZEh0ZzlxNVRnMGJuNWN4ZW4xbEZUZlJMN2luUVRPdTBqYzMxNGt2Ukl3RlZxVVZuRkRTQVY2dF93U21xTV9rVmlCR1I1SkF2aFZaSDBheE5vOHlxYVYzeXdRaUIzX1RtVy14UWRCUUlUWjJYb2tfSjMta2hzTkVKQWhOQXlDYTRqOHI3dWZnbWZzMVdLell0c0dLSnlDekVlRFRGMmE5dFk0cjlqR3Z4ZUcxUWpielNtQ0VN?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1OcVBYRi11UDFlRXN5bW9OR0hoQ0tuM0ZNaDdEOE9lc1BsYkdlV3NsYWg2NkxkRzZ6c0g3Q2xfU1BzZ08tTUNJRFZHUkpHcnZfUGNxejFtTlp5Z2xzRVpzLXlpNVlzV3czUEhv0gFrQVVfeXFMUDMxcWp2WUtNNW5tSWRvN3I5bXhJTHZlWFo5S3Nmb2FMdGxvQ3Q2ak5odjl0TFZCV0VyeVZjOEdwM0dNMEpKVks5U0MxMDJqS184bmJoNGJUYlJ1UjZIRFI1bEpxWE1vU3ZLNTQ?oc=5"
     },
     {
-      "title": "Taylor Swift wedding: 7 of the sweetest details from her Madison Square Garden ceremony with Travis Kelce",
-      "outlet": "Yahoo Creators",
+      "title": "Taylor Swift’s Former Home Where She Wrote ‘1989’ Is on Sale Again for Nearly $8 Million",
+      "outlet": "Yahoo",
       "date": "2026-09-29",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWTRla1NMSFVNRkNwekJlS1F2eTJmX01JOE1Jd21tNjRGRjJjaktENzNDcDFrcnJtTHRjZ0dFY25qcG0wMmVlZFZwYkR5VUhSQjdtM0xPNXZnYldSM2tJOG0yX3o4Y2FISkU2V3ZyVWFIUm1rcy0wV0V0QUNUNFJ3WHJJVXVQVUVZLXVKeFFMU3ZiS1NuNlhmNDFEai1HSG12TXRLWThJVnhfMTFCZWVfNF9fMGtKMzcwUHduR1d1QkQ1TG9EaEZPd2QzZElsSEZLalQzbk4xdDk2a2RFcTI1VHZCRWhoWk9JQWhmVWJjM3M2R1hm?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSkp1WmJxTnZpTFNSbE96bUxCam9OVWQxUlROQTlaazV4QVlWdFVlRTdYWkRKSmxHaUNLWGhtQ2dGZ2x5VzZtdG1vYW5Md1ZSblR0ak5feUEzVTdVVmVBTkd0Tk1OMHF4WEFobXlhUzFnLXFRYjdmTHo4NnlOandULTl6RFZSZHZJcnhwdkNpazQ3R2FVSUFBdm1hZHM?oc=5"
+    },
+    {
+      "title": "Todd Rundgren Declares Taylor Swift ‘Ruined Music’",
+      "outlet": "Yahoo",
+      "date": "2026-09-29",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTFRvSENKYkV5cFFfOWotbFlZc3RJOGt5c0xGU2hMWEdMZUJtSDBIOGZoWGFTV01aRVZJdmFFQnJoODY0WVdNRlRMc1V1R1Fac3hlUGVwcnY3a0kzZWVvN1M3a1dNSzBuY0tzanBjXy02bWV1YVRCd0VIT2pOTzhVZEZhNnZEUFFiZnFNbHlSNmcyT1ZGZWN0TDBINUJiZUJmUkFz?oc=5"
+    },
+    {
+      "title": "Social Media Users Compare Taylor Swift’s ‘Patient Zero’ to Artificially Generated Song About Trains",
+      "outlet": "parade.com",
+      "date": "2026-09-29",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMnlCNngtbDV1aVI0SnVhekExMzNUMXY2MElFRUlldXlQUWY4VTg4SnR0cnVMS1BRZXJrNENHVTg2UTlwMW52Y1pEb1lDVEJCbDhkYy1mNzMzMWdPYWxXelRiWl85ZGlSak5sNFJlay1IamhfaWV3cFdkSmxTbWRMZ29SNVFPNkg0VWc4Q0xqS2EzT2tKVFRRWjhQZzhCQ1ViUk5MMEsxb2NzcEtjY0c4VE1B0gG4AUFVX3lxTFBjUkQ1dmxXWjNkc0FqdnM3bEl3ZU14ZGtnbHVMREJKTmdxd3NvNlBEcGg1UGZpeFVZdEJKb3VKdWdzVzRDbTYxNDZqZC04aVlQeXZ6YVRCX3BEeHdiRW9ESExmc0dQbUNKeHBNSlBsUnlXRkc5NGZqdU1HdmF3OWhXZUFWaF9lOFNEaVp4VVdzWnRXRFBoRTBBYW9vU1BJUUpkZEUtSWdvOUh4RFlnNHVVOTZQUGlCNEk?oc=5"
+    },
+    {
+      "title": "Taylor Swift Got the Biggest Sales Bump from the VMAs, Expected to Sell At Least 150,000 Copies But STEVIE WONDER is the Big Story (Listen)",
+      "outlet": "Showbiz411",
+      "date": "2026-09-29",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPbFNCTHkzWklCNkVtYno3REtnZjhmSmlYRWZ2bzZVQndtbFUxVXc5elVwVEtrUDFQRlVndU9RUlkzUzlrZnVUQ0xVUlp6Nk9Pem43SXkxbkY1a2FfMUlTcHI2b1B2WFlSN3Iza3hyQ3UtWjFhaUdmcVZQZnFGNkF0MEVISkdjWkExOUF3c3o2eXM0MUpVNmduQUM4cHBVdmJhb250a1RITm5hSVNRWDlVbG9OZXNjVkxMVGQzbC1Od2JhWHFUa0FSaVVQT3k5V253VWd0MV96T1RkalhWQmI4TFc5TlVabzQtNVQ5VEdYYTNwempyR285UkxaUE9GeUtOMjBF?oc=5"
+    },
+    {
+      "title": "’70s Rock Icon Says Taylor Swift ‘Ruined Music’ And Labels Her ‘The Apotheosis Of Mediocrity’",
+      "outlet": "HuffPost",
+      "date": "2026-09-29",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUW1ORXpUcjI1TmxlODZBdVZQZHlYWlFZV0d1Zk04dy1hVUpMQVdjZVZrR3lCS1NUTDIzcHNYNWd1Q1l4cF9sMk5PSlhvV29kX2N2ME1QNXpGaUpDNndEYjJ3MTBGQ0R4WGVwWTNwZ1JuNkozVGhtSVloYVJ2Q0dDLXlVdDktQ2J5LXllZ3hkdU5FUUkxVGFqRkFaSVpYZ9IBowFBVV95cUxORnlKcm5TQ1kxTzUtT2F3WHBjckVQTzR4VUxhMkgxeV9CTzN1RElpQ2FjdnM2Mm1tN1lFbHVZcVNkRVB0bENMbWJaUXdUZVY3VmF5a21xUC1EVG0xdk1fUGtNUUdKZnpXTlFoOUxDM1AxcGdhMlN2VlFtWVBsbXE0QnJ3anF4U3gwUmNqSkxMcFFFT2xJM3lqQWZ6TnoxQ3J5OWlN?oc=5"
+    },
+    {
+      "title": "Matthew Stafford Reveals What Taylor Swift’s ‘Patient Zero’ Set Was Like After His Surprise Appearance",
+      "outlet": "People.com",
+      "date": "2026-09-29",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdUFOTDFidXVCbVlLYnJDYnFCWGNWQy1fSFpSYTB2eWZOWjhsUEgwbGMzQmFYVE1KbnBnMXpoMk16cmRYTFQ4OFRvZUplUjRxakd2UnBQUFpPS002RGdoSkdnWml5cXdySUhkZ0NoWC1ZX21ZZjV3RmVuMm9JSi11bWpieFNBYzRlVVpPaHk2ZUFoVWZFckk0SE45N1RZR240UkhLUFlFQVZZLUJrYzNqSGNScnZrUURGOFhJQXZQUHNXbUF2d0E?oc=5"
+    },
+    {
+      "title": "This VMAs Error Involving Taylor Swift Has Fans *So* Confused",
+      "outlet": "Bustle",
+      "date": "2026-09-29",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVGpIS1lnQnRncGtZX3ZKdmpVd1N0X0loYlVrdGxjQkFnTzh1WFVmZVlpUV8tVDUxVmF2NXBoOWQ1b19tYzNzT3NrSGVWY0pGTWhxU1BEblM3bS1HbzRFVjZkQUFsVDJPeERPZXRROUtHbFg4dzg4T0VSUHd2UndqTjZ1MA?oc=5"
+    },
+    {
+      "title": "When will Taylor Swift’s 'Patient Zero' music video be on YouTube?",
+      "outlet": "Indy100 | News",
+      "date": "2026-09-29",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORFVoMmhwSGx6OWFEczFTdEgwWmo5ZWJnUEd1dWpHeW9ZdDdiSkg1eDBoeXdIYm5LX3RULWxIblByV3VMeUZ6ZG5Hemo5VEhXdGRDRENxYWFFWjlmZXhjMUNRd3BfVHJTNG1lM19PVERQQmx6STlPWUtSeG1iamNrZ2t6OTlvNFdf?oc=5"
+    },
+    {
+      "title": "\"The Life of a Showgirl: The Encore\" and hit single \"Patient Zero\" | Arts & Culture",
+      "outlet": "The University Daily Kansan",
+      "date": "2026-09-29",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZWUtZnhUODJRc1pBekJrMEdPZTM2OTRjSXFPVldISEx4Zm5NdHBfVGRuSkM0M1V4UEd4SW5Ja19JRFJMUjRaalRUNUtkRDNhSlRESUxhbWxVOGU4Ti1ia2JGZzJTdXlCcUoxS2ZURVNPY0lzb1FaRDF3ekRzdFZlN3Z5bmIwNlY3QnFOM1FacW82S1R0VzV5RGo3eVJMNFRBWUkyVmJCOUdPTFE0WlVicWZlS0N5clRyVDlJNm96N2gzZHhSYXR1WmxLNHBWRDJrOUFMNldtSk1sMVlGZWVXVmtvZnItSXV4QURTLWs4aw?oc=5"
+    },
+    {
+      "title": "OPINION: Taylor Swift’s ‘The Life of a Showgirl: The Encore’ added nothing to an already bad album",
+      "outlet": "Coast Report",
+      "date": "2026-09-29",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTFhOWGVwaU9JdGN1c1MybS1pWTZyRzVfMGl0VXQxTlJDSVJ3NTdBUmdhSGt3YUlWU2FlZjdLSGNYV2liVTFtUmx2S1NlX0thUFRXeEZKOHptX0JWdVVCUmZrN0piS0huVTk2elJWWEtOUzJoNHdzWEc3SzQzMTQ0RU90MWc2VnFoRndZS1lWVFVzVzA?oc=5"
+    },
+    {
+      "title": "Indie favourites Keo are battling Nothing But Thieves and Taylor Swift for No.1 album",
+      "outlet": "Contactmusic.com",
+      "date": "2026-09-29",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPS21vYXgxM1h6UWRoWEg2UEhtaWxCVUd6UXloOE91QXNyTHBieEpEaHN3MGx3MHRqQjJ6M2NkMUY0SUw1REM5UTczcXdHRDM3S19ZSlZoUlZXUHJkbmxDQXJ3c2d2TDlybUhFYzdWdDhuamtSMlFGcmJUVzgtSFMwSjRoMC1WZFpJRm5uTzhGdjJNSFQzR0JQNnNaMVFNYmFFQk1VVENLVzhWc1JYeGRLdGI0ZlAzVnlHaFRpRy14aFh1c0FwSWhQUzZSaw?oc=5"
+    },
+    {
+      "title": "Blake Lively ‘Still Follows Everything’ Taylor Swift ‘Does’ Despite ‘Being Exiled’ by the Pop Star",
+      "outlet": "Yahoo",
+      "date": "2026-09-29",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMnJjcURFUFBkeE8yMWc0NUZialRWLWx0VnFpYkJLMHlMMkllY3REYl92cVlyZDJjUFFlQjJ2SHNDNVluNG1YOFlXa0lBU084UDhrVU5pNElNVzRxSVBUcWphNEpKdG5YRG1Mb3JoN0hYV2haM1ktVnE3eGNtckVxdEJzMkhXWmhMY2JrRVRZQzlSb1c1YVhuWVpoOFYwTTNsZUgyTkJWaTJwNlU?oc=5"
+    },
+    {
+      "title": "Who is Taylor Swift Referencing in ‘Patient Zero?’",
+      "outlet": "TODAY.com",
+      "date": "2026-09-29",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZnM3X2stRkNPazRTQ2tMRlhxcFV0UWFVU2xYa080cXJ4VEpvTDVIcTcybk04WGtRMURnWk95RDlPdWoyTDUzTDFFZlBuVnhiQ1NvODhJTjI2YlkyajRGTzJteUJiOWJ5eUNHbmozUVNXQ3JIaXlCNEZMdTlMNHY5MzlVTkZ4YXAzdTRLQkVfY3pQVHd5a3U3a2FXZw?oc=5"
+    },
+    {
+      "title": "Graham Norton teases mystery star at Taylor Swift and Travis Kelce’s wedding",
+      "outlet": "Entertainment Weekly",
+      "date": "2026-09-29",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVENISVRLUFVqcHJDSnlwT0ZMUFB5cTNXbk01Y2xDOUt1bFZobk0wNXVyT18wQUhvQXE4S1BRaDlaYUdtbzZXSlVGUHBLTnhhZ1VnSm9LTlZfUU9Sdkx2bTdHZWI0aHJRRWZiMGxHMWl3aVc5SExGVUhrTFF5emhyQTlZcFZENV81cWl3S2NmQnVXT0RrZjE3U09R?oc=5"
+    },
+    {
+      "title": "Taylor Swift: my database of her 123,553 lyrics reveals hidden patterns",
+      "outlet": "theconversation.com",
+      "date": "2026-09-29",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMVBoZTE0bkROV0xleW5lMUQxaklHNGlGYkF0X1g2OFFBSHV4bUwxbmV5c3NPRjdZNUdYNlFMajdDanQtQmVfZDNpTHZjMGRwWGlPVldRcnZuOHdmNHFLY3NhaVhpUHRBVmF4NU92V2FJMjNGRkV5anQ2R2djc2Q5d2dUdDVGeEljdWZ6T0UzUlQxZGY1WFloVlJZYmwwMUJjdlpHbjAwNm8?oc=5"
     },
     {
       "title": "Relentless Taylor Swift returns with ‘The Encore’",
@@ -2411,82 +2465,28 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONFJsT1cydEVzMGRtbVgzY3FWTkUtRVZYNUpwYUpKZVN4aFZDSFB2Wkk5alVvRThFSXZBcE1ZUWJNSzNsOXdWSmlqRDZIRi1nV0FPV2VWNXZXRmVjbElrb0tHOVZoV24ycHVlVWgydnhuOUNFaS00V2lQRnV4M3k5cEcyLU9YNVdpRXFV?oc=5"
     },
     {
-      "title": "MTV VMAs 2026: Taylor Swift and Madonna win at awards dominated by female artists",
-      "outlet": "The Guardian",
-      "date": "2026-09-29",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR1ZSdC1helpRTHI0T1RxcDNDRzlSdTViYXQtbzd6YWx4ZGx5RURLNENZWTdYd0l6SEZsUXJBX2hWbVBsRFl2M3oyT2VoejNPMVhGQW9rZkNVLVU3MEExVFZRY0dpWGJZaEZxMmVFZmx5aWhCRENZY1pYZFVFakdhRGI1TVdyeXFILWtLeHlnejdSczlNd2VENWdXczBicEhSeVF0THhDY2tBd2Fpb0xDTF85UnpyZHhZUlh6R0tB?oc=5"
-    },
-    {
-      "title": "Here’s When Taylor Swift’s ‘Patient Zero’ Music Video Hits YouTube—and How to Watch It Now",
-      "outlet": "ELLE",
-      "date": "2026-09-29",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSG8telA1ZGxCVHIzRVpzT1EwOWFQN2txY0R6dHdrdS1xUzVYQmRfRFZnOElLdDN3RmxkbHpaVUwxZ0F3R1Z2MHpaMTlFUEVjN3FBZjFWbmlmVnZUTlg2STF2Z0k4WUtGN2tzWnRlUFlRM1RSaks3RzQzQl8wZ2xxc0tBRmxkRGFhOWZqMkxvejF4aWk1MEpVbVlpNHo?oc=5"
-    },
-    {
-      "title": "How Taylor Swift Supported Bebe Rexha After Grammys Dress Drama",
-      "outlet": "BuzzFeed",
-      "date": "2026-09-29",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNakl4TW9zaldBWU52UTZ4cVVYSlMwSXJsVXE3SkVIYlJpUVluZXFYQUxIdlZrbHZicmdSUExIRndqNk8zLWhfYVV4dHp5ZUZMaU0yUmdZSXdYMWpNRG5ZS0Izc2I4TVlNYUxWSGk5cGlUODFIZ2h0SlBHaF85d3hCcXFTb19uVUZMT2NzUkQzeUJVb2FPd094dWtYZENmUFU?oc=5"
-    },
-    {
-      "title": "Taylor Swift Supported Bebe Rexha Over Grammy Dress Debacle",
+      "title": "Matthew Stafford Details Cameo in Taylor Swift’s “Patient Zero”",
       "outlet": "Yahoo",
       "date": "2026-09-29",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdFBJMHZvZFQzVktnOFV1X0NnSWMxaFd3SFZIN0tlb0NUdTRIVU9KSHVjemZURTlrUWZGVjFNc01fQXV3WExiLWNBUUtzemlCdzFacjFHWDlaWVM5dFEwRDYzVXQyZGoyUGFhYTRFYW1QVXlPTmZxaVpkaXVIaVFkY21SODJRQkhpSVFtTXpRczB5NVFkX0E?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQlBWMl8zZUZGb1JDVzFaTTFnQTN0VlllY2hhWXdnSEpPWHFXZVdSZldKck1PdDNCQ2V2VmNFTVY2S0JqaVFZMENfdnFhQVNkMWpKeW5kbk0xX3N6aXJRNG1EcGJYZzR0TlpFeXZmRXduY3UtdVJjZ0dVSTBfMkxRZHYxQU84QVZRSm1Tck1CMmJLWGRFNEd2aGpMOV9kVHIzeFBaUTZn?oc=5"
     },
     {
-      "title": "Todd Rundgren Slams Taylor Swift, Says She ‘Ruined Music’ and Is ‘the Apotheosis of Mediocrity’",
+      "title": "Graham Norton Shoots Down ‘Conspiracy Theory’ That Taylor Swift’s ‘Opalite’ Video Was Shot Before She Came on His Show",
       "outlet": "Variety",
       "date": "2026-09-29",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPXzJMMkZZMXJWdTRZUDZpQ0hDT084NzRzSXhsTm5QQ1lwWWd1a0ZhTVhVcDN4V04zOGZOblR2ZXN0eG5HdnE3RUZFcUVad0U3YTlFaHZGQTF6YmRaUVFKeTZGcUlMMVZ5aFlVNy1tWEU3ZUJvYktZZVRQREVLMGhZQzA0YldIRXM?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOEZNZDJKZUFNcEdxdWQxbWdHRWUzMmp2RFV4b2RUQjhBTk5Db2hoTWFxQ1l5Rk91MENHdWFZeThNcGJMZnZlVEtoZlk5WEh0UzRQejR6aHJNQXRKZGNJNTlXUUJOakJpRkhjNXRIV3FId09jMVBuX3ZlYUZmSGdiaGJ2UndGWmljVVdmci1xR1Y4MVNkNkdWY0pBcVVlY3hZZ0llaw?oc=5"
     },
     {
-      "title": "Taylor Swift fans lower climate concerns to justify star’s carbon footprint",
-      "outlet": "PsyPost",
+      "title": "Todd Rundgren: Taylor Swift ruined music, is “the apotheosis of mediocrity’",
+      "outlet": "New York Daily News",
       "date": "2026-09-29",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVWU3REhLV0I5NzYzazFaRHF0UHJRQnk2eUFuNTJuWUxXcC1rd1VMNk5VYkRaekRlZEtKeFRiYzAzWk5SVHJhQ1lrLWN2RlBsR29uTkYwd0o4V1NoU2R0eWZubE5ZaTFlRGhRZDAxaVpQaExOM1QwRHctdVREakk2eVR6amY0YVJFNFlvUzFLdTd1ZVJ6QVJXOVpuUEJySWZSOWc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdjVxbENOZHJ3Z2Iwc0VueVMzVF9HcVJVVFNOOGJhZ2s2WWRkeXFuMUhGek5Ya2hpS3JaWDJQZXR6RGJHNUFQRWxFVk0zcjVhdVlCa0xOOTFwSGNmcnd5QXBDSUZrQzQzQXdkVlhKcE85ako1dUdPejRrdC1KV3hLa1M3TnZMZw?oc=5"
     },
     {
-      "title": "Taylor Swift’s Audience Is Growing Up. Her Music Is Devolving.",
-      "outlet": "The Atlantic",
+      "title": "Pretty Sure Taylor Swift Threw a Secret VMAs After-Party With All Her Celeb Friends",
+      "outlet": "Cosmopolitan",
       "date": "2026-09-29",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYXdFZWkzdjFMMjE3M2F3anlHaEhvdXAteVh3SUkzaHZxcXBNSnpHUTZfd0RxbjZ1Nzl6UVBZWXFWWmpHemkyRUdNSm1JR0h3d2pqT3FUbFBkZUdKQjJ5T3I5VDNCbmVvZXpWSVBxdlhVSFV6RTdXTHptQmRvUmNlSnVObXotbzBfbFE?oc=5"
-    },
-    {
-      "title": "Taylor Swift debuts ‘Patient Zero’ music video at VMAs starring Dakota Johnson and Colin Farrell",
-      "outlet": "Entertainment Weekly",
-      "date": "2026-09-28",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa2paS3NMVkQySzEzcy1USkk2YmsxcExuVWFvaVdQbUpxbFNESUd6TGE1VFhvYnRFX2trbDA5N3ptWmdmeVBlNkdsTnlOenRCakpRcTMycVpVdFpOQnNTT3pSdFlFSGloRTZyc0djaHVBcmJ0Qk10TXFJT1ZCUVBYcjBwbktLTUU0OXpoaVlvc1JkbUdCX2pXWnJfMFlKZw?oc=5"
-    },
-    {
-      "title": "Taylor Swift debuts 'Patient Zero' music video at VMAs – How to watch",
-      "outlet": "USA Today",
-      "date": "2026-09-28",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWFpBelFybnR6TDdpbVo0NFltZHd0ckppdk9MUnpRcHdGT09USFdHZERDZlZleWJWUDZWZGxHUzhKUTZVelJ5OVNoZ0JfMTR1Y0ZNeFZmRkktS0JWQzBWSVZtRGdwVHlWVnlJQVJWUWlKdnVCNjkxck51RmVBMU03OER0YzlNdFdELUFDdTlzREE2QV9yX3ctVG5GcWV5QURXQ01QTXlCWVlFRDN0bFdlQldHbw?oc=5"
-    },
-    {
-      "title": "You Might've Missed Taylor Swift Being Called Mrs. Kelce at VMAs 2026",
-      "outlet": "E! News",
-      "date": "2026-09-28",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObFFPMGE0X196aHAxVU9hU2FrWlBJbUlvM19NT3EtUVBabWJFYWJtZGdDcGxmNklYbVZNYTAzcjdXQTFTMXBJNGF4Slkwck03OGxkX3FUTnJwclE3bnNZRGFYUmdFaFBMbWZPblhPWlI3SWgyNDBoLV9QUmRabnRhTWt6TkxVMmdMb0xFTUdJM3pQYWdJ?oc=5"
-    },
-    {
-      "title": "Taylor Swift broke Beyoncé's VMAs record, bringing home 3 new awards",
-      "outlet": "Yahoo",
-      "date": "2026-09-28",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaTZmdUxHZWNrT0lwZkxxYUFHZW9UWWxRcmNTd3VnNGFpNkNZN3U2SmMzeDZOdl92b0tRTTE4Qm42UWtJZzdtaWNtRms0aW53QkVFbk9wdkd0ZzZSS2x0RzhpWWx6Q3NMS3Y4TFUxazR0cnVIT1E3U3FPUTljcXZFZXJXVzh3ZWNGUXBveERTUlNGcXdsb1RKSGpmUFBvUmtCZ19GaTVlVHdaZWZkSmxaTGJzRWxOb2FDY1RkajZhSV80b2kzdWh5ajVFaw?oc=5"
-    },
-    {
-      "title": "Todd Rundgren Says Taylor Swift 'Ruined Music': 'She's the Apotheosis of Mediocrity'",
-      "outlet": "Ultimate Guitar",
-      "date": "2026-09-28",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPcXJncmtRWUtqUU1FTFpRZTdzdUYydzFnbmZiUzByd2NoWkhRbHN4cW1lNE1wdXA1c0ZXZmdjQWdpQmRfUFROdnBVZXZyM2NjS2Z2U2o4V1NlYTJ1ci1nc1VpeHl3TnVZaGN1T0p4VzRlTExUQ2I5RUVWN0hYbUw4OTJlOFNMNnZjYmRCeEJYZ1lkVDZxdG44eDF4SFZNSFVQSmk5cEt3b2lpbGpPLWJIeHpqTUJFQ0ZqeUU5LVBoQVVUTUFDbURzY1gydTh6bEJTaUpVeElBOGx2ZlB0WUd5R2JxX19GSHdQbk45OFlaWkUtUTREbHR5MDRUUUVVSzhhTG9UV3VleW1iZW40RWZGTFl6bzR2a1U?oc=5"
-    },
-    {
-      "title": "Taylor Swift sets record for most VMA wins",
-      "outlet": "wcvb.com",
-      "date": "2026-09-28",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kSFEwQ2ozOHl3OTBoQkRqOXhkQ3JFaU0zLXJHR094WGx2V3JZNDBfckFFeno4cm9ONkhwT09hYk8zcVNVR3d6bndkd2FWVDBIeGJpU0RvZ0NRY2t3VzJ5UTlveFhIMy1WQjBRWnVMY0x4UQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbjk4V29rdWU1RXhTYTlNdjRSV25faTktX3kxcnEyTk5kVWpHWGxIRDBOV1ZUTFhVWkhxSXpmVXVKM1RoLWgxZnd6NjF2bXVjTE5walNKcW83UEYza3RiSC00WkthVU9nSWh3MFA3VDFIV0g0bE1vQjU2OGtnaUNKRlFOZjZkR0FELXlJdHZBNzZpdzlvUC1NejU3U3I4dw?oc=5"
     }
   ],
   "bio": {
@@ -2518,34 +2518,34 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84RkNfenNfMXcyTjdhVnRMdlJNU0lRTDdWaWRaVWc4aDFlcktoLXViUG5ZM0pJMjRwUlZKTUlZMmUtcnhwbVNLTVJrOHNoZDQ3WDBvLV9nRnhuQ1lWVDBOZFFNbkJfa0ZXVWZJb3NxOTNIUC0yMlhtaE9PQdIBe0FVX3lxTE1Xdl9DMTk1RmlnU1FJamN3c19QUGk5NUZCOXlweWZGalR2eDdBMGlDVUhFSWd0ZUN3TkJYYm9MX0l1SUp4N2JnVl9ISG5ZcF9zY2RXWjBZQXMyc1lad1U1NHRTVXVnU3BWeGVRYzZQTXJYcUdZMVh4bVY2NA?oc=5"
     },
     {
+      "title": "Woman who pushed Taylor Swift concertgoer onto Blue Line tracks gets 54 month sentence",
+      "outlet": "CWB Chicago",
+      "date": "2026-09-29",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQUlrV2xoTS1lMk9jM29UU21ManJNMTVSeng4RU1WQVJncEt1OHpPYjlDcURZazdTckR2alZBb2tud0toOWMxR0pnbXp3eUQtOEt1ZEVfTHFiWTNVdmV4ejAxeVdZQ29wQ2I5VU9aNGYtMDJkREJuLUs3MmhtM0drMzdmV09lTmZpSDVaUnhkZmYzZHhqazNpZVdOUEpza0wxSU9vZ3FYVzdjNDRDNnBpUmdCcVVNMWVVbWZhcFM3Yw?oc=5"
+    },
+    {
       "title": "How Taylor Swift’s Eras Tour movie was born in the ‘bowels’ of Arrowhead Stadium",
       "outlet": "Kansas City Star",
       "date": "2026-09-29",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1OcVBYRi11UDFlRXN5bW9OR0hoQ0tuM0ZNaDdEOE9lc1BsYkdlV3NsYWg2NkxkRzZ6c0g3Q2xfU1BzZ08tTUNJRFZHUkpHcnZfUGNxejFtTlp5Z2xzRVpzLXlpNVlzV3czUEhv0gFrQVVfeXFMUDMxcWp2WUtNNW5tSWRvN3I5bXhJTHZlWFo5S3Nmb2FMdGxvQ3Q2ak5odjl0TFZCV0VyeVZjOEdwM0dNMEpKVks5U0MxMDJqS184bmJoNGJUYlJ1UjZIRFI1bEpxWE1vU3ZLNTQ?oc=5"
     },
     {
-      "title": "Woman who pushed Taylor Swift concertgoer onto Blue Line tracks gets 54 month sentence",
-      "outlet": "CWB Chicago",
-      "date": "2026-09-28",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQUlrV2xoTS1lMk9jM29UU21ManJNMTVSeng4RU1WQVJncEt1OHpPYjlDcURZazdTckR2alZBb2tud0toOWMxR0pnbXp3eUQtOEt1ZEVfTHFiWTNVdmV4ejAxeVdZQ29wQ2I5VU9aNGYtMDJkREJuLUs3MmhtM0drMzdmV09lTmZpSDVaUnhkZmYzZHhqazNpZVdOUEpza0wxSU9vZ3FYVzdjNDRDNnBpUmdCcVVNMWVVbWZhcFM3Yw?oc=5"
+      "title": "Taylor Swift's Eras Tour dancers traded sequins for black tie at her wedding. See every look",
+      "outlet": "Yahoo Creators",
+      "date": "2026-09-29",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTEdZWE5JQnV0ZVloX2RvWndsUmtwT09BeVFGSUpuOHNOd1VTckhVTElCMzRfeFE2MERtRVFIbHptWWoydE1VckRqaWZZa3VjRHJtNEMwQnItTkhLUEV0NEd1SUNTa2MtMVNzcFpwSWtBQmRJRHR2eFFHTTRIQ0FwT1Fzd1MzRFBEaWhoTVp4T1dLd0k1X0tnR0NfVFZUREU2Y0lpUEhVS3hGRTV0Z2JjaVRkaEZ4M3RBUFFrUlFuNTVnYWRDS0NudXdfTndBcGwyNUdfLWpvdmVGS0lQaThpVVZn?oc=5"
     },
     {
       "title": "What Time Are the 2026 VMAs Tonight? Taylor Swift's Record-Breaking Night, Full Lineup Inside",
-      "outlet": "JubileeCast",
+      "outlet": "jubileecast.com",
       "date": "2026-09-27",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR2pnY3FxSHBnNU1kM0tIQm5lcElIQTFMVkp2c3FDNnE2SC1XZ3pRN1NLYjg1azhmcnhJV2NtSFo2N0ZyS2J6bjlNM3owemF3MHZ3YkdBZ2ZaQnlCMDFSb3pweW02NnVBcGMyQ21TLTdXTDVyaU05X1RiSmtVNkJ4Z05MSGVqYU9mSFQ2UzZuRUFKTmdzRnU1X2NtOVBoNDhQYkxzRWJsczN0Zw?oc=5"
     },
     {
       "title": "What’s next for concerts at Michigan Stadium? Coldplay? Taylor Swift? More country?",
-      "outlet": "MLive.com",
+      "outlet": "mlive.com",
       "date": "2026-09-27",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNVdWZklSVXNlRTRaMEh6ZUpadEhIbWU2eHpaQnFodkYxU1dmb0NLUjNxWjhiMGlsVTkyX3F2dDdkcmhJb0kzdHVucGpHZ0xjYXlHbWtpbHpUU3AwRHJPM0R0eUJjUWk5dHAxdlo3QTYxMEFVSUN6R1Y0Z19OZnl5N1M4cmpjZlFwb1h2c0pMME54aUpXTUFfQmNxaXkwTGF0SkNSYmw4Y0t4dWlOVVhCRHRQQmtmYlNzWGtCRkZfNmxVQnVFNkI4?oc=5"
-    },
-    {
-      "title": "Taylor Swift's Eras Tour dancers traded sequins for black tie at her wedding. See every look",
-      "outlet": "Yahoo Creators",
-      "date": "2026-09-26",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTEdZWE5JQnV0ZVloX2RvWndsUmtwT09BeVFGSUpuOHNOd1VTckhVTElCMzRfeFE2MERtRVFIbHptWWoydE1VckRqaWZZa3VjRHJtNEMwQnItTkhLUEV0NEd1SUNTa2MtMVNzcFpwSWtBQmRJRHR2eFFHTTRIQ0FwT1Fzd1MzRFBEaWhoTVp4T1dLd0k1X0tnR0NfVFZUREU2Y0lpUEhVS3hGRTV0Z2JjaVRkaEZ4M3RBUFFrUlFuNTVnYWRDS0NudXdfTndBcGwyNUdfLWpvdmVGS0lQaThpVVZn?oc=5"
     }
   ],
   "timeline": [
