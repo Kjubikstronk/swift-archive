@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-01T05:59:54.492Z",
+  "generated": "2026-10-01T13:21:08.595Z",
   "artist": {
     "name": "Taylor Swift",
     "full": "Taylor Alison Swift",
@@ -2207,6 +2207,15 @@
       "ms": 225868
     },
     {
+      "title": "Pink Clouding",
+      "album": "The Life of a Showgirl: The Encore",
+      "date": "2026-09-24",
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/600x600bb.jpg",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/88/d5/1e88d560-253f-3fa2-87a0-2f83b9681948/mzaf_11928544907491655022.plus.aac.p.m4a",
+      "url": "https://music.apple.com/us/album/pink-clouding/6814997249?i=6814997428&uo=4",
+      "ms": 190690
+    },
+    {
       "title": "Babe (feat. Taylor Swift)",
       "album": "Bigger",
       "date": "2018-06-08",
@@ -2216,22 +2225,13 @@
       "ms": 215113
     },
     {
-      "title": "...Ready For It?",
-      "album": "reputation",
-      "date": "2017-09-03",
-      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/eb/e6/06/ebe606da-e00f-82d3-47f3-b79904eed541/17UM1IM24651.rgb.jpg/600x600bb.jpg",
-      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ec/4c/66/ec4c6665-6fdd-e31f-984d-60ab919e865b/mzaf_11118961438428757175.plus.aac.p.m4a",
-      "url": "https://music.apple.com/us/album/ready-for-it/1440933849?i=1440934248&uo=4",
-      "ms": 208198
-    },
-    {
-      "title": "Pink Clouding",
+      "title": "Cleveland!",
       "album": "The Life of a Showgirl: The Encore",
       "date": "2026-09-24",
       "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/600x600bb.jpg",
-      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/88/d5/1e88d560-253f-3fa2-87a0-2f83b9681948/mzaf_11928544907491655022.plus.aac.p.m4a",
-      "url": "https://music.apple.com/us/album/pink-clouding/6814997249?i=6814997428&uo=4",
-      "ms": 190690
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/39/42/5b/39425b91-27b1-4b37-2f57-6f704fa5d8a6/mzaf_158326623628930700.plus.aac.p.m4a",
+      "url": "https://music.apple.com/us/album/cleveland/6814997249?i=6814997427&uo=4",
+      "ms": 206165
     }
   ],
   "videos": [
@@ -2343,22 +2343,34 @@
   ],
   "news": [
     {
-      "title": "After the Failed Attack on a Taylor Swift Concert in Austria, One of the Terrorists Actually Sued Disney",
-      "outlet": "digitalmusicnews.com",
-      "date": "2026-10-01",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQX1Q0dnZjWnZNeVZqS2NwV25XTzlLMUZrYS1EcmpjNEl2bWtob1ZmTTVhYURBVnctQTY4bm9nYmNaTGZHc3VRSFZydHUycFh5RkpzbmwxcHUzdnR4MHJRRE10dDY2LTV1SG1LaTVHRXFHVXJXTUxqUVM0Wmc2eXpqS01zcFdHTTFyampmX2I1dE0?oc=5"
-    },
-    {
-      "title": "Taylor Swift Gives New Single “Patient Zero” Three Different Lives On CD",
-      "outlet": "That Eric Alper",
-      "date": "2026-10-01",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZEZZUUJyd0dITTJfOE9JSm1BU3JjSnV2eTZPQ0FvT0J1clYtb011QWpyU090c05rSzR6UFB5X1JxR3BLNHNUbnpGU2RIaTNzWmJUVE9qNWxIZnRHVFAtSk9tZEU5S0JtTEhzcjhZR1VoRXRhNkJyTEUtUWRaUV9MRWpmb2JENEh6VlltWFJmMlE4NjVFTnZzU0d6ZjJmTGFCQVdNTGJlQ2RiUDAxUTRHM1VB?oc=5"
-    },
-    {
       "title": "Travis Kelce relived his wedding to Taylor Swift on 'New Heights,' and he reveals the one moment he'd rewind",
-      "outlet": "creators.yahoo.com",
+      "outlet": "Yahoo Creators",
       "date": "2026-10-01",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPT3ZRZ1Bhc0o1Z0pKNjRYdFl0dTZuQzRoZnpJSmpxblZFMWgxNXhjRkhjUG1wOF9vd0JDaGhXaTloM21lV0pRU2d1VTdMcE1IRklfTm9yYlFHMmN0MmhGd29rRWxRM216c2JkYUJKMXp4VFk0cUpFRW11TDhWRWZEeER5WnVhSFUxSjlMWHBkNzcydWJIMG43TUt5NGpiUFJXOVlJZGN0V2MxRlAtVnRqWjdkLTZ6eUNUTkc3ODZTRTVkc25aZDE3cDd3QndyM0l2RkRvdXdaM2RZSG85NXA0cU1XNDZCU3JmUE1Yd05rUmRkMUQ0?oc=5"
+    },
+    {
+      "title": "Taylor Swift & Dakota Johnson Twin in Plunging Staud High-Cut Swimsuit",
+      "outlet": "AOL.com",
+      "date": "2026-10-01",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdjNPeUoxN0xKbVNJTk1tc1p2djhEVTJkaFI5QnlhQmUyVjFXZE8zd0hzRGFXSkI0YU9FNEN1UUVKVU94WEliTm8tdTQ3VTB5akxaN2dsbVZ0eU11cVU5MkozV3plM2haVi11WUNXbWZmcHNfYjNkYTJPcjVqNmpjSTJ3?oc=5"
+    },
+    {
+      "title": "Taylor Swift, Selena Gomez love Dateline NBC, see correspondents react",
+      "outlet": "USA Today",
+      "date": "2026-10-01",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZjgwRzZWaTctMXFZcHZ5c1daUWlpQ0NEWEVCRUJRakdHZS1ubV9fNnBnOVF2eERyeHIyWDJoSG9KdUJ3Rmk5U2hweE1NRFlOQXdabF9GMnVlaUliZHh1M0Z2b09CaUF5elUyQS1pVno2YzE1cFBldUNuVlZqTUZpYWJoY2x3TFI4ZVVubjZ2bTNTU1oyUUlTbjZwQ0xBMmtJeUgwX2ZtMXFsRXhmOERWXw?oc=5"
+    },
+    {
+      "title": "Taylor Swift's Songs Follow A Hidden Pattern, 123,000-Word Study Finds",
+      "outlet": "NDTV",
+      "date": "2026-10-01",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ0FGXzBHVXd6c25BQnVtVXIyZTZReVZTdnllUUxzenpEaHRtcXZnZUI0bjFBTmZ6djRWYnB6b19zTlA0WVdoQV9zaXg3WTlwM2tpRjJBcnMwM0pWaE03aGdCWEp0bEU3SkpNc21HWUNJQXg0NEhPRmFWMnJVZE9uYUVMMlhsb21yUzIwNnc0Yll5eEUxd29rNjRqX0ZtenlDVW1FbTQ2WHZkTGVOallz0gG3AUFVX3lxTE55Y3VDcHpVeFZwamY4TG9UMGJMeC1ieV92SlMwZEV2bHRXVHh1QUU3c21RRXVSYWs3YWI2Q0RqdDZOY1RhdE1zbXlNZ0tJT21Wa05mRjBKaW56bGx6czJVYlZxZkhjbmR3Zm91OHZJUG5ZWklyTi1qX2JzZ3NYbnI4c29xZGlKV3hUbEFXWDFRNExENXFmVzgtVUc5VzFCd1Rjd05SUTJFcEtsZTVnV2d3ano1b3pwOA?oc=5"
+    },
+    {
+      "title": "Big John and Bill Cornwell: Taylor Swift salutes Dolly Parton at MTV Video Music Awards",
+      "outlet": "herald-dispatch.com",
+      "date": "2026-10-01",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQbnFQZ0VSNWk2VmNNNFRtbzNzM290VUswUmlLRjkwOXhwM2tRTnlDR1BIbnlBRHFvcXQwUkIwUmN1UzQzMGxCM1duSV8zMGZQSmlueUlSM0todTAzaTUtd25wX0xTRmlaYU9xTFRTR2lKUFpjNUpIVEE4MTRwM3RiLWhqeXdMcjdCQkhVZmpzbHBhR1Jid1hZVlJJazhackdZUGhSeTdfSXpqbVdSZ2Ffa2M1RElUR1JYWExxTDBLSnZ0M20yVHc3dGpyZkxkUlFWaWNBa0t4dkE1ak9lU2ZFYnRIT09Xb1ZSTlZHd1BsZ1FHZmxUOFZsalZvN3pzWlBnbkxGcF9nbzBObW41UVhaSFVnaWdTZ1hkNndR?oc=5"
     },
     {
       "title": "Todd Rundgren Says Taylor Swift Ruined Music and Blames Video Games for Female Pop Stars",
@@ -2367,16 +2379,34 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTkdCQ2dtUEd6dXZJY2VxXzd1c19PNDJsQW9lWnd6aFlKRmEtbmlraTRJVTFxc3R1MWgtTjUzdTlzNWh0ZzEtWlhnQWNLU2xWNFRFanRLalBqbVNpNmNPVW0zYkx4R0lBckU2RGdFeFdidm96N0g2SWoxMmtzQUFMU1RoRFpEalhiM0RwbDhKUlhMVDNnNWJxMFBrMzR4WnBZTnNpSXViaGhuMm04dzQ1TVlxZzFpNnM?oc=5"
     },
     {
-      "title": "Todd Rundgren calls Taylor Swift 'the apotheosis of mediocrity'",
-      "outlet": "Central Oregon Daily",
+      "title": "Taylor Swift Bakes Sourdough Bread for ‘Patient Zero’ Crew in Sweet Surprise Gesture",
+      "outlet": "yahoo.com",
       "date": "2026-10-01",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNRy1UWFVBNjQ1RVY4MFk0ckU1ZXAwNGFiNFZub3U3TTVERU1SZEh2d2wxbm82V1BLRHdNSlpHZk5RbktjNTg1R3Z5RXpUclBLVTdlRWg5V1VCelZrQ3VUR1U2dENVX0hyclQxUEhiRnhrdWlYOGZQM01iS1pYZ0dkbnZ0Mkd6VFA1MDJqbVlBa09zeXBZUUd5aEYyeUxleHQ4Y2dOSGxINGxzT1oxeXdoMW96TUM0XzBxbHR0cTlqcWUzVlNka2NONjJnVlp0ZHRWbTJWWjBVZmhWSTdNRmZPd0RCYjdJaFpqQnp1MnYzUF9ZVTE1dWdxbA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcWluZmZHc0kyeEdtOUhqdWtCS1B6WVlNOG5PNWRfSjIyR2tZb1kxUk9OYkZQekhYbkc3UEIzSlVMNktKMVFsekFMRWRWWC1XQnpPdEthVS14S2ZxckppZnIxZFJycWJFdjM0MENPcl9qT0FpVDNUYUVlb2E3ODhMWUhhUTRDdzJYUjE4QzhzYVVGY0FveTZueE96MmFaQ19wOXc?oc=5"
+    },
+    {
+      "title": "Fans Did a Lip Reading of Taylor Swift and Colin Farrell’s Argument in “Patient Zero”",
+      "outlet": "Cosmopolitan",
+      "date": "2026-10-01",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY0VUa3VDeXktWEo5QU9TdTNXb3pvVDdMV1JfaXpzLUlxbVl0NkxEdnUxaElHUi1oTWFGa3NEenNDUXg3T1hRTXlRbnNiZXFyZ2ljLURaRW5NZWZvZ1BjX25tQ3Q5eHh5NldhN1B0SVlPaW5NRjR1cDM1MnRPY1hQdDF1RVRDUGRCSlp4TkFaSDJXSTUtS0FWSkVfQTV0eEZSZExyRkVVQ2YyTnc?oc=5"
+    },
+    {
+      "title": "Matthew Stafford reveals real reason he made Taylor Swift cameo",
+      "outlet": "New York Post",
+      "date": "2026-10-01",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRU1xb1BnUDJHalhMZlNKZHF5Y1RsSldxdEJneHlFblVITHJka3FvYXpWbDYwdnhoRi15WUI3b0JkTDJ5dmdHNVF3WVlNS3d0bjNWQ2dQcU4tWHhFMTVnTGJHejhOb2tHOVY3cy1yWDdHdnRKTnlaX2pOTUNtZDdFSkxmLTE3VkFRRVQ1Uy1FWHpwNU41QlFoVWxsTFNCUDJmV3FieHM5bkZuR29kNlg1bGRHZE1xaU5BV1ROOVBjZE9lOHc?oc=5"
     },
     {
       "title": "Is Taylor Swift's song 'Babylon' named for the Long Island town?",
       "outlet": "Newsday",
       "date": "2026-10-01",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBnX0VlMDVJdGc4UjRMMUlzVW5EWWNmNXQxYmpmWGVaS0FEcHVVaGQ4S0JqbkJKTXhPY2I3aktja01hQmxEQWZEQ2p3VTFma3dLMExVZjBQOEV2S0YyU3h6dXh2RUV1NzJ6TTFmRENSVE14YjZJeW1sRG1uVVo2Zw?oc=5"
+    },
+    {
+      "title": "Bonne Maman might be the real star of Taylor Swift's 'Patient Zero' BTS video",
+      "outlet": "USA TODAY 10BEST",
+      "date": "2026-10-01",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNkZTLUZhM21LRm03ZFpyVlV3blFkNWtVNW9wT19GMEdDZ3VZZ0lKb2hBV1RGdGRjclNfRjlMTHJCSnV5eUswVVFNbG9ZcE9keXc4Zktuak90b216Vy1yZkF5cWY0Wnp1VUJYa2xPS3RIWEJxR3NJSmFmejZoUDFpWDVVSnp5QQ?oc=5"
     },
     {
       "title": "Pat Garrett, early advisor to Taylor Swift, local country music icon dies",
@@ -2391,6 +2421,12 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOczl6SlBodVVxNGdVMmxzYXI3STVFaFRRRVFRc2pUOG5SS01DaTI1UEZCTllGTWVKY041bWVVUEJZOGpWZ3B1YmNCLVFvY2xqZmgzdXJILWZ6UUxDeWpLNXFUNEh3YWRsczFXMXRjdDJMLVBPaE5lQTMxT0xSSWYxRjQ5MUFrQVQtOE1GS3g2LWw2and0eXpMRkEyUEQtYk5RTEdvc3JKbEc?oc=5"
     },
     {
+      "title": "Taylor Swift wedding: 7 of the sweetest details from her Madison Square Garden ceremony with Travis Kelce",
+      "outlet": "Yahoo Creators",
+      "date": "2026-10-01",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWTRla1NMSFVNRkNwekJlS1F2eTJmX01JOE1Jd21tNjRGRjJjaktENzNDcDFrcnJtTHRjZ0dFY25qcG0wMmVlZFZwYkR5VUhSQjdtM0xPNXZnYldSM2tJOG0yX3o4Y2FISkU2V3ZyVWFIUm1rcy0wV0V0QUNUNFJ3WHJJVXVQVUVZLXVKeFFMU3ZiS1NuNlhmNDFEai1HSG12TXRLWThJVnhfMTFCZWVfNF9fMGtKMzcwUHduR1d1QkQ1TG9EaEZPd2QzZElsSEZLalQzbk4xdDk2a2RFcTI1VHZCRWhoWk9JQWhmVWJjM3M2R1hm?oc=5"
+    },
+    {
       "title": "Taylor Swift’s ‘Patient Zero’ Music Video Hits YouTube—Here’s How to Watch It",
       "outlet": "ELLE",
       "date": "2026-10-01",
@@ -2403,70 +2439,22 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORUdSYkJVY2p6Q3Y3UXMzUWc4SS15N2x0ZFFvaENtcWVMSXQ2NlpEOFJQdVdPcWpoN1gtTG9jWTMzcW5iMzJ3QzVEbEVtZTdKQlY4VHptaXhhTTZ5YUtFZGhrTV9OaWowUEk3WWJJQTZGa3haMDMtYnA2V3k1TTJlUFBEaldQb2FWM2szR3Buc0VIdDlsSmc0UEp1aEl3a3dwUUh0UmpuV2JmMG1lTUE?oc=5"
     },
     {
-      "title": "Matthew Stafford reveals real reason he made Taylor Swift cameo",
-      "outlet": "Yahoo Sports",
+      "title": "Taylor Swift’s Ego Takes Major Blow After ‘Encore’ Music Backlash — Source",
+      "outlet": "yahoo.com",
       "date": "2026-10-01",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTmNaYjNvNGZZRUFTOHUwazhTQ3N6LVhCZko3MmdrQm5aZWZKUzRLdmFicUU2ODNheDRfeldDRXZxbERSeU84ek45OWtxZVpKQkVHN2RJX2s5dGtQaG96M3ozWUxyMDB0dUR6aURndmZLREg3ZTRzSzc1dXRmUVk2U0pob2ZWdUY0N3VhRVh3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSjhXN2pKblN0ZlIwR19qZG0wRzdnRlZpNkFwS1FqZms1U2R3XzdxVkM0V1Mxd3VvSEMtcjBHb1JLSFVMYTZXekdFczVrNXVCNHBBZGlBSV9XalBPYVl0RzdOM0czclUxOUJROXU4ZER4WHRZdFRfa0JHSW10emdfSUl0ZUZQLTVodUJKT3BreXBaVXpkbXd4dzJB?oc=5"
     },
     {
-      "title": "Taylor Swift’s $900,000 Six-Stone VMAs Ring Has A Hidden Meaning",
-      "outlet": "ELLE Australia",
+      "title": "Todd Rundgren calls Taylor Swift 'the apotheosis of mediocrity'",
+      "outlet": "USA Today",
       "date": "2026-10-01",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNG5rc2trdDdKc0NicGpFLTB3TEFzYUEyTUM1dWp0UVc1T2VSVFlwUVlCTDVKc2VqMDd2UlB4QmJwdm9TMHJtVTFsbGg0bmtsRUtRS3RqUGlwTXJjaUVOMFJob1dCMDN1MmF1V193VzBLdGVWb1FaN0dDRldLc3NZS3hoQ0oyazhRNUZ3U1BBTjZOS0ZIOFk4cVcxTXhid3o4RDNmaEx5ZHZmaE9Z?oc=5"
-    },
-    {
-      "title": "Taylor Swift’s second act: The Life of a Showgirl: The Encore",
-      "outlet": "Wayland Student Press",
-      "date": "2026-09-30",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNekstWHk2T0NmTEptY1lWc21jUkhfVDJwS2hjbGU5WGhDRFVfVGh3MWozS1Z1RGw3LUNIU0pXVkFCc0tzLUQwVWdJNUdIc0d1LTRMa0doSEY3eUlKdVdKSHhlVEUyc1lkMmRjek5nRG81cklJNGdfUzEwSW9iUjM2SFUtYmtGeUpqQ2VfOXJwanF6YUprSk9EVldtZThDZmlHOUM0?oc=5"
-    },
-    {
-      "title": "Terrorism Plotter at Taylor Swift Concert Can’t Sue Disney for ‘End of an Era’ Series, Judge Rules: Report",
-      "outlet": "Billboard",
-      "date": "2026-09-30",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWlNhc3kxLUV6LUk2TnZSSDRBck5TdllDX1VJN3BBaU1MQjh3N05JSkZTdzR6TVExQnd3aFQxSkRMQXdvNEdQdGU4RWwzcWRJTElIdUhnRXJyTjNsY1R6X0Y4LTRNUWpZTHNMd3p1WkVtY3BOcHpMV1prNmJ6eXZrRWRGQm5DUQ?oc=5"
-    },
-    {
-      "title": "Travis and Jason Kelce reveal what they really think of Taylor Swift’s ‘Cleveland!’",
-      "outlet": "Page Six",
-      "date": "2026-09-30",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLTZrcVVPVTM3NXUyVXlsOUlZY2NGSXNSQTlJWGwwMEdRc2lBUlNWVnZFY3djcmJxdVgwc3pQVFNDTnFMdGswRjJRc29QSG9BX05PdDlra3VxWGNIaFN2T2NJWGFJSVlGSFBuRnRBaXd6S1lHcnRjTXk2ZEFzZllZdlYxcjYyM0htN2F0blJwd2tENGhWb3h5MjRKMnhNbHFKYnVkZDN4Yk5QUml1d2t6ZWUzOFBmREdWODQ5STdaQjdYZ2c?oc=5"
-    },
-    {
-      "title": "Meet rocker Todd Rundgren, who said Taylor Swift ‘ruined music’",
-      "outlet": "scmp.com",
-      "date": "2026-09-30",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYXMxR1Ezb0JwaXpONlVWd2lwcmZwUXJEblBuU25HQ0JkSzJjX2ZiWFpKSzRJbUpzOXZnbUp0Wm9SbTE1RHlQOFZPeFBqb18yZVZaS0tmNXpVT3N2T0FhcEgtdkYxUnJkcVhCRlRkWXNOSEtZLTFmNGpXMTFIWGY2RThBM2FJaEVEa200QWI5alFHZ0pUcG9mQXoxajY1M0YxNFpSWUtaNUNobFJvcUpCbENxLVRUc0RKakJtWVZuaDcxMjRzQzlmWjl5aG1FUWlFanl4M25BdkVhQdIB2gFBVV95cUxQdkVjZmtzempuVHZKZ3p3QXdMWHRkSk81RWozSlVjN2lJc01VZF9vQUNERmxSVW8wQ2h4a0xRbm1OWUJPYWxXWWxzc0VGSHVRZmZtaXIyOWI3QnFQaVZMc3VuZ0twUzROdHJONHpqTE1TSmV5cHZJdDFwV3M4LWFEVXhkbUNDd2tkNlo5X1cybl92a2JQclRScU1fanQxMFA4U092UXBJdUFURlhjVXB3WWUtbXZQT0MwSHZUSWZqLUZwZWpJWndkMTRhQzVsSndYSTVFeXFneF9vUQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQjU0TFJleVJxZnFNSkEyUmJPelltd0RZLWJ2LWxwaTNwMk84ejJnblFjbmxFWVUyaHoyNFVkZ01jRXljZzhqQllaeUVyR2J4MDc3MnhBMFB0SW1VU2xjS3lKQVFBbDcwY0JuUHkyR1JzbTRrZ3JZZmdHYVZONmhTQ3RyUVA1NkZaWXFsak5UNXlkUmxNdG1KR1hJdnNOckxKVFczRTA3d2wzNkpUcnB3?oc=5"
     },
     {
       "title": "Taylor Swift Addresses Haters in New Song ‘Cleveland!’",
-      "outlet": "Yahoo",
+      "outlet": "yahoo.com",
       "date": "2026-09-30",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN19aXzhBSjhrNzZ4aHhlMnJac2tkQjdVY2syZm5qZnVLRGxZdlVhN0ViQkhFVEZzMmJWYVU3M0l3UTljbURvZlBoY1ViT0JRdHU0LTEzazFWMWJzVmN2Ui0wSGJxbU1TS2RNSjVJSlZZRmR1U1N1aERwdkF6bE41NU1EV0U0dDI1M05wVHZObUZPd1BuM2hWNnZFUWFpaGJpUkE?oc=5"
-    },
-    {
-      "title": "Travis, Jason Kelce react to Taylor Swift's 'Cleveland!'",
-      "outlet": "USA Today",
-      "date": "2026-09-30",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSWppa0xaWl93OUI5R3d5ZVpmX3puSFp0OXBmdWwxcEFDdlRsRFdqNmQ2el84NS1hQ0xmSnBFYmJjWDl1bkVpV1dET3J2cWpGWldGZTMtdWFQcEUwS3FnSzJoU1NmQjJPMjhzNU1OaFNtNlVMV0xlQnBfRTBfdmhRUk0xaXV3ZURyS1NrX1Zndlk5NFpqN09jMGpCVklsaE1SRER2dTcwT181SmxGNm1RSGJvVnZXaEh4S01yU3RxWQ?oc=5"
-    },
-    {
-      "title": "Study: Taylor Swift’s most devoted fans more likely to rationalize her jet emissions",
-      "outlet": "Washington Times",
-      "date": "2026-09-30",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOXdjX090cVhZWk16NVM4R3dvRVFnRnpOMDZiSUE0eVlZSG45UzlLZmI5dEp2bDhzdTlzYVJZaXVlQXVYQ3ZtMXpJd0FSQnBPSWI0NjdISjNqbjZCTjdENjdWUGNPb0hNWmRxV0xUQ1U2emhBbWVra0x5Y0U0Z3hpMk02WEs3UVdZY19rbDljLVczSWhKZWIwVzZnUEFIZGdpMWpSdkotaFRBS3hoN3VIWW5SMmlDQQ?oc=5"
-    },
-    {
-      "title": "Mariah Carey’s Once-Rare Chart Feat Has Become Taylor Swift’s Normal",
-      "outlet": "Forbes",
-      "date": "2026-09-30",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYjRuLWZTcktfcmxOcXlOZWp1MU0wY0RVdElUQWdyTG11VkhGckJVdnlVeXNzX1JzOHVEbFBTWV9KRWU3YVV1U2N0T20wc0o4WTh0cDltNVF5WV9WTXN0U1NncUFTM2JIaHBiNmxpNGduVnFxNHk0RHFxblFsa0MxRXZvb0xydEk1TUZlYnlYY2JQaVJrVEtMeVF4N1RCZ3ZnY08yY3BPcHFkanVqcW5yMGNZbFg5bHdfQ2xBNw?oc=5"
-    },
-    {
-      "title": "Devon Sawa Reacts To Travis Kelce & Taylor Swift Being 'Little Giants' Fans [Exclusive]",
-      "outlet": "Elite Daily",
-      "date": "2026-09-30",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOa1FuYWhGS2U1TUp1c2FnV2hKNE12SWNpczRnSVRVTDF0cHR5ZEMwemZ2RWNfWTQyQWI5Q2lDZ1h2YnJKY3VTbXRVbWRZX0k4WEZBTUV4OXh0S3pBVUVlbzlhZXZlYzZmak1RVEMxWnlGU2M1c1NtYlNIRFN2WjQ1MHlnX1hfRUZDUWtJeVBRTDdOTGY1eTVKTGNnWm5aUmx4aXZB?oc=5"
     },
     {
       "title": "Dakota Johnson ‘proud’ of Taylor Swift over ‘Patient Zero’ premiere",
@@ -2475,16 +2463,28 @@
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQczVLdU1GWm9Ic1AxTS1xS3NLV1c1T2ZvTWhrY2tnOWVQWF9OaWFZUXd0c190cnZFYWpVWjFNRG9tMHhtSjdoSFNpclJWcUNoSmpiSVF0VWY4UVlJWWRuVDNES0xkMmh3TUhpMjE1WWlnQlJfVDJLRXJ1RG1rX3UtX3BLQlpSQU5hUk4yTllfNHFZeHBJRVZ4SjhXMVE4T0JyRldLRU56akQ0b0dreXc1YS1vTWhHcWFCcS15X3RucFZxbUhtM0lURXVubS1mYnZV?oc=5"
     },
     {
-      "title": "Fans Think Taylor Swift’s Lost Album Is Incoming: All About the Viral ‘Karma’ Theory",
-      "outlet": "Cosmopolitan",
+      "title": "Kelce brothers love Taylor Swift's \"Cleveland!\" No one else does",
+      "outlet": "Axios",
       "date": "2026-09-30",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ0lJQ2Jwa3BLWFRUNjQ1T1dZS3U0NndTZklIS1JJdlRoQ0ZTU1RjT1dSMmczLTNaN3hoOVNYMnhjTlhBbWZSM1hHV1RYbUZqOGRINXVjdjdhd2FFMHkySVBYbGMyd0QzXzBVZHFNbFlyMEZtRUpmN0FDYVBuVnJoc0ZFanVRQjRpbVlQbVJ4RzVNMjJTdjExbUd2SnhnQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYzRWWHBQX1ZlR1hqZ3EzNEYtaUo0N2x2OTJWZm5IWVhpczdOV1p0NjIyNnIzVUYyVS1KdVpyYmxTRnRVTUJuQjVjLTRHYmVnM21MZ3c0R3pNYTBWV2dtRkpKX3lDb2NZdGFZbFZiOEJXb2VJV1BVOExQQkZPM2FuSGFibTJZdUR1ZnBoYy1XYw?oc=5"
+    },
+    {
+      "title": "Taylor Swift’s ‘Cleveland!’ Features Several Travis Kelce References",
+      "outlet": "yahoo.com",
+      "date": "2026-09-30",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNF92OEVDMmxQZmhkMU9rb0xub1AtNmVzaW12UE8tVl9pMlhWeGE1NXpuS01xSlNEYldKWGZyZlZpRWRjTGwxSU5JVzdNSjZzUXZTVDJHS2RfUk5IS0YxTXRCeEFncXV0Q282bXJEUmxEWHhSMkVmUkRFbzFkUGFyTXBTMXJiRmdmTEJJeGtHWjhrZ09HS1BkQnN1X3lBd2xzb3ZfZm8tcno?oc=5"
     },
     {
       "title": "Taylor Swift Tosses TikTok Another Juicy Exclusive",
       "outlet": "digitalmusicnews.com",
       "date": "2026-09-30",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTHc2MU5CeFQ4b3p4dGpJYjhkVFJJZl92eE1lNVVQbGFlVjdCYUlWcGJ2dUNRZF80NDhkc3VIX0Z0cnNYUDRoVWVaQW5rbkRQZHAwWGtZOVMwOU5GY3BPQ0hfdjlfUzRCdlJxRjNicE9TYXJHVVJhTE1GeFcyZ29lM01IVVpQclRyaG1RRlFPS2R6dHFvejBRZ2Jxdw?oc=5"
+    },
+    {
+      "title": "‘Cleveland is rocking right now’: Kelce brothers weigh in on Taylor Swift’s new song",
+      "outlet": "FOX 8 News",
+      "date": "2026-09-30",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdE11UDY1T2xWZG1xdUFaZ3hJSUtkd3NQd2N1bEZIZmhCLVpZNlhVTlZyV2VkM3dkWWFqT3F1SXljLWpWQzdKOE0yb3dWRTdmSDhtbmVFNzZHdXdmUHNaRjFRRk5CWXRrejZfWjVZRDlHYVdxS2ZFZmpRVWxpSFlIVzZuLU4tU0tkYkZlUzloYlJfWGVJUC02ZDRnYzZoZk5BT2ZVLXJB0gGrAUFVX3lxTE96RXdiT1IzUXdaZ2NuTDRWUnZuWDZvempkUUZTZXdTZ3dwcnNjQV90YjBMQXhqRmZpdnJTNVdfVWFOeVE3WF80MjQ3SXlhUmVDWDRJejNxdWFrTDBQcmhMYWtmQWJIaHBOU0dqNzZnSFhqMG5fcWVtLXNERWVBOXFGZzRtQUozVXloZEl4ZmRvODV6S2JBR1lOaTZ0bzNBMVVwTHA1VXpsb3BVMA?oc=5"
     }
   ],
   "bio": {
@@ -2541,9 +2541,9 @@
     },
     {
       "title": "Would-be Taylor Swift concert attacker loses privacy case against Disney",
-      "outlet": "ksl.com",
+      "outlet": "Reuters",
       "date": "2026-09-30",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORXZHZTdEejJMZ2JOVXpGaXlObk9hOUlYQ2pTVzh0U1dJVXpvUjh1ZVZ0YlpYLV81dGs4cXJkSG5KcG5CbUpBQm9JRW5CT0ljLTRhTU1MRm40U0x6YmNjMnVCYUJwY09jNUprREd2TVVEYXhQQmdQeWJaSTZ3ZWluVzYtOUx5dkRzbGRKRV9hN3g3Ry1EREwxd2N2OXMtS3pWLWxiVFU4LW93Njd3V3c?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY3RKWE4yZWU0YXZnU3p0RXQyOVNMRmg0NVoxQTltaUxUYVJ0SUYtV3NyTk03NHdwVGhPN3JMWkoyRXdEZnhnWGxZb0xQRVhaOElGOElYdnUwODJlTDZLZGxZZUhKVW1TRGR4TjBFR2N6bVB1Y0prMF84YzNZQTRaaGdyMDBNR2RwVkg4TmhZR1YyV2lCM3Uzd25VWHJMUjhuS2ZxRzhJUjEwZUFlZXhBa1g0bmw?oc=5"
     }
   ],
   "timeline": [
