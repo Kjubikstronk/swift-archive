@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-03T05:21:48.621Z",
+  "generated": "2026-10-03T11:42:50.931Z",
   "artist": {
     "name": "Taylor Swift",
     "full": "Taylor Alison Swift",
@@ -9,7 +9,7 @@
   "stats": {
     "yearsSinceDebut": 19,
     "eraCount": 12,
-    "releaseCount": 111,
+    "releaseCount": 112,
     "albumCount": 24
   },
   "eras": [
@@ -38,9 +38,9 @@
       "trackCount": 12,
       "url": "https://music.apple.com/us/album/the-life-of-a-showgirl/1842897453?uo=4",
       "counts": {
-        "total": 6,
+        "total": 7,
         "main": 3,
-        "side": 3
+        "side": 4
       },
       "releases": [
         "itunes-6814995859",
@@ -474,13 +474,13 @@
     }
   ],
   "latest": {
-    "id": "itunes-6814832200",
-    "title": "Patient Zero - Single",
-    "date": "2026-09-24",
-    "trackCount": 1,
-    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/b8/07/7cb8073f-c5c5-edaf-d202-957f55866f04/26UM1IM20315.rgb.jpg/1400x1400bb.jpg",
-    "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/b8/07/7cb8073f-c5c5-edaf-d202-957f55866f04/26UM1IM20315.rgb.jpg/600x600bb.jpg",
-    "url": "https://music.apple.com/us/album/patient-zero-single/6814832200?uo=4",
+    "id": "itunes-6818017938",
+    "title": "Patient Zero (Video Bundle) - Single",
+    "date": "2026-10-03",
+    "trackCount": 3,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/04/6c/a2/046ca23f-517e-d872-d2bc-2f13129da63d/26UM1IM28233.rgb.jpg/1400x1400bb.jpg",
+    "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/04/6c/a2/046ca23f-517e-d872-d2bc-2f13129da63d/26UM1IM28233.rgb.jpg/600x600bb.jpg",
+    "url": "https://music.apple.com/us/album/patient-zero-video-bundle-single/6818017938?uo=4",
     "copyright": "℗ 2026 Taylor Swift",
     "genre": "Pop",
     "via": "apple",
@@ -488,6 +488,20 @@
     "year": "2026"
   },
   "releases": [
+    {
+      "id": "itunes-6818017938",
+      "title": "Patient Zero (Video Bundle) - Single",
+      "date": "2026-10-03",
+      "trackCount": 3,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/04/6c/a2/046ca23f-517e-d872-d2bc-2f13129da63d/26UM1IM28233.rgb.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/04/6c/a2/046ca23f-517e-d872-d2bc-2f13129da63d/26UM1IM28233.rgb.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/patient-zero-video-bundle-single/6818017938?uo=4",
+      "copyright": "℗ 2026 Taylor Swift",
+      "genre": "Pop",
+      "via": "apple",
+      "kind": "Single",
+      "year": "2026"
+    },
     {
       "id": "itunes-6814832200",
       "title": "Patient Zero - Single",
@@ -2343,14 +2357,14 @@
   ],
   "news": [
     {
-      "title": "Erin Andrews Reveals Reason for Unfortunate Taylor Swift Decision",
-      "outlet": "Athlon Sports",
+      "title": "One of Taylor Swift's best friends to host 'SNL' tonight. How to watch",
+      "outlet": "cincinnati.com",
       "date": "2026-10-03",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRFcwR1hwV0xYeVMwZGZkdVBVN29Tc3Y3Y2tVVDA0MlZEQTdKZWhTQzJFaDh3OWZLRlFxNFpLUXRlY1BvUTVfRVd4b3NnRWJHVUpfYlNrby05UFQ0Sk5KWE12dzBGaC1fdEFpNngzc1pOc1kzYmlZcDZNUnFkaktLR2NkQnZPOHJOU2RNcExB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPam5OSkZvcWtYbHI2RENNdXpSc2gzX0JKVm5sRDVtQjBRSUdmb1YwWFktNjZYaXhaeUotbER1UVVDMzRVMzRoVHhnSVBpTFZmWEF6VjJpaXdaZ0NJYkREUDVzMkdDamplSUZKaEtXMjI3elZDeF9oWHFDaGgzLTNjUkZyZGZZUjQ0ZkYxZmswSGtjOGgxSVRfWHl4VmFrLWRaRHpXZkxhc1lHRHNHV1JFVm4yWXk4dmI4YzcxbUh2d3RpdVBWS1YtWnByZnlqVVlWeTlxMk8xUzU?oc=5"
     },
     {
       "title": "The Eras Tour family reunited at Taylor Swift's wedding. Here's every look her dancers shared",
-      "outlet": "Yahoo Creators",
+      "outlet": "creators.yahoo.com",
       "date": "2026-10-03",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOLUp3NXZoMHRpckRScEFPWkU1c2xDSUJ2QUFQcXgzZGxfUXQ3dWFCRV9lTmU0TjRNZkZpLWY2cTZUWW1CQm9uOFFXSl9VSHNoMjRDM0NfNW1HZTlVbmZib21XT3A0eE1yRDBHYU1VcHNIU3hPWk5XZktvVWM0azJoSmxBSVZJVDFnbFZrU3d6b1VSaGpRRVFYNS0wVHlRTGl4YUdsbC1YQ3VyUWt2LTNMRGdYdWZDQ010Si14WVFYTkJQMjdSaFF0cTRNZFcwcGh1WUNrVm1OZXZaejhoeFFKVkFB?oc=5"
     },
@@ -2361,28 +2375,70 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQXo2QVI1UDZLQm1lQllhNGtvN2dqLUpiNGxabV9LWVk3UmZ2X0NBbDVPdExNZTFBSlBWQVA2eW9HdF9vSzlvRkpuSTFPZThOWWxtY1FKNkJtaTlZbG4wTmdvVi14b0lkVmFwd0JNUHVGUkJ2QmFmNmUzTEtuUmlTVDgyVEtINVlvM096WW1xb1NKMUlFdXNn?oc=5"
     },
     {
+      "title": "Heidi Gardner Reveals What Taylor Swift & Travis Kelce Were Like at Their Wedding, Says Their Love Was ‘So Palpable’",
+      "outlet": "IMDb",
+      "date": "2026-10-03",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yMm1pSzRUbGxadUhybGwtb3ZqRmFZMVJ5aDRHd1JENjd4Qkt3TkRqMldVT0VyTjhKbzVPSTlYTkZybmg5R0VmQnJWSFJHSXlzb2RBRnFLR0lDU3A0ejFLY0MtUXljQXlCM0E?oc=5"
+    },
+    {
+      "title": "Sir Paul McCartney initially joked to Taylor Swift that she should sing Beatles classic to Travis Kelce at wedding",
+      "outlet": "Music-News.com",
+      "date": "2026-10-03",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOdkZyUXRKNEphSWJLTHBBbHJWWVVTOUFyU2RGbk4yOGdfOVFNUmZJSmxZVnBhaWMzclV6N2taTjZOUVhvQVFNdktmUThWeDAwaEFKYW9Gem5ZY3dGRndXU3BVZnRxRGVvcVRNWGdhamRkNFNwcnF1Qk5fVTgxdjJQLTZ1Q2JCbDhiZlNHZU5Rclh1OGk0b1I1U0thcHJDVnBUd2diZkt5dmQwWC1jdUxfc3pNYTY5ekw0TTR0a1lJcHFSUWx6V0x2Z1NTOE43ZEJZZ2Z2RFJUNGRPMDEzSGdHUDZ6SWZKYWNrZUc5Nw?oc=5"
+    },
+    {
+      "title": "Heidi Gardner Reveals What Taylor Swift & Travis Kelce Were Like at Their Wedding, Says Their Love Was 'So Palpable'",
+      "outlet": "Just Jared",
+      "date": "2026-10-03",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPXzN4bWk0UU9uV05rWFpGX1BWNGhPVC0tWklnMGtOcm9kekNna0Fpb2lQRE43RXVlbms2aVJ6MWxHQ1ZTeEd6SEVzQk5kVXVPczJacUhjZWU0c1E4emVfOG9rbjVhcWs0MW1FOUlLTmRrSExucFdMdjZqVnI2YnprYlM0bG1rNzhuaC1CVGNiQkx6MksyemxjbnZsaXNiam8xYlJOVFBSVHdLNDNhVzFOZkVmLTY3VVFjWkhWNU8xYzZydVNsS1RfNEMzU2UwSDFOekM1akV2TGhKeWROWF9kMU83Yw?oc=5"
+    },
+    {
+      "title": "Caitlin Flanagan on the ‘Cornell 7’ and the Battle of the Sexes. Plus…",
+      "outlet": "The Free Press",
+      "date": "2026-10-03",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FQmdJWjF6Q3kzckhsQWhMSU02R05iWDd0aWJfTGlhbGNfTlppVXBsNTEtaTIxUmlfckwwN0d3bGRmMnNPekpWNDdTcXRxYnY5eE5lTE4zM05nOV9JOWVuVkxTcGNCME5q?oc=5"
+    },
+    {
+      "title": "Why Fox Sports Stars Erin Andrews and Charissa Thompson Skipped Taylor Swift’s Video",
+      "outlet": "Yahoo Sports",
+      "date": "2026-10-03",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPS2hNcXBFLUwyazFYSUxTMDUzQkhXdnQxZzFhZ0hLTHB2NTZmOHJwYnRqNlYtcG5QaVFEWGI0MzlhcHRJQUwxYl81cFduNWRVYWx1YlZLLXVpTTZWU3VEVXVEd0pEdXUtRFQ5MTRNRHA5cVpUN3NCQUkzOWEzM1U?oc=5"
+    },
+    {
       "title": "Taylor Swift new curly hairstyle: Why did Life of a Showgirl singer get new haircut? Fans speculate about Travis Kelce, VMAs | Hindustan Times",
       "outlet": "Hindustan Times",
       "date": "2026-10-03",
       "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOYl93WGdBc2pQd1BPTWF4eEp5dWVlbjVYOXhyNndtQTM5MzBINkZ5THZ2aHFpd2pNX0M3VVBkZFJ2Sk80R01mWklRYmM1b0VhYzdxdGp5dlYycXhqZGdKN0wyRVJGSjZjMUJFdEdGODRJTDVuRjFQdHZYcDJWM0Y2OTRMSjBFdEdMN1Jva3FOWW43a2lkSm1RaUZ6SHMxaHY3d3NwVlpZNEVqclU1azRRY1Z0bG9kZjQ3WTFwX1ZxM3JpeWZtYjFSa1ZwLUplN3V5b1ZYME9JS090cnMtOVE5TTBNU2k2dGVZYUMxZ1k0OGxoTERkYkhDdjl6Y2t2OUdXbnRUNmpwRFJKR1A4Q21ORHUyd0fSAZoCQVVfeXFMUG5IV21mY2tsb0lfdy1MVlhGVlVRTGxuNjMxVmJlZ3VNUkFwOTVNUXFhSUt5RDNkNTY0akgzSjd3X0NJY2U5enlNUHdfR092VjNrZGpWRWxjb0luR3VXcXVRUEFCM29DVjNfVVRBaUpvcHRldGtqejFJczNxQjh4R3pnUTNCTmZPNkxBaFlKU0Q2YU9zMlBrVm83TGV5dmZHdmFyZm9SOUVha24yYmFBOFlFTEd2YzVROUdjRXJPUTZfT2IySElETGhiWllLR2VuZWVXR0d5eGJkdGItbTNFMmhEUXd5djhWV1pFZEprVi1iMlhULVk4ZDJqLUpuakxiTllLcGU0ZWQxejRFcmVYLXk5dUxKQkx4SWFB?oc=5"
     },
     {
-      "title": "Taylor Swift Debuts Even Shorter Hair Transformation With Curly Lob Look",
-      "outlet": "E! News",
-      "date": "2026-10-03",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcnpmcXJRSFlGWWlHUWFya2JPZS1yUmpscnFVZGhiWGtTdVNrblRtQ0czUV9Dc2ZhTDV2dkUxVmh3Z0ExWWpLUnlKbzlJc0dOcGctN1BKemFjUEhMR3YxTURlTy0xNzVTb2E2V0tvUW1hWllfR0d5S3ZVT2RtV3JLRkJHNFJZZjBNMGxnMlo3M1FlMUFqdWVJVENiREppUQ?oc=5"
-    },
-    {
-      "title": "Paul McCartney Opens Up About Performing at Taylor Swift’s Wedding",
-      "outlet": "people.com",
+      "title": "Paul McCartney Reveals He Initially Joked to Taylor Swift That She Should Sing ‘I Want to Hold Your Hand’ at Her Wedding to Travis Kelce",
+      "outlet": "People.com",
       "date": "2026-10-03",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRDZPOUxUMHlPUzUzYXZKYWM3Y00xMVpxMTNPOVRnX1pqS2pvbTRDTWkyaWNsRGJxYXRIamw3eHhzWGxfYUJjZTVYN2lVNW5HeEtCSExtVVdRRWMxSG4zeUNWS3RFdUJxVWJMbW91STdQVGpmUUdsclc1SV9XUUotUlhSTzI4Mkp3eVNja0hxc3RMOElKSXdfbkJjV0dBU2k0cTZDQXBVZlNwT2tVVlZrc2NfeXJ2eDZiS3o1U29hWlVOcW9wVWM2aVhVbk0yYnVPVlRfTmVGdGY4eG9rR0JOSndWalRhNFhaYVAzYjBSdTF4dXkx?oc=5"
     },
     {
-      "title": "One of Taylor Swift's best friends to host 'SNL' tonight. How to watch",
-      "outlet": "Cincinnati Enquirer",
+      "title": "Taylor Swift debuts new curly hairstyle after ‘Patient Zero’ release: Here’s what fans are talking about",
+      "outlet": "The Economic Times",
       "date": "2026-10-03",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPam5OSkZvcWtYbHI2RENNdXpSc2gzX0JKVm5sRDVtQjBRSUdmb1YwWFktNjZYaXhaeUotbER1UVVDMzRVMzRoVHhnSVBpTFZmWEF6VjJpaXdaZ0NJYkREUDVzMkdDamplSUZKaEtXMjI3elZDeF9oWHFDaGgzLTNjUkZyZGZZUjQ0ZkYxZmswSGtjOGgxSVRfWHl4VmFrLWRaRHpXZkxhc1lHRHNHV1JFVm4yWXk4dmI4YzcxbUh2d3RpdVBWS1YtWnByZnlqVVlWeTlxMk8xUzU?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOeFRFRnpoWmppeTJWZWRlSmpxZTV1STU5ZU83YjNBaDNmQ3pNOTFEaWlsVVhzR2I3YnVwY0s2RWFKVEpUelBPMy1DSU9GQnRjZ3RwSDZPYlRudE5mcktyYjExbGRqUHhwSGNvMlZFZmVpRloxWENYd1FRajZGeE91TXNocVBBTzJ3SkZaQnFZdldtMk02amc0R1VZbW13N2VrX0wyb1VXYnR4VGF3MEFRLWpGbE9hN1lqdUJkRU1HdHJSSGxZbGo4ZGtNN1Q2MkNKa0RrUnFpc3ZDc0FFTXp0dGptcjRVbENQXzZNTmJJNGhPMUx1bDd6VlNKc2ZKYzhXX2fSAYcCQVVfeXFMTzY1bXpHb0RCOWpjV2ZvRlcxdERnV25Vand3bzZBQTdacTZLR1ZwMlFlQ1BjOUV3NTNNRG9SSW04RXU1VWFpQjRmVnVHQzdNenFEdWdQYjhIUHd1LXBGR3ZtS3BLSTJiZ2dZeVlGaXV0Q0xqNDVIOWxBcF9KeTB3c3hoc3RSVlJ4UjZfaFg2TXg1T1BhcmNMbURiMmVpN1hnakNhZFM5eEY4a2pFbFE4bG9Bajc3dVlkUmw2QTV5TlNxQWZCLVF4aE1yaC1yekYwVWV5U2t1cDByemp2OXFNdjBCMjkxWUw4V0hJQkdfZkRrT1VLeWpIRUY5bk5HRkVvcVhNYUNQUHc?oc=5"
+    },
+    {
+      "title": "My Thoughts on Taylor Swift’s Extended Album",
+      "outlet": "The Decaturian",
+      "date": "2026-10-03",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZlF3eFJ5Y1FoRnBZQjQ1R19JblZScWR4bWpuRGt4TEpUbEg5ZjNaSzVwcENPUTl3NG41SmxDbUhfSDAyQ0FlNmVYTkZxZVNUV1RJbzhkTUMtQTRRc0swRV9pamFVTlc5X3ZDalBERWVyLVFfeF9DTTNHa3hFSVVXTGdjaDVlN2RzUmVv?oc=5"
+    },
+    {
+      "title": "Taylor Swift - ABC News",
+      "outlet": "Breaking News, Latest News and Videos",
+      "date": "2026-10-03",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wQktpeXRiVVNBM1d0M0Y5U19aazFXeEw4dlRYRzRSZmd4RnFCbV9yX0EzU09WRTAzOUtwck5fbWQ4M2w4dEVkdzF3T3pxNjQ?oc=5"
+    },
+    {
+      "title": "Anne Hathaway Thought Taylor Swift’s ‘Patient Zero’ Music Video Was Tied to ‘Verity’",
+      "outlet": "IMDb",
+      "date": "2026-10-03",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBuVnY2RjMweHZXTkx4bTFSUDRINTZNMTE5QkEwejJydmg5TU82aEw2MThOa0VNenlpY2ZoT0k2NlE3ajFlRzVnWjlrZTNmek01N1NfNV9BV1ZocU8tNURkaFBlalhRZw?oc=5"
     },
     {
       "title": "Taylor Swift Debuts New Curly Hairstyle & Even Shorter Haircut in Latest Photo",
@@ -2391,38 +2447,32 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUmU2Qmt6d0tkazZtSkdOVzlqajhlYnprcS1EQVlFbmRrS2xNSlhSQzNHVDVDd1dVSFIzRndOODFLUzVwdFRveFNvLXBBZlZodFBseFk5R2pTNEktbXlma0V2UWFHUTVVNE1DbzVueDFFUXpwY1Vjb29UalRxd3A1OHljY25hRnZDVnFHRk9pZkdBckszanRoaUh0ZzEzTWFHczN1Q2VEVi11SWRYd2pSM0pmZWU?oc=5"
     },
     {
-      "title": "Taylor Swift Debuts Even Shorter Hair Transformation With Curly Lob",
-      "outlet": "yahoo.com",
+      "title": "Taylor Swift Debuts Even Shorter Hair Transformation With Curly Lob Look",
+      "outlet": "E! News",
       "date": "2026-10-03",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWllka1ZRWGx5SzVaaDVCM3VrR2Fib2V2cU1RbW4wUms2ei1FaUVKaVIyRGdiaFBOMlFrWXROQ0Rsa0V5T0cyNTZqNXJYSDI1NDhQOU1RNXVXa3VrM19ZTF8tR2RkR0dHVWlkTllXd3dpX3puZGNHSHZtc3BsR3JqVTN4dW5MTENFUm5CNGxldWFzb3RfNUhITG9ZNm1QU1U?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcnpmcXJRSFlGWWlHUWFya2JPZS1yUmpscnFVZGhiWGtTdVNrblRtQ0czUV9Dc2ZhTDV2dkUxVmh3Z0ExWWpLUnlKbzlJc0dOcGctN1BKemFjUEhMR3YxTURlTy0xNzVTb2E2V0tvUW1hWllfR0d5S3ZVT2RtV3JLRkJHNFJZZjBNMGxnMlo3M1FlMUFqdWVJVENiREppUQ?oc=5"
     },
     {
-      "title": "Diane Warren Should Finally Win Her Oscar This Year. Here’s Why.",
-      "outlet": "Matthew Huff | Substack",
+      "title": "Taylor Swift does chart double with The Life Of A Showgirl expanded edition and Patient Zero",
+      "outlet": "MusicWeek.com",
       "date": "2026-10-02",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1OWXJmcktUVjczV3NmYnJyc2FXTlpzdVJEakdNUGcwX053bDBpdThQblJtbWpyT0RIdnV0aHA1MEJkWFNXVi1hUDNYd3cza1ZHVDRWRkl3QU1UcW5raWlWbkxhRUhSN0MwZUF2TEI5QzlJY3pW?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQ1JLdmN2ZERpTUU5V19xQXRVUVM3bUtDc0VXSGhaWjF6aEh1OWJYY3RzdTdVQklVM2c3WXdVV3kzeWd6N0MxdmRNb09KdE1WRFI1dFlaNjhrbkx1dERPcHNZbmdIYWFkUmw2eUd4SFdLaWZLZHdBdHduOEpHRFhDUXlFOUpWRGsxSDVEcFpncGc4bjZUMkZYVTRSYXZLQkdNZXl6TW03UWdqMHgxZEdGYmpMN1dpUURBZVRKMEV0a1VOTG9rNjg5a0JETlkwU082LWZZ?oc=5"
     },
     {
-      "title": "What’s new in TikTok’s Taylor Swift in-app experience",
-      "outlet": "Music Ally",
+      "title": "Excuse Me, But Did Anne Hathaway Step Out in a Taylor Swift Easter Egg?",
+      "outlet": "Cosmopolitan",
       "date": "2026-10-02",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM1NPUy1taFJ0Wjh1d1ZNUHpYNDliODAxck5naGV1ZFZqZkFhSU5TdkdwdnZWMDBib1JNeklRT0tfaTRXV2dMMDV2NVdFYnhQaTZCbWs1U2FENWtnR1pJM0wxRk91ek1EVF9SZ3lfbGRrLTBhX2JiMTlxSVNWTTNoLXlVTm9TTk5BNjZXbXlB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeGdCYUVUWGczQlk2YlNFdk9fSmpDVlh5ZWVHU1ZxZ3FVOFM0QWFEV3Z1X0RMVWpZVUprazAxSV9aV1pEYkd2RWRZQnBEYjl1RVRJem5kRDl4SjRTY0l1Y3B6ejh3b0ViNDNjNDFwd0VQU216cVJsMUZhVUlWY1RLWkJ3R256TkhvakZ6a3BiTTFuUTNiQmtmM0VhQ0dkN2RuUXpVNlplQmFKaVhIdmhLQkgtaw?oc=5"
     },
     {
-      "title": "Travis Kelce, Taylor Swift Get Great News Before Chiefs-Raiders Game",
-      "outlet": "Yahoo Sports",
+      "title": "Taylor Swift and Travis Kelce likely bonded early over a love for ‘Law & Order’",
+      "outlet": "Kansas City Star",
       "date": "2026-10-02",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdHlQU2g1anhkSUtEOVVQQTlXMmRXX2k0MzRYRkJvZlBIdXNXc2VHNFYyMGxIaGlobHlEck9ZYm1KYVZIcjdIUkdSQjN3MzgtU3kya2p2WG1OUlBIV3RuakNCQjkxVF81b1RCQTB5Yjc5TWlnQ2NXeDJZWHpMbzE1X0ZfVHhxd3M?oc=5"
-    },
-    {
-      "title": "Taylor Swift Career News Announced Ahead of Travis Kelce’s Chiefs Game Against Raiders",
-      "outlet": "Yahoo Sports",
-      "date": "2026-10-02",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPa3NDU05pUzI5N1ZCazRRZll6SmVaVWVLeFk0M2pKZDB6SXBjeHJmTjZaNGQzaEg0ZmpOTVowUjk0bnNSZkJEemc0VnRqellkQ2h6OXFycXAwajBTSkVVd2w2UWx0WC1HMWxZYm9nWGhuZUhpTXZCS1k3RnhIMFhqVEYwQUV5YUhFV25R?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOEFPeHhMRU1OLUlzWHdGVEJGTkp2S0pfUWpPV1FCSDBtMVFqRU10bHFIMG9Eem1ncDBuM2VQRVRtQ2RRQ2ZmS3R4eVJKdUZmakFfUVkyWld4dDhkUjI5dmNqaGowdEVfMDNoOVN6V1p0UUJ0c3pmcE9hcFRCQmwwdHAzWERmTWJMMjRTZVVBWk9Ld9IBkgFBVV95cUxPZHNReEZTTlRMVS1nOVREd3ViNTRaT3pNbHBGQTFPNjJKZWd5TmZUQnoyeFVOLXNaR2p1anhQLWRBN25ZLW1MSzFOTk8yV0RYQ0h4bFkzNXI5c0lSSkVzelc4RUxCZFpvb2lPelFILWJrbW1CME9oUVJSUG1Vb0NjT1d2VFNrNU5EbnN4WFNxU3gzUQ?oc=5"
     },
     {
       "title": "Taylor Swift Cuts Her Blonde Hair Even Shorter With Layers, Debuts Curly Shoulder-Length Lob",
-      "outlet": "usmagazine.com",
+      "outlet": "Us Weekly",
       "date": "2026-10-02",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa3RodEhQVmJjaGRKVm0tUDBtaW1VUTFWNnhDRUZmNHNGVjJVbHVHSjNNVHJqN25reUtUY1ljTFd0ZUN1c3ZSWlZvZ2dXcjl3NHhaMWp4X2NpRjVoZTNfWEl3d1dmTm9wc280MGlRWXpLeFkxeVhiVGdCTEhYenBmVGdWWk1VbDgtY25JTWdPbFRUYTU0WkN3ckdqaHBEUQ?oc=5"
     },
@@ -2433,58 +2483,22 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRGpEWXQ0T05WMldrMkhsdWhtYWRzaXNZcEZWc1NJMU0yR2xQbzhPODlLYTZHLUppVERiUlJKYWFEQ05KbXVVdFZiNURQbU52aFdNQXdBSmMwelNmVlhYWWhVbkV0M2JyV2xBM1RwQkwyMDczTGY0RUZpaDhDekxyTUFwNXhKUzZRQXMtYW5fRXFwQUNDbk1YT3QyRXRJWGFybzhTZU9OZXlSWUJWa1BRRjFfa0xDNXEzaWI0RDhucDNJUFdqZ0RuQVlB?oc=5"
     },
     {
-      "title": "Anne Hathaway Thought Taylor Swift’s ‘Patient Zero’ Music Video Was Tied to ‘Verity’",
-      "outlet": "IMDb",
-      "date": "2026-10-02",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBuVnY2RjMweHZXTkx4bTFSUDRINTZNMTE5QkEwejJydmg5TU82aEw2MThOa0VNenlpY2ZoT0k2NlE3ajFlRzVnWjlrZTNmek01N1NfNV9BV1ZocU8tNURkaFBlalhRZw?oc=5"
-    },
-    {
-      "title": "Taylor Swift does chart double with The Life Of A Showgirl expanded edition and Patient Zero",
-      "outlet": "musicweek.com",
-      "date": "2026-10-02",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQ1JLdmN2ZERpTUU5V19xQXRVUVM3bUtDc0VXSGhaWjF6aEh1OWJYY3RzdTdVQklVM2c3WXdVV3kzeWd6N0MxdmRNb09KdE1WRFI1dFlaNjhrbkx1dERPcHNZbmdIYWFkUmw2eUd4SFdLaWZLZHdBdHduOEpHRFhDUXlFOUpWRGsxSDVEcFpncGc4bjZUMkZYVTRSYXZLQkdNZXl6TW03UWdqMHgxZEdGYmpMN1dpUURBZVRKMEV0a1VOTG9rNjg5a0JETlkwU082LWZZ?oc=5"
-    },
-    {
-      "title": "Taylor Swift celebrates musical milestone in symbolic outfit",
-      "outlet": "yahoo.com",
-      "date": "2026-10-02",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSDZQVDF2UkFNSC1Qakc0bHhGS2xxR2ZzUnRDenhxbHY3ZXdaN0hUS1FIa1Vrb3pWVzJCMUZUcHV4cHNMdDA5UGlPeGFTcjN4NVgyRTRWclhXWmtIQmd4bHZzTG1VSEliTTFiVXYwVWJfRVNxbHA1Z1hoSHhoTW5YM3VRQVRtT0VRQVVCa2dYdTJ2REVTT3VXSEIzUUZUTmh1QnA1R0dLc2VVeVU?oc=5"
-    },
-    {
       "title": "Taylor Swift’s romantic spark went missing in Cleveland",
-      "outlet": "dailytrojan.com",
+      "outlet": "Daily Trojan",
       "date": "2026-10-02",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTG1GMHFlRDNaY0dkQ1lUYlVWQ2VrQWt3YWJJRmxoYS0zSVhSMVVjbl95ZThocTBYNjRRVXZTcWx3OUVUeU1fRF9jYXA1anFUc1lyZDN5UlVyM0FuRXlGR1VwSWdhYlZGR2Z5Sm1BU0Z2QW9rWDVZT05DVFNGa2tSbVBxdGxiWEV5d044MmxCc3lKNC1L?oc=5"
     },
     {
-      "title": "Taylor Swift and Travis Kelce likely bonded early over a love for ‘Law & Order’",
-      "outlet": "Kansas City Star",
-      "date": "2026-10-02",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOEFPeHhMRU1OLUlzWHdGVEJGTkp2S0pfUWpPV1FCSDBtMVFqRU10bHFIMG9Eem1ncDBuM2VQRVRtQ2RRQ2ZmS3R4eVJKdUZmakFfUVkyWld4dDhkUjI5dmNqaGowdEVfMDNoOVN6V1p0UUJ0c3pmcE9hcFRCQmwwdHAzWERmTWJMMjRTZVVBWk9Ld9IBkgFBVV95cUxPZHNReEZTTlRMVS1nOVREd3ViNTRaT3pNbHBGQTFPNjJKZWd5TmZUQnoyeFVOLXNaR2p1anhQLWRBN25ZLW1MSzFOTk8yV0RYQ0h4bFkzNXI5c0lSSkVzelc4RUxCZFpvb2lPelFILWJrbW1CME9oUVJSUG1Vb0NjT1d2VFNrNU5EbnN4WFNxU3gzUQ?oc=5"
-    },
-    {
-      "title": "Excuse Me, But Did Anne Hathaway Step Out in a Taylor Swift Easter Egg?",
-      "outlet": "Cosmopolitan",
-      "date": "2026-10-02",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeGdCYUVUWGczQlk2YlNFdk9fSmpDVlh5ZWVHU1ZxZ3FVOFM0QWFEV3Z1X0RMVWpZVUprazAxSV9aV1pEYkd2RWRZQnBEYjl1RVRJem5kRDl4SjRTY0l1Y3B6ejh3b0ViNDNjNDFwd0VQU216cVJsMUZhVUlWY1RLWkJ3R256TkhvakZ6a3BiTTFuUTNiQmtmM0VhQ0dkN2RuUXpVNlplQmFKaVhIdmhLQkgtaw?oc=5"
-    },
-    {
       "title": "Heidi Gardner Says Love Between Taylor Swift and Travis Kelce Was ‘So Palpable’ at Their Wedding",
-      "outlet": "people.com",
+      "outlet": "People.com",
       "date": "2026-10-02",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMjU0bmMyd0hQb2ZSU2hJcVhpeUZDeEFGQk4zMk5Rb3c0TTlWV2xlWHg5R3JuMVU0UFI4dnIxQ2MyVGIyUWJlSTFrTWFZTGJjb2xKTTlseWczdHZxM1l6ZjhHZ2s2ZXRPMEhtZkhnMW5ZNWZRTnNlN3JKZE1iM19seU9jSktmV1pteTNaZFBJcURQSlF1THpRSG90dG9rOVN1dDNOdXVZLVJkZE5o?oc=5"
     },
     {
-      "title": "Dakota Johnson is here to point out her breasts in Taylor Swift music video",
-      "outlet": "ew.com",
+      "title": "Taylor Swift wedding: 7 of the sweetest details from her Madison Square Garden ceremony with Travis Kelce",
+      "outlet": "creators.yahoo.com",
       "date": "2026-10-02",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTG5mTWRpSEd3X1NmU0c1X013WTJnWnQtR2RKbktHSHZNUUtLdkJoT0J0T1cxZlN4SlUyX0RwVWxsa3lJWERjVV8zcDhlb25tSEJsVFNnT2d0MEJGcHhvalZkU2xaTlJaNHRLUmFoOXFBYlZsdklGWE91YzlmeXlUMXpzams0WGQxRk9zTVp0TW50TWtuc3VWdVFUX0k?oc=5"
-    },
-    {
-      "title": "Taylor Swift’s glitter pen has not made an ‘Encore’",
-      "outlet": "Case Western Reserve University",
-      "date": "2026-10-02",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORnZPclQ4MEdNaDZGOEEzNzMyYXhnOGlEblg4a3hIMzZjaVBnUVJsOXhGRnRfUzc3b3ZrMGs1S1UydFFPQlVDSWM5eHZNb0ljcmtzRDRGaHVTZE8yTnNNMERCR1J3VEJjaVJNYkl0Rm1WVGhZOTN5b2kzNVdfNUdTWg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWTRla1NMSFVNRkNwekJlS1F2eTJmX01JOE1Jd21tNjRGRjJjaktENzNDcDFrcnJtTHRjZ0dFY25qcG0wMmVlZFZwYkR5VUhSQjdtM0xPNXZnYldSM2tJOG0yX3o4Y2FISkU2V3ZyVWFIUm1rcy0wV0V0QUNUNFJ3WHJJVXVQVUVZLXVKeFFMU3ZiS1NuNlhmNDFEai1HSG12TXRLWThJVnhfMTFCZWVfNF9fMGtKMzcwUHduR1d1QkQ1TG9EaEZPd2QzZElsSEZLalQzbk4xdDk2a2RFcTI1VHZCRWhoWk9JQWhmVWJjM3M2R1hm?oc=5"
     }
   ],
   "bio": {
@@ -2511,7 +2525,7 @@
   "tourNews": [
     {
       "title": "The Eras Tour family reunited at Taylor Swift's wedding. Here's every look her dancers shared",
-      "outlet": "Yahoo Creators",
+      "outlet": "creators.yahoo.com",
       "date": "2026-10-03",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOLUp3NXZoMHRpckRScEFPWkU1c2xDSUJ2QUFQcXgzZGxfUXQ3dWFCRV9lTmU0TjRNZkZpLWY2cTZUWW1CQm9uOFFXSl9VSHNoMjRDM0NfNW1HZTlVbmZib21XT3A0eE1yRDBHYU1VcHNIU3hPWk5XZktvVWM0azJoSmxBSVZJVDFnbFZrU3d6b1VSaGpRRVFYNS0wVHlRTGl4YUdsbC1YQ3VyUWt2LTNMRGdYdWZDQ010Si14WVFYTkJQMjdSaFF0cTRNZFcwcGh1WUNrVm1OZXZaejhoeFFKVkFB?oc=5"
     },
@@ -2523,7 +2537,7 @@
     },
     {
       "title": "Man Convicted in Taylor Swift Concert Attack Plot Loses Privacy Lawsuit Over Disney Documentary",
-      "outlet": "Law Commentary",
+      "outlet": "lawcommentary.com",
       "date": "2026-10-02",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZWwyMzBYejNESHJFc0dFbUxHQVN0TDJxWTdiRUZIa01ybTdmSmVRNTNsUEF5X2JCMHRMbTdIRnd6a2duZHhEUWhlZXczcXlRNWFMRURTUG1CZTFMaE4taEJzbWFUdFQ0cWlGRE4zLTMtY0o0VEFxdkdoQVF6SEFFLWxXUkhNVW1qYWt5UlFyTHZtR3BYZzQ5Q3Bn?oc=5"
     },
