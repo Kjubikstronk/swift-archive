@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-05T05:45:28.881Z",
+  "generated": "2026-10-05T14:45:38.131Z",
   "artist": {
     "name": "Taylor Swift",
     "full": "Taylor Alison Swift",
@@ -2230,15 +2230,6 @@
       "ms": 208198
     },
     {
-      "title": "Patient Zero",
-      "album": "The Life of a Showgirl: The Encore",
-      "date": "2026-09-24",
-      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/600x600bb.jpg",
-      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0b/be/8c/0bbe8c0a-dc77-af41-97a5-c745cc43d38c/mzaf_11790447166833591507.plus.aac.p.m4a",
-      "url": "https://music.apple.com/us/album/patient-zero/6814997249?i=6814997425&uo=4",
-      "ms": 225868
-    },
-    {
       "title": "Never Grow Up",
       "album": "Speak Now",
       "date": "2010-10-25",
@@ -2246,9 +2237,25 @@
       "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/31/7a/5d/317a5d66-fe71-9210-2675-3ba6e6c12047/mzaf_7866003496496977324.plus.aac.p.m4a",
       "url": "https://music.apple.com/us/album/never-grow-up/1440920310?i=1440920610&uo=4",
       "ms": 290467
+    },
+    {
+      "title": "Patient Zero",
+      "album": "The Life of a Showgirl: The Encore",
+      "date": "2026-09-24",
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/600x600bb.jpg",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0b/be/8c/0bbe8c0a-dc77-af41-97a5-c745cc43d38c/mzaf_11790447166833591507.plus.aac.p.m4a",
+      "url": "https://music.apple.com/us/album/patient-zero/6814997249?i=6814997425&uo=4",
+      "ms": 225868
     }
   ],
   "videos": [
+    {
+      "id": "j8pR1tyoRFc",
+      "title": "Taylor Swift - Patient Zero (Expanded Video)",
+      "date": "2026-10-05",
+      "url": "https://www.youtube.com/watch?v=j8pR1tyoRFc",
+      "thumb": "https://i3.ytimg.com/vi/j8pR1tyoRFc/hqdefault.jpg"
+    },
     {
       "id": "mw3kSNIxjqo",
       "title": "Taylor Swift - Patient Zero (Official Music Video)",
@@ -2346,45 +2353,68 @@
       "date": "2026-02-23",
       "url": "https://www.youtube.com/watch?v=vZJXqv48lIc",
       "thumb": "https://i3.ytimg.com/vi/vZJXqv48lIc/hqdefault.jpg"
-    },
-    {
-      "id": "K3jkKvnemws",
-      "title": "Taylor Swift - Opalite (Skream Remix) (Visualizer)",
-      "date": "2026-02-23",
-      "url": "https://www.youtube.com/watch?v=K3jkKvnemws",
-      "thumb": "https://i4.ytimg.com/vi/K3jkKvnemws/hqdefault.jpg"
     }
   ],
   "news": [
     {
-      "title": "Travis Kelce-Taylor Swift: Legendary Beatles musician Paul McCartney reveals wedding suggestions to Eros s",
-      "outlet": "The Economic Times",
+      "title": "Paul McCartney Reveals How Taylor Swift Chose His Beatles Classic for Her Wedding",
+      "outlet": "Vermilion County First",
       "date": "2026-10-05",
-      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOVVQxQU04dDhZM0tvak8xdzNYQTAyNWp0T1B0bjl1M2U1TFBXOFRCYXNlSGk1bEt3ZmFLNFNhcWI2MHlUZGxXVEwyMHZQb3ZEMFQ2aDZNTFN3QUpTaTViRHNFcmlldjdxWXo1Vkp2RW9LQVd3SjFKU29pMkh2d3ZWb0dabXYxT21GTmZrWDY0WmxYV2JqYVhsV2dyNlZMbWtTUVdYX1Babi10TkpuYjNJUFVySW9qazYzbG5PTWNRNzZCbTVJTDZlZXVVa05vOU43cVo5MG55OTBVYzAzTXBZb2pwM2EzYmwtOHBPcVlqckVGVUVKQkcwOUFGRC1PRU5BMGN0RFA4dkNUeDh5MENoak1JTDNVT0NyYUlrYTFSYWRNRjNBbVl0WXV6RTRKNzBBMklrOG4tRdIBvAJBVV95cUxOcXpFWGY0V0k5WmF5TFBVUklucTlhLU1STkdRYUVLUzBzUUFzWDllSnpOc1d1b2hGVnJ0R1Zsa2R6R2tUY0thN2w4dVJPTncyVHdYX2s2RHF5MWU0SUJycXplZmQ1M1FRbXlIX1pwdWRpTkl3cm5XcDQwUG82REJab3VwUERQQUozbGlNTUVXS01KaklHRDNUUmFvdVpocVI4Sld2OTVDZ0VvRlpoZUxXa2RKMXRsT2pTOXdpY3hhOTFBdlVQZm02NkcydW51UFRmMHNuX1hZT00wQzBEaHhiMTdkYlFGZ2wtN1ZtMVhDLWo5VmxFR1ptRlRZZU1ZcHFkOTlad0xqc0tFckF6SG9vSkJkekhTX21LaWlzRUR1eVhJMF8zNlVWbzAxUWg2ZzJTOGZZZnBybklDeTZN?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdmJ0eTBJRnRCMFQ1VmdybVFzWVdUMFNGMUFTd2tHakxjSXNYQVU3d0hrOFF5RVlRaExaQ3ZvX3hfUUZpR2JHVVN5eWthOFd0eEdCYXVtYlc4V3ZJZGMtQktiMHVCSGJETEdvcWRzeDlZYndNUXhaM3pObVhSQ0pMc1Y3bHl4dk9hN1UwbnZVbWo0S3lvVC1vVERwWU1ES01ZZmpXNFpBS1kxYVFiVUplc0FwVHdaWDE5TmtmLUVpa1BRb25f?oc=5"
     },
     {
-      "title": "Greensboro Police Threaten Arrestees With Taylor Swift's Songs on Repeat",
-      "outlet": "Yahoo",
+      "title": "Taylor Swift Gets Great Career News After Chiefs-Raiders Game",
+      "outlet": "heavy.com",
       "date": "2026-10-05",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNUExeDRXaFl1LTlGaVpGUE5na1FpTHJHOE9zek8yTnQtWEZ4YUdINWIwZmhGMWUyRnJXM1NieGNVZV85by1WekFNcGhDcTNLNnhETEJRTkVXS2d0S1p1ZVUyTkh3THJzampjci1VZGFkOUhJWlJuamxiMU9oNjZRRnJTaGExN2NkT0JzX1JLakJOMVFXTE5NQ1JJMGdqRXZ4N1FBel9VdjRSRFJhUXc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbDdjN0pFb3puVzZUSGZrUlBHYXhqVU9YWms1WHlkcXhON0JBNkhmNDRGQnluLWNEdmU2VWV2SkZQU2dLaUM3MlB5TEhMRnhtUFZsSnRYWGdVSlVwQXFFZnJDRjRxaTVBZjhtZElyYzFTZVBFN082ZWd4bkZRSF9RNnNwbUFGWGRoeUNqRmN6QU9hTVBWc1lBYmNlejcyWlNCZ3ZMeTJlUlppT3dNRE5B?oc=5"
     },
     {
-      "title": "Taylor Swift crashes Dakota Johnson's 'SNL' monologue as unofficial therapist",
-      "outlet": "USA Today",
+      "title": "Taylor Swift Gives Fans a Behind-the-Scenes Look in Expanded ‘Patient Zero’ Video",
+      "outlet": "103.9 Wayne FM",
       "date": "2026-10-05",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWmZjSXJrZlB3RDFHS1c3TzFXZkJvRlpaMmp3Qm5Odl9ZajdZREY3R2lnT2Z4NzZVS3hydG8xLVhUeWcwM0hNNTZ4NGR1bm5aSHBFamRScktVUEhxSmxGMTNoR3ltb0lMWFh4VVVsQWp5MEw2Vy1SeUhRN1gyNk5vWFQ1ODR3QWdqZHpreEEtMHlnRFlxdEJaeUc5eXdGT2RpcjdqZ2dRTFN3MG5UYVJXVFpuVHc2eWxheFZB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbFFmNFh2NGt2bkhkdUZxaU00eWJDS0NYVUVkTGxLam9lTmlCS1hmTXlBQ3RZWDF0a1Y4aVJtRzJfOTJMR1pRQlpyblE4c3pYOGcwdHJ0Sm1VdmVSaUgzQlVwV05DcjF4bVhZd05DOTZnSWhXeDFXOU1ibmd5S2xMb254ZXBHNElRMzZvT3V4eXB5SlJDQ1BpMThBZVhSUFZmb2dXOXlScGJZZjNhcjE0Tlhab01LcDlpaUpr?oc=5"
     },
     {
-      "title": "Taylor Swift's Next NFL Appearance Could Be in Vegas — Here's How to Watch Chiefs vs. Raiders Free Online",
-      "outlet": "Billboard",
+      "title": "Taylor Swift Crashes Dakota Johnson’s ‘Saturday Night Live’ Monologue",
+      "outlet": "Vermilion County First",
       "date": "2026-10-05",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVHZ5eURRUExTNHdsQjlicXFpX3RDUld6Wlo4ZFhzTFJrWDlUX0NHWllIQ3hMVk1aVXpXbURtVmU5Z0xzamhmSUczNFFWQmhyTzZPazNEM3ZnajRZeHcxRGI2V2E0WDBDb1RlY0pOQ2czS1RfT3doTW1RYlgwR0FOZUpwWXBKdUdkMi1KVjYzTnFPLUNpR2Q2YzgtdFBQaTAzNlZ0SE9qUnRhTEs4SHBJSndTYVpLZXhEVGRWMkVR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR3RuYzJuamc4cXpLcWFSd2FDSXMxOFc3V2pTTVhrVjJ4d2MwVHV4MzNxeUhXaXVvc1B5S3RxTmVVRTc4RjZhSHVLdGRJeXF0NzFjWkNaQlY3RnBqUFY1c3BUZC1FeXExbUxZVXhSM0JQVHlaT3ZQM1B0ZUs4Yk9KMmNDMDNjZHV0Q2NZVzhRMzFhYk5hYXJBM2NZbEg1aFBWWmoxcnJ2b1Y1c00xV3BlbQ?oc=5"
     },
     {
-      "title": "Watch: Turnstile Plays SNL; Meets Taylor Swift Too",
-      "outlet": "Metal Injection",
+      "title": "Country Music Veteran Who Helped Launch Taylor Swift Dead at 84",
+      "outlet": "wideopencountry.com",
       "date": "2026-10-05",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcjhZTE1vbmI4dk1JT2Q5LVBNTUx5anR4SzNBaERmaXYyaFgwd3hud1ZtU0l2bGtvYXlocDBuOXBxWjdha2dSSm40anJGWHAxbjVIamhzaWVXcVNjUHBvTmZnTVFmazkzdlVMWkpXMlpaX29zOG9qYTllUThYOGx5OFduQTJNaVU?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYU5lTGV6UTc0Wm0yd3FQbUhaY1lkb0Y5NFpQMjgwSmc0Z0Z5Yl96aEc2czdZRGIxZkIwSzlLSTVOMURFRjRLTlZ3R2xDSnE5WmszQ29hSlVUWWs4ZzMzVk41WDNnMHh4dGtuRVhKOUVJaDZjRW1SVWtfYUFuOG54NGtWYUtLb2dPLVFVNUVNajdEZUNlSE96WFNDYVM?oc=5"
+    },
+    {
+      "title": "Taylor Swift’s ‘The Life of a Showgirl’ returns to No.1 with ‘The Encore’ deluxe",
+      "outlet": "Indy100 | News",
+      "date": "2026-10-05",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcUF0Q0F1LUZMdmlEbTJBdUxDNndkb2ktVmFzX190RjVZQy1NQWlXTGJvdllrelBIWms0a053RElCUmQ3VFhubWsyZExTNWRXcko2M3ZYcm80N3ZiZGlSUFhPQ1Z4dVJGVk1yR2VnRWZySUwtNDkyNE5YRHMzV2FvOXozTjFDQQ?oc=5"
+    },
+    {
+      "title": "Taylor Swift sets Dakota Johnson straight on SNL: “I’m not your therapist, actually”",
+      "outlet": "Martin Cid Magazine",
+      "date": "2026-10-05",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb3J3WUhFSGFpSkprTkp2OUlMLXM3MF9HVlF5V1E3N3FTYy1XSXRmbHpoQjdXUkhxaURJX21ENWRYb19mQUJIS3JLWjBFRW1hOTc5aEJFY2pTM1M0OG1DZER0T05GSjBWSGJReHZUdWZoNndPbHF6cU1uejBfVkduX0xEb1pKZVEzS0pxVTJPcw?oc=5"
+    },
+    {
+      "title": "Taylor Swift meets Turnstile after crashing Dakota Johnson’s ‘SNL’ monologue and joking about famous exes",
+      "outlet": "NME",
+      "date": "2026-10-05",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOendXLXVFcWQwYndUajRvdkYzU3ZiemtBMlc0Nndyc2NXT0dpZ0FvU2NBRXpJbjJja3RESWdTeW5ZVVlNdlZjbjNuYnlYN2VHTk5EWGh2QTJDajBWWUVhdm9NTUtMOXZ2elBjM2JsTExvS0otM1JuLVdmZGVxSGgwUzFYcHFrUE10ekczZnZiSWo4MGIyRDdDdTdaSHpfZWFLUHhtRTFkOA?oc=5"
+    },
+    {
+      "title": "Paul McCartney Had One Request While Performing at Taylor Swift and Travis Kelce’s Wedding",
+      "outlet": "instyle.com",
+      "date": "2026-10-05",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYXJ6MlpSc2VuUF8yT2VtMVZUczBIeFJrV2JSaVIycUR6ZGpsVHRoblRyV0tPc2h1RDdjZ2dFdUNMOHcwcmVtX2phVERib0swWXU0YkIzWU1rQXVOVUhEWWxiS0ctN2h4VFpVNUZaRVhjR0ZiNEJvanBHbk8wR0gyR3BXRVNZV3dveGdFb25ZaEt3dlV2R0NTOFhrLXE?oc=5"
+    },
+    {
+      "title": "Fans Found Evidence That Taylor Swift’s Next Song Is Called “That’s What Friends Are For”",
+      "outlet": "Cosmopolitan",
+      "date": "2026-10-05",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZWc1V2hESGVQZTFfYnJBT1JTWlNzZkZGdFJ0MURHT0hCbVVFN2lXbzZ4RExFN3NFNTI2WjNvZWpoNVhsVFU2dFA1WWxNY3BkTzd4NGdCS25lVzRRZTV6dEZfbEdUemxfYmxWWTFkSl9KMFh2eGhNS1diMGI2UEpQMlJIaUZuYXU0d1lCUEx1OVc2NElGMDFPU0gycXAwU0xYUzJvOEN5a1JTUjg?oc=5"
     },
     {
       "title": "Taylor Swift, Dakota Johnson’s ‘Literal Therapist,’ Surprises in ‘SNL’ Monologue",
@@ -2393,40 +2423,46 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zUW15R0Q0SGZZclc5bk84bnA3STJwR3lpd2F1N0JQb2hMSFVVbkdQTmNDN01zU0tTY0FDRnBjR2t5ME5jVUsyMGdHaTNTdnJ0SjgzelQwNUtXOVdxTUR3N1A4RG90RkF2Nko1enp1N0J6UQ?oc=5"
     },
     {
-      "title": "Taylor Swift Gave Travis Kelce a 128 Million-Search Fame Bump—and These 7 Athletes Got One, Too",
-      "outlet": "Men's Journal",
-      "date": "2026-10-05",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRnZOTE1McC1qSDFoMVAzTVNBX1lMeGVnRE5QV2N5YUVZT29MSUN6ZU5oaXRxYlJGQlI2cFM0dlNvVEZtVnNwbHR4WEY1OElRT0gwX21KTzlpaElVTHVudFhETDNGSjBPTFI1cG9SWjA3X25JN2g2Y1psS200eWpJSC14OERoWE93M1FTTERBWHlKN1hLMWFteGRaX2p1UzhlQzVNMmdOWnZzT0lfTEtzalJScUdRbDBpNjVOZWhKb1JULXJrYmRoaA?oc=5"
-    },
-    {
-      "title": "‘SNL’ Went to Extreme Lengths to Keep Huge Cameo Under Wraps",
-      "outlet": "The Daily Beast",
-      "date": "2026-10-05",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObWxVRHJQX2JXcldJb2VQSkFTT1Z0R1FDLWFzZVA4ODVJaWJ6U2ZaQ1ZnWXdVVlB1N3VhV09FYXJobWxiQkoxQ2pQTlA1a0FhZzktNjFQc2dmeWdlVEpVanEzeUZpVHR3THNXUWdjY1MycUQ0T1NoRnRDUUx1bm9sVXFNSWtmMEVoeGdLeE50dTJVaEFxcWlpQ2g3UFFMckJrS0FtelVPNzBrcDlRT3ItdQ?oc=5"
-    },
-    {
-      "title": "Taylor Swift is mad for plaid on ‘SNL’ with Dakota Johnson",
-      "outlet": "Page Six",
-      "date": "2026-10-05",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQzlKSTFkNVEyOGJzTnZDQUVscks3N3dnY0RpMU5ia2hrSjdZMEt2YzlPSkxCMG04QlJJd1N4eFZZdkRuMjJ4S0lEV3dnQ2s4SHlpS1pLT0tSSTJXNzFyenNlTzZFLUpxenBOSkFaMks2emUxNExjdFk3TmVHcnY0OVVLRFhDSWJLTzB6Z1ZISFczbnpOeHN2eWV3?oc=5"
-    },
-    {
-      "title": "Why Taylor Swift Missed Travis Kelce’s 2nd Away Game of the Season",
-      "outlet": "ELLE",
-      "date": "2026-10-05",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY25CTzF0Ykd5Z2Y1R0RpdEZmWHdFMmgzS3l2cXlWYURPZWRpUnBCdlZFRXRST3ZaQ2RBTFNZZFNEWDZ4MXE1dzIxX3JQR05WOE1GZXotam9paTB3MGdDTkNDZk15aU15VGR5aVI5ZmNOOUVVV21RUXBENWI2bF92TlNpaWtvY0oxMmthT1FBUlBPRF9HNnBJVjFjdmpRdGFSaEcyTzZSN0FIMXhyazVIQW9odw?oc=5"
-    },
-    {
       "title": "Meet Me on Your Timeline",
       "outlet": "34th Street Magazine",
       "date": "2026-10-05",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSElhZFM5LW9xNko4WWZFTWtHSlA5cjZQRkE3MzRVX1FxMmZYZmhKaElVeXZHaUJ5TTQxckFQeU90S01rNVg0eVNFaVlpdVZ5cWYyaTFMMHNsTC02NzVZbHFrZDNLVzBWWEtUY2dfcGxNeXByNm15NGhkS2J2ajFiQ0hfMk1xWE5FOC1Zai1lS3l1c0hVMVVj?oc=5"
     },
     {
-      "title": "Taylor Swift bores on 'The Encore'",
-      "outlet": "The Daily Targum",
+      "title": "Taylor Swift Seemingly Skips Kansas City Chiefs’ Road Game After Surprise ‘SNL’ Cameo",
+      "outlet": "Us Weekly",
       "date": "2026-10-05",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNGlXbHk5bURCdkxEaHRpTXgzMWd2SnNUVWVjMW0zMXdNZkxkaGlJX2ZUdDhiSW5UT1Exb1I4SXZTVENySWM1MUhoNkNGS3JseXY3aUpEdHhZNGpkcXItcmxVdUN0ZWZGWXNvQjdjMFNadDdua2hKUXRnbzFEOWdvUktwZw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVGk3Q0pFV0FRZWppd1daZUh1YmlWVVI0d0F6RWxHcWRCWGxTNG9JTmxqSkNCN282am14eXJ1RWN6TlVNZ0l6MUQxOXEtb3UwNUx4TkRBdVRRNkxlVXcwZHFmRTR4Y2VDaWlWalNMLUZPUU5YMmVNQk5uUDAtbjE5aF9HcW9McERtVnk5djVhWXBMNnJOZVNlWGE1dw?oc=5"
+    },
+    {
+      "title": "Taylor Swift Gave Travis Kelce a 128 Million-Search Fame Bump—and These 7 Athletes Got One, Too",
+      "outlet": "Men's Journal",
+      "date": "2026-10-05",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRnZOTE1McC1qSDFoMVAzTVNBX1lMeGVnRE5QV2N5YUVZT29MSUN6ZU5oaXRxYlJGQlI2cFM0dlNvVEZtVnNwbHR4WEY1OElRT0gwX21KTzlpaElVTHVudFhETDNGSjBPTFI1cG9SWjA3X25JN2g2Y1psS200eWpJSC14OERoWE93M1FTTERBWHlKN1hLMWFteGRaX2p1UzhlQzVNMmdOWnZzT0lfTEtzalJScUdRbDBpNjVOZWhKb1JULXJrYmRoaA?oc=5"
+    },
+    {
+      "title": "Watch: Turnstile Plays SNL; Meets Taylor Swift Too",
+      "outlet": "Metal Injection",
+      "date": "2026-10-05",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcjhZTE1vbmI4dk1JT2Q5LVBNTUx5anR4SzNBaERmaXYyaFgwd3hud1ZtU0l2bGtvYXlocDBuOXBxWjdha2dSSm40anJGWHAxbjVIamhzaWVXcVNjUHBvTmZnTVFmazkzdlVMWkpXMlpaX29zOG9qYTllUThYOGx5OFduQTJNaVU?oc=5"
+    },
+    {
+      "title": "Greensboro Police Threaten Arrestees With Taylor Swift's Songs on Repeat",
+      "outlet": "Yahoo",
+      "date": "2026-10-05",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNUExeDRXaFl1LTlGaVpGUE5na1FpTHJHOE9zek8yTnQtWEZ4YUdINWIwZmhGMWUyRnJXM1NieGNVZV85by1WekFNcGhDcTNLNnhETEJRTkVXS2d0S1p1ZVUyTkh3THJzampjci1VZGFkOUhJWlJuamxiMU9oNjZRRnJTaGExN2NkT0JzX1JLakJOMVFXTE5NQ1JJMGdqRXZ4N1FBel9VdjRSRFJhUXc?oc=5"
+    },
+    {
+      "title": "Taylor Swift brings fans behind the scenes of 'Patient Zero' video",
+      "outlet": "upi.com",
+      "date": "2026-10-05",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaGtZaVlITE4zRS1vLWotNGlxVTF0VHFEZ19OdTNrLUZDdWZkY3F1LUFWOEViYUZxSUVwaWRYMVc3ZGNVOU9jR3l0RndwQUVCbnNCMUhvWC1qRWdoUmJGTno4LUpsbG51QXhYWGcwbXFTYVhYNG02dFBPTExmY2s1S1RXTlp1dm1RZTdFMmFhanA5RDVfTnZTNDJWVmFWVl83dHB6dTJ4TFFUWmRkVkxv0gG0AUFVX3lxTFBXWlY3SVgtcXNSbS00c1dIOE05SG54RG1XN09qdVlWS19tSm9mamt2bENvWXg2RUNBdEMzS1pnX1NLX0tad3pDazJ6YmRJOTJ6cHVhTTZKTWU2REY4NnNEOHRoeWY3MFNzZzlpX0l6c2pnT2ltd2dXaXA1QjBUSjhoUzBreDdDeWhnbWJiaXZjeXBiZzJzRjV0UDJrbzhseGc3VG8yOTZXYUpycmxTcmNGY3pUaw?oc=5"
+    },
+    {
+      "title": "Taylor Swift crashes Dakota Johnson's 'SNL' monologue as unofficial therapist",
+      "outlet": "USA Today",
+      "date": "2026-10-05",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWmZjSXJrZlB3RDFHS1c3TzFXZkJvRlpaMmp3Qm5Odl9ZajdZREY3R2lnT2Z4NzZVS3hydG8xLVhUeWcwM0hNNTZ4NGR1bm5aSHBFamRScktVUEhxSmxGMTNoR3ltb0lMWFh4VVVsQWp5MEw2Vy1SeUhRN1gyNk5vWFQ1ODR3QWdqZHpreEEtMHlnRFlxdEJaeUc5eXdGT2RpcjdqZ2dRTFN3MG5UYVJXVFpuVHc2eWxheFZB?oc=5"
     },
     {
       "title": "Taylor Swift skips watching Travis Kelce, Chiefs beat Raiders in Las Vegas",
@@ -2435,70 +2471,34 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeHRjWXlXQU9IV1lmemxWeURCdDFVal9hdHBRV19kWEFwRU0wVG01Q0ZFek9WbXNxSHoyRlNmSFdBS09oSFNSZ3oxODBsMWx2aDhSWkV3bUhVNTdKR3ZFTnlMRU1ick5TXzhYUFBmd1ZoRURiZHhYeGNhNTF0a29CLWRvNDhjSHI3cHhmUThRcTdFaEdlS3MyY082dlMzSWkyM3FXZHltUmdfMEJTZWVrX1FFcXAyZXdNR2NFTUJB?oc=5"
     },
     {
-      "title": "Taylor Swift’s ‘The Life of a Showgirl’ Returns to No. 1 After ‘Encore’ Reissue",
-      "outlet": "Billboard",
+      "title": "Taylor Swift's 'Life of a Showgirl' again tops the Billboard 200 as she makes 'SNL' cameo",
+      "outlet": "PhillyVoice",
       "date": "2026-10-05",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNENfcFlibF9yaUlYM3BvR285Sm9vcWRNdTI0Rm1yYnpzaURVaTVwaDlGLXdYYnpKc1JKQjBSRHVLOWY5SGN4SEtZLWhfVjVDZEY5Z1JKaERoc1ZSVE1EU2lQaW91Z0RXN2RwSXQzbmFJeHFhZzFnakZCWW1neFRaWUx0R2lDWmpLbjJyc2NodnRTY0ZrWlFJRkl2NGVHbFk?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNlRFX2tzZnEzQldONVczOTh2UUp1T1d5MUhUc0Q0WVNIeUdhbDJJNFh3WktKVFZrRnppd2ZJbWdDZFctdXpJVjJJbEg3TlFsS0NST0VYb05VQkgxMlh6d3A1RE1xMzl5M3UzM0dpa2lLMm41bmtBbUxPdnpXSWRibVVYVTdZREdyX2VNOWp3?oc=5"
     },
     {
-      "title": "Taylor Swift Seemingly Skips Kansas City Chiefs’ Road Game After Surprise ‘SNL’ Cameo",
-      "outlet": "Yahoo",
-      "date": "2026-10-04",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUHhJYnd5WkhkSTNKS3gyVWdLZVRpYTR1NEE4TS00ZGFKTjM1b0NvZUxMYlBqcEtacGlWQ2U3R2RrYVpFcVF1a1Ayb2wzZlNXQ05RUC1JZTdfV0VxcmIzZi1HcktSa2RkQVN4Z1RWTnFHY3NkanhrSkZWbVFGTUVDTFJnVDJFSVU1R0RZaS1XcUhBa0FKN2FCbkw2ZmVQRzZ1d2Jtb1VEMkE?oc=5"
+      "title": "‘SNL’ Went to Extreme Lengths to Keep Huge Cameo Under Wraps",
+      "outlet": "The Daily Beast",
+      "date": "2026-10-05",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObWxVRHJQX2JXcldJb2VQSkFTT1Z0R1FDLWFzZVA4ODVJaWJ6U2ZaQ1ZnWXdVVlB1N3VhV09FYXJobWxiQkoxQ2pQTlA1a0FhZzktNjFQc2dmeWdlVEpVanEzeUZpVHR3THNXUWdjY1MycUQ0T1NoRnRDUUx1bm9sVXFNSWtmMEVoeGdLeE50dTJVaEFxcWlpQ2g3UFFMckJrS0FtelVPNzBrcDlRT3ItdQ?oc=5"
     },
     {
-      "title": "Taylor Swift Crashes SNL to Roast Pal Dakota Johnson",
-      "outlet": "Newser",
-      "date": "2026-10-04",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT2t1VnlsOUdsNHVFNTQ2SzFqUU9WTUh1ZUJPaXlBWnJQU2YzZkFYVm9ZN05wWjZveXI4MHlQZUU0bFNyMjBTbmdPM2JZdU1HRy1OeGFPbm1FaVJfTHBkc2pJM3JFbjVkY3Vka25YSVh4SzdIS2xySzB2NEF0RzllSWowbDlraE8tUk5xNGwtX3VqUWxBTjBodA?oc=5"
+      "title": "The real reason why Taylor Swift skipped Chiefs vs. Raiders thriller",
+      "outlet": "hitc.com",
+      "date": "2026-10-05",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQTJNVUJpT1NwYXQtNmh0V0dETGdFaW44WEI2MmN3REtiMWdYR1lwSXpGTUp6OTFvWjZVZk1RWkJTQ1lCWjNZTllFTmR5TlJKSjRNOFBDb1MtcWNlOTBtbjlQbmk5cFlPSGRqVXI2WXpITm9scmpWSEQwdUNsUC0wUnZma0NJcmc5cnBYQlVvTm1UU0k?oc=5"
     },
     {
-      "title": "Taylor Swift Crashes Dakota Johnson's 'SNL' Monologue",
-      "outlet": "tmz.com",
-      "date": "2026-10-04",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VMExfTUdLT3ZsR3IwWjIxblA4Zk5kQWJXVVQ1QmtsdXBldHNRUDBrYll1Um9jSC1MaEdWbFNseE5HMlhZcU9SREFKZ2Z6UFd6cUpGUXRZYzhKZzctcHlNN2hGZG1IRU9LenJBbTRVOEVCRlY2OGc?oc=5"
+      "title": "‘SNL’ recap: Taylor Swift visits Dakota Johnson hosting ‘Saturday Night Live’",
+      "outlet": "Boston.com",
+      "date": "2026-10-05",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSTZxLXJqcUN5b1E2ZEEtTjF3STMyUVZrVGtHZ3VQdFl0UThWdWE4Z0o3NFIyeWdYZjd6ZVRsX3p2MTM3QzM0eFlGWDRGWkhWWVJWUDVVQ1pUMFlhZENvS0UzdkF5X0pvUUljX2t3UW0xMktiU2l5NDd3RXdHNzF2eVV4NVVwMlFtV01WZlViWGo1SHYyc0FFLWYtaw?oc=5"
     },
     {
-      "title": "Taylor Swift Drops in on Dakota Johnson’s SNL Monologue—Watch",
-      "outlet": "LateNighter",
-      "date": "2026-10-04",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQd0xIOEEzWEdsb3BaTHpfNEVraFFMOHFQT0FHc0hWUlVRa2NBdFQ3YWNhY3lGdWFDcjVweUZGZHctN01ocnNjODJPcHdLRUgwMGNSMFg4ajVLQ3VYVHF1TjVMZmlIdHZOVGhwci03UmZPQ3J1SF9WNWwwdGJuRWRTSWIxdGxEb09OWWdLbEFTaktVNGJ3?oc=5"
-    },
-    {
-      "title": "Taylor Swift Makes Surprise Appearance on SNL to Support Dakota Johnson",
-      "outlet": "E! News",
-      "date": "2026-10-04",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaXhJZlBWV0E1c1QzdmI0WENsMkxNR0VGMC1yRk9ReXJIRWNUbFhpV0tOUjc3aHdweHdOcnhCZ0xjZ2NGTUlZTXJndDRWMkI4bDVLa3A4NExlVnI5dVZvOVFkSzVFdFNjYlRnd2lxdnRpS2doRXN3YXZpaDh1UHVHaWxTUHVEbVI5bm9ERm83N0JiVnFkbnBYSjVtTGN1RmM2OVE?oc=5"
-    },
-    {
-      "title": "Taylor Swift Crashes Dakota Johnson’s ‘SNL’ Monologue for a Mock Breakup Therapy Session",
-      "outlet": "Yahoo",
-      "date": "2026-10-04",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcmExekx3UDBRb1VCSnBMWGFsaTRRd0tkem5XdmU5YkVvcE5xZmdVMHNPWU8xQ0x1cUlxTEZodTJSQVNPYUowNkNlUnplMzRTRE5jTTUyM28yU0wxemR6TVdHUmZKajZkekV0S2FqRjBNYlJGOW1ZU1dsWWN2bXhSVzNzZkczMVBYMkwzVHNLMVM3bTZzQW81T0M4eGpZbFk?oc=5"
-    },
-    {
-      "title": "Taylor Swift’s Change in Appearance Turns Heads Before Chiefs-Raiders Game",
-      "outlet": "heavy.com",
-      "date": "2026-10-04",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV0VDQkp4WlNlRXA3LVRGNFc3NHNCaTZBNGI3UmRGcW1YTUE4VGhjVE1IeUU1SE1jVWt0ZlBiVEdkUGVXdUNLaW5aeEFnWHNMcGQyQ3Rxbk9TWWdjR3N3bWVtNlRBcU9MSHMtVkdySG9VZGt3QktnQ0x0WnN2ckZ4U251Rk44XzhDdlo4Z1JDaXpqaEN2OWN5T2FnRmV0Y19JQ3NtZ0hxODNQbDNwNXh5UWtoQUo?oc=5"
-    },
-    {
-      "title": "Taylor Swift makes surprise appearance during Dakota Johnson’s SNL monologue",
-      "outlet": "Paste Magazine",
-      "date": "2026-10-04",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdlpSVTNrZXZQcHFNbGdCLWpTek85Z0pxWG1INVJFaTdMaTFPZjdGM0t1VFlKQzI0STBKYmROVEpMTHZBbGtHSTkxTFF3V3o3Vi1OYjRSRUxwMXR0OFN6am12X0U2ZldkUHVPd05adXZfMHB2Q283TGNKbmpDN3dndHVSUUFEU2ZHWHoxMVVYSjRCNTJscV9VTzVYcmxGbmpzVmlwendVNTFWcXJKSlFkUzJNaWVVRlpIcDZ2Yg?oc=5"
-    },
-    {
-      "title": "Taylor Swift Plays Dakota Johnson’s Therapist in Saturday Night Live Opening",
-      "outlet": "Northeast Times",
-      "date": "2026-10-04",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX25mdVlmV19Ic3p2RWtqbjVSOTZmVkFiMHk0NkJhTDlsWnhmd3FvVmJUR2RPdDVsR29Halg3bzJPdXVlakRjOTZFM2U2VU5fT1F2UXl2UzFIal9RUm9OcXhCVlpqLUEzcHNjVVBrc0hmMlh1aURXbldKckZfczBoZmtFaER3U2g4T2VwaEZDN2J5N2VYVVBHWnZLdGtzOURuSXNWU1FuUGlIemxoNndBcDNGUFBEZw?oc=5"
-    },
-    {
-      "title": "Dakota Johnson Calls Taylor Swift Her “Literal Therapist” While Talking About Her Exes on “SNL”",
-      "outlet": "Harper's BAZAAR",
-      "date": "2026-10-04",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVk9CdlV3elVGY0N4b1Z2TmNTSUZuMGRadThQMFBYR0pjQ21hSExRQ2dYQVE0RGlxR0x4OEpWNEYzdzF6M2ZSX2lNRTJLTll1aGdjMktJdmpqU0pOUkNYbjRNR21Yd2lBcGFkd0JTSjNHcFhFV0JDRThXUWN2R1lSMHBXR2xuU1kxc0ZWVWN6YUk4VjlNRGVscjJWcnZuaE0tdkt6dUYydVNObHFZN05QbTVGNnRaNFpaMEZJWXlDX0ZFWXFhXzlTQy1uYUxmRjk0Ty1IdG5sS25vUUdFTEE?oc=5"
+      "title": "Why Taylor Swift Missed Travis Kelce’s 2nd Away Game of the Season",
+      "outlet": "ELLE",
+      "date": "2026-10-05",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY25CTzF0Ykd5Z2Y1R0RpdEZmWHdFMmgzS3l2cXlWYURPZWRpUnBCdlZFRXRST3ZaQ2RBTFNZZFNEWDZ4MXE1dzIxX3JQR05WOE1GZXotam9paTB3MGdDTkNDZk15aU15VGR5aVI5ZmNOOUVVV21RUXBENWI2bF92TlNpaWtvY0oxMmthT1FBUlBPRF9HNnBJVjFjdmpRdGFSaEcyTzZSN0FIMXhyazVIQW9odw?oc=5"
     }
   ],
   "bio": {
@@ -2524,6 +2524,12 @@
   },
   "tourNews": [
     {
+      "title": "Candlelight Taylor Swift tribute concert to take place in Sussex – how to get tickets (aff)",
+      "outlet": "SussexWorld",
+      "date": "2026-10-05",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZTRVQ0lvZEEwRzF2MjQ2SzVZZG5MYTZTcHRwM01uTThMNDEzTE9MemFMTjRiUDNvcmRKRUpqdjlsUm01TGFSSlpPb2VPWUJ4RVRUQl8xQkQ1WXZqZHdoeGp2UWFUUkhsZ2dlRlB2dnkydzVqRWNSbEN6enJfcXRWOWVqemZEUURkT0FhRC1ycEtsQWZNbDktNllUdGtvM1BPaFdDaURFWDBwM1IwZ2NaSVZRQVpCSEgzNHRUbDdIdFUySWVUR0pYMWN5Ym5Mc19ZR3J6bE44Q3hvRlNrRHc?oc=5"
+    },
+    {
       "title": "The Eras Tour family reunited at Taylor Swift's wedding. Here's every look her dancers shared",
       "outlet": "Yahoo Creators",
       "date": "2026-10-03",
@@ -2540,12 +2546,6 @@
       "outlet": "Law Commentary",
       "date": "2026-10-02",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZWwyMzBYejNESHJFc0dFbUxHQVN0TDJxWTdiRUZIa01ybTdmSmVRNTNsUEF5X2JCMHRMbTdIRnd6a2duZHhEUWhlZXczcXlRNWFMRURTUG1CZTFMaE4taEJzbWFUdFQ0cWlGRE4zLTMtY0o0VEFxdkdoQVF6SEFFLWxXUkhNVW1qYWt5UlFyTHZtR3BYZzQ5Q3Bn?oc=5"
-    },
-    {
-      "title": "Taylor Swift Concert Attack Plotter Loses Privacy Case Against Disney",
-      "outlet": "WDW News Today",
-      "date": "2026-10-01",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMnVPOVcwei16SmJKZDdZWGFoN1c1bEhTMWpMbENaNEVKZlRNUk9hZHRoUUE0T19iMVgtbDRQMHY5YV9oXzJ3QjloM296RkpiMGFZQUlZSzdHUFdMbHpObHRfazl0R2tNLTZZNkRWN01TTkhhTldkd3JRV2hWZUZOajUxN0NvcTJ2eUFUUi1sZVJOVHF2QXpTQU1FRXc?oc=5"
     },
     {
       "title": "Terrorism Plotter at Taylor Swift Concert Can’t Sue Disney for ‘End of an Era’ Series, Judge Rules",
