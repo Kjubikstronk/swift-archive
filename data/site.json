@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-12T15:31:37.580Z",
+  "generated": "2026-10-13T00:44:04.138Z",
   "artist": {
     "name": "Taylor Swift",
     "full": "Taylor Alison Swift",
@@ -474,13 +474,13 @@
     }
   ],
   "latest": {
-    "id": "itunes-6820714226",
-    "title": "Patient Zero (Piano Version) - Single",
+    "id": "itunes-6820695082",
+    "title": "Patient Zero (Acoustic Version) - Single",
     "date": "2026-10-09",
     "trackCount": 1,
-    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/c0/d4/efc0d4c7-557d-e255-849a-ae1c0c3a6ac2/26UM1IM31398.rgb.jpg/1400x1400bb.jpg",
-    "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/c0/d4/efc0d4c7-557d-e255-849a-ae1c0c3a6ac2/26UM1IM31398.rgb.jpg/600x600bb.jpg",
-    "url": "https://music.apple.com/us/album/patient-zero-piano-version-single/6820714226?uo=4",
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/66/d9/ad/66d9ad66-7a21-5de5-bad0-3130997a7057/26UM1IM31399.rgb.jpg/1400x1400bb.jpg",
+    "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/66/d9/ad/66d9ad66-7a21-5de5-bad0-3130997a7057/26UM1IM31399.rgb.jpg/600x600bb.jpg",
+    "url": "https://music.apple.com/us/album/patient-zero-acoustic-version-single/6820695082?uo=4",
     "copyright": "℗ 2026 Taylor Swift",
     "genre": "Pop",
     "via": "apple",
@@ -489,13 +489,13 @@
   },
   "releases": [
     {
-      "id": "itunes-6820714226",
-      "title": "Patient Zero (Piano Version) - Single",
+      "id": "itunes-6820695082",
+      "title": "Patient Zero (Acoustic Version) - Single",
       "date": "2026-10-09",
       "trackCount": 1,
-      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/c0/d4/efc0d4c7-557d-e255-849a-ae1c0c3a6ac2/26UM1IM31398.rgb.jpg/1400x1400bb.jpg",
-      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/c0/d4/efc0d4c7-557d-e255-849a-ae1c0c3a6ac2/26UM1IM31398.rgb.jpg/600x600bb.jpg",
-      "url": "https://music.apple.com/us/album/patient-zero-piano-version-single/6820714226?uo=4",
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/66/d9/ad/66d9ad66-7a21-5de5-bad0-3130997a7057/26UM1IM31399.rgb.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/66/d9/ad/66d9ad66-7a21-5de5-bad0-3130997a7057/26UM1IM31399.rgb.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/patient-zero-acoustic-version-single/6820695082?uo=4",
       "copyright": "℗ 2026 Taylor Swift",
       "genre": "Pop",
       "via": "apple",
@@ -2357,34 +2357,22 @@
   ],
   "news": [
     {
-      "title": "Taylor Swift Hits 100 Weeks on Billboard, The Beatles Still Lead",
-      "outlet": "Tempo.co English",
-      "date": "2026-10-12",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObGd4eFV5d2dWOGxMVG1mazVsbG42ejNTSHowVEMwck5iWEtfUkZDTGRnVm8xQ01CWHVVV0dPRE1hTllhNFNpc3ZOMWlnbGh3YlpEYm9sVkpXRDRZUzVkclQ1YXpwazRpNnF0ZVhJZVhpTV9pdnVLLURDYndVUzJnZjFtcDUyM2xZSXYwVXZuay1Qc0x1T2s2cWV2bjc?oc=5"
-    },
-    {
-      "title": "Why Taylor Swift and Travis Kelce's Cleveland neighbors are speaking out",
-      "outlet": "Sporting News AU",
-      "date": "2026-10-12",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQY2lZMzkzVmZtbFZqeXBDZElOQUE0SVVUZkhPaDI1QWxfNUVvLWFISHNfQUFVVXFwbWtsOE1OOC1tVkVVdHg1YV8yTmJVb3V0ZzBmc2FHNXM2b2UwMXFHY2RkU19WdHR6VTF5Z2FYM1N5WnFHWW9weHZTU2hNRTdLRlZoQWdNVUJROVp5a2FJdEJURkg4SkxGNzFEbC1QREhySUxhR1llajUzclJSY3d4ODFYVjc2SFg3TTIyX19qT0JEOGpPcUJhVTVGV25SZGxBRDdQU2VlU283TGJWT3A0Q1kxamM1UUpkZG5r?oc=5"
-    },
-    {
-      "title": "One Day. Two Pop Icons. One Amazing Artist.",
-      "outlet": "Shaw Local",
-      "date": "2026-10-12",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV3dxVFJuSjRYTmU0bmNBT2VGajNHcEIyYWFWZUVISGdIanRRZjFkbW5aTWY3QnlhM0FJaUI3MjQ5T1o4ZmhmQ1hQOU9ycnBhU0R4MUw1THVLdDFZWDEwdm1HTUFxN0pSTTZRWERJUHZNSndWRGgxU1V3ekJCb3FLY3RUVm9Fa2ttbWQyVmxEb29DMWdOcl8zeHUwNWM?oc=5"
-    },
-    {
-      "title": "This Day in Country History: October 12",
-      "outlet": "Country 103.7",
-      "date": "2026-10-12",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWk1nS196NFo2NGtDaFEzVnp0R3JzR0llaE5zZFBZbVNENEpRako3cHhyWUUyR1NCRDNBb2hiQnMzOHhnekFxbTVjd2UwejVFUnFIdll1WEc5WmdnZXVSalJzWENGMVF2YWFnMlNBTGI1SVVMSGxKNFRGV1pJSG1xTHZNX0U?oc=5"
-    },
-    {
-      "title": "Taylor Swift’s Oscar Chase Could Sideline Travis Kelce — Source",
+      "title": "Jodi Picoult + Taylor Swift = The Crossover We Didn't Know We Needed",
       "outlet": "AOL.com",
+      "date": "2026-10-13",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQN2RXU252YmRrNDhlVVBEdGZqMUhwbHhGQUwzdFlZTmV4anZXUnlkWUxwLUZkNlFwUjBQVmhjQlRfZEc3NzFUeHQzQmczbzZUM3RsRFFJZXZNN2o1TEhkdjAyNHIxbnhzLUd2X0VhQVFZMWFObEJlMHdrb2pUZWRUU1lOaHVDUQ?oc=5"
+    },
+    {
+      "title": "Taylor Swift Plans to Skip Kelce’s Next Game: ‘This Weekend is About Taylor’",
+      "outlet": "Heavy.com",
+      "date": "2026-10-13",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdTAyMElZaWRmOWtib2RaUWZtZU1YazRYM0s5aXhFdXJEUmctZzJZak5YNHJ3MTVRSy1Ncm9OMUJ0YzBqTkx6WEVDQUo1cVZnRkVqYzFUTEFsdllqb2FEd1dVdFBQSVBXb2ZuZm81ZmpiMzVtYTdWaXZsTUYyMmlnYWprMFpiOW1kNGRyT2RKUzlFa0E?oc=5"
+    },
+    {
+      "title": "Taylor Swift’s “Patient Zero” Stays No. 1 as ADÉLA Scores First Hot 100 Top 10",
+      "outlet": "InMusic Blog",
       "date": "2026-10-12",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WSjVXWGZ0aXJNYW1BUFJLbVBYdjdJSkZPazZpOEtMb25mQWtLNUZWclB0OE1JWm9vTkFTNjBzWDctMzBVWkNMTVBma3V3RUM5QUJOaFBGTnVkN242WlNqXzhmdDRWSldORllCd0xzRGctUElFWmpQQ0pJZFBsOGs?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbk44dUQ0azZfZ1N3azBpRHRlVFJxeElMcjNsaGMtTEVFbklFa3IxbHdvYnNCNERmUzZRQWwxakVwSWhNTG5KQVkxOW5kUXZhcW5DUGV3WTJ2VzNwdGJNMjYtWnp0emtHZUwwYVlJVE4yYWlCRjJJdVlKMXo3VHVuUEZfUVJkU2ZCZ2NFcTBR?oc=5"
     },
     {
       "title": "Mariska Hargitay gifted new version of viral ‘Stevie Knicks’ t-shirt worn with Taylor Swift",
@@ -2393,16 +2381,28 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWmdXOGp1YnR6X1FCOUl5MXc0UmEzbW5tU1VjRENWdXhzYXlQZ1Nac01ud1BWOURwZFYxeVp2ZVVRdDN0WnlwczhRUTQ3X1ZIcWprNGd1ZzRlOUFOcXk0WkJmRFExWTQ4cnFJcmxpQmRONEhXVTFwOHRiVDZjbmFodFY5cVRsa21LUkFHUTAyVG1JZGtZZ0VzQ201eFhSalpDdTY5cFdSTnZESU0?oc=5"
     },
     {
-      "title": "The 2027 Grammys’ Race for Record of the Year Is the Most Competitive in Ages",
-      "outlet": "Rolling Stone",
+      "title": "Pop Star Blasted For Seemingly “Unhygienic” Move On Stage, As Fans Drag Taylor Swift Into The Conversation",
+      "outlet": "AOL.com",
       "date": "2026-10-12",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNHlFMkJud0dLay1Ia0RlVWc0R2p4b2o4YjdhTEdBRFBFWG9hSnZvNk5DeUFlS25VSGsxRklKQWVvbkt5UzhVQlJOQ1BtQXVVT01BNE5ISlg2NHR2cnFTTXRjclhfSWFORG9fTHJfNlctYnh1ek9md1l6VVlnZ3puZkFSbVloZ2Mzd01fcHZaSmtnV1dQZ29iN1NYZVphNl80ZjdJVzNPQUpKNXBqRjF6Zi1KMEw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUDRqUkZ0bzl6TjUwYXJxbHFRWEtCUXBLVGQ2NFk0NENwZHFwaGtwWnNEdnlNQ25JU0x5Vl80RG91clVHRnBZZjBDZlFvY3BiQTNLVUd2T08wUDJFTzNaOEd2U2VjQ3k4T2xOam80ZHFLd01zN3pGNTJMOFJ6dldnM3cxel9UcVY3?oc=5"
     },
     {
       "title": "Taylor-mania takes its final bow on ‘The Life of A Showgirl: The Encore’",
       "outlet": "The Michigan Daily",
       "date": "2026-10-12",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWWpBMHd4MF81bi1GSnVhX1hxMlBWUlQzVVQzUXVlNDM3QVpRbDZ3VDVsbVMweEl2Vk5pZzhrcU4waHFiaWhkV2d1YjJnZ2dWVFp4cFhQTGpNR2EyUmVJZFJqUGpDYTM3bGxrc2VhZ1hPaUt1Z3NoN2RxbW42UnJtRnJseFFhZExNdVExYldYYWJhUmhkb21RV2pYTjVNamx5WTNpQ1dtRGFhZ1BWUmlGUQ?oc=5"
+    },
+    {
+      "title": "The 2027 Grammys Race for Record of the Year Is the Most Competitive in Ages",
+      "outlet": "Rolling Stone Australia",
+      "date": "2026-10-12",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQWUxTHRCYWN6OW40Z3E4R1dxd2x3RHdHWUZrcTR1WFZJNjN2WG1ycmgzYy1WS1pHVTNuSTVPS0Q5d2p0YzN6ZWNtdGJvY3pvV0xucC1MYllyTTJPTzR2MnUzZ3dxLUJQalZhVWZLR1ZfVC1NUDh6ekFLSk1xdUlwUU9xQ25fSFYxN3I4N05ZUjhCSXlpTUFMTjZUcTlZdEI1SUlndnN1MktzUUs5S2c?oc=5"
+    },
+    {
+      "title": "Where the Stars Go Out to Eat: Taylor Swift, Beyonce and More Celebs’ Favorite Restaurants Worldwide",
+      "outlet": "AOL.com",
+      "date": "2026-10-12",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SWlNXLURjRFpqZDBqdFAtUFEyVDQ0RnJWd0dlWXBoN1pPNENTOURZZXIzb0NqUlZyLWxyNnhjRm51TkljSkxhOS1IbjhNTElpVUgzdTNkRWdKRnVaR29NNTJoNTBzem9BMkF1Y0xoNUcwYWFPcHBSejRxYkg?oc=5"
     },
     {
       "title": "Taylor Swift Will Close the Academy Museum Gala on October 17, and an Insider Says She Wants Her First Oscar for Her Toy Story 5 Song",
@@ -2417,16 +2417,22 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeFVxS3czd2M2cnZfYWlSLVZiNFJtcklhb1NSVHhmeHVrRkowZ2d5VEJaSmxJRjktT25CM0h6N25DaHVOOU1DMUJ4ZlhSeUFuS3BtQkFfbWFMM3N6d2V4REpWdlN6b21jNmZ6RmVENFlSVHFIalFsUll4ZzRwem5od3luZVpER2o1cnhSY2RIWWFZbXhzeWZIY2laR2Zab0szZUZBdFJyVQ?oc=5"
     },
     {
+      "title": "Billboard Hot 100 Top 10 Countdown for Oct. 17, 2026",
+      "outlet": "Billboard",
+      "date": "2026-10-12",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQUI2U0RMczF2cGZBVTgwVzVMcDF4bEUydTh1RzI1OHpRUWU2NXhpN3lrTy1QdkZhVlNDNEpQa2ZOamJYQU9RekJMVlVwNUlOcjA5SUVDRWNaVnU4UjdmVHZzY3RjdWFVanhsamMxWXR5VVdaVmt1TFZ2VUt0YXkzYkE0RWxYTFlsY04w?oc=5"
+    },
+    {
       "title": "Taylor Swift Spends 100th Week Atop Billboard 200.",
       "outlet": "Country Insider",
       "date": "2026-10-12",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLTBpLXdHZ0kyOFE2X1JtRGlqUnVhX251MGFnNEt3X2ZaUFVyNlNvUHV4Szk2N2NDZ19jby1kNzFuZm5MM3hfUWZHUjBpcmNueXFrbTVQZk5WMXY3d1lWLUsxOVh0WmlzWHg1NUJDVWkzS1pnNXdfRDhwVmh2ekxNQTZGVTlwSkp3X0J3Uk1hZ0ZPSDF2U29IWTdkVERqUnY4VTAwc1VKWFFUOGc4NTZSRUhUR28xUS0tallFN2p2WWFzcXh5NTQxWnRJYlE0ZnlC?oc=5"
     },
     {
-      "title": "Taylor Swift Temporarily Quit Drinking In 2023 For A Reason We Can All Understand",
-      "outlet": "Health Digest",
+      "title": "Taylor Swift Leads 2026 Kids' Choice Awards Nominations, Followed By Ariana Grande And Sabrina Carpenter",
+      "outlet": "CelebrityAccess",
       "date": "2026-10-12",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWjdEVU5LRkIzbXVsQWg0NEZFYmpKVkhJdkV5bERSVGRadHQ0NUFuMlNZS2VfU3BldGF4WFM1Z205LWtWSFZQc2cxRnJlQ3ZITTFnUWswRzI0OVJqQjY0WU1UMlA4c3BfUGRIYmhUTnl3RkY3WEtCd08ta3dkOG5sR2Q3Tl9fSDRf?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUHZFRm1fdVFRVEc4ZmY0RWcyenpoRVZIWXRuaVZaS1RXSHhLTzM1ZFZERWVtaEhqOVk4Y2VTQU1nd3dZYlhoRS1XNzJZMXh3UTVxNEd1OU02Nno5TjYxQkIwUHpkRU1oTk5FYzJPVE5yR1hoZ2hEdTdVZEFKcVJEN0pObGhFSkJBU0FCU09RS3hudkdzVHRkamE3TFhjNzRWeEQycmZCdGhxaWlzVElrWVZYRExpY1lQNVZabGFSZEdmZk1jOWhqYXRsYl9ENlhxWmJaUXlyWFp3Zw?oc=5"
     },
     {
       "title": "Taylor Swift And Sienna Spiro Battle For No. 1 On UK Singles Chart",
@@ -2435,70 +2441,64 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaV80UUNHUXBINy1ibzY2dDhsWXhUVlkxZDZyVnc5V1ZsSkQ0dXFkbWx5cjZxYmtTU0FkY2xQTUlDZlR4Wm5qMEItYXBZWXhXQy1MY1A3a0xLQXlqZ090TlQ5ZmRGdjYwcjNEcEFJOGc5dE8xV3NnWWRlb3BTUGxYcHE2bm9OME12dnNyZzJ2ZlZyeDNMWi01SnhPNG81bG9wcHY1UW5FT28?oc=5"
     },
     {
-      "title": "Taylor Swift Gets Incredible News After Travis Kelce Date Night",
+      "title": "Travis Kelce, Taylor Swift Receive Unexpected News After $5.35 Million Move",
+      "outlet": "Athlon Sports",
+      "date": "2026-10-12",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcG5BVjZRLWUyWXJobTBIXzU0TmRYcjZBQWZtMkMwVnU2Nm1aSk5za2RlU2hmai0xWTlkZDF1TjB6di10bUwyNW9HbmI0aXcxLTR2OERZUjA1RFRBRXlvU2xoUVQxeGRJajF5WXo4MXNmNGxWVjVicmswNndsVUxTVldpeVFkRVhORFE2UUM2Z21YdFRYN2NHMy1NcUFpMXp2ZkJWd1RCZ1lRc1hqTTREdg?oc=5"
+    },
+    {
+      "title": "Taylor Swift Temporarily Quit Drinking In 2023 For A Reason We Can All Understand",
+      "outlet": "Health Digest",
+      "date": "2026-10-12",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWjdEVU5LRkIzbXVsQWg0NEZFYmpKVkhJdkV5bERSVGRadHQ0NUFuMlNZS2VfU3BldGF4WFM1Z205LWtWSFZQc2cxRnJlQ3ZITTFnUWswRzI0OVJqQjY0WU1UMlA4c3BfUGRIYmhUTnl3RkY3WEtCd08ta3dkOG5sR2Q3Tl9fSDRf?oc=5"
+    },
+    {
+      "title": "Numbers Don't Lie: Taylor Swift Is Travis Kelce's Good Luck Charm On The Field",
       "outlet": "Yahoo",
       "date": "2026-10-12",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQUtUQjdUMWtGUllkd0RBVjVBY2xfUDRmcVY0VmM1SnY0ZUVJQldvN3c2NWtLM2dDZHdhX2NTdWFTOGl3dlVITWRLVFJQRkUxT05xaUlaeU40cjgtTW5LWkdTMkR3RWU2ZGduRXJsTkdHb0xUX0hGVEh4eWw5YXFVZlN3VXU1ZDlsSUJoeGM1d0Z1YXFfb29xc203NWU1U3c4?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSzhla0JGMGZ5b3VPdmpYR3Y4NHRfRzNLX3QtelpjTTViLU9jQTBfQVlOLUxULWhaOHpZdEdsb010aGY1ak1GLU5rUWo1aW1fZHI5d3hBd19Eb3BENW1vT3oxNzYtYkNwTF9RZkhrUFZfYXpWay05UXdzeVpqX29zMWRYLVJaVm1YMVhaekZFcEZLOE9HREliM29zekM1NDB3?oc=5"
     },
     {
-      "title": "Smells like Taylor Swift: Decoding the pop icon’s favourite perfumes - Prestige Online",
-      "outlet": "Singapore",
+      "title": "Taylor Swift Gunning for First Oscar Nomination With Steven Spielberg’s Help at Upcoming Gala",
+      "outlet": "Yahoo",
       "date": "2026-10-12",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQUlDUGwyWDhncjhJYkRTR3hWODZpbEVBV2NNdkhRTEdFM01Cb2ZKRW5GSVM4Si1jdE9zOFlyZC1fbERETDZzMkFESkcyb212a1hsTlN0TlFvY3owNWpJWnplNWZob2NyVjFYbVVpMWZ2Rm04VzhRUEFvNk1HU1ZiWDNBM0pnWnprZWVwcjBFb2xtR2Q4UldFTTI3a1c4enE5MUJn0gGoAUFVX3lxTE1FQ2p3Zlp3ZV9xOGpBRTd6RGZwZFZKTlJ4ajgxRmVSVUxfVVpSTW43aVZwLXFJdmdGX2ZHc3F6WjhoSjdIaVl2TzhIU3IxZFI1YVo4OEt1bHJLTW4yNEkzRVZhMTRWUjZScWFyLVFEUjBNaVk1enV3ZFlKenVKeFJSVy1fS3A1NFB0VmtMdTdtZGV1NUJTaHhuUW05bi12ZFRxZ1RJMXk2eQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS1lMcHh1WmE3cnJaWDcyT1FIRlpsRTJWNzQ1MFhKLU1ZSzhGMHhHYXVXbHg3MHhpRlBHRmZ2aFlqeVdhdlVfeENPWk82bWNDVTNDX1FyVTlZdTZSdjFGcEc4SVhPU295NlJZNVBKblpaMUZiX1k0UkRPN242Sk95Q01tUTVTTHBtXzhkeDRGcVg2WlUzbl9mZlhIVXFKcXZa?oc=5"
     },
     {
-      "title": "Taylor Swift's 'Patient Zero' stays at Number 1 for a SECOND week",
-      "outlet": "BigTop40",
-      "date": "2026-10-11",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPU0dkVmE2WDFURWNmMjhGNUpTbndJV3l1emZNd0o0bEpIQW9Nb2ZfNVdvRlZyNzhnQ1g4andFbEViWU96dHVOWVZwbFhydEFSdnFQck82dnVBSjg1cEhzS1lXdHJVZ0tYMUZaNElFM2k5TXpHQmt6cVM5X1FfZk1TUkZyZw?oc=5"
+      "title": "Enter to Win a Taylor Swift Autographed Guitar",
+      "outlet": "DRGNews",
+      "date": "2026-10-12",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQzFLWGh1bWpybXRZSmJDN2dKdkxZWG5NUUxRX292akd6dktPeHVNdEhzYjNRck1tdlNoQ2pObEJyS3lFTHNVZHJOSkJNV1BnQjFKQ0ZtZVR4eTBTX3ZEUFJLMXdySFFYUlBWZHZmODFxelVZTWR0cVVIMnpxOUlkcG1DTEo?oc=5"
     },
     {
-      "title": "Top 5 Albums on the Billboard 200 This Week (10/11): Taylor Swift, Drake & Olivia Rodrigo",
-      "outlet": "Ratings Game Music",
-      "date": "2026-10-11",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVVlYOTFTdllMT2NaakhZRXp3Rmw3MGM4M193Sm1tbkplNDZmU0NtcVZiQ3pwYVVPMVBfUHRyWDhEdlFRTHVyTzY1dVBSZWkzTEM2MHBfalltMFhOdUVNdklJcVBXeTQ2QTAwNTJPX0NiZUJyQ19vUWwwNmtpTGQ1MlpuWTZLcVZnVFp2WHdYSF85elFhakgxeVpldkxDaWxQOTBhS0M3UUFHS3hUSWxXOGJfSjBfRkNkTDBUWUh0eUpHZw?oc=5"
+      "title": "Video Taylor Swift tops Billboard 200 - ABC News",
+      "outlet": "Breaking News, Latest News and Videos",
+      "date": "2026-10-12",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9uRTNBLUdRMFdBZ212UW5wNUtVZS14U0wtR01Yb1V1VzFydUdQQkczd2FJa2NkYWV1NTVJa2tjaWZXSTJPUGZDZHhvUDU?oc=5"
     },
     {
-      "title": "Taylor Swift and Travis Kelce Spotted Holding Hands After Enjoying a Date Night in NYC",
-      "outlet": "Us Weekly",
-      "date": "2026-10-11",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYkVYaE9UNV9qck9KTWdNV3QxRzBuYVA4am5HUmNCbmlRR25LMjh6VlQ4SmlDTW50Tk1qejc2NkFfQTV1T2k1OUk2c0U0M2dPakROWkd1WGZoclZQZHNTdVlLY05QamlyVU9vWlBVOVJhU3MwZEw1bVl2aEJjM2RuX3BkU3Vpd2tuZ3N5Y2lSVncwbWE5d2UweDJ5QlBKV1g5TmlxcTNMWXNtZ3NY?oc=5"
-    },
-    {
-      "title": "Taylor Swift and Travis Kelce leave fans convinced they’re soulmates after spotting similarity",
+      "title": "Patrick Mahomes’ son Bronze treats Taylor Swift like family in adorable resurfaced moment",
       "outlet": "MARCA",
-      "date": "2026-10-11",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOcl9BNHk1UEp0amNhYlo4bTFmbXZQYzRfODJ4bDJuQ2FzSlA3SjBIbTgzdXF6ZDR1WW5hSlQ4QzZDQWRIcFRxQ0ZHYmdqRHFjWkNLZHo4cnAxQmxLdHZzRFNIbTJOQVlsY25qcE1pVE94Y09Bc1VsbGpadmM3V3dnclBRdzdRRXVCQ2pWcU5ralRIOFZldXpLRjZ6TjMwRlgySFRSYXB0M04tMXI3NThOaFczZEI4Nm1TZlBfcnZUWlRhUFRyaFhJblBnYUpSc1BMR05yZW9nb0FjTWhqcjVPZ0xIT3QxenMtT3drTXV6anRFSUVYc0FB0gH3AUFVX3lxTE9RZE1xR0lQMnNkUXBBd2ZzZXpZWFpYSkVVZUZRUm5tTWpsQnhJWmNFYnlra1ZRM2QwRThpcl9ldTk5QUpOckNzVGNHTFJhNFd4ejlvSVk1QmVzN2ZZMDE0YVA1QzF0cVhWVGtBOUlqOU8xVlRJWmNoQmkybHM2SUtmQVdwOGZYNllJeFVBRXI1UVdCMmo0MWlPTzA3YUV6cHdCWk1UQnFBc09WLUZtdmRPUkdtaXQ4cWFkVVlvazV2bVZxNVpDMWRBMjVNVERqcWJSbWh5RFFJUG1RdjB3TkE1Qjg1WHoyMHVWaUZ6WHI1aWlVbHI3dEk?oc=5"
+      "date": "2026-10-12",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOF9QNl9sMlFjQkJQUDlFVXpRNVRhSHU2dzRHekRIUUI5N1MwaGpUenFNR0VqZnBRTEc3Q0p0MDdxS09vamlUdXBEczZuN0FZYXFCbDE2MjJFM0p3d2VnMGhzQ1RuU3BadkxJZkF2T2Zmd2gydF9uVjlwN3ljMllsSlVsdkFYREhVX3h5YjhLaXM3enpZU2RhaXU4dWlvMktIU2dPRG01bDJwM1JRNThRNG8xWGE2bm0yUWdlT3pDR3lvSUdNRzRVTThRTW1BVW1MSFM4WXp5T1ZISlNkdWg5eWx4QXdzTFXSAecBQVVfeXFMT0xHSFBFSGZ2dkFDYVM1VnlPQ3huMEpUYUNxY19iNm81WTR2eWZXZzlxMnVlcVVLWTBSdG9ES0hXMmIyVXRWam1PRmZ3c19Idy1UdUhwQ25SNEE4azNCb3BNejFINlZ0OHFDWlNYMXNXYjdmRVJvMEozVlhNNmF1YlYzanJlaHlBeHNNQlRycFdld2JHWUJrNFNWRXo3MEdJUEpEV19Na2o5dzVlQTJaTXlwZTdkMTVUTm43WW1sSTh2OGpZcUxFVUhEVHl3YVFsZ1o0bkZJNmJVb3dodE1zRVF6Zm9WMWMw?oc=5"
     },
     {
-      "title": "Taylor Swift releases a piano ‘Patient Zero’ while the song is still the Hot 100 No. 1",
-      "outlet": "Martin Cid Magazine",
-      "date": "2026-10-11",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVjZNandxR1BvMjdnWnE2dU5DZmhjOVEtQzBaUlk3WjJ3bWM0czdEYWJQNWNWSUxtRElfUlFkTlRyWUlzaTNKcmgtRTg5SGRuUjZnS3BvUjNGeDRrdzM2MHhrWVlwMkRUMzg5aUE5Q1U1TGNuOVZ6VEhOX2lJazIwQw?oc=5"
+      "title": "Taylor Swift Surpasses Massive Milestone Over the Weekend",
+      "outlet": "Complex",
+      "date": "2026-10-12",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOUJNSHg3TTFfY05iM2Zhc3ZDdVlWM2RXQnZoTUFBTXVoTVFfWVVkbHZWZHFORjd0MG5BNXhtMlNOMmJoTWJIV0t0Sk5wRzE3VjZxc1BXVTZ3bWJsbXFmRm9UdE9WbTUxcDJsVVM4ZGl4Y0Vma2kxemJmUktPdlJONFM1U3RrQ0ZnTlVveFB1VQ?oc=5"
     },
     {
-      "title": "Taylor Swift and Travis Kelce Step Out for Birthday Date Night — See Photos",
-      "outlet": "Yahoo",
-      "date": "2026-10-11",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeHZtRGlON3Q4bk1Fektmb0I1V0IzbTg4MGFhaDVkVnZ1b2FnSms1NmhYcjJ1NTgzS2FhMUhGSnZDaEJkV2JzaUxWVDhIZ1BxenJRX2xzU2d1V1ZKYkQ2MGtDVXVVRnF5NGI5T2lRci1NQU1CSzZ5Q2psWG5oSnJINzFIbTQ2enMxYkRyczBRYTdXazZQRjlFaFEwWmZOX3hmRWc?oc=5"
+      "title": "Taylor Swift's 'Patient Zero': the meaning, music video, and records behind the song I can't stop replaying",
+      "outlet": "Yahoo Creators",
+      "date": "2026-10-12",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMG9IUnBCYkFiVUlFWVRKYk9VcnFBVUVPX0hDekFGSzBWU0ZMUzBielEzc2RxcnkyNTJENU52Wi1vNUFiUXpaNk43X0FwT0hmNG5XOGItb0hLalYtWjk2eDBhRFd0UnBRR3RXelpVeWVpbkJwS285aDUza3Z3Vm5EX3FwRzVQWDNGdGFpMEw1cHdFeGtUanNNTE5mdzRiVkgtWXlESHpxSEdzUHlBbVVRaEFoTTFESmx6c1lxSUxhNDBaR29DWjlmeVp3aGY4VmhDYTg4Y09PWmJJMjVFTjVKUWVBOHlIN2FKanpFY00xRQ?oc=5"
     },
     {
-      "title": "Travis Kelce enjoys Chiefs’ bye week with a Taylor Swift date and witnessing MLB playoff comeback",
-      "outlet": "Yahoo Sports",
-      "date": "2026-10-11",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOU1VzVlZQSmxZU1pSSWtPYVplVG9vdzRyRVg1WmZabllxRjk0cHFTYVZ0NkxrQ09QTmo3T25MTjgyekdvc3V3RlNCOWpoYXdRQlVJakVUZTBLekpqSFhnLXNCcjFXd0ZvMUlzR3hsbEFfcHY4dG92TmgtRXlyYk1LbXJjVjRrZw?oc=5"
-    },
-    {
-      "title": "Why Taylor Swift Won’t Be in Kansas City Cheering on Travis Kelce’s Chiefs Today",
-      "outlet": "Just Jared",
-      "date": "2026-10-11",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTDFELVBhUkpUOW9Ick4xQmRxUWJlY3lsSUk5bDVIbTY5U3Ita09qMUxxVndDZTNsejRRTDNBNEVCZDRXdVBxYWplckhZSU5ybnBLU0xsSnRnN1BKeHF4V0ZTWGtndzdXcGNlZnZJVl94NExocnVZcGZpYlFIek1aOHlxbTBFa3hSU09vcGFud21BYmNDTmdBdVJUSzh6aWZwdEdTeGt3QTk2TkFWT3h4WDRXd2FYbUk?oc=5"
-    },
-    {
-      "title": "PHOTOS: Travis Kelce spotted at all-important Guardians game",
-      "outlet": "FOX 8 News",
-      "date": "2026-10-11",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWEVrSHNDTnNkYUhUcUZVRmFyNjVHaUdZQ1pxNGI0SEVFazFvNWFhYjgyTUdELThnVy03Z2ozUkFLTU1HaV9jWE1EbnNCZkpPRkE1LTJWSno0dXFVSUdYcDg4T1h0N3I3eWxxaDNsMWUtQkMwQWpSS3JHdFJ2M0VRa1E3NzJxRkt1QWfSAY8BQVVfeXFMT2xDcDZyV0p6ODFhX3B1SE1Pc3FRNktnQ1BCTE9TT1RDd0JmZWJVMTN3UmlLNFRvOWxPR202WDJkcE5SOGM5RXVfN2ZxZW5ndmF2NFZJQ3NCUEhsT0gyV0tBdjVCLVdneDhEc1Z3cTRCT0dRMUhSRnQxeTNnRFlSYUM5NHl3eXFmOEt6alZqODA?oc=5"
+      "title": "Shows Inspired by Taylor Swift's The Life of a Showgirl Song Lyrics Like Opalite, Father Figure",
+      "outlet": "IMDb",
+      "date": "2026-10-12",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2Y2s3c0lqdS1lSURxdDJJYWZDeXBhTU9EWjd2RzZiWFM1WENMLS1lYTQyRWRzTFREM25ra2lPVl9vaWpxWmlMTHg0azJRVUJPRFljVlNybHBhTUNwbWZTYWpqQWlZUQ?oc=5"
     }
   ],
   "bio": {
@@ -2524,6 +2524,12 @@
   },
   "tourNews": [
     {
+      "title": "Jan Ravnik, Kam Saunders, and the rest of the Eras Tour dancers at Taylor Swift’s wedding: all the looks they’ve shared",
+      "outlet": "Yahoo Creators",
+      "date": "2026-10-12",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPMVJUMjh3YWRkbzFDc0NQOVdnV2xYLUdHaF94NjI3Ti03M3BWQXhmZGJ5eFVtVlpuNmRQU0JkY1RBY1plc2VsSVRKR19CSVFBeFdoUGdhX2NuN3Njbng2eUdQVWRCQmVfMmN5YVltbXZrM2E0T2owdENKNk9DRFNpd2dTX19tQ252S0Iyd3FrUEdicUQ1V0hNSWU1djBEaWFmd2VubllOOFo3cnk2MlRhczFaeFIxQWlmY1BlR09HQ1hHc0stR0ppS0RvdWR0TGp1STFCYXU1X0dCMy1GMTI5ZlNBalptYUQwbVZ3QWdQTklQQ0VVdXRPOVQ1anVsZG91Rmc?oc=5"
+    },
+    {
       "title": "Taylor Swift Christmas orchestra is coming to Manchester - how to get £4 tickets",
       "outlet": "Manchester Evening News",
       "date": "2026-10-11",
@@ -2536,28 +2542,22 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQktmMEs0Zlo5MEtFV0duQVhWbDFuajhaOWY4RXNPYkJlQkFCeXFfQnpJajlMT1NLb1Q3dFlXNU0yb29DVnZTMjZJeVdScXBzclNvM05US2lBTmV1WVNRNVBQVjFfWEQ2QlcydEpVR2R6b2FNLVZQbTZ1cExXUnhjbE9CNG0zQmpHWlZ3V0VzVUJOY3ZiZnZzdUdWVlB5WThGWHpZTDY0VWR1TWh4S20tWHFoQm85ZWhvMG8yVnN5aWdMVTJ0QTlKemxJTE8?oc=5"
     },
     {
-      "title": "Ontario couple sold 107 fake Taylor Swift tickets and may never see a jail cell",
+      "title": "Taylor Swift reportedly planning 2027 tour",
       "outlet": "Yahoo",
-      "date": "2026-10-10",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeENIeldxR0ZNamJxcUNhMHVROE1haHNlN2JLejVPcmdpX3Y2UWZRWXpxaGJYdmU0NC1tYmRTVjZRN2pzdUdudjJ5WlJubV9kWnlFaWpKUzBDZ3lkT3ZhNWNtY1ZsQlhtaDBBU1dCWmNpa3ZIVGVkazRKRVFYZmtoLU5nekhGbDNDcVE?oc=5"
-    },
-    {
-      "title": "The Eras Tour dancers reunited at Taylor Swift's wedding. Here's every look they shared",
-      "outlet": "Yahoo Creators",
-      "date": "2026-10-10",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbGlVOEFpeGFMZThlYk1jU3pLbXZBR2V5NDAyT2FyWGFJc0xuVFNPdWV4b0ROellSc25oQUZZSzJReFNWSzFXSENDZGYxdTYzRUpmSjc3ZlF6a3gyNGlkQVVLZ2pFaDJnYTJ0Y2RzajBtZ01mdHZUQ0xlYmVBLVA0cnNKZFNkOW0yUnkwb3dmVDNMM0dsbGFpaEhMNU5MMlRBNmw2SUI5VXE2bHdEUEZTMVMzUWpJU2lXVXZWVXFtVXNpdU1yT05zNnhWYXVWbXdoYjBFQlhVbmU4Zw?oc=5"
-    },
-    {
-      "title": "Taylor Swift sets Hollywood ablaze with unstoppable Oscar buzz and star-studded Museum Gala performance",
-      "outlet": "Music-News.com",
       "date": "2026-10-08",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOd0xralFXaHFzalFfRFNRMWowSzBMTWY4YUctOE5ic2wtNXczRmktdDk1djI1aFZqTEZ1a2RqOU90b3JlWkNfVzhOcl9wd0FJUG1BUmRQQ3k3ZkxtOTVBcmV5RjQ1RnJmN1VMdTRwZWgxTjMyalRrdkxrM1RyalRQdEZNV1UwN3FaMEx3WjRwWXFxVXRHdEtiLW9xY0ZsT205dHFmOVZOQWpCWHJUUDlQX1l4cnAtNUdYRURFVzI4RWdZLTJaTWpOTENLR2tyVHBPRVJUcHQwS0lxaTBDMnc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVm1ZUjZlVGZneW13X0ZsY3BGTGh3YnRieEc1djNUMThCVFJwb0p3ZzUzd3E2MHFSeTZVTWYybzNQX0k1d1JTWmQ0NzR5VDRXYXRzeEZtbU1OZ2lSM0NGRUZOb1FZU1dwNkxoV0t5YlVpUlpMUkN1cVBlVGF0RHhTa1hNS1VFSVFRc0VXOXMydVdIOG9OYkxfcmU1X0N5aTd5cUdydzJB?oc=5"
     },
     {
-      "title": "The Academy Museum of Motion Pictures said Thursday that #TaylorSwift will perform at its sixth annual Academy Museum Gala. The 2026 gala is set for October 17 See more details here: https://deadline.com/2026/10/taylor-swift-academy-museum-gala-perf",
-      "outlet": "Facebook",
-      "date": "2026-10-08",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWndiREl1SUJyVlRGclM4d01UV0tFRXVqeWVDcTBQMnI3c3RURTYxVHdtVTh3ZThrLUp5TnFfYVNYY2dWbWtLRWQwUXBxLXNOWlEtT2NLdld4ZDNYZXlsbG1mT3hYQkZqNWZvRlk5VDEwN3VkWUlTMFd5RGs5WXpycWoyRTNBcFZZSEdUd29IRlVieGt3X3U5ampVcWNLQjJKN2lzZVFRLWkzOHptRDRySGlJR1hxcWd1cE1JcUVGczZOa1dvN0VSeXRkQkhrRFBqX3d3bzFR?oc=5"
+      "title": "Would-be Taylor Swift concert attacker loses privacy case against Disney",
+      "outlet": "Reuters",
+      "date": "2026-09-30",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY3RKWE4yZWU0YXZnU3p0RXQyOVNMRmg0NVoxQTltaUxUYVJ0SUYtV3NyTk03NHdwVGhPN3JMWkoyRXdEZnhnWGxZb0xQRVhaOElGOElYdnUwODJlTDZLZGxZZUhKVW1TRGR4TjBFR2N6bVB1Y0prMF84YzNZQTRaaGdyMDBNR2RwVkg4TmhZR1YyV2lCM3Uzd25VWHJMUjhuS2ZxRzhJUjEwZUFlZXhBa1g0bmw?oc=5"
+    },
+    {
+      "title": "At Least Taylor Swift Isn’t Going on Tour",
+      "outlet": "Bloomberg.com",
+      "date": "2026-09-23",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUWhqR284SmdiX25QeVhHX3FVcWl3djVrNnJWME5SLVU4NGsyenhZaUt0VlVXcE9BN1dYQzdwQXRpZUtFWFRhV0JwQzg1LXdJNWhhYVRSYllJT2FDTDVYOEQ5T0VyemFSTVFkbU9wVTRfUGhMNzcweGpDSmJoN1hncDUxUXd6VEl2N1J4TzJWMEczS01sbkg2U25HeUE0SHc?oc=5"
     }
   ],
   "timeline": [
