@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-16T16:41:57.081Z",
+  "generated": "2026-10-16T21:12:40.579Z",
   "artist": {
     "name": "Taylor Swift",
     "full": "Taylor Alison Swift",
@@ -474,13 +474,13 @@
     }
   ],
   "latest": {
-    "id": "itunes-6820695082",
-    "title": "Patient Zero (Acoustic Version) - Single",
-    "date": "2026-10-09",
-    "trackCount": 1,
-    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/66/d9/ad/66d9ad66-7a21-5de5-bad0-3130997a7057/26UM1IM31399.rgb.jpg/1400x1400bb.jpg",
-    "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/66/d9/ad/66d9ad66-7a21-5de5-bad0-3130997a7057/26UM1IM31399.rgb.jpg/600x600bb.jpg",
-    "url": "https://music.apple.com/us/album/patient-zero-acoustic-version-single/6820695082?uo=4",
+    "id": "itunes-6821937445",
+    "title": "Patient Zero - Single",
+    "date": "2026-10-16",
+    "trackCount": 3,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/89/98/98/8998984f-9a80-c3e1-d59d-e6a6db859e0c/26UM1IM31403.rgb.jpg/1400x1400bb.jpg",
+    "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/89/98/98/8998984f-9a80-c3e1-d59d-e6a6db859e0c/26UM1IM31403.rgb.jpg/600x600bb.jpg",
+    "url": "https://music.apple.com/us/album/patient-zero-single/6821937445?uo=4",
     "copyright": "℗ 2026 Taylor Swift",
     "genre": "Pop",
     "via": "apple",
@@ -491,13 +491,13 @@
   },
   "releases": [
     {
-      "id": "itunes-6820695082",
-      "title": "Patient Zero (Acoustic Version) - Single",
-      "date": "2026-10-09",
-      "trackCount": 1,
-      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/66/d9/ad/66d9ad66-7a21-5de5-bad0-3130997a7057/26UM1IM31399.rgb.jpg/1400x1400bb.jpg",
-      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/66/d9/ad/66d9ad66-7a21-5de5-bad0-3130997a7057/26UM1IM31399.rgb.jpg/600x600bb.jpg",
-      "url": "https://music.apple.com/us/album/patient-zero-acoustic-version-single/6820695082?uo=4",
+      "id": "itunes-6821937445",
+      "title": "Patient Zero - Single",
+      "date": "2026-10-16",
+      "trackCount": 3,
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/89/98/98/8998984f-9a80-c3e1-d59d-e6a6db859e0c/26UM1IM31403.rgb.jpg/1400x1400bb.jpg",
+      "artSmall": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/89/98/98/8998984f-9a80-c3e1-d59d-e6a6db859e0c/26UM1IM31403.rgb.jpg/600x600bb.jpg",
+      "url": "https://music.apple.com/us/album/patient-zero-single/6821937445?uo=4",
       "copyright": "℗ 2026 Taylor Swift",
       "genre": "Pop",
       "via": "apple",
@@ -2361,16 +2361,16 @@
   ],
   "news": [
     {
-      "title": "Taylor Swift Releases Piano and Acoustic Versions of “Patient Zero” on Streaming Platforms",
-      "outlet": "InMusic Blog",
+      "title": "Selena Gomez Reveals Why She Won’t Give Taylor Swift Marriage Advice: ‘I Don’t Need To!’",
+      "outlet": "Parade Magazine",
       "date": "2026-10-16",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYWs3dnhUQl9ab0VIdWVBck55a2xVaFkzUlhHMXpUSEpOaXltS0tBc294azdsbEgzYnFmVVRJTGxrUW53cHFBeFZueDZFSGRRYU9sbHhUZ3dNaGMyVzNOb1g3TWdiODFFWXkza1FrSUZkTEpyWVBGUUl3WVNZSjk5NjZ0UlFwZw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMmExdmItU2xvaW91Y0h2OS1sdGgyNC14SWo2ODh5YllObl9KOTNuSWlYOE1hazFCcUJCd0FIT1B4aHZLc2dXREx4MHJCdkZUbmkwVDNQRGc3N1RXWGg5QTJUNHctaE9ITThYcUc4Rkc5RjhHTXZKeXJHUW5oSngtdkNOamNmSUc4c1dBYi1BNEtadWdoWlJnNWxma2JHbld4LVc2QktUd291QQ?oc=5"
     },
     {
-      "title": "Selena Gomez thinks Taylor Swift gives 'better' marriage advice than she could , Entertainment News",
-      "outlet": "AsiaOne",
+      "title": "Taylor Swift’s “Patient Zero” Makes It Three Weeks at UK No. 1",
+      "outlet": "InMusic Blog",
       "date": "2026-10-16",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcGgxX1ZGYmZzbU1nb3F3MHZhVGpDQW1RMldMTmJvd1JpaW1qUnhWakJIdnM4NkFkdmltOGRGaVN2UjZwZkg3UEpVVVhfcnRrMHNYNjRqT0ZsYXNaeTl6eS1UR1hVY2t3MmZXS0FEeDdBcy1DbmhzRzZWTGkxeENWempSbmxYdElMZ0JqZ0VWR3N0OG42TkZYUEFBdEFiYnRwNG81YWR1MDdlaFBRTXc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONFUzcEJGcGpHUnB1X2lwU0M5bXozYXdDZ1N6d0R3bXZwNW9oLXdwOWNHdDRTRHdUNGNtdVBlbEFVYVQzM252RXlTdXlqV3VsYngxTDF5c0JkUHZwVGtiXzduOXhVdHRMNkl2SVJDMTRGenQxTXdRU1o1c1d4S2JVdWFwTHBmTkRC?oc=5"
     },
     {
       "title": "Taylor Swift wore an old aquarium T-shirt. Her fans raised more than $2 million for sea otters",
@@ -2379,16 +2379,10 @@
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbzdZRHlTWUZUTWNMRGJqbjRzWnU2NV9wTHlUMDFjZklfWFBfTDcxRHFkSzZuSXpQS1dndy1PUXpSWTVtaV91em5valZIVlg2OG9DRU9qdUwxSkdrNXMyTE81WFN1NU8yVklMb3I3aW5tRnZ2X0w3eDhUMFBwNmRXeEpCbWNyLWxKWFVtRUdEWm54RV96WjdydnNZQTNQZzBOZWhwclpYLWlPYXdaRU1KUm5UNG5RUGp1THdURklRZkpWbXF3LU40UUpBeEJLcHRSbE5uUnNZdGN3ZTlnSV9QcDBpSVBzam1NYkhN0gHwAUFVX3lxTFB5Um1UaHNycGJPb0Qyb0JPeGFraF9laDQ5ZUNjSTR5Vmt2R3ZjMXgzVmpkcElYX2dqLTRiQWxRblpXODhtRDRhZ2JGSlNILWl0d2lxS3dQelQ0MlcxMHlFQ2xaZWhUSTZYdmNEUzNfOGdLMW9rRW9uODk4R0N3d3lZYWsxQWVFUWpPVHNES0ozTzFuTHBLWHRHa2NMWVlvVmdvWW1ZSFpmQ0JhYWt5UDMzYzRMa0xmR2NIQS13Y19CUnltNGgzM1V3R1J5SDNBU1ZtZ240bDg2cmdWTlNWeXZLSjF1UlE3UTJxYnZIdVBjYg?oc=5"
     },
     {
-      "title": "Can the Richest Country Singer Be a Pop Star?",
-      "outlet": "HowStuffWorks",
+      "title": "Caitlin Clark’s “Taylor Swift effect” sent WNBA social views from 373 million to nearly 2 billion",
+      "outlet": "MARCA",
       "date": "2026-10-16",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kZ1U2dkUtYXFDWE5UNFhqX2JPNmQ5cjhDLW96Qmo1LUVpcm1pMHdIc085Yk5pWGNaTDBPZjdXYVRwRWRhZFQ2ZnFfd3R3YzJ3WlJnaHRBXzdHWklZUGpFM2czQWpVb1VPTUE?oc=5"
-    },
-    {
-      "title": "Selena Gomez Reveals Why She Won’t Give Taylor Swift Marriage Advice: ‘I Don’t Need To!’",
-      "outlet": "Parade Magazine",
-      "date": "2026-10-16",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMmExdmItU2xvaW91Y0h2OS1sdGgyNC14SWo2ODh5YllObl9KOTNuSWlYOE1hazFCcUJCd0FIT1B4aHZLc2dXREx4MHJCdkZUbmkwVDNQRGc3N1RXWGg5QTJUNHctaE9ITThYcUc4Rkc5RjhHTXZKeXJHUW5oSngtdkNOamNmSUc4c1dBYi1BNEtadWdoWlJnNWxma2JHbld4LVc2QktUd291QQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNMkFfYjVoXzgzNGFjbkFNX1NIeXBOSlI1WndFVGZZNm5pc3M2anpIaHZvN0NGY3dIR3V5dGFaLVkwdEJSWG1uSDdmOUN1Zl96bWhrNXdrdFpuSDU5UEswR3BMUzR4cTBTb2w2enYtV2c3Qm1vQTBJN1dXSklSNGlPZ0RyeWFhS043OXZQcFVtSUp2NEhaMGo4RjAzOUhlTGtLRDk2V1BCWXExaFNBVFhjNU1NUTltMUdKaFJpYmhIYVJNUVlRZi1GNmVZU2FmbUlJY0l2aXZ2Y29zNFVRNFhTbUxwbzhZRVJWVHladnI4Sk5EVmFTT0kwb1pR0gH6AUFVX3lxTE8tazBJeVhVRmNNWVdwZXluTkpIeTNtc0lLOENFdFU0NU9NT3JFNDFBbFhLRUpVVTBqUmZUTVNMdnNSZV9DdEdFZTFYZ1RiRzRHMS1fQVpLR1dLV1hSVnhCTjZPRlB4alVLQmFrVVJJQjNqaW5VdjlhbmxmajdvOEU1Vk92U1ZOZ3l5U3RWMHU5WUt6SE5jMnh3aFVLbE9OVHB2bkc2elh5cGNfalJGc3pUaWg3WGxTZThhNUlvN3ZIWkg1T1ZFek5rZUpqQUxlWHFCay0xQzFmYkxfcm9SNk1NR3QyVXpVTlVteXlXVnFiUzhiVnpmLVhRaFE?oc=5"
     },
     {
       "title": "Hall of Famer Defends Taylor Swift, Rips NFL Media for Promoting WAGs",
@@ -2397,16 +2391,22 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcm1VS2lNWTZ3ZU5HNUIzQzJTVXMtbjRRN3owX0tKaHFtLVh0OHhSclFhcmw5a0xmdXgxc1hQbVJ2bEhFd3RGZTJ1MXFPTWZGQ21QOE1BRC1GQWhUeFNqamFoY2w4Z0VSRUVTMjRDdEpINHVNM1VaVHYzaDVMdTdsYg?oc=5"
     },
     {
-      "title": "Caitlin Clark’s “Taylor Swift effect” sent WNBA social views from 373 million to nearly 2 billion",
-      "outlet": "MARCA",
-      "date": "2026-10-16",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNMkFfYjVoXzgzNGFjbkFNX1NIeXBOSlI1WndFVGZZNm5pc3M2anpIaHZvN0NGY3dIR3V5dGFaLVkwdEJSWG1uSDdmOUN1Zl96bWhrNXdrdFpuSDU5UEswR3BMUzR4cTBTb2w2enYtV2c3Qm1vQTBJN1dXSklSNGlPZ0RyeWFhS043OXZQcFVtSUp2NEhaMGo4RjAzOUhlTGtLRDk2V1BCWXExaFNBVFhjNU1NUTltMUdKaFJpYmhIYVJNUVlRZi1GNmVZU2FmbUlJY0l2aXZ2Y29zNFVRNFhTbUxwbzhZRVJWVHladnI4Sk5EVmFTT0kwb1pR0gH6AUFVX3lxTE8tazBJeVhVRmNNWVdwZXluTkpIeTNtc0lLOENFdFU0NU9NT3JFNDFBbFhLRUpVVTBqUmZUTVNMdnNSZV9DdEdFZTFYZ1RiRzRHMS1fQVpLR1dLV1hSVnhCTjZPRlB4alVLQmFrVVJJQjNqaW5VdjlhbmxmajdvOEU1Vk92U1ZOZ3l5U3RWMHU5WUt6SE5jMnh3aFVLbE9OVHB2bkc2elh5cGNfalJGc3pUaWg3WGxTZThhNUlvN3ZIWkg1T1ZFek5rZUpqQUxlWHFCay0xQzFmYkxfcm9SNk1NR3QyVXpVTlVteXlXVnFiUzhiVnpmLVhRaFE?oc=5"
-    },
-    {
       "title": "Travis Kelce Makes Blink-and-You’ll-Miss-It Cameo in Taylor Swift’s New Music Video Footage",
       "outlet": "Parade Magazine",
       "date": "2026-10-16",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU0RJemFoTzdCeGd0VWx4M09zTGJtQ3otdHJkMTlZNm1naW5PaEJYaGlvMUZ4OWdMWWtSd3hiRXBfNk9jaWtuRXpoZ2FGMGRKdENiVGVNUTNYSjI4M0dtbFBQT3c4N1FJTzd2OFVrNXU0T3JmdS0wbUt3dFcwOC0xV3dPVVRQSG9nclc0bWlUSHBuNUxhQkJqRDZFd3Q4bG43R19BMVpVLW42YnFRSlQ2QzY3UXJVUmNfRF9lYVlyVQ?oc=5"
+    },
+    {
+      "title": "Taylor Swift scores third week at number one with Patient Zero",
+      "outlet": "London Evening Standard",
+      "date": "2026-10-16",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQalBQNHRWakI0NHNPbnMzNEY2NzVNMUNzT1dhb3FIZko3REVETHRfU0Y0Z3ZTRkhRakthbldqdUpzdFEweXFiY2tmTlZJXzQ0SUJUTnBpN29YN0xaMmVseGttMGp2bm5lX0JaVWEyOURPb3Z4bTB1dldQc2xkM3RrYUdGUWJCQk14ZEszbktDLWZLalJIYjJYd3lNX3hDT1E3enpHTmtzcm1zRjBEWGh1RXF3Q2JxbC1jZWJj?oc=5"
+    },
+    {
+      "title": "Taylor Swift’s Best Songs for Fall Capture the Feelings of Autumn",
+      "outlet": "103.9 Wayne FM",
+      "date": "2026-10-16",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb3A3N2VyRVM2NUNzQXVyYXN0R19CU1VKOVFxOUgxeVNOYjVSWkJ2Z0FCY3BaLWlBMkNxYlA5V2F6bUUtbklaQkRyeFZhQWlQZmdhcVB2ejBSMXNhbllscmhHREp1QXNrbXdzUjRXLWd1UEdocXpZUVJqSk1ORjRhdGlOVWJYRldEMzBHX1VMYlEyRVBtT0Utc1g3aFFEWFBPTkZxd0hIUQ?oc=5"
     },
     {
       "title": "Drake and Taylor Swift Find Chart Success With Four-Song Deluxe Albums",
@@ -2415,22 +2415,16 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSi15UzJSWkFYSkMtT3lJS2N0OEs0d19UWGxETVl5UW5MLVdpb2hsN0NQVXljWGlCUTMtalRtNFRrb1RrdFhHS0Jod2luSVlXNUFDWHVYZE9vMUVMR0FEallnZ2F6dGNoa3QybUpmdzcxR0lvU204bUpXdWFIOXF3MFZvazRaV3dSb0ZpWk5Fb0tVYktKQk9GVGJVekZBQjVyb3VHb0s3X3RlSHlBM1VN?oc=5"
     },
     {
-      "title": "Bad Gyal Says She Wouldn't Collaborate With Taylor Swift for $3 Million: 'She's Like Dry Chicken Without Salt'",
-      "outlet": "parade.com",
+      "title": "Arkansas Basketball Coach John Calipari Was ‘Embarrassed’ to Approach Taylor Swift at NBA Finals",
+      "outlet": "AOL.com",
       "date": "2026-10-16",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSGwtWTFEalp3dHloeXZHM1VhRmNPcXZmQ2lrZXRMTWxGcmdIYmItOHpETzVyVGxZRW9MYUwwV1FURkdNX094N1VmbG5DRXRvVXJJU0FzMFVZeThGdk5famU0UTJRdUVubk11TTNzNmcwN1VoLVZYdnluSWhBM3dTdGs4bElPR0pRbmZNckF1Rjk0TG5Ia0NJZXN1UEM1ZnNsdHk2QnR1THN1LTlWZ1p2QktDeWN2aTczel9FNERLckJhdnZaY1NjMTdZTEFUWUhyMFkw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdHVhYk1hYmYtblo2c3hNUnJQQUJhNnZNNUtGRUR6ZHZWQkxtb1lIWHUwdTY2UEhBd3FfbE40UUk4U1hEelhZRUhCUTJxZVJISm5CaVBtQmpTbnNwUFB2UDBlWEhhMG1IaWVMSDJnZ294YzhUQkdZZU1QYnNHU3ZYOElxWXRGTC1DUUE0?oc=5"
     },
     {
       "title": "Alex Warren’s Love Story Has a Taylor Swift Connection You Might Not Know",
       "outlet": "Global News",
       "date": "2026-10-16",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNU9obElEMlY2M3BfVzM4VmtfbTdjUWN2NWJxREhqQnlWV3pvQmQ0WFd4bVFWUEdkY0loTFJ6cVNjRWZJMl9LMnBmX3B4MFVFLTJmWWM2dnJlaU5oR044OXVveWxMWjNwa0h4MDUwOW5rM0hZU3d3WmNZc21OVnRuTEw0SWFpZWhsLTRndHY1WktxaDFlWjBZMlRSb3pMLTJJaThlWXFWcXByam1wV2Ew?oc=5"
-    },
-    {
-      "title": "Taylor Swift donated $4 million to create an educational center: 14 years later, its classrooms display works by students and artists with disabilities",
-      "outlet": "El Cronista",
-      "date": "2026-10-16",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQbDAyLUFORkJSdUVDZllDQ1ZWOW5NY1lPWkJ3aWVvSTdBcV9DdjNtQURLZ3FtOGdsaUxtWUNUSk5ia2dQdjhBbVkxTHJfOTdBWjAzWmlIdVNkMm5pTWt3djI1MWp2WmtPNlllR3RBYmR5bUVWYUhoUDJ6R3FHSDI2MW9oQ21yS2tzVjBhNlZBUVI2Q0luM1B2M2FReklVcHV5YjNscjRheGFpTzlaVGxIYnhZeEZxb3dzeXVNdFVzY3Jlb1QtU2pYc1JGdDRWVkVFMUVuU0dVTlcyUDNYYXhBUkVBblhuaDdKNjN4cE5EdlgzTFVkdmtuengzU2plempyV0JHeVluNnhwQzJhU0d4MEVWMWFCZw?oc=5"
     },
     {
       "title": "The Beatles Join Taylor Swift and Drake in the Top 10 With a 1965 Album",
@@ -2445,10 +2439,34 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVndKTFhjOGNqVE01VkZPMks0MkJYNExYb0xQY2lSS3hCUVlyd2IyWWFtYmhXQlc0V3FWM0JKb21kVk5HQ2FqZ2JJSjhZRkhuNW1ZblNKeG1xclVPcTI2SHB6YmM2NXdzS3dMVC1Ed1IwVmozRHNMcEZ1ZGdiQjUybjUtTTRSc0VZcWlQakwtWnJpZw?oc=5"
     },
     {
-      "title": "Taylor Swift’s Best Songs for Fall Capture the Feelings of Autumn",
-      "outlet": "AM 740 KVOR",
+      "title": "Taylor Swift takes Patient Zero to a third consecutive week at Number 1",
+      "outlet": "Official Charts",
       "date": "2026-10-16",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaENWMG9CNnV5WlF4ZnpWNENTb0w2ZGhRcDlOVmF5VkM2aXB1S09Sb2hTVzVDYmJDNnVfTXcwX2NkRzRvYmI0UnBIdE9aTHg3RmNkXzlRdHJ2TW1QYXM3c0JxT0hmNTlsZmdtWlc5UWlkM0czWTN3NUNOam5tOWlKZ2JxOVZHb3VfR3lTQ2hsdFRCWEhNOEVLdFh3dThnZw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU09HZHYwUndGUkczWGJnVTZUVFluWlhzVVdkTTFlY2ZLSXBDcGhsWFhLUkJjcm80T0tNR1RhaU1iYU1PREg3SG13Q3o0bjFhaENiMmdzX3VNaEExR19ZZ1V5LW5zWjJiYzRQOTQtc29wb0lsckYzWFZ6Y2x4UFA1NUx0M1Y0c3kxVm0tRlN3OURQMmFMSEtnb3FBdjZMcVhm?oc=5"
+    },
+    {
+      "title": "Taylor Swift donated $4 million to create an educational center: 14 years later, its classrooms display works by students and artists with disabilities",
+      "outlet": "El Cronista",
+      "date": "2026-10-16",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQbDAyLUFORkJSdUVDZllDQ1ZWOW5NY1lPWkJ3aWVvSTdBcV9DdjNtQURLZ3FtOGdsaUxtWUNUSk5ia2dQdjhBbVkxTHJfOTdBWjAzWmlIdVNkMm5pTWt3djI1MWp2WmtPNlllR3RBYmR5bUVWYUhoUDJ6R3FHSDI2MW9oQ21yS2tzVjBhNlZBUVI2Q0luM1B2M2FReklVcHV5YjNscjRheGFpTzlaVGxIYnhZeEZxb3dzeXVNdFVzY3Jlb1QtU2pYc1JGdDRWVkVFMUVuU0dVTlcyUDNYYXhBUkVBblhuaDdKNjN4cE5EdlgzTFVkdmtuengzU2plempyV0JHeVluNnhwQzJhU0d4MEVWMWFCZw?oc=5"
+    },
+    {
+      "title": "Taylor Swift claims third consecutive week at Number One with Patient Zero",
+      "outlet": "Music-News.com",
+      "date": "2026-10-16",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdUtiaFZ4eURJaFMzSTcyMDFKYkxZdTJISThpc1FXUjFHR2huQnljRWllYktKanREUDlkT2YyWkdfbDVLQVNsZmZoeXYwTFExNm9QY0FnZzFMUnJjVHg5U1p1Q2dscDFHck9odVZVLWc3T3VKV2xhZEpSZ2x4N0xTMDg0VU9EVEdraW9sNl9KSFVORU9ON1RmYzVtOVVJLVg3bFdUWFVQUUtiWlNpV1FyOXJ3NFktNnc?oc=5"
+    },
+    {
+      "title": "Taylor Swift's No-Makeup Look Is Breathtaking",
+      "outlet": "Yahoo",
+      "date": "2026-10-16",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVW90WDZUUldTTzNuVXgtcHFSckI5cFFaR3RudXpjanZIOXdNQ2JBejNlYmppMDIyUjA3dkNrWkZhQ1FFdzlzNnNna1pVbFA3U1dEVUhnWHFJUWNkaEJlRzZwWTBWd1ZfT29pdnBLcFBoQ29iRkRDU05UM04xVkV1cUdGVFRqWERYMGprdEZhZw?oc=5"
+    },
+    {
+      "title": "Bad Gyal Says She Wouldn't Collaborate With Taylor Swift for $3 Million: 'She's Like Dry Chicken Without Salt'",
+      "outlet": "Parade Magazine",
+      "date": "2026-10-16",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSGwtWTFEalp3dHloeXZHM1VhRmNPcXZmQ2lrZXRMTWxGcmdIYmItOHpETzVyVGxZRW9MYUwwV1FURkdNX094N1VmbG5DRXRvVXJJU0FzMFVZeThGdk5famU0UTJRdUVubk11TTNzNmcwN1VoLVZYdnluSWhBM3dTdGs4bElPR0pRbmZNckF1Rjk0TG5Ia0NJZXN1UEM1ZnNsdHk2QnR1THN1LTlWZ1p2QktDeWN2aTczel9FNERLckJhdnZaY1NjMTdZTEFUWUhyMFkw?oc=5"
     },
     {
       "title": "Nelly & Ashanti Navigate Fame, Family, & Taylor Swift Wedding In Season 2 Trailer",
@@ -2463,46 +2481,28 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMU1zR3FuS2dDaGF2ZUdOZUp2V2RESm14SUNsZFhKOWtoU1hodWU3cnZJZGYwNWNUOHlnTVRiVUVmSTZWNU1seFFRSXJsdmF4ZC00Vmtza2NUX3BXTzBqby1QMjFkOE1pX2F5OUNxenRzYjRzZkltWE5HUDNlbVlpakZ0QTZKQ1E2TmJwMUxDV0NTVEJXOThTTXY5clF6M1I1dkhvMG1FNXdqWVlzUi1jS1RPaE5GZWU0ZzZEYXcwakhaR3RVbHg0?oc=5"
     },
     {
+      "title": "In 2011, Taylor Swift Donated 6,000 Books to a Struggling Pennsylvania Library. 15 Years Later, the Gesture Has Touched Thousands of People",
+      "outlet": "AOL.com",
+      "date": "2026-10-16",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9PSENvUVJCZ2FCYWV2WVpQTGtFWWViZEQ1RVB1Wi1ITldKV0RTRmttN0xsUDJ1WjB6SlhvdTNGUnFJS1VNNlhqc1g1alpBOGlKLU1aRWhITVNIRXFOX2ZtWDFxZU8zOUVUbDBmaW1xSjNOeFVHQmM5aVlCbw?oc=5"
+    },
+    {
       "title": "‘Taylor Swift’s Music Sounds Like Dry Chicken,’ Says Spanish Artist",
       "outlet": "Yahoo",
       "date": "2026-10-16",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNnlLOE5SNnAwOEZoNGtwc01qQUdYandZZnpwSzFkRmQ5VjN3VllMX1l0OUhueDZNRER2MnFDblloYUpaTmktOU0yVng4b1V4emktamFySU9qU2pjVTNDUk40anBTM0k0cUVNMHRNN2RMUWkxZnR3eG9IWkRBVHNUQm82ZFRQZ18xTTZYWmIzcXZjRGhSN1dNem1Qcw?oc=5"
     },
     {
-      "title": "Taylor Swift’s Kansas City Chiefs appearances draw NFL veteran’s reaction",
-      "outlet": "Yahoo",
+      "title": "See Taylor Swift, BTS, Dolly Parton reflected in Halloween displays",
+      "outlet": "USA Today",
       "date": "2026-10-16",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdk51a2ZhdW5XeDA3ZkViejJpck1Jc1RpSHhBbjZSR0tqUjV4OVkwTUsxMWlhR1JSVXlsNTJBQ0FyMGoxaUxibmpiNE81SVctVjQ5bmVsWDVOUkxUeGZvMm5IUy1DTWc2M3R2bjVhLUJfdnBneUNkSzJmWHpRTS1oVkdfRmJNa3Z1SWlDenRwVmphSTA5OXhPVUtXZ0RnYThZWjdB?oc=5"
-    },
-    {
-      "title": "Taylor Swift and Travis Kelce Face Sudden Problem Over Ohio Home",
-      "outlet": "Yahoo",
-      "date": "2026-10-16",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObUZYay0yTmRYWjZVNnVRazAydEN3a3dnWnJqeDdYR3JwV3Bjek4yc1gzRzNVUnZQR2Vxd1B0RnhFd3p6N1A5WVJUSlFvcmttMlFoVXNzRGhQWjFiMDhPelhFWjU5LU9jSEYzT2taSHk3aVI4YllRVm1tMVRjUUlzc3VlMmt6akpDMnhMTkxVVzd4a0NGbk5tajZkcEQ1eFJWSEE?oc=5"
-    },
-    {
-      "title": "Jason Kelce wants Taylor Swift Halloween songs",
-      "outlet": "Yahoo",
-      "date": "2026-10-16",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRkZ2QkJKeEtOSVhuQk1uSjF1WUJVckEzc2lsNWVHMDExc0U4a0pHSVdmUUNLNjVDSEpBMGZCR2FSSXJ6VG12SkVIWnU0WWkwVkxZMEdtaTYtbXVaYU8zMklQaU5QTzgtQVF0MVlLaThTVy1pREY5ZnNYZnlpVjJVVTBpYndjYTZ0N3ByMk9FajRXV09yNWZLUGNWMzQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVWo4WW0yZ3VidTk2Vi1TUktaMndxbExVSWgtUzFvN0dENlRTQVI3dzV3b2JwMkR3N0c0TFkzZGFqQi1ySHpERGJjVnNQUjBHZ3Y1R2Z5LUxwNkRGNnl0eE14bnBoMzdUZGVBbjJZTTM0QlBpajJuQkVaRlFHWjJzbENxYmh0blllTkZpT1pkMmppS3dmd0lZYTJLdllBcFJIUENWdG1uZ2x4ZF9PQWFRUFlJbENsY0xxTXpZdjlKNlZhUQ?oc=5"
     },
     {
       "title": "Is Taylor Swift chart-blocking Olivia Rodrigo? Singer faces claims after releasing new ‘Patient Zero’ versions",
       "outlet": "The Express Tribune",
       "date": "2026-10-16",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZTFhVG1EZjRKbGNNTnRYc0JNeDFISWUxQy15elNwbkFSYWtMVGZuQnd1dWE1bDdnOW9OOU1Yd1NZWnY5RHlaZnFRYkVJUkRHTkt1MjNXSm04dGZaNWprcTZLQ290R3VhMFpuQ0c0UmFmdzBjQlFjZHRFVGNzRXV4WnM5YmR0Q0l0RmR6Q0xEZHNwUkRnYjBUTXVLZU5xYXA4cTBJWERrLWJZM24zMUxrbUdCM2MzdHdseU9sRk1n?oc=5"
-    },
-    {
-      "title": "“She’s Actually Shameless”: After Years Of Being Accused Of Chart-Blocking Other Female Artists, Taylor Swift Surprise-Dropped New Music Just Hours After Olivia Rodrigo’s Latest Release",
-      "outlet": "BuzzFeed",
-      "date": "2026-10-16",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQalBkelY2TGNvdEp5aTNmYUZHSktzVGxqTVRHakRKR3kwcmgzUUlqWkRpUjlsRjVOSzlybXJlemt2ZTZDU1lMWWxISXZhVERhUlltem1vdVhRd2FtSThnNHdWX1BkQzN2VTlsM0xnLXBzd0NXRF95R0poTWV1bzNfTFN6Mm1sMTJnXzNGbng4SVoxZlFlcU8tcWRlQng?oc=5"
-    },
-    {
-      "title": "Taylor Swift's 'Patient Zero': the meaning, music video, and records behind the song I can't stop replaying",
-      "outlet": "Yahoo Creators",
-      "date": "2026-10-16",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMG9IUnBCYkFiVUlFWVRKYk9VcnFBVUVPX0hDekFGSzBWU0ZMUzBielEzc2RxcnkyNTJENU52Wi1vNUFiUXpaNk43X0FwT0hmNG5XOGItb0hLalYtWjk2eDBhRFd0UnBRR3RXelpVeWVpbkJwS285aDUza3Z3Vm5EX3FwRzVQWDNGdGFpMEw1cHdFeGtUanNNTE5mdzRiVkgtWXlESHpxSEdzUHlBbVVRaEFoTTFESmx6c1lxSUxhNDBaR29DWjlmeVp3aGY4VmhDYTg4Y09PWmJJMjVFTjVKUWVBOHlIN2FKanpFY00xRQ?oc=5"
     }
   ],
   "bio": {
