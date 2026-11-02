@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-01T22:04:54.760Z",
+  "generated": "2026-11-02T06:11:34.782Z",
   "artist": {
     "name": "Taylor Swift",
     "full": "Taylor Alison Swift",
@@ -326,7 +326,7 @@
       },
       "releases": [
         "itunes-1595423133",
-        "deezer-130716962",
+        "deezer-68491961",
         "itunes-1440934573"
       ]
     },
@@ -436,7 +436,7 @@
       },
       "releases": [
         "deezer-874936972",
-        "deezer-72093192",
+        "deezer-227786",
         "itunes-1440932737",
         "itunes-1860454442",
         "itunes-1445940437"
@@ -1517,8 +1517,6 @@
       "copyright": "℗ 2020 Taylor Swift",
       "genre": "Pop",
       "via": "apple",
-      "recordType": "single",
-      "deezerUrl": "https://www.deezer.com/album/148632802",
       "kind": "Single",
       "year": "2020"
     },
@@ -1597,8 +1595,6 @@
       "copyright": "℗ 2020 Taylor Swift",
       "genre": "Pop",
       "via": "apple",
-      "recordType": "single",
-      "deezerUrl": "https://www.deezer.com/album/148650942",
       "kind": "Single",
       "year": "2020"
     },
@@ -1639,8 +1635,6 @@
       "copyright": "℗ 2020 Taylor Swift",
       "genre": "Pop",
       "via": "apple",
-      "recordType": "single",
-      "deezerUrl": "https://www.deezer.com/album/131557962",
       "kind": "Single",
       "year": "2020"
     },
@@ -1823,18 +1817,18 @@
       "genre": "Pop",
       "via": "apple",
       "recordType": "album",
-      "deezerUrl": "https://www.deezer.com/album/302068167",
+      "deezerUrl": "https://www.deezer.com/album/9007781",
       "kind": "Album",
       "year": "2014"
     },
     {
-      "id": "deezer-130716962",
+      "id": "deezer-68491961",
       "title": "Red (Deluxe Edition)",
       "date": "2013-05-14",
       "trackCount": null,
-      "art": "https://cdn-images.dzcdn.net/images/cover/177ec7bf4d0fcd50e9ece647fa8474cd/1000x1000-000000-80-0-0.jpg",
-      "artSmall": "https://cdn-images.dzcdn.net/images/cover/177ec7bf4d0fcd50e9ece647fa8474cd/500x500-000000-80-0-0.jpg",
-      "url": "https://www.deezer.com/album/130716962",
+      "art": "https://cdn-images.dzcdn.net/images/cover/56a83d3002710bf2044b86c01db665aa/1000x1000-000000-80-0-0.jpg",
+      "artSmall": "https://cdn-images.dzcdn.net/images/cover/56a83d3002710bf2044b86c01db665aa/500x500-000000-80-0-0.jpg",
+      "url": "https://www.deezer.com/album/68491961",
       "recordType": "album",
       "via": "deezer",
       "kind": "Single",
@@ -1982,7 +1976,7 @@
       "genre": "Country",
       "via": "apple",
       "recordType": "album",
-      "deezerUrl": "https://www.deezer.com/album/130716982",
+      "deezerUrl": "https://www.deezer.com/album/689149",
       "kind": "Album",
       "year": "2010"
     },
@@ -2052,9 +2046,20 @@
       "copyright": "℗ 2009 Taylor Swift",
       "genre": "Country",
       "via": "apple",
-      "recordType": "album",
-      "deezerUrl": "https://www.deezer.com/album/130714702",
       "kind": "Album",
+      "year": "2008"
+    },
+    {
+      "id": "deezer-227786",
+      "title": "Taylor Swift (Deluxe Edition)",
+      "date": "2008-10-04",
+      "trackCount": null,
+      "art": "https://cdn-images.dzcdn.net/images/cover/9c0e80bb3c16e1c987cf235929eb7757/1000x1000-000000-80-0-0.jpg",
+      "artSmall": "https://cdn-images.dzcdn.net/images/cover/9c0e80bb3c16e1c987cf235929eb7757/500x500-000000-80-0-0.jpg",
+      "url": "https://www.deezer.com/album/227786",
+      "recordType": "album",
+      "via": "deezer",
+      "kind": "Single",
       "year": "2008"
     },
     {
@@ -2069,20 +2074,6 @@
       "genre": "Country",
       "via": "apple",
       "kind": "Album",
-      "year": "2008"
-    },
-    {
-      "id": "deezer-72093192",
-      "title": "Taylor Swift",
-      "date": "2008-03-18",
-      "trackCount": null,
-      "art": "https://cdn-images.dzcdn.net/images/cover/e9dd628cc4dd15850a13b4151cce9075/1000x1000-000000-80-0-0.jpg",
-      "artSmall": "https://cdn-images.dzcdn.net/images/cover/e9dd628cc4dd15850a13b4151cce9075/500x500-000000-80-0-0.jpg",
-      "url": "https://www.deezer.com/album/72093192",
-      "recordType": "album",
-      "via": "deezer",
-      "deezerUrl": "https://www.deezer.com/album/321177137",
-      "kind": "Single",
       "year": "2008"
     },
     {
@@ -2361,10 +2352,46 @@
   ],
   "news": [
     {
-      "title": "Bill Maher compares eating with Donald Trump to dating Taylor Swift",
-      "outlet": "AOL.com",
+      "title": "Taylor Swift And and Travis Kelce's Marriage Secrets: Workouts, Protein Meals And Family Time",
+      "outlet": "NDTV Sports",
+      "date": "2026-11-02",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRm9IRXpUYV82enBmOTJwQ0JRcnpBdWxHRU5VZ2t3VUt0VGdNbGJ3YXhtOUxVVGloVFhUb1psVy1pelB1N2JhdEtBdlEzUUt0NUtJemR3VFBCa1ZuUTNQUFlORVZ4M0RUZEotY3FwRUNsc2RBd0pXRkk0N0FpQzdQb252MlB0SjFZRXVkMjFPeXpGY3hwWE5XdUNuNVg1UE10cEVFYVI5YjcxTl9TLWhaN0lsb3AxMXFUeVlHNk95dHFPbERYWi1OWGxB?oc=5"
+    },
+    {
+      "title": "Taylor Swift Paid Nelly $50K For Just Three Minutes… But How She Paid Him Is Even Crazier",
+      "outlet": "1029 Hot Tomato",
+      "date": "2026-11-02",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYzZqTFd5a0tmeEUwNjVTNmQ2RHhmbjRiS01DbTBCc1BFZnpoTDQyczJSd01HRXJlelUyZ1BZVGlZZUx1anZZcmtfWWNsc09nYUJhZVFDNVhnSTNqMjBXUHlzSHVienA1VzBRRWpTaEdaVHpHRGEwOGdmR2Q4NThPZW5qNjZnM1AtWEZxZVJtaHV3cmNPVURuSEI5dkZUd3ZEQUJ0b1VLS3JwOVlTcU5rRjk0bXFHZF9iOC15ZldHajdHMjdDbzBhSFVITQ?oc=5"
+    },
+    {
+      "title": "The Weekly Blast: Taylor Swift Had A Great Week, Meghan Markle Didn’t",
+      "outlet": "Yahoo News UK",
+      "date": "2026-11-02",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1VWGhqYllrbnU2MHFsSWZvXzI1Y25VbzFHRFdFZ001SU5Dcnlkblp4RGh3Sk1fbG5aQzJwOFkwOW5UM2FSSG1ma0J3emNGM2w4aXpGVDdZdnYtNzhDcnJfeGRBX0xpUkhmbzhPaVJ3Rl9nVHU2MVlsTTZn?oc=5"
+    },
+    {
+      "title": "Taylor Swift shares ‘strange’ quirk Travis Kelce has to ‘put up with’",
+      "outlet": "Yahoo",
+      "date": "2026-11-02",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUVllVGJfNlFTYnJOX3hvVHZXMlpBLWtHcHQyRUd5WVcta1cySmszQVAyYUthMnJNS29vV3hNNG5FY002cTRVdGx3UlRZVXBhZk1vTEJ1NE8yUTN3TURWTUx6VXMwb3RZSHQ1dVRrS1g5OERzc2NFamc3NU5RNDNrSkwwUVpuY2pQUkxmdGcyTDJiYzdrLURWVHNGRUtZX19SdkxmcGF3?oc=5"
+    },
+    {
+      "title": "Taylor Swift reveals the unusual habit her husband Travis Kelce has to \"put up with\"",
+      "outlet": "HELLO!",
+      "date": "2026-11-02",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQczhkRXE2WnVROUsyQmdRVFFjOHY0SjE0anhPRENpUVF2ZU9pM1N1VWMwWmRrX1czTmxmYnoxeG50RmxsZXNkZExEUlFOVUJYZ0U4YzBxVFpXTmEwZXhIT3lDNjFiMHE5MWo4WXVVbGdZa3VWdFJoVUF5bTkycTB6bUtqcTNxM01YdUh3ci0wbW91bks2UEJjbUppam9XeDFYSEZlSnVmVnBEOS1YSktCamxBdmkwOHNUT2VNcVM0NXo?oc=5"
+    },
+    {
+      "title": "Taylor Swift Reveals the ‘Weird’ Thing She and BFF Abigail Anderson Do That Their Husbands ‘Have to Put Up with’",
+      "outlet": "People.com",
+      "date": "2026-11-02",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORi1DUTNhR3FhRVlzWDZiOWYtTEF2R1VQN0xTZW1aa0ZnUEZPYW5faGRQbVBCdmNCMjhNZTllb2JYRk5ubVByS2lFNVJmUlB4cmJJV0NXanV5WjJOSm9JYlJRRzJxTXRpaTVHNWxQR1dwak5RSTF6M0dpUEtiZ1R2YmtKc1ZvdTVzMWhLZWRsSXJuaTdlUnFyTTRMWWs0YW1uV0Vwa190emJyRS0zR2ZhMDZDT2MxaHFxdW9Ma3NuNjNtN0kyYUFXX2RDY3o?oc=5"
+    },
+    {
+      "title": "Toy Story 5 FULL Q&A with Taylor Swift & Andrew Stanton | Moderated by Jessica Shaw",
+      "outlet": "YouTube",
       "date": "2026-11-01",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLW1Ka1cxTml3a2NaZm45Q2NCelBkMlp6STlGblF2TWpfb1NIVXlBLXBMSXMtdDdTWU9kUmFPUWxNNy0zUkJmOWhwYlktSkMwZlo2NEVpdXBWRkZ6MU1JcG92aWRHa1BJcWNHaGgxUHJYVDcyMVVpZl90TGN0QlZLRGdIbw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93ZEFvRUpncGlEVXRmQy1nNlBxVGt3VjZUZ19kZmFoRTVuNmMyWGRZTk1pcXp3WW85ZUZ6eThLTUNJM0I1OXZjTFNieHViNGQ5V0ZyajNoai1OUksw?oc=5"
     },
     {
       "title": "Bill Maher compares Donald Trump to Taylor Swift in response to president's criticism",
@@ -2373,28 +2400,16 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU0dtV3hmd2JIR0xQMW5Nd1o2dE1yNEJVeERWbWpUMVhtSS1CSXRMeGlZSTlKNXFMZkJ3NmhRNUdGbURIN2tRMzVfQnJrOGFvYnQxSGdHWGVZN2tiNDBpS0hOZWVsVmgzZkhUUlpUejRGWnRIOVpLNWRBazRzTGtMMHZfcnJmQl9TVzdHaDg4WDUyYVN1T3JRalVQLXRFTHpocExpZVAwQVZLeTBQSHc5YUxQMnVCaktucnNyd2JB0gHGAUFVX3lxTE56eWtXMHFSM0hRemNpal9GazdLZWdQT043US1hSTNld2pzUXlqQnFjSDBRWlBUTEZUU01xZktMa19fckNITlJZbG9fSFk1bDdYNmFoSlo0MlctXzZMeUJXMDFPa0lBaEk1bnhjcXU4bHdtemszREVPRDZHVk55RGZ4VGs4Y2J5Y0ZqYzNBZmlUcEZzZzJQcVZTRG05RXJoWWhQVU9ZTUkxeTBuVXRuTFhobkhhT1I4RGRhZ3k2cXhTX2hrZF81QQ?oc=5"
     },
     {
-      "title": "Patrick Mahomes' family dresses as 'Toy Story' characters with Taylor Swift reference",
-      "outlet": "The Express Tribune",
+      "title": "Patrick Mahomes’ family reveals Toy Story Halloween costumes with a Taylor Swift twist",
+      "outlet": "The Big Lead",
       "date": "2026-11-01",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZW9uNEt1WTNtNjVFNl9QeUd0NkRUNXZjVUZPRW5IQUdyVUN2Vm1FdXpGQXZVT0pmS1o0cm9SUEV3MnRGa1M2QXNublJ5Q3FHWDcwLWdHbWktQW9QU0RYVTRwNEh5VHJmWGxoR0VELXZWMFE0QXE3VTV5THNCOHBlTWxkR090VzFLVERwTi1NakNnN2lpT2dLQ2ZUMDBkYmROeDVWTVZUMmlZUVdvWHJPTXFYTkgwTkFtb0hz?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVDZNLUVGZllIQ05LLUpsV3JDbEY1RTBOaU1SVjZkN3BoWkZocDVENTJVWGpKQ3Y3d0lzaGJYZXBfU2ZZa2lNVldaODZ1LVc3VWJYTE1ESERvVEZUdXdQdFB2bFJnMkFLRktsWi1kaWdkMnBPWnpMSG9YR1l6SVBlZThTTXZVY1d0eVJsaTd1eklmeUdaLUo4TWZiOTZVRmdRLUJIaEx4WlN1UG1IMGtjUE8wY3BuUQ?oc=5"
     },
     {
-      "title": "Taylor Swift Skips Kansas City Chiefs’ Road Game Against Denver Broncos",
-      "outlet": "Us Weekly",
+      "title": "Bill Maher compares eating with Donald Trump to dating Taylor Swift",
+      "outlet": "AOL.com",
       "date": "2026-11-01",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa1kwa0Z0dEl5MGQ0TWt3bmc4WW9WZFpKUFNIeFpWREJsZkVzWHFRMFdES1lTWnN0QVlHNjRyd19SUTQ0STlNZEVBbFNEZlEwQXU4TWpwR05rNzhzR1BfeWtUUXFtaHRhRjBwWnpJaFRPWXNJbkp1dGhlNko0dU1JWmtZNzhmRncxblRzeFA5VElUdFdlbmtGRzBKdEhXdw?oc=5"
-    },
-    {
-      "title": "Taylor Swift’s High School Crush Unsuccessfully Tried To Connect With Her After Hearing This Hit Single From 2007",
-      "outlet": "American Songwriter",
-      "date": "2026-11-01",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPckZKNFRiQ0tYcU5lbDhKNjhVSlVUT05pQWlRTHJfendfcjltbzRPMkFZcTdYT0tFaDhwWVJjbVY0NWhOd1hyRkZ0LUtVbXEycm00SXgzY2tTT3h0LThKQjhldWNiWnFYaWY2OTU2S0pDVlpESjcxTXJfS1Bwc21Lc1JueWRpbkhnOWtJQUJxMzhIRkZZZmVfazFkWVBMUHZvUkhEWlR3bllNMG1YN1NKUGJpZGJZeExEdXV6RHRsQUZQOGp4YXNGWWllNTB5azBWNUtlZlVnRlVHOURD?oc=5"
-    },
-    {
-      "title": "'They're tearing': Bill Maher drops brutal Donald Trump-Taylor Swift comparison that Travis Kelce will hate",
-      "outlet": "HITC",
-      "date": "2026-11-01",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNDVHRjI0bjhFbHlIQnJNNFpRTV96UXFQY1ZiMFVBSEkyOHIxRXNIcTVYTWV3QnRLY0xwUWNvVl9MdGV1dElrNHZhRXN6U0k3U1J2X01yczFyUjRWNTZPczcwUFNYMkFDTnlrb1ZtNW5kSkw3ZVpZNWVwRlNKTkpWX3ZWX0hvS3dweThHRFhVemQ3TzFldTBjY0w4aUNLY0lPR05SbktQQk1vZ2s2Z2RDV3otQTdkR1JlekNZTHZ4TWNJdmM?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLW1Ka1cxTml3a2NaZm45Q2NCelBkMlp6STlGblF2TWpfb1NIVXlBLXBMSXMtdDdTWU9kUmFPUWxNNy0zUkJmOWhwYlktSkMwZlo2NEVpdXBWRkZ6MU1JcG92aWRHa1BJcWNHaGgxUHJYVDcyMVVpZl90TGN0QlZLRGdIbw?oc=5"
     },
     {
       "title": "Travis Kelce's neighbors are a major problem: The three points of contention regarding his $5.35 million Ohio mansion",
@@ -2403,10 +2418,16 @@
       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZWhMdTN5REFlYmdxZzR0bV96dW9OdDEtZE5mZ0RSWTc2N2hrN081U1pacmQzUUxHamxrR0t1YWRMeXh1eW9rblotWHVPUjNXQ2o5ZlBPcjd0X0dJNWdjbFRuVzdfdkUzdkNreUg3WnhKS2pqcXp4V19hejJidGtTZGFLeThXSGVkVTV0Y1dMcVV3R3JBYWw2OU5aU2F1a3VqeUVVNG1FckhWTzRBVXJ3c0VRWjZKd0FhMjB6YnhCb2FBN0Fyc0NNN1pBVHFtcGlaTTlJeTYtWGFBaVE3ZWFIUkZYMjNOMTZYSW1OMVlTLW1hX1FoN2M1eVdRaUpEejFfUm9jY3Q1Q2zSAYgCQVVfeXFMT2lFcmROQVllZmJ6eWt3VTRibVBXNVphVk9meEl0SmNiVUl3cVlYVFZzY1pXRkdpQXRFc2ZfSnFNS0hZblp6ZXVDaEhtc2pBaDhReldOX1NvYnV4MmpzblJRUlVoTVZ4cE8taG5PZjdqNkExVW5JR3NnN0padXlfN1BRNjByTjJ2RDhDRV9kcEVnVnEydlYzbWFXR0dRS3JHdk91OGtqUkYwM3R3RmV6ZTZHdFphS2ttVU5pQU5jYk01OWlRckxUb1VPWDZmTDlLYkJ2LVlnckxQb0xGZFRrZTRVaU1paHktYVJNcFlhLUNRV0lfeFh2SjZrMzdrY0R3MU1jdGIxOVdM?oc=5"
     },
     {
-      "title": "Patrick Mahomes’ family reveals Toy Story Halloween costumes with a Taylor Swift twist",
-      "outlet": "The Big Lead",
+      "title": "Patrick Mahomes' family dresses as 'Toy Story' characters with Taylor Swift reference",
+      "outlet": "The Express Tribune",
       "date": "2026-11-01",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVDZNLUVGZllIQ05LLUpsV3JDbEY1RTBOaU1SVjZkN3BoWkZocDVENTJVWGpKQ3Y3d0lzaGJYZXBfU2ZZa2lNVldaODZ1LVc3VWJYTE1ESERvVEZUdXdQdFB2bFJnMkFLRktsWi1kaWdkMnBPWnpMSG9YR1l6SVBlZThTTXZVY1d0eVJsaTd1eklmeUdaLUo4TWZiOTZVRmdRLUJIaEx4WlN1UG1IMGtjUE8wY3BuUQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZW9uNEt1WTNtNjVFNl9QeUd0NkRUNXZjVUZPRW5IQUdyVUN2Vm1FdXpGQXZVT0pmS1o0cm9SUEV3MnRGa1M2QXNublJ5Q3FHWDcwLWdHbWktQW9QU0RYVTRwNEh5VHJmWGxoR0VELXZWMFE0QXE3VTV5THNCOHBlTWxkR090VzFLVERwTi1NakNnN2lpT2dLQ2ZUMDBkYmROeDVWTVZUMmlZUVdvWHJPTXFYTkgwTkFtb0hz?oc=5"
+    },
+    {
+      "title": "The Truth About Taylor Swift's Brother Austin",
+      "outlet": "Yahoo",
+      "date": "2026-11-01",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVUt3OGVOQTJIbDA5VGhXSDZ1dTRNbFRzUS1qZHQ3MVZ5V0RERnhBOWV3U3Y0dmlyczFDZnc0aktoVndPODYyU0lRS3dzZW5oR3dkVmVseTNwWHRvX1pkN2tyN1ZJaThvSXJuRVgzcDZUaUZ0R0NXcERER0JHZmhJZXVZWThpc3k0QmJUM2tKbllFNGNUSy1v?oc=5"
     },
     {
       "title": "Taylor Swift Scores Four Months Atop Top Movie Songs Chart",
@@ -2421,16 +2442,22 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbVdRMmJxbXdRNWFhMDlFaXIwcUNSTzNDQ2tDaTFCMWxmSk9mZU1RSWFGcUtPVlI3a2FzSk5nN0xHWGFHMXhMc1F5Qmx0a2tQbGhIc004dHBkamY1STg2R1BUc2ZPRzZUZ3NheDN3Q3pYcGI2NFhLbVFtaTY5WDVWM2prM3M0RGpkRURxNmxsS2xZUS13UkRBZDhPWkJIN2Ywam5Mb2FKWjdoTUNt?oc=5"
     },
     {
+      "title": "Taylor Swift And Travis Kelce’s $30 Million Wedding Faces Backlash Over Unequal Guest Treatment",
+      "outlet": "NDTV Sports",
+      "date": "2026-11-01",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQjF2SGFOQWxFMEYwLVNQR1dpOFNTQ2duUy1VR0JFTG0tNW1uMXdzUFRJaWN3akVUZTFkdWhweDBOcmdkekF5UjdQU2I2OFFPUTAyMW9NaGR3cWFOT1AzQmYwa3lSVE5GTFg3dHBUUTl1djhtT1Boanp4X0libkJMNzdzbGdHekZsbHVkQjRTbjFvdDhoVWlOOEZKRTQ2c19DYlBfY1J1a2M1UXJfN0ZLUG03QjV6Zml0VW5oY1F5a3MxMDExaDN5Ty1pNGk4OFk?oc=5"
+    },
+    {
       "title": "Op-ed: No one stayed for the encore: Reckoning with Taylor Swift’s poor quality work in ‘The Life of A Showgirl: The Encore’",
       "outlet": "The Huntington News",
       "date": "2026-11-01",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTTljeVNMRHF5eEF5ZFFxWXdXbFJMRXQxVzlYV0pJd0E3NXJCWklZTG9ZTWJkVGNaXzBxZjMzWGlxM0pYcXNReDNBUVFDd3JKcEVNb0NnUk9JbDNHR01uSXNyRS1mVmdfYndrUTBVanFNbVV5WmExYjFrVDBOcm9lcnk1c0NGbU1XTVRTek9wc0hsbUN1YkQ3X3h1dDQtTXIxWEsyOFhoeWxFZHIwcVBibkprRmMydXYxb3UtbWEwSzBzNDRMZERzNmQ2eHhJWW04Ymg5WDRDYy10eG4wckpVSnlpdHlWbGRYTnZfUU13Yw?oc=5"
     },
     {
-      "title": "Is Taylor Swift at the Chiefs-Broncos Game Tonight?",
-      "outlet": "Athlon Sports",
+      "title": "Taylor Swift, Lyle Lovett and more inducted into Nashville Songwriters Hall of Fame",
+      "outlet": "WXXV News 25",
       "date": "2026-11-01",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUkRPd3hwTG45czk1MzlvYWpRMTB1WERpd1V3VXpFRTJ6VVJrVU5Sc2lGSV93N1RGX3B0aFlNdlJOWHVyOW44aUJOYl9FZlZ3OVhOS2NzZlJVUVdQTy1oRHZvLW8xMnlWNkxfU0VJU3BYMnFvbFBtb01HNHQ1ZUZ2R3hoN3dJeG90blR6NVl0VmxrQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS0YwRkowamVzMnU3UUJXX3dVbm14OWxtWGhILWRTR3JPcVFSSS1BaW9tYzE3NGxGMjhTUDhTdUIwMTMzVW5QcHdQVUp3RkJsSVN4aF85WHk2M3l2MExvM3NUalZSQ0NhWHJ4X01sSEJkdWVPTXlyVk0zeWpJbkhmY053alZkT1lNMVdDVlFTcklNbXVrZjJfRU1YZnlUbUlLZlZ1UUoxN3hpQQ?oc=5"
     },
     {
       "title": "Taylor Swift Really Wants the Oscar for Her Song in \"Toy Story 5\" - Today She Campaigned At An All Guild Screening in NYC (Watch Video)",
@@ -2439,70 +2466,34 @@
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSnVfUUdYYk5yZUE3UlFKQnBORE5FeFJEYlk5a29ncjI3SzB1Mk5iNTNmUjRpUnZ1dUEyVkFuTTlva2dWZlBJMURJUzNBejdXeHUxMmN5SHVVdkoxME9oQU9ERExwUjJEVUJQRUE2QTlNQUVQWTNzMm1va3plekw3QnJ0bWczWW5RZ0lPV0Q5UVR3ODVvWUljUGxfdHY5amVJeXVDWEd2WGVUYzRxbzB3MzVvaGwwVlFKSFRrQ0Flelg2VjNWZjVtZWNaUGJHeHhZZnRzN2QyWGc1WWJvX1pYMWZzU2NSVWw0YlVmQ2pjNUZkUUczRTk5RXRxSQ?oc=5"
     },
     {
+      "title": "Is Taylor Swift at the Chiefs-Broncos Game Today?",
+      "outlet": "Athlon Sports",
+      "date": "2026-11-01",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUkRPd3hwTG45czk1MzlvYWpRMTB1WERpd1V3VXpFRTJ6VVJrVU5Sc2lGSV93N1RGX3B0aFlNdlJOWHVyOW44aUJOYl9FZlZ3OVhOS2NzZlJVUVdQTy1oRHZvLW8xMnlWNkxfU0VJU3BYMnFvbFBtb01HNHQ1ZUZ2R3hoN3dJeG90blR6NVl0VmxrQQ?oc=5"
+    },
+    {
+      "title": "Taylor Swift reveals longtime inside joke with best friend Abigail",
+      "outlet": "Yahoo",
+      "date": "2026-11-01",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNakpoUEQ4QW5WQklCbXE5Vm16MGUtblgyUml4SGpJaHpxbGlzYnlxbkRYMDVoUnB4RlZ3Z2ZPN2FVOXBvMWg1aWl0SjZkUy1oUU5CSW1oQlY3NEw2aDVUaVhIVnlIdjR5Y2plcGZXckFvVUxTcEVKaGljUDRoX2xVbzctaWloYVVCY2hsVnVoR3RIeEJYWjRLRGtzNTk4cXRCTWFYMGFUeFVQZw?oc=5"
+    },
+    {
+      "title": "Jim Nantz Makes Admission on Attending Travis Kelce, Taylor Swift Wedding",
+      "outlet": "Athlon Sports",
+      "date": "2026-11-01",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNjVHbWNLZU9wOHhmTUNQQlhROXRlMHlSeGZLU0dVQm4zaEE5a3kwLWFfOFRlbVhGdXY5VzlaTVhyNDFBOWctTzNCc21HTHRSd3RXTnRMMVZKZDFLaWdRdnFMbmhQMm5Zbi01cXhKRXdxRGJGS2dYYWRqZW9teFplMm9mZ2NiRkN0cDBlbXppNThHeHdqdzBwOEpXYkRuVGNFUlN1MmFXQk9wSEFhak5Z?oc=5"
+    },
+    {
+      "title": "Taylor Swift Skips Kansas City Chiefs’ Road Game Against Denver Broncos",
+      "outlet": "Us Weekly",
+      "date": "2026-11-01",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa1kwa0Z0dEl5MGQ0TWt3bmc4WW9WZFpKUFNIeFpWREJsZkVzWHFRMFdES1lTWnN0QVlHNjRyd19SUTQ0STlNZEVBbFNEZlEwQXU4TWpwR05rNzhzR1BfeWtUUXFtaHRhRjBwWnpJaFRPWXNJbkp1dGhlNko0dU1JWmtZNzhmRncxblRzeFA5VElUdFdlbmtGRzBKdEhXdw?oc=5"
+    },
+    {
       "title": "Is Taylor Swift at the Chiefs Game Today? Sunday, November 1, 2026",
       "outlet": "Parade Magazine",
       "date": "2026-11-01",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbmE1NU5sV1BmTzIwcmRNRjhCOWluUU1tQjRUMDU1cXpMQzZwUnh2Vm9qTklXYzlqQzdJZnc3MTdvMmhXb1RzZ1dCTl9lQVhYV0VpM19WbjlQV3NITkdrYTR3UGtLM1Q5bHBwb3NxUjc5NEZ5MjBTRWlleFlrWjFDdGU1dFFXSHczdTEw?oc=5"
-    },
-    {
-      "title": "Will Taylor Swift be at the Chiefs vs Broncos game? This is what we know about her possible attendance today",
-      "outlet": "MARCA",
-      "date": "2026-11-01",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOM0hqUF9sQzFOd0s0T2xHellhTHRXNUl4bzYwY3VPc3NtdUtFUHhsTTNjZTlDeVRuWklnMGstTTRjbjIxQzl4MDc5QUNyRlU1TWNaZ0VDcW5LS0dsSmdUaEcwSlROZVNsOFB0R0tPNUIxdUpTUUxhN1JtTTg5LUQtLU5ldGY0M1haM3J2Q21ZbnVGWmd5UVczVGFKVHY3R3I1ZnBUaVJCOGhkYU0tcHN3eXplZmRmcnFHeC1MSTRMTXg0Wm9HMWltMG5TdE9GZXV6R0hhdXhnR1hNZE9hSnRkNE9IaFJFTWI2enNrSkdwZTExWWFpdkd6S013cFhhU0po0gGAAkFVX3lxTE1OQUlzay02S0w5dXg4eHk4cTZMbUZpVjhsWXo5R2U1cDFFNHp2a09rTGlrTXZkd0JHV1d6NXBXblRVTG9ROEQtSmpvWHRPNjZxNGRRdkV4QmVjWnMzVjlSM3hUVmE3ei1XeTdVdXRmRWllMEpjUWZqbjVzMktsREIweVB1SzYwNkZqWjYxdGhmVDVNaE9ucmIxb2lvSURPUUZuSkFuWXItaXhqNlJqN2tCdlZHcWN6NFFnUzJCQ2d2ZlpJa2JCS3N0T3hTNFlNaUFpenA3RnlKNFBZSWVOTHBGSzBPU1o2Z3ZXVnE1cjRobHJHQV9xSzlVV010MFBmaHQ?oc=5"
-    },
-    {
-      "title": "The Long Island Castle Where Taylor Swift Filmed 'Blank Space' Just Found a Buyer for $72 Million, and It's Absolutely Stunning",
-      "outlet": "Grazia",
-      "date": "2026-11-01",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOXVhQ3Y3NmUzcm1yTWRXaUF6UGpISml3S0dQN3hTMDgzczhQRXVRa0w0cXdUVExIcVlPSFNRa21JaFhzcUE4QjJlcWFSTm9YY2xfUHdwdjZqU1V1UmpXcUF6aWdwWXhQVVJVVnZpV3FfSlhQdnB2N3NJRXZhVzAtbDdlZ25kODJkTGhIbV9mVlVpd2psOTRWaHdQZXBzZmRVazJrWEhFTDBZVDNrUDNrOUU0OWZmZWJPMkFDTFhTMDhjY0V5aTFaaUR6SWtrbFU?oc=5"
-    },
-    {
-      "title": "Taylor Swift Makes Rare ‘Husband’ Comment Before Chiefs-Broncos Game",
-      "outlet": "Heavy.com",
-      "date": "2026-11-01",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVW5nU2NhZjdnMHFvU0w2LXktV014OVFESC1LYU9ueWptNFpzMlNDUXQ3eFUxOElLUHB4bjl6M1I3SlFPWXNhZVREamNIZDQ3cWtYRGVVMXdrcEhSeDd5ejFEUE1aWVRBVGNtcWNSWFU2dlFraFZDcEVmTXI3eDlBZ25ZWF83NzE3SEFoYUQ0QVBNLXRqVlUwUkJrV1pSV2lGX201U3ZOb1VFcXVnT2pZ?oc=5"
-    },
-    {
-      "title": "Why Taylor Swift Hasn’t Been Seen at Travis Kelce’s Chiefs-Broncos Game in Denver",
-      "outlet": "ELLE",
-      "date": "2026-11-01",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbmJJNF9wcEM5bWptckhYZXVxYk00V3hfOVNVelBMNlh3LUk0MjFNS0lXY1pGSXcyZWNpY25RMzVlZzJDREVhRW9VZ2tVbGg2Slpad2JOWXNJc0dnRW5lUjNldzNJV1RUdVFGZ0M1SVhLcXVUVWdpZExQUi0wVHlWd3UzRjZ3WDd0cXZtdEZ3LVU5dkJXaEFKRG5wWXpGejI2ZzRqM0loUXRnVjhtVlVmR0E3Smw1R3Utc29vM0w5R2dwMHc3WDZn?oc=5"
-    },
-    {
-      "title": "Is Taylor Swift Going to Chiefs Game Today, November 1? What We Know",
-      "outlet": "Yahoo",
-      "date": "2026-11-01",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSG5jVUxaSWNTM2g1bXVDTWRiVDByQmhhcm5VSmtSczRRa2x0Q19oX0JFUUdWUVAyeXFYNTg4bnpGU3JmenMyaGtEamlLOWtzVVNJWHZuYVhqaTFwNmd0NmhmcmNlVWp1WFBYenFZdlVBYWU5a2o5R3dCcDE1ekpkdkVfU2ltay1DY0VCX01ZWkxkZGdDRFRqNVBkamMwZlVSb3c?oc=5"
-    },
-    {
-      "title": "Taylor Swift reveals longtime inside joke with best friend Abigail",
-      "outlet": "USA Today",
-      "date": "2026-11-01",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYS04RkJCSDQ2Y1Q2MVRrblFmSTM5WEZIR3hHX295ZUtUMS15cVhyUEFoQl9jWGV1ekxkWnd0RWhYMW9OelZJTXBqSi1MekZUQXB6SFhSU1pOdHE4Ny1vSk1EQkxUYkJncjdYbUxnQ1ZmZW0tQnd6YU1VOUc2Zkg5enl5bUFfWXB3LTRiSGw4YW9QOTdQMkt2eWNucktGVTFLQ3BDWjB1N09hOEpYX1BuYlBGU1Q5M054ajBraTJkQ1htNVNONlpLZWx3?oc=5"
-    },
-    {
-      "title": "Taylor Swift Shows Why the Leather Pencil Skirt Is a Fall Staple With Her Latest Look",
-      "outlet": "Yahoo",
-      "date": "2026-11-01",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUjhNQkVwaFREZUdBR1VxRnFhSU1PYVhDcTdidDBEOTdkS09WdHNoNHp0cWJ6b1FtUEFKb3VqNlBHWnZQZnYxaW1wNDVVbUZxbWoyNnhjYmRxbWwyMkdHM1l2WF95WDJUNlRvd0ZtbGJwRnN1d25XdWFnYTRwbE93STJDck1BTjhCZklhaE1aWFdJbHhm?oc=5"
-    },
-    {
-      "title": "‘Like dating Taylor Swift’: Bill Maher sends a message to President Trump",
-      "outlet": "Yahoo",
-      "date": "2026-10-31",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcm5xYXBpT3ZUTHNUcUhSQTFKWDQwbkJHRlRuMHFDbXRXQWFWb255WXZKa1dnZEVyb3NpemtUNUNwTmoxN0FRamMzbi1mUk9la3ZPaVlGMTN0TjdLVjNxWEt6U2R0azA0bHQzMjVrNUJsRnNxUnVxU3pwTHBrOFV3Z1JpLTNLRFoycWFuNHJtMkpBU04wVEpxQjNUVXRQSFdOcGc?oc=5"
-    },
-    {
-      "title": "Tim McGraw denies performing with Taylor Swift at her wedding to Travis Kelce",
-      "outlet": "Yahoo Lifestyle Canada",
-      "date": "2026-10-31",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPR1RtUVljakhnd0otLUd2Ymg5Z2xGSmVVaU5nTHRYaTgxcnQwbkh2R3h4TDdkLUtvN3pPbm0yakZ4SVZzdGRTcFNTUGdOOUVPQ1NVUzgxeXExZEtJS2gzcUZJTTJSbVV3aEo5RVczaDU5SEVrUXdzX04xQ2tzWjJjLXctNA?oc=5"
-    },
-    {
-      "title": "Taylor Swift once paid Nelly $50K in a McDonald’s bag for a three-minute performance",
-      "outlet": "HOLA",
-      "date": "2026-10-31",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTVVBeXF5ZF9ZU1RDQkxFcU1oVzkwU2tTQ0lSS1ZNdExGVWM1T0JJdk9LQWJ3T2dDY1RUR3NTQnY0bzI2cHVGQXh2aHd1NklMeEhveFU5bFo4bmRlY2RJUVJ4Z3dYVFlNSWR5SllhSGpfOElZSFNnTzFYX2V5dUZKXzhIbWVzamVWOC1lX2hIcjJHZ2ZMY1FyWFZadGhQMFdFVHc?oc=5"
     }
   ],
   "bio": {
