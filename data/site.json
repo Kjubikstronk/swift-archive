@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-05T06:52:06.934Z",
+  "generated": "2026-11-05T19:59:01.548Z",
   "artist": {
     "name": "Taylor Swift",
     "full": "Taylor Alison Swift",
@@ -326,7 +326,7 @@
       },
       "releases": [
         "itunes-1595423133",
-        "deezer-68491961",
+        "deezer-130716962",
         "itunes-1440934573"
       ]
     },
@@ -436,7 +436,7 @@
       },
       "releases": [
         "deezer-874936972",
-        "deezer-227786",
+        "deezer-72093192",
         "itunes-1440932737",
         "itunes-1860454442",
         "itunes-1445940437"
@@ -1517,6 +1517,8 @@
       "copyright": "℗ 2020 Taylor Swift",
       "genre": "Pop",
       "via": "apple",
+      "recordType": "single",
+      "deezerUrl": "https://www.deezer.com/album/148632802",
       "kind": "Single",
       "year": "2020"
     },
@@ -1595,6 +1597,8 @@
       "copyright": "℗ 2020 Taylor Swift",
       "genre": "Pop",
       "via": "apple",
+      "recordType": "single",
+      "deezerUrl": "https://www.deezer.com/album/148650942",
       "kind": "Single",
       "year": "2020"
     },
@@ -1635,6 +1639,8 @@
       "copyright": "℗ 2020 Taylor Swift",
       "genre": "Pop",
       "via": "apple",
+      "recordType": "single",
+      "deezerUrl": "https://www.deezer.com/album/131557962",
       "kind": "Single",
       "year": "2020"
     },
@@ -1817,18 +1823,18 @@
       "genre": "Pop",
       "via": "apple",
       "recordType": "album",
-      "deezerUrl": "https://www.deezer.com/album/9007781",
+      "deezerUrl": "https://www.deezer.com/album/302068167",
       "kind": "Album",
       "year": "2014"
     },
     {
-      "id": "deezer-68491961",
+      "id": "deezer-130716962",
       "title": "Red (Deluxe Edition)",
       "date": "2013-05-14",
       "trackCount": null,
-      "art": "https://cdn-images.dzcdn.net/images/cover/56a83d3002710bf2044b86c01db665aa/1000x1000-000000-80-0-0.jpg",
-      "artSmall": "https://cdn-images.dzcdn.net/images/cover/56a83d3002710bf2044b86c01db665aa/500x500-000000-80-0-0.jpg",
-      "url": "https://www.deezer.com/album/68491961",
+      "art": "https://cdn-images.dzcdn.net/images/cover/177ec7bf4d0fcd50e9ece647fa8474cd/1000x1000-000000-80-0-0.jpg",
+      "artSmall": "https://cdn-images.dzcdn.net/images/cover/177ec7bf4d0fcd50e9ece647fa8474cd/500x500-000000-80-0-0.jpg",
+      "url": "https://www.deezer.com/album/130716962",
       "recordType": "album",
       "via": "deezer",
       "kind": "Single",
@@ -1976,7 +1982,7 @@
       "genre": "Country",
       "via": "apple",
       "recordType": "album",
-      "deezerUrl": "https://www.deezer.com/album/689149",
+      "deezerUrl": "https://www.deezer.com/album/130716982",
       "kind": "Album",
       "year": "2010"
     },
@@ -2046,20 +2052,9 @@
       "copyright": "℗ 2009 Taylor Swift",
       "genre": "Country",
       "via": "apple",
-      "kind": "Album",
-      "year": "2008"
-    },
-    {
-      "id": "deezer-227786",
-      "title": "Taylor Swift (Deluxe Edition)",
-      "date": "2008-10-04",
-      "trackCount": null,
-      "art": "https://cdn-images.dzcdn.net/images/cover/9c0e80bb3c16e1c987cf235929eb7757/1000x1000-000000-80-0-0.jpg",
-      "artSmall": "https://cdn-images.dzcdn.net/images/cover/9c0e80bb3c16e1c987cf235929eb7757/500x500-000000-80-0-0.jpg",
-      "url": "https://www.deezer.com/album/227786",
       "recordType": "album",
-      "via": "deezer",
-      "kind": "Single",
+      "deezerUrl": "https://www.deezer.com/album/130714702",
+      "kind": "Album",
       "year": "2008"
     },
     {
@@ -2074,6 +2069,20 @@
       "genre": "Country",
       "via": "apple",
       "kind": "Album",
+      "year": "2008"
+    },
+    {
+      "id": "deezer-72093192",
+      "title": "Taylor Swift",
+      "date": "2008-03-18",
+      "trackCount": null,
+      "art": "https://cdn-images.dzcdn.net/images/cover/e9dd628cc4dd15850a13b4151cce9075/1000x1000-000000-80-0-0.jpg",
+      "artSmall": "https://cdn-images.dzcdn.net/images/cover/e9dd628cc4dd15850a13b4151cce9075/500x500-000000-80-0-0.jpg",
+      "url": "https://www.deezer.com/album/72093192",
+      "recordType": "album",
+      "via": "deezer",
+      "deezerUrl": "https://www.deezer.com/album/321177137",
+      "kind": "Single",
       "year": "2008"
     },
     {
@@ -2352,148 +2361,148 @@
   ],
   "news": [
     {
+      "title": "Taylor Swift’s ‘Shake It Off’ Gets a Marching Band Makeover in ‘The Cat in the Hat’",
+      "outlet": "JubileeCast",
+      "date": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOV19xd1g5QXZJeUoyT2t5OXA3bmJ0dTgyem9pQ0I4eUZXM3lFX2QxZlRtNG80cDlWc1l6cGtpYTdWYXJ3dU5LT1UxRFRaTjFmX0JlU0JHZGxqMy1kWkIzX0JKUmhxcjBTa0ZVRXQzRGdHc0RHRFNtSmQwVURtSWlRUTBRSkVBekNCTDNTbHRPUWVmaG1VdUNwbUIxdWNoQXRfSkRxelFWSWRUakpwejh5V0pNc210ZGw1QVVNQjJlemgyYlpQTEFPajBfMy0yTV8y?oc=5"
+    },
+    {
+      "title": "Taylor Swift Faces Criticism for Staying Silent on the 2026 Midterms as Olivia Rodrigo and Ariana Grande Push Fans to Vote",
+      "outlet": "Thought Catalog",
+      "date": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNOTlvdmh4MTJZNmFPYVRranNCNWxPcWk4VDdKNG1KdFJaRmdKOTNzTG1hR0dTSnA0VHpuNHoyRVhTQzJFUEY1VjdJWkhjc09mX0RRVjRISzE5Z3lDYTB2VmF2Sk40WTZwWjNPUnFsdDNrbTNlREpfX2hyTmlrNExEbUZoemVWTWl6TGEtbDZhVkZ2ZUVoalZaSlBOTmdYTU96VTIyVnczUE40VUNSc0lna2JpLXVqc1V2UmVLRklGWURhOFlqbl9Nb09LNDVNNmVEOXN0WEo4bFYzdm9pR2k5QlljWGhDQ1pwVVdVLVBGMXlTeHkzbmRBbjd3ZXk?oc=5"
+    },
+    {
+      "title": "Doc Coming On Terrorist Plot At Swift Vienna Concerts",
+      "outlet": "Yahoo",
+      "date": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY3g1RGFsaXpjZVY5TDdiWTZrQXRQTVIwYXhJS3FKUXFEYXA2a0dqYkJVQzItSThOaEdnMWdNZkMzLWUtZHdRcGZBS1o0c0NEU19GRkNuRnJhRlFxU0xwQnptUEpEbVpHTGF3d2E4WDA2azQ1ZGJCMWxzYkluWW5iVUplQlNqcDV5WktHMXBWMEYyaDhEbk5ybXFGLW5sbkpDWG9WWWlJYmlXQQ?oc=5"
+    },
+    {
+      "title": "Sydney Sweeney’s Boyfriend Looking to One-up Taylor Swift at Wedding — Source",
+      "outlet": "AOL.com",
+      "date": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTXBFcHY4dzlsS0FJZE85T3NFdWNqV3FCQmxSODRIV2t0RTU5VG52X2xyUnNZc3gtZktQaTlNbm9IMWJFc21KbkdRN2xfYnNyaTBtOEQ2eTRBVmE3RnRUOHVZMHpjMUxyMHd6N3h6UFRSTG8xVU43bkxKYU9QVjZSWTJKUkN3OWs?oc=5"
+    },
+    {
+      "title": "In 2015, Taylor Swift donated proceeds collected from her 'Wildest Dreams' music video to African conserv",
+      "outlet": "The Times of India",
+      "date": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPSVpDLWNBR01ZdjZuTUNJR1phZFJLcjg0NVJweHdJQUtxc25DSnJYdmN1V3pMeHA5QzMzcTBJb3NFUUo0Zl80VHVKZC1LSXlpYW9kTHJ0R0J5QldmTFBKY3Vad0VvRV9MeDl4bXRWdnJxV1RPaXZFU29JS0oxWXFkSVluUXhITG1KelRYa3lwWDk2Sko3cUJiTExkRXRFcDBUQV9IejF3VEpkdmNuN29xbVBSYUJKaFRibDdkLS0xRmFhRUdKSTFLb2JLNFVuWHZlQUI2VHhSNnhhN3IzWllSQW1JX0R4LTJQVDE3QjdlUERuLWhKdEdGelVJeERXcjJzRzBoWDVyem5WTW9Gai01SlJOYlBzcVRkc3pLYWVTQmtVaXlWRmJIWm85bUF6ci0yY2wwZUdKSTNha1V2T3pkcDM5SjJucFZySHVpZGRLVjc3am1EaldYWFdjcHV3ZzZpN0R5a29MTUpBSWJ5LWdVb2VzenZ4UE4xUjBpV0YzRFBMXzNrN25DcU5FT2Y5X1NTeWdyN0NGdkhwd9IBnwNBVV95cUxQT1l5Ym1OUUdIXy1fUWFZZzVFX0lRc2swWjh4alZvZGZtX3NzSWdaQjRXMHQtUnF4UlpGYzd1Z1RSMUUtSGYtcDNGSHFDUVJJLTllVHpmdUR0S1cwWE9hbDJMemwySmVjUjdMT3FVVXQzMHlXZFc4TTg5cE1RcGotVVhFaVNGM2ZtZEk1ZEg2Z3dORTFPQ01GMnJsYUNwRkpLeDdMOXVDMHBuNGR5U3N3d0U5MjBoWUFNcENvYzk4VjRRVTRjU3RaZVVtc094Q2d6RjZoR2RUWFFsVURfV3Bud0Y5TUhIQ1JVbDR4cm4wdkVDamM0V1pxY0FpOWUzVkJJejhZSEkzQ3pQckNPay1HLWdhNFA5Ny05eHE5S2EyTTdJZGs2cW9yN0JXSEQ1TS1XZWZwM2xJRFg5TGhnWll3UWt4Zkpka1g3c24zNlBuRWs4VU9XYWVIdFg5eHF4SUY1Q2FybzRhQWJ0TFVQUk15d0FEeFlhV1o4dXE2OU5nTUE3N2k2d3JSRDdvN2xtS3Q2V3dtVFY0VHdKcDBXN1NB?oc=5"
+    },
+    {
+      "title": "Taylor Swift cancelled Vienna shows to become subject of upcoming documentary",
+      "outlet": "The Express Tribune",
+      "date": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTmJNRVFMQWFxWEZvN3ltQnUwRUItdEd0bVR4MlJmcGg4S2hxV3g5a3ExSDJ0VnFpQi02Rm1VRkJqc05IakwzY0ljWFdVaTNKOGNuX28xc3JXUXVuR2tPZlVNQ0VBSWR0WEJ2VTdCemIwN0NpUjZqQnVzbWxCZE14WW9lSHNwYkZDY0Y5VlJmRE5GUU1MSlRtYndpMXF2MG51cnlPb2o4OHRwZDBGYmI2X21UZ0rSAbwBQVVfeXFMTWNYRjFoMVVJYUl3NERxSGQ5WjRnbE9EY2pJdzZkUG9PQXJYRVBNTVNxTUl3a08tN1BiRFFTdWItYk1ueHJWR2hBNnM2MzY5NXJ0Y2k0dWpMUFpMd216emJEV05FNTFFQ3FnMk9aVFJUWFpnZndJdDFralFsNWlISFdpUnFuVUlOUTh4Y1dHZWQ3Y0lvWjdlWjR2V1dMcklWMnVkY3lEeXI1WlZvemFnTmNUMUVoQ0xwSl8yYWE?oc=5"
+    },
+    {
+      "title": "'Gilded Age' star Carrie Coon gives unexpected suggestion to Taylor Swift: 'It’s very good'",
+      "outlet": "The News International",
+      "date": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdGRHSXNuUE50OTg0eHVRMVU5WFhLQzlCMXpWVlNDWVNUSEhaMFFTUWw1QmwwNGlfQ2Q2Rm03QzlwUjZXUkVGSkNqbEpTZ2F6OFA0eGFLVXV3eWZTNGRQd0ROS3JHbTE1c3Fya2p6dVIzSnhJMTJ6WE1YdUN2LUJ1d0RnNVlKRWpVS1FTaE9jLTlUNGxVSmtTQVVUbzdfeWQxc1dQanhwc0piUXZjNUtzLTJvN3d0cVFtN1loT3AzQ2paS19wWWVR0gHDAUFVX3lxTE5DNVZfa01nQ2hBSDBPYk5xVEktTkxHMzh5MGgzSW8zWTNscVFZRS1PUU5Ta3VzSW44dUJzSWFDWnBTc00xdWhzWHpDVzB5ZFl0STZuLTV4S0UyamE5SklRdklwUWlkSjJfOHRTcVcxM2tUaFJtaXFuMU9pQ0p4MlgxTmpmSWVHbE9sNEtfbWtueE1fbUlpNEtubU4wS0pINWxBVGdJTG1ieWt3TXJTM2NvU1pFcURiWEhmTEFiZHNFM0I5RQ?oc=5"
+    },
+    {
+      "title": "Carrie Coon Reacts to Taylor Swift’s ‘Very Good’ Impression of Her “Gilded Age ”Character“: ”‘She’s So Bertha’",
+      "outlet": "AOL.com",
+      "date": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOekNZMlJCRTd3SkZwcUtzTHUzSzU5OW9xME5zT2RQVC10bU1haUFmNnU2eW1OS09hZ2dIclNnZ2ZYc0pRQWZNbUtGYTVxcTdSSFM1a05NWFdNMGx3aS01cUk1RGoyeWhuZElUZ2ZoRU9FYURqOGtCX3VWMXB5LXA0aQ?oc=5"
+    },
+    {
+      "title": "Travis Kelce Jokes About ‘Christmas Onesies’ for 1st Holiday Season Since Taylor Swift Wedding",
+      "outlet": "Us Weekly",
+      "date": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZTBBNFN1TlBHa29VXzNxR2RHUEhUTS1vVi0wb1lyeXZyenkwN3d2SElzZ2VDZmVJcVhTLVVKeGFQSzM1QTBWUWFSbWRQOEtHWkJ0bWZUX053ZWZ4SVd6Z2otbzZmQjdKbm5JdEFWQndMYjZINEJfcFBTcXZ4NTlBMjV5YWtITDQ1cVZOc1U2NlZ0M29INjZpZl9TSWpvYzlPcW9wRklqMXJFQQ?oc=5"
+    },
+    {
+      "title": "Taylor Swift is said to be ‘genuinely anxious’ amid backlash accusing her of politician-like behavior in awards campaign",
+      "outlet": "AOL.com",
+      "date": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTlN6Q3F6NE9PbWJITlE5Z1dnbE5TUnJWOEFfS1l3OXM3dnd5Nkp3cUlDN2tPdVF6LUUzZVVJcml4ZlV5QWRTYnhnLUpnajVMaGFmYXlyQ2xpanZGWVBiaDRubVRkbGFNVkV4NmpnNUszRlhPRTIwMEstcGdhckg0NE5yUGpjQQ?oc=5"
+    },
+    {
+      "title": "Lover-Era Nail Ideas For Your Next Taylor Swift-Inspired Manicure",
+      "outlet": "Yahoo",
+      "date": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUnMzaUMwVFY1Q2cyTEVteUY1dVpLOVNMVGpyUjhySW84TlgxNl9jMWE1b3dCTEpTajZybEZYNTRQWkZCdTctUHVtLVl5OTJBM1dSMXpvekRUejJ0bEtLOUZzdjJzY0dQLTFrTl9aUlduRE9UUGFTTWxzRmVESi1SSE9NUWFJRjR1Sm5waGN3a0g?oc=5"
+    },
+    {
       "title": "Taylor Swift’s ‘Patient Zero’ hits home for domestic violence survivors. Here’s how Haven House helps",
       "outlet": "nwitimes.com",
       "date": "2026-11-05",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUHFxSHhaX0hQeVlKcFBCMmF3OEpMLWF4MV9tSDVUQThtTklDQmtfbW91M3FuMXdHLUVyWlgzSjMwRnBsUEQzUlQ1VmFjYTJpekJjYmhPdGRRZzE2Vm5DZUNMc1NFU1RUMmxNZlM4R3QzbFRKZzVlTmxTcl9DVVJaUGZLTWdiZw?oc=5"
     },
     {
-      "title": "Taylor Swift Had to Shake Off One Concern Before Saying Yes to Toy Story 5",
-      "outlet": "E! News",
+      "title": "Carrie Coon on Taylor Swift, Matt Damon and THE GILDED AGE",
+      "outlet": "BroadwayWorld",
       "date": "2026-11-05",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOVJRWDh2V091NGJYUzZmQnVOMGttLUMxVldxX25xenZPQ2hZemltSEt2anRvYS14VVE4bHF0ZmowdV9ZQklKdUpqQ1ExbWM0VTgza3JUMmh6WE5ibWMxbHo5aFRHRmtrcy1OcTB2bFNHTDU5NGxOWUFteGtGNUdBeDYydXVIRWNvOVNGOWZoaDE3dUE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPc2FqMWY2OTROeWE1SFBQOTJVUVdrS0ZwbU43aU96V3RmVlFpd2xnbG5jM21nZ0xCVnFXTlhjcUtqWHQtRlo1XzlzV3MxdVRiSmdqdGFTTmtoZjVTdXpFQ2VGTUhZc1owV20xemhXcDJrcEctUERROVlmbnJsQnpGQk9yLWtHRldxaG5EQXNoVmpPenpkcDNMSU5NT3F5ZlFsOWotSG9LMnZMdllPNk5J?oc=5"
     },
     {
-      "title": "Taylor Swift (Musician)",
-      "outlet": "Rolling Stone",
+      "title": "Travis Kelce Makes Sweet Admission About His First Holiday Season as Taylor Swift's Husband",
+      "outlet": "Heavy.com",
       "date": "2026-11-05",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CZnIzZnRCU2ltM3JjYXFuOXRNalI4dWVyU1B3NXBTN3RJc1A0M1hZMWNWekljVWFpaVNVdXZkTW8zd3Y4eS1ISTBsSFdOMGRZVkcxelJ4OA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUDZjMDFQbDFxSVJPSEFCQjlaTG03cU9SdUQ3TGV1SEtnTGlMbEF6SXRfT0NmSVJwYUd5RUFfM2lGZ3hMY2lyb1V6V3dZcXBpY2FfUGhzYXRBZHE4V19LeHZVYnBxS0VNOXZoVnY0RG45bnR0M3VpeFZmOC00VWRkYVVtQVM4UHVySF9Od1BreEtFOFVNeU1ZRXU5S3hfdXc1Y2tQbll1TQ?oc=5"
     },
     {
-      "title": "Taylor Swift reveals the unusual habit Travis Kelce has to put up with",
-      "outlet": "Riviera Radio",
-      "date": "2026-11-04",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPekJaRGJRQmdHZ21WMkhLcmlyZTk2RmxBVk9Bc0tKSmdLZDZKbk4yOGZYS2JVdXJkcFk3OGdVOU1nRU5YeVBwQjc0YVNFcUszNlNhM0ZfeDFFWGtucTRmMDVyVWUzU2RwYTFQVlJZOE54WlFUb3QxTkcwaUttVzNoT0NXaUxINVU3X3FZOURORzNPNnRsTktDU0FaNm5QQTdlaTZXSFAzVXVsaWtoZHBsY2p0Rk5YVVlR?oc=5"
+      "title": "‘The Gilded Age’ Star Carrie Coon Wants Taylor Swift as Season 4 “Nemesis”",
+      "outlet": "IMDb",
+      "date": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Wdmg4eGF3aEh0SWFaaGhwM2RlR0dWU09RcWZfTndtLWh2cklRUTZaNElNY2ZLc3BmMlNsNU9QbWxDVzdDZ1ZxTGVReGhRVVRvQ05WYXVtV3hjRmo4emhyZ0F2TnJaeGc?oc=5"
     },
     {
-      "title": "The Cat in the Hat: Why Taylor Swift Was Perfect",
-      "outlet": "Comic Book Resources",
-      "date": "2026-11-04",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80My1XbUktV000TDlGdHVBaW1wdEhjSlVDZmFkNGxxcG1ral96SmgyeURUQ2ZDZEVVN19FV25mY0xtU0gwdFlSREpzSUE5a3VYQmYtbjlFa05fNG5ZM3cwUlZ0Wlk4RlNxajNKbWVJR1ZLSUhIeTZyS1JSd2txZ2c?oc=5"
+      "title": "Travis Kelce talked about his first Christmas with Taylor Swift and made a funny request",
+      "outlet": "MARCA",
+      "date": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVWs5azYtaTBsY1NxdVRvLVAwb3ktdF9CU19KaFpLSjRfU2FhRFlXLVQwdW5tdkRFUzJ1Y3hhVDVmbC1jZUJVN0hQbmZLWUFsdWFDLXdxRURPVHo5b3V2SXVPT3pwZUNQbEp4aXNjYlh5UDdKdmlmSWxOd3U2d2dmRkVZT0V1bGFKVndtX3RUQWN2Qmt2UXZPVmo4OFByS3ZNSGhEQ2p0aWhPMlJ4NnpLMjZ4UzBjQTFlYUNQQTRUSENDbm1OVVY3enFQd9IBywFBVV95cUxQLXZuVUtacml5eUVqXzFXS2lPaWJVRWtudWpvYjJ0SlUyc1NoQ0RqWFViNkZQUVh0MnhHVnc4Z0xLUWdEUW8teV96c1V5Uk9yQk1tbWhFcklZVGdCek1scWdVRWZFSEdycDJtY3BWX3JXSG1Gc1I1dmUxWTFrSVpxLVBHc3luYTJPeV9qdGV6Sl9CaWM0ckNLY1JEN25DM3pyS09nZk5DRUtnSWdTRlNZTW1wX2xUV1Jwb09PZTBzRnpiNUVtVDAxZFRDWQ?oc=5"
     },
     {
-      "title": "Taylor Swift Paid Nelly $50,000 in McDonald’s Bag to Perform ‘Hot in Herre’",
+      "title": "Taylor Swift’s ‘Patient Zero’ hits home for domestic violence survivors. Haven House helps",
+      "outlet": "nwitimes.com",
+      "date": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9vR1ZseUg3WUxKRzdVSVNyWEw2blk5aE5BSHp1WHpyRV9Ic3hXLVdLc3NUTnRNRF8wcmc2SmkyZ1VndVV0cm1NQ2dRYTZoTmd4eFZmZmhaOHhIbjdORS1NeVRwd3M5dWE5eFNQb3hhMHNlT3lYRzRF?oc=5"
+    },
+    {
+      "title": "Taylor Swift’s Canceled Vienna Shows Are at the Center of a Dark New Project",
       "outlet": "Yahoo",
-      "date": "2026-11-04",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWFdieG1rSjd2Mjc0YWNTb1NlVEo5ZUk1M1c2T3NtZ0pnbG56TzNyQm13V3VKbXNMd3dubXU5ckJtdUZWM0hDQTNlOUFlRWRGdHBKVF9LdHF6cG1YN2J0eTdGM0ZQMldxQVZLLUg3eENGZjRIeWdtaXVqcExVWGpnWHFneHRDeC1tTy00NjRoUkh1eDlXUGRr?oc=5"
+      "date": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMGVsaVB4bE5kTXMwZkRXTzJ1REpCa2NLcWVFSHdRZlRIc2F1R1BNbDhjc2hYRTJMQWVTSXhFek5lU2ZLSHlZb0VVbk9STEl3T2l0OHVSa0pPdG1uZnBwOGE1bDhHRnVvejZLSXlLZUluR1plTGdTUVcxUVBuemtiQkNRdnB3cmItaEhRZW5DcU45X2tNR09TLTV6ejZjZUVNNGc?oc=5"
     },
     {
-      "title": "Why Taylor Swift almost passed on Toy Story 5",
-      "outlet": "Yardbarker",
-      "date": "2026-11-04",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcW1fNHFBb2VHWlpfOEVyUUttS2xDOTBpMTVET1BSdm1lUG03NWdQVW5HTEl2bG4tc2hLQVBQQ0JRWEZqSlNJUHF4b21jeXhjemxGUEw4UGtWZk5DUkctdGVZVkZ0ejNWbzlkOWRGbEYwMG9NNklWMDdaOFFIVUVIbko4dVdXcWtMRWhHVk5KbVJYWlNGaFNhYVdLanBTVlpPRUdtWTdfeVJvMlhITzBZdXk4NA?oc=5"
+      "title": "Carrie Coon Applauds Taylor Swift’s ‘Very Good’ Impression of Her ‘Gilded Age’ Character: ‘She’s So Bertha’",
+      "outlet": "Yahoo News Singapore",
+      "date": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fQ09GXzVycFFvb0Z4X2tLZDh3dmVFYTV5WklTUkdZeEFIbzEtOWo3bU9oQ2JIcXROc3p6bDlVU1MxOVY4dlBMdTdJZDlDZDcxY1BibmRBSHE3S2tMVnlsbWZZMmNCNEhCTUlIazhtbWhKUnM4VG5YMjh2VkJEZk0?oc=5"
     },
     {
-      "title": "Taylor Swift’s Movie Soundtrack Songs Highlight Her Musical Journey Through Hollywood",
-      "outlet": "WPRO",
-      "date": "2026-11-04",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPemtfaHlRekhVMFFvZGg0bUV1SW5aU080WEFtdWxLQ2VNSU5pa0ZvQ0tzUUplRjZVZ3pFZGd1Z1hWaV9GMmZqR1Y0Nm1ycXZLdlY3cWE4RHoxQnc5azZ5S3ZaeV9BcnlwRmJZdVVkZ3dBejFKV0F6aG44MHd0dTNvYUxaV3hjX3JEVU1aS3hmenlSbUQ0Sm4tTGJoZzRhSUFtQWtEQ2pzODFWYl9wdE9UNkVncnRJbnNjdHBFQw?oc=5"
-    },
-    {
-      "title": "The Cat in the Hat Cast Talks Emotional Moments, Taylor Swift & More",
-      "outlet": "Mama's Geeky",
-      "date": "2026-11-04",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9oQ0YxOVJ5NHREYk45LUY4TTYwMTFLRU1YYzhsSGo4SjBXZE1jNk1QNXFXVWlVakxNekV0M2pHdFY2NHN0VVVaandQNXFQNk1hRFFEZDJqVHl2cUkxRS1nRzBtbHhkVzhGX0duQVNhWVJQYnc?oc=5"
-    },
-    {
-      "title": "Taylor Swift Making Friends ‘Uncomfortable’ With Furious Hunt For Wedding Leaker",
+      "title": "Taylor Swift reportedly ‘genuinely anxious’ after receiving backlash",
       "outlet": "Yahoo",
-      "date": "2026-11-04",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWDczTjA1Q0FlWDZFVWY4X0p5SGtaOFRzaUUyQS1FOHk1TEF5MGdyZl8zUlFGR1ZOekZvZ3dPcjFvV3ZqcWRnREFmbzNDWjJuTkhlTzdRalc5WkFpUkRmNDVHZU51aGp1dUZVRk1BVm1NM01YNFAxd2lXNVhtZFBQOEQ2cUtDYWR1QzJMZkRZRUFBN3MxSGkyLWJBdWxuMEFscGl0TVRNODdQZVlPZWVWRw?oc=5"
+      "date": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN0RWakFibGZ1U2JmaEI5OHRXb0JMSG1zejgtMGJUN2Q0MXpjTnlpWEEycU40djdBMU5IOElSM2xWNXNzUmxqWUQ3dGZ3eEk5cXZPbF84UDVoRjRaNnc3UkU0UW9HUDl3SlZlVmNCZUsxVUp6VTI1aWNoVVpBNjNvS1RoNVBJdTJ0VDRwcEJyU0ZuN0h2eFBTTFBDNnlLUFRzUklUc2dVQ2FIcDlqQ0FwRg?oc=5"
     },
     {
-      "title": "Travis Kelce and Taylor Swift reportedly burned their wedding setup after marriage: so much for privacy",
-      "outlet": "The Times of India",
-      "date": "2026-11-04",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxORHd5Rlk3RG5qOXpkdWxESTdCMnZRRWN0a2RnRFlFeUJ5a096NHBtUFFaRWZnSVZWQzBKc2dlMG5GWm5ZT2FRWjF1dU1teHB4MWlrODB2Um5TblV2UnJTTU9wdEVDT0VMZFV3MnVWZUhPUmx5b283TDhiSzdNZHdScmczaVgyRXhwRWhPRVVXdjZkRHB4Q3dQZzR5dzRyVnIxT3RVVERBLTZ4aDNEdGFsSzk5bzJUZkhsa2hZZ3VBbjdvWFo5bHVnd0JKTnRHcV9pRXNHckM3RFUxVjdBN0F0emVyT0pKUWVzd0U1Q1pCU0dXYkloNUd2MTZGcXVKV1VKWU5VR1BwR3d6cW850gGSAkFVX3lxTE1xSG5BZFVIdlIxSFREcTUxdVd4Z0FMdndaWnJNT0NwR2U4eGFfMGstNHVMMkJNVzVVenRLVmFBdzl5TmVQZ21TcnNYa1hIUnRFazNHc09nY2dPV192Y0Jja0FLZXZPdWhNTGwyOHpEbnd2RWNsMkljcXV3a3RqR2dFS3hldXhLUFd4R2Q0YzE4dzN3RWE2YXJoZy1ucG9nRnlOeUo0RWpHNTVzaGdYTVhBdHZmTHktcFRKLXRxbkhMaldOeEhEc0k5ME4takNIVFBjWDZsWHlQQWRJNy1CRVRrSGp1ZUJlY2JvSkNyb01CdEZmSjdUamp3RVF6dUFtOFJtNnJJcENCYTJaOXgxbVVkcmc?oc=5"
+      "title": "Stella Lefty Is First Country Artist Since Taylor Swift To Perform At Capital's Jingle Bell Ball",
+      "outlet": "Holler Country",
+      "date": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZzctSy1iX1Iyamp3SmRRV2tNZzd3eE9CWXZ1aHc4Q2hzaWVFaWRjbEIwc0I2X2VTWng3ME9QaWdPY2MzV3Z0SEFiWXhjR3hDdWlJLVJWQjNNMFdLb3p1X0dXQlB3alh4QUR5OHViYThsMndhT193RmRObzlad1BxMlFtTDZnalpmODBGYkljdVFVanV2c0JwQTNMWTBNV2VKUktBMEZ0ellnN1FtV0V5V3J0dlFSeUFTbUNBekR5dFJHN0pYMl9HZ3ZBOWtNUQ?oc=5"
     },
     {
-      "title": "5 things to do in McHenry County: Stand Up Throw Down - Millennials vs. Gen X, Madonna & Taylor Swift tributes",
-      "outlet": "Shaw Local",
-      "date": "2026-11-04",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONDJPb29hNU1sZk9vbEc0UWN6WVMzZU5XNW1vM1J5QUN1MWpZU0xvMC1lQkt1MG1lOV9tUFI0emFnZ2JUTDFxQ21BbngybTRiS3FXSXNoay03MWMzcTlyR3otbmFKYVlodFQtNGRoeXNkVWQ5UnVRR291NkcxSXlTSkE0XzFTVGdsOHJpODNCZElrV28wVDNodF9nVjI4RE54T21PYTdjUmZIbFNOMFJMSXBINVJ2a0pyYmZFQm5xdmFpR3NxdlhPUVB2dzMtM2l2ekpNWGkxT0RCX1EyMEdJYUpLamw?oc=5"
+      "title": "Travis Kelce 'can't wait to start new' traditions with Taylor Swift in 'first Christmas as a married man'",
+      "outlet": "Page Six",
+      "date": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVWZKbHdjaVRyaHpYc0ZWcjFxaDJXXzBrMG1wVlZZNjh2NW1rbUhDbklkZmU2eEUwWXNPNWFyRkd2OEVOOGZ4ZjIxcFVkZllxWFQzbWVCVTNTYUd1aEd6XzdTWU5abXJuaTNCNXBTVG9IY2xqMVA1UkxZbEJDdjlsNmRjSExTQzBBVlVXdFhnWVVRbTJwbWhWQ0s0LW00TC13RFltY2tzV29tWm1kUW1NUnZiME51eG5HNXpPYlBZYnZ6bXI4a2NVQmdScVF2M1RtUzk5VHlvckN0MlRHTTlF?oc=5"
     },
     {
-      "title": "Taylor Swift’s campaign",
-      "outlet": "Gossip Time | Allie Jones",
-      "date": "2026-11-04",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00Z0JmMGVHanE4R2NHVDlTbEcyd1JSV1daVGtnVmtVRDk2S3Y4eENERlp6d2pIcXVkYzZ2WlBVVjRyM1lDd2tYcVFnVU1lcUplWWFvby1ndnk0cktwTkNYbl9TTkRaVDdNMWFJZVA5eVdUb2UwZEMxaDdR?oc=5"
+      "title": "Travis Kelce Shares His Excitement for First Holiday Season with Taylor Swift as Newlyweds",
+      "outlet": "People.com",
+      "date": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTzhOa3pSVFpVYVNSY2FTOURsMzk5NkUyemdfcS1ya1RHSDNmQ0EtcHdpd3VtZXZQb29BNnVLSWpWTmRvaGZ5dHAtbXZhTGNhd0x0THBFSXI4S01sQlNuQTVoU2FlUFMzWkw0UXBWYzVuRk80dWF3dlJBallDaW1neXhpbUhqcnRlR1BYdkx3Wjc2d2JVNnZEVWU5WjNYalBOd0NuTzBYQlVVUW8xcEppWUhHUkpZTGpDTFE?oc=5"
     },
     {
-      "title": "Taylor Swift and Travis Kelce's New Ohio Neighbors Are Already Pushing Back on Their Plans",
-      "outlet": "Yahoo",
-      "date": "2026-11-04",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMDZqd0lkS2gxbkpOLTgxTzF1aWN2V2VnUnZGUDdTY1lJV1lBRGpIT3FwMVNiaVpMMHRPMWc5Q0I2eWItRm84TGxPTTUwY1FGWjZfZ0pxY0Qyd0Y0OG5KdFZ6alFYUE15SkRxeVFoTWF5cE9MdTgwS3dWMHA2RWlmcTBzMEY2ejJtSFRsM3JScXUxWTVHOGlpaGVwQXd4cWlkZTBF?oc=5"
-    },
-    {
-      "title": "Taylor Swift Reveals the One Condition She Set To Write the Closing Song for ‘Toy Story 5′",
-      "outlet": "Parade Magazine",
-      "date": "2026-11-04",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZERiOHlYcXZGWllxNVFLN0lpUDUxNTJvQTRYbWYwektPWV9GU3U4djE4LU5ra0JJM0FQYlU0bVNPXzEyYVdtLU9mSVM1dUtyMU83QmRNaHZlcEt4VzF6NV9DZ3VyOFZnMmRDX0gwTVc0dGs5OWZ1RkJXTFd0NkJjSkdTZ0xWRTgzSTBKWXFOSVJoWFBzQ3dOU2hTVDJmRXpYQy1SNHlfRnJEWWlMRHVNRWZB?oc=5"
-    },
-    {
-      "title": "Taylor Swift’s Oscar Ambitions Take Center Stage as Travis Kelce Addresses Costly Chiefs Mistakes",
-      "outlet": "Yahoo Sports",
-      "date": "2026-11-04",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQzlielk1eE16Q0wxQW1ybHNSZUU2OFNWZHdBU2YyQ0hyUkg2cFUyRjlqYmxZRXRieldJRDBRSktfVXp0aVdaRllPak9WMVhpWUp2Tl9EdGFQWnV3UE5yZ2JGTjU2MnNwYlFBTE1FQk1lSTNyd2dkMVhRNFl1czVEb0duSHF1R1lBRXZuRQ?oc=5"
-    },
-    {
-      "title": "MTSU Recording Industry students meet superstar Taylor Swift at Nashville Songwriters Hall of Fame Gala",
-      "outlet": "MTSU News",
-      "date": "2026-11-04",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWEhiYjhXcG9fcnNSUkJFVHlSQ0FrR0FKT0UxWWlYTFRoNXV6VGlMZ1d0NHJxdXB0YlI1Tm5GNEx2eWxiRksyUW9DbWlQcUNKeU5BT0VjNUJWcVlxMHU1eE1IU1huQjNhY3duVTRKalhMQnNCOGtBdlVBOGRTWDV1bEpSLU5SYS0xcjBLbWVscXk3R0tQRC1wWHgxbGtva1Fpa3M5SE02RFNDelU?oc=5"
-    },
-    {
-      "title": "Abdul El-Sayed Embraced His Swiftie Status All the Way to the U.S. Senate",
-      "outlet": "Rolling Stone",
-      "date": "2026-11-04",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdWZXSThxVU5meHVOUE51bFdNR0Fla2ZSeHB1WFZtcXpsV3VnTXlRZkF0akZCMmdEZlFMSEZFTWdQb3RwMjJ6RzMxUmx1MkJydlcwR215VzFtbFNUaVlIbWY5X05PVHpIWmJDTTVkVlZsX2VTWGN5YllZOEdFWkRqdnItSUNQaEgtY3oySFBn?oc=5"
-    },
-    {
-      "title": "Zero Charisma for Swifties",
-      "outlet": "National Review",
-      "date": "2026-11-04",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Yb2ppblRNOHN4eW5lWkhCNTliVFpoMlMwNThkblgxNl9rdlcxd3JCV2NQRWY5VXhjZGtHZUdhSTFzaWRCSk9hQ1MwVFBCNDRTd3pLLWdWQ25Hck15dXBmZ2U3N05LZ3BSNUd5bDZQa25TSENh0gF6QVVfeXFMUGtYR2tEdXh3Y0VicGY1dUdWdEZ6TlF6dHhORnUwWTUzaFhYNHZvdjV0UTBiblNDY3MwOF9qX0U5RWRDdGdncDB3QXl4bFhvcldWUnZwQ2hKZHQteHlYY0V1THJvak9Lb1RUYzF1bUE4Tzg4QXRWUE1vZ3c?oc=5"
-    },
-    {
-      "title": "Taylor Swift Accused of Politician-Like Behavior After Report She's 'Genuinely Anxious' About the 'Backlash' She's Been Facing",
-      "outlet": "StyleCaster",
-      "date": "2026-11-04",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWW9aZlNWaGljXzBsVDlEWUowN1VPajVGSk1MWTh5YnVvZVJQbHRsRjEtUk50c3kxVW1iVGpCTDg0Y1NLR205Y2gxcnZmMmlCOTVJTnBXSXJpTzA0cGxqcG5Ldkt0Znl0bVFoNGJuLWxxS2kzN24yQnBLN3k5MG9LZEJUZGNJZ0JIUTBfYW5rQlp4QmxhNHNveA?oc=5"
-    },
-    {
-      "title": "Taylor Swift Had One Fear Before Working on Toy Story",
-      "outlet": "AOL.com",
-      "date": "2026-11-03",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tSEpibWo4bUFFelRhWUkyRUZyMGxpQ2k3NmV4ejBUWFNYYTc5MmZLSzFFWGVCNWVENjZ2bXVtQzF1UXZhbmJ4NFBseHhZSUdjY2w1NTFYV19TLS1mZlJaOWxIVEs3YTVPM2pYLWphTXRtZ2Jab25iaQ?oc=5"
-    },
-    {
-      "title": "Taylor Swift’s ‘Blank Space’ filming backdrop, a 107-year-old French chateau about an hour from NYC, sells for $72 million just weeks after Travis Kelce names the song one of his all-time favorites",
-      "outlet": "Secret NYC",
-      "date": "2026-11-03",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOXE4cjAtOVNhMmN2QWlzM1JhbWlxTlVlMkN1NGpIaEU1cDhyWTNTWnJjZTRiZzF3eFJQNDAxbDM1LUVXNHE3aF8wTzVTcGRscUdVZzJaNnVrOXhkWW1BejdzZEZkM1pza19JRHBTZFFMNWQ0YXd3bElKRXRpTGRUSXRIbkVOWFRwZGxRY2I0dDE3bG4xX0FjTXpSTzh2cUR2Qzd1amNYUnpMU29LMVEyeF9rcEdXei1xVkNB?oc=5"
-    },
-    {
-      "title": "Taylor Swift donated proceeds from her 'Wildest Dreams' music video to African conservation; the organisa",
-      "outlet": "The Times of India",
-      "date": "2026-11-03",
-      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNdUNOQUdQM2tsaEZKZHJ1QlVteEo0UjFVUGlTRm56bHEwVVljN0VVM292YjJHM3BWbnMxdDE5NHVudk9id0pzZ0RJcmJ6dXcwOFYtLWNOWlpZOC1oWWFzZDU5WkhjZkNMZzRfVWsxak1kelNhUFJtSUNtUnEtSkRQejl2bWlCejd4RmVLYXNTdnRDaHR0eHdnaWc4VElYWk51aTczbXdrbXhNbjBMQkZTSjd0VGI1Z2UxT3VvbW5kaGhYUUxDS2ZYZ2VYUVEwdDlMS19wanhSekNJTDJhVXdpd3JiRldfdXNxQzljUUU2Szl4RGRWNmJvbk5fSXUwSzFtNHhyYVNHUC1zcmxUZ19SUVlFZ2RxOFZ4bU9GdGE0M2pLNjlxS1hTbWh5STQ3UHVPTFVWbDlWMTlKTUVhZkk2dDNjUUZTeTlNQTVMMtIB0gJBVV95cUxOMTFqZVh1NHMybU1VQjFyZ2xXUHc1TWdUVDB3Z0hFX1FnODFHRUxlN2dOSVVmd3ZBQnlZeG9Xay1kRE5lX0dDOXhHOWpISTU4S1F1eUl3dkRxZlFJTlpiaVBWb0J4Z0ROWWlwdGhqZTZCX0pXUVgybk5mSDZKRzR2RGNLTlp6elVtSEFZdXZzcExna0FsVUR1RjV3TGtXb29JWm55OFpGS0hqdTNsWTk5QS1tczA2X3hjN1NnUGRDekpDSkpQRFNzSGpEenFVekpoeEk4S09zY2ZiRGJkOUNOU09xX1dHZXFBOWlBMnBUUVZuMzA4N2N6c3F5dWtEcFBNUFJDUm45V25Oa2JpTzd2dU9KbUJoLUFKNnNnNjVTR1QwTGhoUHhLRHFEc1lWbUZmbHlLRGxlUVRrSmJTMUVidl9KbzQxQUVGdjdlR3NPR3JIQQ?oc=5"
-    },
-    {
-      "title": "Taylor Swift’s Oscar Voter Meeting Caught on Video: Where Was Travis Kelce?",
-      "outlet": "Yahoo",
-      "date": "2026-11-03",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZlNCVERKZjAtUVNWMXlUci1tM1d1WkxHX2RsczlreGhVWUE4amljZkdlQ0E5Skpfbkg1anlleXJNN0NaVHFVWDhaRnJhbE9Bd0VMTHZ2MkFSaU9GTEtRX0NoSGNRamdxTGdHZlY1TW9QMjJXQ1UxaGgzWDNQR3lXRXR6Q0NRTXlyLUVxbF9iMmN2SzBYMFRndUR5LWdpU3d0?oc=5"
+      "title": "How Travis Kelce Is Celebrating His First Holiday With Taylor Swift “as a Married Man”",
+      "outlet": "InStyle",
+      "date": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ3VWN3p5Mno1NzhLS09iWUF4VGZ6STlkVEtJdjZFUWZsaUpKdUphNUhlMzVZUkJPOEFBeXl6WDVUWjlkNVJJWWFUdF9RdmlacjA4ZUo1bnNid2tSTzNmSGdGcDlKRUg2dVVjazFSZzdUVGhkZS0zeldvQ2w0SUpDNkJHcy1henIxVk02bllJRGNCZDBrZUtJblpjMUI?oc=5"
     }
   ],
   "bio": {
@@ -2519,40 +2528,40 @@
   },
   "tourNews": [
     {
+      "title": "Taylor Swift: a documentary in preparation about the canceled concerts in Vienna",
+      "outlet": "beninwebtv.com",
+      "date": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQTZhbkRxYnFwanFtN2xkcllQbVgzUkpDcC1hdXc5enJVdG9CWHdWNjEzXzB6eWlLZUh2NmVPX1hJelg5RTlnV0wxMGlfaE8xZ3Rtclg0QmhKckVKY0RCMkZRb0JSTW9aRjFoSERELWN3Y3ZTdlpzS25NTU5nYVBhUGh6QTB1T3ptR0xZTHB6MjJkT1RNbU5FdDJIQms1RktmOEx4dS1yQzBvZw?oc=5"
+    },
+    {
+      "title": "Dark Story Behind Taylor Swift’s Vienna Concert Scare Gets a New Documentary",
+      "outlet": "Netflix Junkie",
+      "date": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU2Y3RndGSE4tUXBKZ3IyZWd3NkhlSFk4Q2pSTXhtYjRUNTF4S0ZzV2JoX1ZJYTdJaW9oQ2JINGFtYXNVNm53ZHVObUM0SHJqVEdpU3NpUnZKOEV4am1xVjQtb0Jfa183MlRRRkQtTGhqZDlGdm5IV0I0eDdyQmMwOVhEckQtdkNiX3J1ZVhURkh5VVRMelQzT0EtdEJrLTRGTTNHczFObDlrUWViYTZpNld4QkRsRW1Wekh0UmdYdWU3SHJ1?oc=5"
+    },
+    {
       "title": "Trip.com Group Builds a Bigger Travel Business Around Concerts",
       "outlet": "Skift",
       "date": "2026-11-05",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNa3ZUVmxUMUVZaU1LbTdkeC0wODdPRW81aFJiWkEwbThoSlViNDhjLWg1c29TZzl4RHA0c3J6S3NhOGlJRGpKekwyb3VqdEhnYm0wRjZadzhiTUpiVkFTYnpqS2FkV05EUUo2dVVRd3FsOWYwUU53RXVhVHFsQTRkRnpfY0VsMzB4QUFUdHRocWYyOC0tV0lv?oc=5"
     },
     {
-      "title": "Inside Taylor Swift's next era: Two albums, 2027 tour rumors",
-      "outlet": "ARYnews.tv",
-      "date": "2026-11-04",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOVZQSk5EUTFRNGVBS2sxdFQ5ZElLSGRpbzIxSUNMbjNmbjMxcU9TcG80ZjZQbXVvYU8wY04wV00tdkpDQjgyaGNBRmFTNC1WVjRBYjNUbTdvVWE1djM1NU82VTdPV2RyVFgzaUlobFJkemZULVlhTFRReU1ZZXpTdWhB?oc=5"
+      "title": "Stella Lefty Is First Country Artist Since Taylor Swift To Perform At Capital's Jingle Bell Ball",
+      "outlet": "Holler Country",
+      "date": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZzctSy1iX1Iyamp3SmRRV2tNZzd3eE9CWXZ1aHc4Q2hzaWVFaWRjbEIwc0I2X2VTWng3ME9QaWdPY2MzV3Z0SEFiWXhjR3hDdWlJLVJWQjNNMFdLb3p1X0dXQlB3alh4QUR5OHViYThsMndhT193RmRObzlad1BxMlFtTDZnalpmODBGYkljdVFVanV2c0JwQTNMWTBNV2VKUktBMEZ0ellnN1FtV0V5V3J0dlFSeUFTbUNBekR5dFJHN0pYMl9HZ3ZBOWtNUQ?oc=5"
     },
     {
-      "title": "'Did You Guys Replace Me?' Taylor Swift Reveals Her Toy Story 5 Fears After Eras Tour",
-      "outlet": "International Business Times UK",
-      "date": "2026-11-03",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HZGxKOWRpRGlTZjZYdk82WXluTUJXWk9BSWRKVWIxQWFEOFB6YmVwdXdrWGJOcVRfblN4YTgtbThCTEJBbFlvWHE2QV9XUldlVEc0ck56bFpmSUc0SlpQcU9pZXJ0eDhkMUtaNXFpM0toVm9uVzg0LQ?oc=5"
+      "title": "Miranda Lambert, Tim McGraw, Ella Langley and More Join 2026 CMA Awards Performer Lineup",
+      "outlet": "Backstage Country",
+      "date": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNHhLYjgwLUNjbkNBRkZlYzFOMXNQQl83YnFxODQ1WFVlRWtKWXQxTjBDQUFKVW1Gc0FKbUdvSTcya2ZWcGRYdUtXcERGbHpQTl9hUUNUNHkzUVJWdjFOdHExczRtdkNuRGJDTVN5cUhwSnpwWV9BaTZhTDk1VEd6cW9XNDFLM2RvOU5GSEcxamxSRk5YeDhMbkpJUHpBVHcwcks2U2R1OHRINmtpekJycXMwandIVk1WRW1jd3NSdEhQazhaaGc?oc=5"
     },
     {
-      "title": "Taylor Swift calls ‘Eras Tour’ the most ‘exhausting’ tours of her career",
-      "outlet": "Daily Times",
-      "date": "2026-11-02",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVkZSRkRaeVVmZ0pzSDlwUV9HWnI1UDhqS2hqQ1N5d2s5c2dYUTFGajZRcEcyc19TWUlfUW5jVkdEQnRkY2UwNnk2aEszNUc4c09pLUFoRHhNdnhxLUVrYzdFUVBiaElfRkdSWkZUXzQtNGNtOWU0TDJrQ1FHM1pXTlZBY3BSMjNsR0xZR0d3MThsNGRyaXpxaDJSSERyS1dqYjhpMTVR?oc=5"
-    },
-    {
-      "title": "‘Screams on the level of a Taylor Swift concert’: horny romp Wicker gets the 4DX treatment",
-      "outlet": "The Guardian",
-      "date": "2026-11-02",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUXk1QmF5STdLVVZLQ2lwMGN3ZmIxSExfOFJBOGM0eWpRdWhwVnlXTGplRmxtZkZrd2lDUHZJX2lxQzNMaFNpVEYtaFE0WkVWQ19GMS0tS3RCUXZCc3VhTldlel96bWNsWGRaTUhKemZGbmRUS1ZjNkZMOEZOeTlSTUNVaDhWUzE1b3E0?oc=5"
-    },
-    {
-      "title": "Terrorism Plotter at Taylor Swift Concert Can’t Sue Disney for ‘End of an Era’ Series, Judge Rules",
+      "title": "Taylor Swift’s Canceled Eras Tour Shows in Austria: New Doc to Detail Thwarted Terrorist Plot & Fan Resilience",
       "outlet": "Billboard",
-      "date": "2026-09-30",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWlNhc3kxLUV6LUk2TnZSSDRBck5TdllDX1VJN3BBaU1MQjh3N05JSkZTdzR6TVExQnd3aFQxSkRMQXdvNEdQdGU4RWwzcWRJTElIdUhnRXJyTjNsY1R6X0Y4LTRNUWpZTHNMd3p1WkVtY3BOcHpMV1prNmJ6eXZrRWRGQm5DUQ?oc=5"
+      "date": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRmYyRGN4ZGxSQ1RQbWY5X1gzcmxBWjhGQWJtS3d3MVBjMlRiVmg5N2t2TWlFTTl3SkhjSFRNM1VxMGF5UDM5X3p0YkxVYkRxSjA1Q0JPRE56Tjk1MGwtb3lIaWlJYkk3eHBncUtTMFozSUxUZEZNNG5CbkwtSzZRZ0E3dVJ2OUIzTnRyTVlxS1NaejF5RWVfbkRSUm43bkl2blRDTkZVQmtBS3B2dm9JSjhydjQ?oc=5"
     }
   ],
   "timeline": [
