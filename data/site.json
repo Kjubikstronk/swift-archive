@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-04T19:47:43.361Z",
+  "generated": "2026-11-05T06:52:06.934Z",
   "artist": {
     "name": "Taylor Swift",
     "full": "Taylor Alison Swift",
@@ -326,7 +326,7 @@
       },
       "releases": [
         "itunes-1595423133",
-        "deezer-130716962",
+        "deezer-68491961",
         "itunes-1440934573"
       ]
     },
@@ -436,7 +436,7 @@
       },
       "releases": [
         "deezer-874936972",
-        "deezer-72093192",
+        "deezer-227786",
         "itunes-1440932737",
         "itunes-1860454442",
         "itunes-1445940437"
@@ -1517,8 +1517,6 @@
       "copyright": "℗ 2020 Taylor Swift",
       "genre": "Pop",
       "via": "apple",
-      "recordType": "single",
-      "deezerUrl": "https://www.deezer.com/album/148632802",
       "kind": "Single",
       "year": "2020"
     },
@@ -1597,8 +1595,6 @@
       "copyright": "℗ 2020 Taylor Swift",
       "genre": "Pop",
       "via": "apple",
-      "recordType": "single",
-      "deezerUrl": "https://www.deezer.com/album/148650942",
       "kind": "Single",
       "year": "2020"
     },
@@ -1639,8 +1635,6 @@
       "copyright": "℗ 2020 Taylor Swift",
       "genre": "Pop",
       "via": "apple",
-      "recordType": "single",
-      "deezerUrl": "https://www.deezer.com/album/131557962",
       "kind": "Single",
       "year": "2020"
     },
@@ -1823,18 +1817,18 @@
       "genre": "Pop",
       "via": "apple",
       "recordType": "album",
-      "deezerUrl": "https://www.deezer.com/album/302068167",
+      "deezerUrl": "https://www.deezer.com/album/9007781",
       "kind": "Album",
       "year": "2014"
     },
     {
-      "id": "deezer-130716962",
+      "id": "deezer-68491961",
       "title": "Red (Deluxe Edition)",
       "date": "2013-05-14",
       "trackCount": null,
-      "art": "https://cdn-images.dzcdn.net/images/cover/177ec7bf4d0fcd50e9ece647fa8474cd/1000x1000-000000-80-0-0.jpg",
-      "artSmall": "https://cdn-images.dzcdn.net/images/cover/177ec7bf4d0fcd50e9ece647fa8474cd/500x500-000000-80-0-0.jpg",
-      "url": "https://www.deezer.com/album/130716962",
+      "art": "https://cdn-images.dzcdn.net/images/cover/56a83d3002710bf2044b86c01db665aa/1000x1000-000000-80-0-0.jpg",
+      "artSmall": "https://cdn-images.dzcdn.net/images/cover/56a83d3002710bf2044b86c01db665aa/500x500-000000-80-0-0.jpg",
+      "url": "https://www.deezer.com/album/68491961",
       "recordType": "album",
       "via": "deezer",
       "kind": "Single",
@@ -1982,7 +1976,7 @@
       "genre": "Country",
       "via": "apple",
       "recordType": "album",
-      "deezerUrl": "https://www.deezer.com/album/130716982",
+      "deezerUrl": "https://www.deezer.com/album/689149",
       "kind": "Album",
       "year": "2010"
     },
@@ -2052,9 +2046,20 @@
       "copyright": "℗ 2009 Taylor Swift",
       "genre": "Country",
       "via": "apple",
-      "recordType": "album",
-      "deezerUrl": "https://www.deezer.com/album/130714702",
       "kind": "Album",
+      "year": "2008"
+    },
+    {
+      "id": "deezer-227786",
+      "title": "Taylor Swift (Deluxe Edition)",
+      "date": "2008-10-04",
+      "trackCount": null,
+      "art": "https://cdn-images.dzcdn.net/images/cover/9c0e80bb3c16e1c987cf235929eb7757/1000x1000-000000-80-0-0.jpg",
+      "artSmall": "https://cdn-images.dzcdn.net/images/cover/9c0e80bb3c16e1c987cf235929eb7757/500x500-000000-80-0-0.jpg",
+      "url": "https://www.deezer.com/album/227786",
+      "recordType": "album",
+      "via": "deezer",
+      "kind": "Single",
       "year": "2008"
     },
     {
@@ -2069,20 +2074,6 @@
       "genre": "Country",
       "via": "apple",
       "kind": "Album",
-      "year": "2008"
-    },
-    {
-      "id": "deezer-72093192",
-      "title": "Taylor Swift",
-      "date": "2008-03-18",
-      "trackCount": null,
-      "art": "https://cdn-images.dzcdn.net/images/cover/e9dd628cc4dd15850a13b4151cce9075/1000x1000-000000-80-0-0.jpg",
-      "artSmall": "https://cdn-images.dzcdn.net/images/cover/e9dd628cc4dd15850a13b4151cce9075/500x500-000000-80-0-0.jpg",
-      "url": "https://www.deezer.com/album/72093192",
-      "recordType": "album",
-      "via": "deezer",
-      "deezerUrl": "https://www.deezer.com/album/321177137",
-      "kind": "Single",
       "year": "2008"
     },
     {
@@ -2361,40 +2352,22 @@
   ],
   "news": [
     {
-      "title": "Taylor Swift Takes New Step After Private Wedding Photos With Travis Kelce Leak",
-      "outlet": "NDTV Sports",
-      "date": "2026-11-04",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa2ExdFVCUTE3MGdOMDVYZlRWR0pDU0kyMUR3SVpyR2xoRjhIT1BuWVBSRUhBOVB5Y20zd01NLVhhamFubmFLUWlMRGJIS0Z0dTNuWTBVX1VERlJKM0dlT1Z4T1dJWUlZVURZQ195YkVleUp0cUJ3V1NFZU5wYUZ5RGJBdnEwakZxQXo5T2VSRUsxazlqYnZUdFN1alcweWZ4WS0xOVh0TEpjUlFRODFkTDRiMWZibVM4X0Zr?oc=5"
+      "title": "Taylor Swift’s ‘Patient Zero’ hits home for domestic violence survivors. Here’s how Haven House helps",
+      "outlet": "nwitimes.com",
+      "date": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUHFxSHhaX0hQeVlKcFBCMmF3OEpMLWF4MV9tSDVUQThtTklDQmtfbW91M3FuMXdHLUVyWlgzSjMwRnBsUEQzUlQ1VmFjYTJpekJjYmhPdGRRZzE2Vm5DZUNMc1NFU1RUMmxNZlM4R3QzbFRKZzVlTmxTcl9DVVJaUGZLTWdiZw?oc=5"
     },
     {
-      "title": "Taylor Swift and Travis Kelce’s Bratenahl Backyard Tree Plan Ran Into a 10-Foot Height Limit, and Neighbors Raised a 115-Year-Old Sewer Line Before the Nov. 10 Review",
-      "outlet": "AOL.com",
-      "date": "2026-11-04",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeks4c0gxdmg0cjJGR2Z4RzBSMFc5dXNJaldkSHlSUVN4M0VvYU1uUEpxd1E4SFdHd3lSQXNZRWRILXhtMDVkQUJnVDhVVF9na2ZjSVA3NnBBNjNPUU54c2ZqM2kyVkRBbVNmRWtzZzIzTmRHSkE5V0NWWW1LR1hmTDdHOVI4QQ?oc=5"
+      "title": "Taylor Swift Had to Shake Off One Concern Before Saying Yes to Toy Story 5",
+      "outlet": "E! News",
+      "date": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOVJRWDh2V091NGJYUzZmQnVOMGttLUMxVldxX25xenZPQ2hZemltSEt2anRvYS14VVE4bHF0ZmowdV9ZQklKdUpqQ1ExbWM0VTgza3JUMmh6WE5ibWMxbHo5aFRHRmtrcy1OcTB2bFNHTDU5NGxOWUFteGtGNUdBeDYydXVIRWNvOVNGOWZoaDE3dUE?oc=5"
     },
     {
-      "title": "Why Is Track 5 on Every Taylor Swift Album So Important? All 12 Songs & Their Meanings Revealed",
-      "outlet": "IMDb",
-      "date": "2026-11-04",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lejBTbDdLQmo5LWdubmJlbkltMzF5dWpFdlp1elFLYWxTX0o0MWJLbUVDeGNSQ0hlandzWXM1MlIxNXhESjdxQk5SdG1KNlFoeEZIYW1LYlo5bjNpeGJCcERKWi1Ob01HRlE?oc=5"
-    },
-    {
-      "title": "Getting To Know... Charlotte Han",
-      "outlet": "Mystic Sons",
-      "date": "2026-11-04",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QSG5lcTk4UmVBLW5MYmktMWtqMGJfV2FGUWtqQWJiRHdhNjNEd29uZE5uSHFLNWEyOWlKdE8yaktGOFhQVzh6Q2ZZNngxdTRjS1g4N2IycThaSHlyN2F3bmZxVmJrdGdjYVFNcQ?oc=5"
-    },
-    {
-      "title": "The Cat in the Hat: Why Taylor Swift Was Perfect",
-      "outlet": "Comic Book Resources",
-      "date": "2026-11-04",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80My1XbUktV000TDlGdHVBaW1wdEhjSlVDZmFkNGxxcG1ral96SmgyeURUQ2ZDZEVVN19FV25mY0xtU0gwdFlSREpzSUE5a3VYQmYtbjlFa05fNG5ZM3cwUlZ0Wlk4RlNxajNKbWVJR1ZLSUhIeTZyS1JSd2txZ2c?oc=5"
-    },
-    {
-      "title": "The Cat in the Hat Cast Talks Emotional Moments, Taylor Swift & More",
-      "outlet": "Mama's Geeky",
-      "date": "2026-11-04",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9oQ0YxOVJ5NHREYk45LUY4TTYwMTFLRU1YYzhsSGo4SjBXZE1jNk1QNXFXVWlVakxNekV0M2pHdFY2NHN0VVVaandQNXFQNk1hRFFEZDJqVHl2cUkxRS1nRzBtbHhkVzhGX0duQVNhWVJQYnc?oc=5"
+      "title": "Taylor Swift (Musician)",
+      "outlet": "Rolling Stone",
+      "date": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CZnIzZnRCU2ltM3JjYXFuOXRNalI4dWVyU1B3NXBTN3RJc1A0M1hZMWNWekljVWFpaVNVdXZkTW8zd3Y4eS1ISTBsSFdOMGRZVkcxelJ4OA?oc=5"
     },
     {
       "title": "Taylor Swift reveals the unusual habit Travis Kelce has to put up with",
@@ -2403,16 +2376,40 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPekJaRGJRQmdHZ21WMkhLcmlyZTk2RmxBVk9Bc0tKSmdLZDZKbk4yOGZYS2JVdXJkcFk3OGdVOU1nRU5YeVBwQjc0YVNFcUszNlNhM0ZfeDFFWGtucTRmMDVyVWUzU2RwYTFQVlJZOE54WlFUb3QxTkcwaUttVzNoT0NXaUxINVU3X3FZOURORzNPNnRsTktDU0FaNm5QQTdlaTZXSFAzVXVsaWtoZHBsY2p0Rk5YVVlR?oc=5"
     },
     {
+      "title": "The Cat in the Hat: Why Taylor Swift Was Perfect",
+      "outlet": "Comic Book Resources",
+      "date": "2026-11-04",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80My1XbUktV000TDlGdHVBaW1wdEhjSlVDZmFkNGxxcG1ral96SmgyeURUQ2ZDZEVVN19FV25mY0xtU0gwdFlSREpzSUE5a3VYQmYtbjlFa05fNG5ZM3cwUlZ0Wlk4RlNxajNKbWVJR1ZLSUhIeTZyS1JSd2txZ2c?oc=5"
+    },
+    {
       "title": "Taylor Swift Paid Nelly $50,000 in McDonald’s Bag to Perform ‘Hot in Herre’",
       "outlet": "Yahoo",
       "date": "2026-11-04",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWFdieG1rSjd2Mjc0YWNTb1NlVEo5ZUk1M1c2T3NtZ0pnbG56TzNyQm13V3VKbXNMd3dubXU5ckJtdUZWM0hDQTNlOUFlRWRGdHBKVF9LdHF6cG1YN2J0eTdGM0ZQMldxQVZLLUg3eENGZjRIeWdtaXVqcExVWGpnWHFneHRDeC1tTy00NjRoUkh1eDlXUGRr?oc=5"
     },
     {
-      "title": "Taylor Swift’s Movie Soundtrack Songs Highlight Her Musical Journey Through Hollywood",
-      "outlet": "AM 740 KVOR",
+      "title": "Why Taylor Swift almost passed on Toy Story 5",
+      "outlet": "Yardbarker",
       "date": "2026-11-04",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbjVKck1NYVVYQnM5OHJzeWpfbFJsQW5jcXFKNkF2Q3hUMVdIU2JjbUgtZ0ZlcjFIYmQxVExnTU9pejRvVVhHMk1uQnUyYVdfZFZmU0tlZ2ducmdyZFZFYWpLLTdsZU5kZDZvNEJ3bkNRVEFvWFpCMGFnMDlaRlF4VUZWNDFrTmpEZGs4aDhJazZQMGN6bUZtVXFvbE43NU9pTUtZM2U0S2x2XzlJUjBwVzlpNmVwb3VN?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcW1fNHFBb2VHWlpfOEVyUUttS2xDOTBpMTVET1BSdm1lUG03NWdQVW5HTEl2bG4tc2hLQVBQQ0JRWEZqSlNJUHF4b21jeXhjemxGUEw4UGtWZk5DUkctdGVZVkZ0ejNWbzlkOWRGbEYwMG9NNklWMDdaOFFIVUVIbko4dVdXcWtMRWhHVk5KbVJYWlNGaFNhYVdLanBTVlpPRUdtWTdfeVJvMlhITzBZdXk4NA?oc=5"
+    },
+    {
+      "title": "Taylor Swift’s Movie Soundtrack Songs Highlight Her Musical Journey Through Hollywood",
+      "outlet": "WPRO",
+      "date": "2026-11-04",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPemtfaHlRekhVMFFvZGg0bUV1SW5aU080WEFtdWxLQ2VNSU5pa0ZvQ0tzUUplRjZVZ3pFZGd1Z1hWaV9GMmZqR1Y0Nm1ycXZLdlY3cWE4RHoxQnc5azZ5S3ZaeV9BcnlwRmJZdVVkZ3dBejFKV0F6aG44MHd0dTNvYUxaV3hjX3JEVU1aS3hmenlSbUQ0Sm4tTGJoZzRhSUFtQWtEQ2pzODFWYl9wdE9UNkVncnRJbnNjdHBFQw?oc=5"
+    },
+    {
+      "title": "The Cat in the Hat Cast Talks Emotional Moments, Taylor Swift & More",
+      "outlet": "Mama's Geeky",
+      "date": "2026-11-04",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9oQ0YxOVJ5NHREYk45LUY4TTYwMTFLRU1YYzhsSGo4SjBXZE1jNk1QNXFXVWlVakxNekV0M2pHdFY2NHN0VVVaandQNXFQNk1hRFFEZDJqVHl2cUkxRS1nRzBtbHhkVzhGX0duQVNhWVJQYnc?oc=5"
+    },
+    {
+      "title": "Taylor Swift Making Friends ‘Uncomfortable’ With Furious Hunt For Wedding Leaker",
+      "outlet": "Yahoo",
+      "date": "2026-11-04",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWDczTjA1Q0FlWDZFVWY4X0p5SGtaOFRzaUUyQS1FOHk1TEF5MGdyZl8zUlFGR1ZOekZvZ3dPcjFvV3ZqcWRnREFmbzNDWjJuTkhlTzdRalc5WkFpUkRmNDVHZU51aGp1dUZVRk1BVm1NM01YNFAxd2lXNVhtZFBQOEQ2cUtDYWR1QzJMZkRZRUFBN3MxSGkyLWJBdWxuMEFscGl0TVRNODdQZVlPZWVWRw?oc=5"
     },
     {
       "title": "Travis Kelce and Taylor Swift reportedly burned their wedding setup after marriage: so much for privacy",
@@ -2427,18 +2424,6 @@
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONDJPb29hNU1sZk9vbEc0UWN6WVMzZU5XNW1vM1J5QUN1MWpZU0xvMC1lQkt1MG1lOV9tUFI0emFnZ2JUTDFxQ21BbngybTRiS3FXSXNoay03MWMzcTlyR3otbmFKYVlodFQtNGRoeXNkVWQ5UnVRR291NkcxSXlTSkE0XzFTVGdsOHJpODNCZElrV28wVDNodF9nVjI4RE54T21PYTdjUmZIbFNOMFJMSXBINVJ2a0pyYmZFQm5xdmFpR3NxdlhPUVB2dzMtM2l2ekpNWGkxT0RCX1EyMEdJYUpLamw?oc=5"
     },
     {
-      "title": "Taylor Swift’s Oscar Campaign Meets a Tough Week for Travis Kelce",
-      "outlet": "AOL.com",
-      "date": "2026-11-04",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQTZUOEJ6RHh6VGxUbDlnWVRXNUNQYzR2d2FJLWxiRkpsdTZqd2VTMUI5dVBZMk9OZ181MFl1MVdfa1pKRUhYbWFocFJzZXRtWUZjbjM0alhmZW1pWjcwZnlVY2NqcGZlbEJOb3dQMk9RczA0WGtQSGFqX2x6c3pUcGVLUQ?oc=5"
-    },
-    {
-      "title": "Taylor Swift Making Friends ‘Uncomfortable’ With Furious Hunt For Wedding Leaker",
-      "outlet": "Yahoo",
-      "date": "2026-11-04",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWDczTjA1Q0FlWDZFVWY4X0p5SGtaOFRzaUUyQS1FOHk1TEF5MGdyZl8zUlFGR1ZOekZvZ3dPcjFvV3ZqcWRnREFmbzNDWjJuTkhlTzdRalc5WkFpUkRmNDVHZU51aGp1dUZVRk1BVm1NM01YNFAxd2lXNVhtZFBQOEQ2cUtDYWR1QzJMZkRZRUFBN3MxSGkyLWJBdWxuMEFscGl0TVRNODdQZVlPZWVWRw?oc=5"
-    },
-    {
       "title": "Taylor Swift’s campaign",
       "outlet": "Gossip Time | Allie Jones",
       "date": "2026-11-04",
@@ -2451,28 +2436,28 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMDZqd0lkS2gxbkpOLTgxTzF1aWN2V2VnUnZGUDdTY1lJV1lBRGpIT3FwMVNiaVpMMHRPMWc5Q0I2eWItRm84TGxPTTUwY1FGWjZfZ0pxY0Qyd0Y0OG5KdFZ6alFYUE15SkRxeVFoTWF5cE9MdTgwS3dWMHA2RWlmcTBzMEY2ejJtSFRsM3JScXUxWTVHOGlpaGVwQXd4cWlkZTBF?oc=5"
     },
     {
+      "title": "Taylor Swift Reveals the One Condition She Set To Write the Closing Song for ‘Toy Story 5′",
+      "outlet": "Parade Magazine",
+      "date": "2026-11-04",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZERiOHlYcXZGWllxNVFLN0lpUDUxNTJvQTRYbWYwektPWV9GU3U4djE4LU5ra0JJM0FQYlU0bVNPXzEyYVdtLU9mSVM1dUtyMU83QmRNaHZlcEt4VzF6NV9DZ3VyOFZnMmRDX0gwTVc0dGs5OWZ1RkJXTFd0NkJjSkdTZ0xWRTgzSTBKWXFOSVJoWFBzQ3dOU2hTVDJmRXpYQy1SNHlfRnJEWWlMRHVNRWZB?oc=5"
+    },
+    {
       "title": "Taylor Swift’s Oscar Ambitions Take Center Stage as Travis Kelce Addresses Costly Chiefs Mistakes",
       "outlet": "Yahoo Sports",
       "date": "2026-11-04",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQzlielk1eE16Q0wxQW1ybHNSZUU2OFNWZHdBU2YyQ0hyUkg2cFUyRjlqYmxZRXRieldJRDBRSktfVXp0aVdaRllPak9WMVhpWUp2Tl9EdGFQWnV3UE5yZ2JGTjU2MnNwYlFBTE1FQk1lSTNyd2dkMVhRNFl1czVEb0duSHF1R1lBRXZuRQ?oc=5"
     },
     {
-      "title": "Taylor Swift Accused of Politician-Like Behavior After Report She's 'Genuinely Anxious' About the 'Backlash' She's Been Facing",
-      "outlet": "StyleCaster",
+      "title": "MTSU Recording Industry students meet superstar Taylor Swift at Nashville Songwriters Hall of Fame Gala",
+      "outlet": "MTSU News",
       "date": "2026-11-04",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWW9aZlNWaGljXzBsVDlEWUowN1VPajVGSk1MWTh5YnVvZVJQbHRsRjEtUk50c3kxVW1iVGpCTDg0Y1NLR205Y2gxcnZmMmlCOTVJTnBXSXJpTzA0cGxqcG5Ldkt0Znl0bVFoNGJuLWxxS2kzN24yQnBLN3k5MG9LZEJUZGNJZ0JIUTBfYW5rQlp4QmxhNHNveA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWEhiYjhXcG9fcnNSUkJFVHlSQ0FrR0FKT0UxWWlYTFRoNXV6VGlMZ1d0NHJxdXB0YlI1Tm5GNEx2eWxiRksyUW9DbWlQcUNKeU5BT0VjNUJWcVlxMHU1eE1IU1huQjNhY3duVTRKalhMQnNCOGtBdlVBOGRTWDV1bEpSLU5SYS0xcjBLbWVscXk3R0tQRC1wWHgxbGtva1Fpa3M5SE02RFNDelU?oc=5"
     },
     {
-      "title": "Commentary: Christopher Nolan and Taylor Swift monopolize exclusivity",
-      "outlet": "The Ithacan",
+      "title": "Abdul El-Sayed Embraced His Swiftie Status All the Way to the U.S. Senate",
+      "outlet": "Rolling Stone",
       "date": "2026-11-04",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcW1HcXJYdlFvOVNLWTFkZFpHVW5zYU1VZUVRTU1DLVJXcy1ud2o1aXRzd0plNTVQUGt4dlBSR29WVnlpMktNVG8tMnB2Z3pROUk0M3pacXV3Y2hBcXpIUERwQ3dTZktSWG5GZXR1dTdheFRVdm1WdWRMQzFMb3M3Y3pzVzBxTjhCMHF4djE3LVdJazJudEx4bEpMN3VWM3pveDUwVkF1RGU4LXR5VldCVWZ0aDY4R0I1?oc=5"
-    },
-    {
-      "title": "Taylor Swift's Oscar Ambitions Take Center Stage as Travis Kelce Addresses Costly Chiefs Mistakes",
-      "outlet": "Heavy.com",
-      "date": "2026-11-04",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTXZUemY5bmo3cGQzSmM1RHZlN0Z0WlVfMTdLZ25YN2VSZjNOd3l5ZzQzeVJsTzZCdkoyVHJIWlVkR2pLTERpV1E3d21TUklpVmhiMWVOdVBEandZN2xNMGVMNUkxVFo2VWtkd1NZVnJuWFhVV0dTRmthS2o4XzFIYmhDcmZIN2JOSlNwYi04RzZObzY2X1lvNFUzSmc0OWlZ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdWZXSThxVU5meHVOUE51bFdNR0Fla2ZSeHB1WFZtcXpsV3VnTXlRZkF0akZCMmdEZlFMSEZFTWdQb3RwMjJ6RzMxUmx1MkJydlcwR215VzFtbFNUaVlIbWY5X05PVHpIWmJDTTVkVlZsX2VTWGN5YllZOEdFWkRqdnItSUNQaEgtY3oySFBn?oc=5"
     },
     {
       "title": "Zero Charisma for Swifties",
@@ -2481,28 +2466,34 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Yb2ppblRNOHN4eW5lWkhCNTliVFpoMlMwNThkblgxNl9rdlcxd3JCV2NQRWY5VXhjZGtHZUdhSTFzaWRCSk9hQ1MwVFBCNDRTd3pLLWdWQ25Hck15dXBmZ2U3N05LZ3BSNUd5bDZQa25TSENh0gF6QVVfeXFMUGtYR2tEdXh3Y0VicGY1dUdWdEZ6TlF6dHhORnUwWTUzaFhYNHZvdjV0UTBiblNDY3MwOF9qX0U5RWRDdGdncDB3QXl4bFhvcldWUnZwQ2hKZHQteHlYY0V1THJvak9Lb1RUYzF1bUE4Tzg4QXRWUE1vZ3c?oc=5"
     },
     {
-      "title": "Taylor Swift Accused of Politician-Like Behavior After Report She’s ‘Genuinely Anxious’ About the ‘Backlash’ She’s Been Facing",
-      "outlet": "Yahoo",
+      "title": "Taylor Swift Accused of Politician-Like Behavior After Report She's 'Genuinely Anxious' About the 'Backlash' She's Been Facing",
+      "outlet": "StyleCaster",
       "date": "2026-11-04",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMmZkdUpnTklUdnNxekhtV3ZiZTBkdHY4SU5vZnR1cWFPQkwyUTdBQkdUZ1JoZEd3Zjc1STFmN1VQUXhxR3VVVlRBdVdoZjJDTWhXWHBBUjBnb2dGaXlWQWhGMmd6VFdTVTJVMnVjcF9WVU1teUhJQmpqTlNBSzZFdFR6SWwwN2gwNFRXbS00aEw4bVhvNlVlbkZBZWpUZl9QUlMtYjZaOVdrNFhvcDJz?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWW9aZlNWaGljXzBsVDlEWUowN1VPajVGSk1MWTh5YnVvZVJQbHRsRjEtUk50c3kxVW1iVGpCTDg0Y1NLR205Y2gxcnZmMmlCOTVJTnBXSXJpTzA0cGxqcG5Ldkt0Znl0bVFoNGJuLWxxS2kzN24yQnBLN3k5MG9LZEJUZGNJZ0JIUTBfYW5rQlp4QmxhNHNveA?oc=5"
     },
     {
-      "title": "Taylor Swift's Best Curly Hair Moments",
-      "outlet": "Yahoo",
+      "title": "Taylor Swift Had One Fear Before Working on Toy Story",
+      "outlet": "AOL.com",
       "date": "2026-11-03",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaHFkNk9jbTZLNko1Ry1lQm9uQjl4aUlqWk5QYmdmU2QtcVVPbk91a1czd29QdXpkZHFod2txX3ptVUN2cG03b2tHQWlYZTcxRTVGRmlyblhwWVNUNWV2cjhOQkdwZ1Z1VkZlSjZuZnVYTDRTdm01UjE2VjhQTS1pRm1BUzZubWVrUllBSS11bVQyeUxrQ3c?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tSEpibWo4bUFFelRhWUkyRUZyMGxpQ2k3NmV4ejBUWFNYYTc5MmZLSzFFWGVCNWVENjZ2bXVtQzF1UXZhbmJ4NFBseHhZSUdjY2w1NTFYV19TLS1mZlJaOWxIVEs3YTVPM2pYLWphTXRtZ2Jab25iaQ?oc=5"
+    },
+    {
+      "title": "Taylor Swift’s ‘Blank Space’ filming backdrop, a 107-year-old French chateau about an hour from NYC, sells for $72 million just weeks after Travis Kelce names the song one of his all-time favorites",
+      "outlet": "Secret NYC",
+      "date": "2026-11-03",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOXE4cjAtOVNhMmN2QWlzM1JhbWlxTlVlMkN1NGpIaEU1cDhyWTNTWnJjZTRiZzF3eFJQNDAxbDM1LUVXNHE3aF8wTzVTcGRscUdVZzJaNnVrOXhkWW1BejdzZEZkM1pza19JRHBTZFFMNWQ0YXd3bElKRXRpTGRUSXRIbkVOWFRwZGxRY2I0dDE3bG4xX0FjTXpSTzh2cUR2Qzd1amNYUnpMU29LMVEyeF9rcEdXei1xVkNB?oc=5"
+    },
+    {
+      "title": "Taylor Swift donated proceeds from her 'Wildest Dreams' music video to African conservation; the organisa",
+      "outlet": "The Times of India",
+      "date": "2026-11-03",
+      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNdUNOQUdQM2tsaEZKZHJ1QlVteEo0UjFVUGlTRm56bHEwVVljN0VVM292YjJHM3BWbnMxdDE5NHVudk9id0pzZ0RJcmJ6dXcwOFYtLWNOWlpZOC1oWWFzZDU5WkhjZkNMZzRfVWsxak1kelNhUFJtSUNtUnEtSkRQejl2bWlCejd4RmVLYXNTdnRDaHR0eHdnaWc4VElYWk51aTczbXdrbXhNbjBMQkZTSjd0VGI1Z2UxT3VvbW5kaGhYUUxDS2ZYZ2VYUVEwdDlMS19wanhSekNJTDJhVXdpd3JiRldfdXNxQzljUUU2Szl4RGRWNmJvbk5fSXUwSzFtNHhyYVNHUC1zcmxUZ19SUVlFZ2RxOFZ4bU9GdGE0M2pLNjlxS1hTbWh5STQ3UHVPTFVWbDlWMTlKTUVhZkk2dDNjUUZTeTlNQTVMMtIB0gJBVV95cUxOMTFqZVh1NHMybU1VQjFyZ2xXUHc1TWdUVDB3Z0hFX1FnODFHRUxlN2dOSVVmd3ZBQnlZeG9Xay1kRE5lX0dDOXhHOWpISTU4S1F1eUl3dkRxZlFJTlpiaVBWb0J4Z0ROWWlwdGhqZTZCX0pXUVgybk5mSDZKRzR2RGNLTlp6elVtSEFZdXZzcExna0FsVUR1RjV3TGtXb29JWm55OFpGS0hqdTNsWTk5QS1tczA2X3hjN1NnUGRDekpDSkpQRFNzSGpEenFVekpoeEk4S09zY2ZiRGJkOUNOU09xX1dHZXFBOWlBMnBUUVZuMzA4N2N6c3F5dWtEcFBNUFJDUm45V25Oa2JpTzd2dU9KbUJoLUFKNnNnNjVTR1QwTGhoUHhLRHFEc1lWbUZmbHlLRGxlUVRrSmJTMUVidl9KbzQxQUVGdjdlR3NPR3JIQQ?oc=5"
     },
     {
       "title": "Taylor Swift’s Oscar Voter Meeting Caught on Video: Where Was Travis Kelce?",
       "outlet": "Yahoo",
       "date": "2026-11-03",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZlNCVERKZjAtUVNWMXlUci1tM1d1WkxHX2RsczlreGhVWUE4amljZkdlQ0E5Skpfbkg1anlleXJNN0NaVHFVWDhaRnJhbE9Bd0VMTHZ2MkFSaU9GTEtRX0NoSGNRamdxTGdHZlY1TW9QMjJXQ1UxaGgzWDNQR3lXRXR6Q0NRTXlyLUVxbF9iMmN2SzBYMFRndUR5LWdpU3d0?oc=5"
-    },
-    {
-      "title": "What the Hollywood Music in Media Awards noms tell us about the Oscars",
-      "outlet": "Gold Derby",
-      "date": "2026-11-03",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUkh5cHd6RVFBamZjbV9nLUtiWmZDc2VJVkNqdmRNYXAwVFU5LUw1anJPM01HVlczVFJLR0xtbWR5OExXV3kzM1lGRVNwX2xWR1JGYVBKam5MNW1URHBtQk1rQThHRnY3STlEd3ozU2dmSHl1anpkS0lnS0xDNmNvLXJyZmx1ekd2N0hUZ3YxUzVIdmRkUkVwaUtlRHJkaTZ5dll3aQ?oc=5"
     }
   ],
   "bio": {
@@ -2528,6 +2519,12 @@
   },
   "tourNews": [
     {
+      "title": "Trip.com Group Builds a Bigger Travel Business Around Concerts",
+      "outlet": "Skift",
+      "date": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNa3ZUVmxUMUVZaU1LbTdkeC0wODdPRW81aFJiWkEwbThoSlViNDhjLWg1c29TZzl4RHA0c3J6S3NhOGlJRGpKekwyb3VqdEhnYm0wRjZadzhiTUpiVkFTYnpqS2FkV05EUUo2dVVRd3FsOWYwUU53RXVhVHFsQTRkRnpfY0VsMzB4QUFUdHRocWYyOC0tV0lv?oc=5"
+    },
+    {
       "title": "Inside Taylor Swift's next era: Two albums, 2027 tour rumors",
       "outlet": "ARYnews.tv",
       "date": "2026-11-04",
@@ -2538,12 +2535,6 @@
       "outlet": "International Business Times UK",
       "date": "2026-11-03",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HZGxKOWRpRGlTZjZYdk82WXluTUJXWk9BSWRKVWIxQWFEOFB6YmVwdXdrWGJOcVRfblN4YTgtbThCTEJBbFlvWHE2QV9XUldlVEc0ck56bFpmSUc0SlpQcU9pZXJ0eDhkMUtaNXFpM0toVm9uVzg0LQ?oc=5"
-    },
-    {
-      "title": "Start Saving for Taylor’s Tour NOW + Why Didn’t the Chiefs Run the Tush Push? | Travis + Taylor",
-      "outlet": "Yahoo Sports",
-      "date": "2026-11-03",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUjk4WnBaWXBjLVFwMUNYejAwamZOZVVmZWxic0V5RWI2MGt5RFllRDdkenBYUWtsdGkyeGFKTlVGVGtzclZCT1VlUnZTS2E3NG5ueG1SLWhMN3UtTElnNXdCYi1iVzY5N0dMcGpkOWwtUHV3OUlMcV9hb0NGYzNJUw?oc=5"
     },
     {
       "title": "Taylor Swift calls ‘Eras Tour’ the most ‘exhausting’ tours of her career",
@@ -2558,10 +2549,10 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUXk1QmF5STdLVVZLQ2lwMGN3ZmIxSExfOFJBOGM0eWpRdWhwVnlXTGplRmxtZkZrd2lDUHZJX2lxQzNMaFNpVEYtaFE0WkVWQ19GMS0tS3RCUXZCc3VhTldlel96bWNsWGRaTUhKemZGbmRUS1ZjNkZMOEZOeTlSTUNVaDhWUzE1b3E0?oc=5"
     },
     {
-      "title": "Nelly Recalls Taylor Swift Paying Him $50,000 in a McDonald’s Bag After 2011 Concert",
-      "outlet": "Vermilion County First",
-      "date": "2026-11-01",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVWVQdG9vUjRneXR4VzdFVnYxWmMtWm1Lb2VTUTRsSWdUT0xRQkxabE55ZkZqWjJ2TXZWWEZaU2NZd1RvcXpnYUpJU0U2bTJOXzJ3dWF5dzlkSlNXMjFiYTFlOU5fRkdLZTJqUi1WajlxNGIzUl8wNFA3MGI0dmlnRnZSSUJ3NHRxdFJHZkh4U0FfOGRZYkxoblp5V3A5ZGhDYXpucHd0dnRVRHEyWEo2WHBYOUltQUVuRkZ6TFdUN1ROajFD?oc=5"
+      "title": "Terrorism Plotter at Taylor Swift Concert Can’t Sue Disney for ‘End of an Era’ Series, Judge Rules",
+      "outlet": "Billboard",
+      "date": "2026-09-30",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWlNhc3kxLUV6LUk2TnZSSDRBck5TdllDX1VJN3BBaU1MQjh3N05JSkZTdzR6TVExQnd3aFQxSkRMQXdvNEdQdGU4RWwzcWRJTElIdUhnRXJyTjNsY1R6X0Y4LTRNUWpZTHNMd3p1WkVtY3BOcHpMV1prNmJ6eXZrRWRGQm5DUQ?oc=5"
     }
   ],
   "timeline": [
