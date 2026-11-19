@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-19T07:29:48.635Z",
+  "generated": "2026-11-19T20:40:51.667Z",
   "artist": {
     "name": "Taylor Swift",
     "full": "Taylor Alison Swift",
@@ -2254,6 +2254,13 @@
   ],
   "videos": [
     {
+      "id": "LJC7mgjp5FQ",
+      "title": "Taylor Swift - I Knew It, I Knew You x Our Song (Live From The 60th CMA Awards)",
+      "date": "2026-11-19",
+      "url": "https://www.youtube.com/watch?v=LJC7mgjp5FQ",
+      "thumb": "https://i1.ytimg.com/vi/LJC7mgjp5FQ/hqdefault.jpg"
+    },
+    {
       "id": "j8pR1tyoRFc",
       "title": "Taylor Swift - Patient Zero (Expanded Video)",
       "date": "2026-10-05",
@@ -2350,159 +2357,152 @@
       "date": "2026-02-23",
       "url": "https://www.youtube.com/watch?v=ZeiAo9SeDE8",
       "thumb": "https://i3.ytimg.com/vi/ZeiAo9SeDE8/hqdefault.jpg"
-    },
-    {
-      "id": "vZJXqv48lIc",
-      "title": "Taylor Swift - Opalite (BUNT. Remix) (Visualizer)",
-      "date": "2026-02-23",
-      "url": "https://www.youtube.com/watch?v=vZJXqv48lIc",
-      "thumb": "https://i3.ytimg.com/vi/vZJXqv48lIc/hqdefault.jpg"
     }
   ],
   "news": [
     {
-      "title": "‘The Odyssey,’ ‘La Bola Negra,’ Diane Warren, Taylor Swift Take Top Hollywood Music in Media Awards (HMMA)",
-      "outlet": "Awards Watch",
-      "date": "2026-11-19",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUEpqd3lDYTVVM3RvMzloMDlmSFROekRhSHA0clhxakJITktRdFdGSGdNY3MtTWs2d01fUW9TN3dlZTNoYXc5WmpHOG5TaWxrRmtlUlhaSnRlYy1YWUJIWEFWRVBzbXJ4bTFMMW13b3h6bmtTQ3ZBTU9BREFNV1A1dWtwXzlmSktCUWprR0c1NFBMd01ySURtNWRqUXI1NHdoLWRUcjUxSlNSa1hkcHZpa0xHTHc2ajVLdU9kUi1naw?oc=5"
-    },
-    {
-      "title": "Taylor Swift joined on stage at CMA’s by Australian country icon",
-      "outlet": "Nine.com.au",
-      "date": "2026-11-19",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeWplbmR4RGdhaHNtMVZDak5hazFQQnc5NmlJVHA2RlZpSktCZlNCclhNR1B5THJ4Mkt5RGF6TTg0ZHFuLU5qZlVCVGhFSmpEMVBPcWZXdjBqbTJOWVRSYmpIUUt0YkNGb2VTUks0TFRMTG02MVVzTmFaT1BpQ2FnSkFWRW9NRUZwdUFSaWdMZXBFWEVGRUVJLU5TV2hCYWY5WGVYNVNtNUJiYWg1bGs1Q3hZN2VFUnVfTUZtcU5qUlNZa1RqUkVoQ1B3bjdHUHowVmZzbXV2ZE1IbE5KV1E?oc=5"
-    },
-    {
-      "title": "Taylor Swift Returns To CMA Stage With 'I Knew It, I Knew You,' Nostalgic 'Our Song' Performance — See Photos",
-      "outlet": "Country 99.1 WQIK",
-      "date": "2026-11-19",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVmlXdUV4VDNtTWV5RkdqZFN3UnV6c09TSThfQWpUazBPb2RBZXBEcHZuYlJuQzFLWEpUN3U2TDE1MzhvXzRJcjVsX28zTFZCc2VUbEMzVWhuSFhjbkF2d3BDY21hUnY1UzJkVHJ4VTB3NkpGT3VtMDlZSXNSaUI2ejBkWUFmbnJROVNmS09uT3dMdTZZRnk0QzNkSV9HbldOMlgxSkVlV3pkeWJhd1dGTUp0S1p1bl9ucDlsaWxCelk5MWJrbXgtNnJwSFJpVVdXRFY4?oc=5"
-    },
-    {
-      "title": "Travis Kelce berated by CMA fans as he misses Taylor Swift's comeback performance",
-      "outlet": "AOL.com",
-      "date": "2026-11-19",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5HbW9CaElfemRVSlVzeGl2Z2x4RlNPY0l3eVNSdmVxdWhOdm0tVXgwT25mMTlPWi1fSFU4c0xXZUdydXY1TUNSa2d4WEJGbnpWbjJuSER3blRGUGs5UkF1MTluQVdHa25JOGRueUZmdXhOelZSQ0tsa0Nza1V2UQ?oc=5"
-    },
-    {
-      "title": "Hollywood Music in Media Awards winners: Taylor Swift, Diane Warren",
-      "outlet": "Gold Derby",
-      "date": "2026-11-19",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUGNSM1I4RTZPa2tJRlBlZ1NVajh0WVFabHFMTDczanN4NUlVZS13cUpudnV1dVZzTEFWQ0RjRDJsSGtsZ1dwT0tnNXhsZHc4UUN0YksxOWZ6bS00MHlnN2V3N1ZvNElsd0tHd24tLUQ3b2NMYTlvMUJyWURkU2wzVmI5d29USFZ2M1ZDSm1sRQ?oc=5"
-    },
-    {
-      "title": "Ella Langley completely sweeps the 2026 CMA Awards, wins entertainer of the year",
-      "outlet": "AP News",
-      "date": "2026-11-19",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQXdqZDFzYUNPRkh0Z1VCR3Zjek5NeXpxRE1QM0JnWDdZcl96M2NVY2xNQnpwNERsbXc2ODJxamdJT1pieFhJWENmWmtjU1U5eEVJS19mUWd5Wkh6eHdiekVRUHVNd3N0NFVmUUN1YkxTOWo3cEwyc1BCSXBRaDJyWVJZZllqUnZlYXZvcHZPbGxrM2xzSDRmeFpmNjRrS3hHVGVJ?oc=5"
-    },
-    {
-      "title": "Taylor Swift’s CMA Awards Look Feels Comfortably Familiar",
-      "outlet": "Red Carpet Fashion Awards",
-      "date": "2026-11-19",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWURsWU83TWJVQ0xRaExra1RaV1Fla3QxcU9pVENBa3FOOV9uTlh5NzJLRjZITzg5bV9BcERQYTRkaExtaVdiVUdDNG9pMWg1VnA5NDVxa2FpRWY4eFgwS193OFVrN01UYTRHalJhcEFsTFYzeFB1ZjJZVmJnZ0pDYjkxSXBnUHQ1Uk5iSS0tVDVrOUNaVHNiaXo5b1hGTVlKamxOOTJWcmFpWm1o?oc=5"
-    },
-    {
-      "title": "Taylor Swift performs at the CMA Awards for the first time in 13 years",
-      "outlet": "NBC 5 Chicago",
-      "date": "2026-11-19",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbG5DLWFWRWVUY2RmTjl1ZUQ2Sl9yakZmaFZCSE1qdWtRWnRzRUpGSWM2TGJ0SlpqRWtQYjdyd3JlVGRhdkYtbXlrUXc1bTZSOUtwY1lBYmhBTDNrc0tscVJtaXdoV1JBcDltaVIzc09ocklZNWloRU9uMTJnbG5uLVdjTlUweXdKTzNVNDd5UGJQOXdkRzgzQnpHRFJRM1J4dkNuR184Qm80Z9IBsgFBVV95cUxOaHZTZ2NsazhaSzRZUXR4U0ZiQWk5TnhPVWZUS0FFUUZHa1FWV3BtMXUtWDktRUl0TVktLW9sZzZxZHQ3RzJWcUZwRkZVb1pmcTRBUlo4MGtKa0F5NnQzcEd6MVlPYk1OVWVHLXI5MklpNHBFV0dwOGJIdXVlLWZRZlF2U0pmeTBpUF82SXRvWndFb1VCYzE5UUxKeFlneGdDaENMS2lxVmZCNnhyVnJlOUt3?oc=5"
-    },
-    {
-      "title": "Taylor Swift Wore a LBS (Little Black Sweater) to Share Grammy Noms — Similar Cozy Tops Start at $13",
-      "outlet": "People.com",
-      "date": "2026-11-19",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUHdNb3cxd2tfc1liWjJCeVpMNmF2cHh4X0tzM3JMTHN2b1RqWVEyZTVFVG90c2Ryd3Zxa0JFOHB5OFFRakd2YTRXb296a3ZKSm55ZFZHN0hXUDNWSVVCNzJHV3V2aldZaDlsU1FVMjF2aGZOeUN3QlR0b3kySktzMQ?oc=5"
-    },
-    {
-      "title": "Celebs from Taylor Swift to Glen Powell walk CMA Awards red carpet",
-      "outlet": "The Tennessean",
-      "date": "2026-11-19",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOHBOS2FwUnVjTzhoYVhJcFFnck9vemUzdkN0d1RQM3hLUG9nQ0dvdkQzdEtRUXBHSTRqcEY3c3FIVENlSV9ZdlBkeWsyNEVScnNUTFdaMnJDQzdnOG5XM1pGbW1kcTQ4dVUwQ1RYOTgxTDZyM1REN3dZbjZIcFpYZE41ZWNKNEoxbGx3SnhVbU1MYjl5N285ZTFIQTVPTnJlUDJJQjJhQnBPV1dSVjMxOTNEWGE4bFp2SF9UM0xlZzgwVnZjY1FDbmVwRQ?oc=5"
-    },
-    {
-      "title": "Caitlin Clark Shares Endearing Taylor Swift Detail About Watching Travis Kelce",
-      "outlet": "Yahoo Sports",
-      "date": "2026-11-19",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVXRuRTBfN1o5LVJwYnZCU0lZeFZOZWtsTVg1MEFWLUZlMmxmMTVHbjVlWUFVU1J6NXRGck1KM21xWklTOTEtQTVPa2pRUUZJN0RmbmhBcHh3NklnLVEzd0R2ak01MW5nTi0ybTdfSzZnS0NpSVFET2t2Qjk5X2pfUmpSY2kxX1VHd2Q5MzZsOA?oc=5"
-    },
-    {
-      "title": "A giant Taylor Swift exhibition is taking over the Museum of Fine Arts next year",
-      "outlet": "Time Out Worldwide",
-      "date": "2026-11-19",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNa0l4YW9QVklNVUx5eWNWX0pnVU1meFlXc29BajlrdVFPNGo4T2xRcjVGWUdseTRQRmJ6UEdsbWlTSDVEVGdKVFFQZDN5Uk9VV25HWEJZX3NNVHR4Q0FMSTJVaHlaX2RfNHdkRGF2VmdyRzhJZjRpRks5dUxNQUlna0otNnluS0lndGVtQndiQmhSbzFvUENfWVVvbTZ1WUFuc05QaVNqbFlHcmd2TnkxMmlYekhVUFdzNVNzMWlrTzdHMFBjWnc?oc=5"
-    },
-    {
-      "title": "Taylor Swift Returns to CMA Awards Stage After 13 Years with “Our Song” and “I Knew It, I Knew You”",
-      "outlet": "Consequence of Sound",
-      "date": "2026-11-19",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41WGZUUkJlZFFadjFRRzY5eXFmblRmX3c2MzRIaHI0Y3FsSmxiU1hyN0NRWHk2ZnE3OHFsMURXLWQzeE5WbGsxaDZjWEcyeU9RMGlfQXRpYks1b2RRbkc2LUo1dEZwc0J1VG15QnJOaDcwVlFaY2hFekV4TmV4Zw?oc=5"
-    },
-    {
-      "title": "CMA Awards 2026: Taylor Swift, Lainey Wilson and Ella Langley dazzle as stars hit the red carpet",
-      "outlet": "Fox News",
-      "date": "2026-11-19",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaE1sLXlOQ2hyQ0NydHhQRUZlVGdNTmRNRlVhVDNxakg3V0Y5bWZsUnpDQUs4SXZ0TmhkSmdRQnRFd2x1RGUtMkZKMU5IS25teU54VUs4UW9NMFE1TjVKeVNEd0ctb3l5VU5aN1hsby1OTDA5OEMxeDZpWVAtZHRCRnZ1QUFhVXZpVGhnWG1nUmpjMG54ZEQzMnd4bWRIdFU4b1k1by1zRGdiQl9UY0o2VDVNMkxWWWVRZ2o0RTd30gHDAUFVX3lxTE8yXzVCVDNCdW8zV0MzQ3h6RVdKZ2JtdjZtTklGTmlKWk5VQ040ZnhDUXBsWmtZaEtOZ1E3VTRMU29xZ1pWdHp3VlNZOHJJQXBkQWFFVDhSUnkxSmdEdkU3RlBLSHVmRVlhcTZwWFAtU3I3TFVmVVliT2dTMVZhQkJzLXlCS1k4c0kwN19mbVNFaTFjZEJOd1dsWTlxNjktTmlKTkMzMU1GdDBIMl81eFlUdUdmWW9EUmdlYlhqSklfZG41UQ?oc=5"
-    },
-    {
-      "title": "Taylor Swift mashes 'Our Song,' 'I Knew It, I Knew You' at CMAs",
+      "title": "Taylor Swift, Ella Langley and more: CMA Awards 2026 winners, performances",
       "outlet": "USA Today",
       "date": "2026-11-19",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOXNJb1Nrei1QVHNLN3RHUDJBODQzWVRKVFhCVnlXcXU3M2Z4blZrcWtEWkItejYwV0kyQ2l4TUg2NkFXV1VIYVdIVzhRSERsUW42YzU2bHRIeXRkdWtBenRuV3E4QjRCMDJEcE1oMXRNZTdnQllRS0pqUlBUQWp4R1IxekptRDJrRHA4Q3E2RE9GSktPZFhqcENzSVo4dVBUMFhwUll5LTdfQzhDYVlv?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObDh3UmszNlotMXVReXR1SVgtV29oWG5pblowSG1vVmk5d2Z2OThab3ZkXzBic0FpWGE2VEt0M3ZPM1JmZy13dGt0VDZHWndSUkE0OUNidG1XOTNhTWF3alJUTG83R2V4UUN1STRTRWlQT2JLcUNqNzZuWnpFSzdMMEI4dUlOSG5XSjZianVmQkpDMWZjaUtMSXE3TVlyVTlaNW1PY0lMWHk2aGcyYnF4eHBfVnpRdHRmYkpvcTVhWE5kUzREbTQ0?oc=5"
     },
     {
-      "title": "Taylor Swift’s 2026 CMA Awards Performance Was Full of Stylish Nods to Her Past Looks",
-      "outlet": "People.com",
+      "title": "Taylor Swift Returns To CMA Awards Stage After 13 Years With Keith Urban",
+      "outlet": "JamBase",
       "date": "2026-11-19",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeGpqZHNRLVpFdllXWllHZlpVeHpSUFBKdlR3QWtiZUllSksxTVU3NDBseE50Mm9adEJLc0RzX1RIQlFIenp0cWQySWRIT0IwbFU3WkJ1c2E3eFE5M3FuQWNEX0RmazBSNTdSemluNXk2U0hrTjNtWXhYWDJXLWJ0a2MwLW1xbVhlZmdiREUwZWlDYzlmWmFMZjVn?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4wQ29uYW9faS1JTndtbHUtRnFoVlg0Q2ROdUY3Z0k2VnhlaVlBWWpmUmdGejlXeDRoRllCcnUzMXM5WFA0SHVsbDlBSGI2SVB6VEU3N3ZjSkJvdlNxdGZUZVVpRlhNM2QwNm1WbkNWVzZRR3NTUGhNUXhPRDA?oc=5"
     },
     {
-      "title": "Taylor Swift, Lainey Wilson, Glen Powell and More Stars Arrive at the 2026 CMA Awards",
-      "outlet": "WWD",
+      "title": "Kingsport native part of CMA Awards showstopper with Taylor Swift",
+      "outlet": "96.9 WXBQ",
       "date": "2026-11-19",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONGtpTlRXM0s4QjZiVUNwZEVXdnFfMzc5NHF2VXBhcHBwSWw1YkxqTU9mX0lFSWNrX2NlQTZTWWU0M0wzQUNxTXd3c0pFdDh0Rk16WVQ2LWhwX1FDV3ZBTmp4emlLUzZjUnZtd1ZZTXVyUkdJaDRnMmp2RUJMd1pPMVQ2SE5ELVI3VmJSSWZtaE9wbngtcE1iRmZQUm5XR1lGY2ZLQw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ2RvLXVHRXJpV29NenpyYVFkMDdNNkRrMm1nNGUxNXpvVG1yX1BFVkxxVnhFT042TzdMRDNjcnBubzdtbUQxWDJXeEhIMVd2dXByU01NRUV6cDNsNF96NXZiWDVGRXB0ZmNtTmdQOEtYNFo5RXpHc1ZETklNVDk4d3B5ZmNFT1l3eUxqZ2FMQzdaYnFJ?oc=5"
     },
     {
-      "title": "Taylor Swift Performs Mash-Up of ‘Toy Story 5’ Anthem and ‘Our Song’ at 2026 CMA Awards",
-      "outlet": "TheWrap",
+      "title": "Pregnant Brittany Mahomes Debuts Baby Bump on Red Carpet While Attending CMA Awards With Taylor Swift",
+      "outlet": "E! News",
       "date": "2026-11-19",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLU1RRk9vZGllcmg2WHVoanl5QkZwcmJySjFsZmppUG50Z20zSHRKelc0V3dwMjloX2g0bnRuTFNDRW9YaXVNSnZjWlY5YzBtSzJrby0ybGh2TmREUnNWSjMzNnpOcmFoY2hYUVhueU5CUjl0Qno5YkhSbXZETkR6RUxneGVlZWZJWnF5UHhEbTF0ZjNZRXoyakw4T0VyYmxEOEdJR09PbzZBZk1OQTdwWkZLNA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN1B3dDNoUlRmcVh6SEtRdGhCeFVkX2xGNTNpN2wtNmZsLUlFNWhkbWdtWmpwWnMyOElDdUhKa0prTlpPRl8tSVg5NDVLLWlPcDJqWERWLTM0SUlrYkVTVDR1NDhnOVFWMWlSM3ptWlJXZjIwNl8xY1JwNE5HU0xkQVJ4S0RLT2wxd1dSckptN2xBcFlXeTdLeGVsbnJ5VjAxRkk4dFBCOGw1Vm1aREE?oc=5"
     },
     {
-      "title": "Ella Langley sweeps CMA Awards, makes history; Taylor Swift performs over a decade later",
-      "outlet": "WZTV",
+      "title": "Wait, Did Taylor Swift’s CMA Performance Tease Debut (TV)?",
+      "outlet": "Bustle",
       "date": "2026-11-19",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcFJSSzFCdlhadDRRZHc0Zm1aclJqZkRQNG9HT3pzaWxkTXBUYXg3c1llUHdGSUZ2MHd4b21wUDZRX3dRU21oRU14VWhCUFlHa090elhjdTU4VURtMFJmUjNIVEE3NV82QUcxeUhMV19LQkY5NVF5Rlp6aTJzNTVnVkk1dDNvZi1XbnhxWEc3UEZKNmhtWW5xTDZaY3NqblowODZRTmJ6R2x4T3N3dDF6eHR3d1FsVEJ5MkhLSE1Gd3Q?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaGU1TnROYmJiWnF1R2tVeU1rcFhDcUhEYjg3TDFrbGx1THpDYTlvT1E1cWtaSFlPWG9Ha1pjLVFBSkFQVjk1Y0M2SUlHTzRwRkhQWmFBbUdNQjU1YV9YNWtxZjlKaGpBZGU2SE5BeG1LaTM3azhXT0xTLWZZT2xDcWp6QQ?oc=5"
     },
     {
-      "title": "Listen to Taylor Swift’s Performance at the 60th Annual CMA Awards",
-      "outlet": "SiriusXM",
+      "title": "9 unmissable CMA Awards moments, from Taylor Swift's return to Ella Langley's historic night (and the biggest star to miss out)",
+      "outlet": "Yahoo",
       "date": "2026-11-19",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE95RmU3cXpBTE53QVpnSjZvbktISWtUS0I3OU5qNXJvUzlia0xQWVFaVW5vQlJNY1hLV1I1VUg4SllsaGpwNFZHT0FjUU5NOW9Qbnh2TFdlN0NTTzdvU1BNZ25fUQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOZHE5aVVTWF9FMXFyLVZpTi1oUXdZSERWR3pnU3FfVlR6eFVORGxfZHAwdndVekJDNkp6TXhPNHV4cDJxeWJhZjd1YVFPVnAzQWtUUEhhRVpxaEo2LTkzVDk4cjNWUVowWlV4VE9KejJpY05LU2NndmZyQjd0aFRuUXhGVjdJNzc5dUF3WDF3OWZZenR6dnQ0alZteGpQODI1YmZ6UEJUMHFoc0FwSUhvY2ZoS3pBcDI4MnZBWDJTRGhyc2dLS1FPOWYxa3JqajJGQzd5QzFsNVZrOVZ1WkVNVFdVNjJRVnNfaVJ2N1ltbHBjUTIwT296RWdlT1p3aXp2YmZCbzUyckpZNFhLSE96ZEdINXlBZw?oc=5"
     },
     {
-      "title": "A Nostalgic Taylor Swift Is Back in Her Cowboy Boot Era, With a 2026 Version of the Iconic ‘Debut’ Pair",
-      "outlet": "WWD",
+      "title": "CMA Awards 2026 red carpet: See Taylor Swift, Lainey Wilson, and more looks",
+      "outlet": "Page Six",
       "date": "2026-11-19",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc013WW4yR202R2NFWXNLclBlejBZNF9VaHJVVm1IajVoSVo0QUI3Z25DakNnazNaS19PQnFHZFRhZVNodFhCVm5oWXNMelhRMkl5ZmVSdGNidEdoUGcyaTVkOTVHWjZGanQtQ28zN0RYd0poMXAwdldQeE9iTnVIbWc1amFYUGZ6SkpFdERLSDloSEFxai13OGdkS2thd3FKYjYtMG9oUW9GbXFS?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdTl3dlpTM1ZFUlR1RmhUeFpFTVNpMnpYallTZWZIeFRHSkx4YV91TUtULTRTTVFWME5OUkZadk5ETndPSU1yOUZucUdKWW1iNlhhUE5hMHI5T2ZvREUtNFduMlFUWEpmRTlMMG9sclo3QVBkZDJNN2hXQjdnZXVjZ3h2WExNTlJoeWhyNWs4VjZ0aFJKVDhNOVZKQTR1SWx2Wk93?oc=5"
     },
     {
-      "title": "Taylor Swift Returns to the CMAs Red Carpet with ‘Toy Story’ Yellow Dress",
-      "outlet": "Extra",
+      "title": "Travis Kelce Shares How Taylor Swift’s First Chiefs Game Was “Beyond My Imagination” During Early Romance",
+      "outlet": "InStyle",
       "date": "2026-11-19",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMlAyb0o3cVRxQUlGUnNVMDVsdlpRaHBxNF9HZXR3MjlHMkRMQ1V0ZEMxdzdUUzN4MnV1cEZyZXdSejBZMHU1WktJX3c1eTVDQTRHT2F1dG9UZ2QzYkZoa1VoemNsM1B1TWpxV3pWY2FLM1RqaEFxLXpNa2lmLTlRYV82NHgxQS1HUndZN0o2NkVRbU1DMlBiXzg5N1l0SXBMVllHbUVB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcmk4emNlNVFlTGtDSXNmbEZzY0pZSDlxZF9hMHB3eXhILTlrdFZ1TS1WSFRzZGxsMTNRelRocWtwbFNFeG52QTN3Xy01djQtMGV5dEhLZ3doZlVJWC1MU25yVUFMR0pNTjJVSzJxMHQwWF8zVHlDSXpJUm9OTHN4VHphYnJKNEl0S1B5Vll5c29rSHowWnpCZE5Wc2hOVVQ1?oc=5"
     },
     {
-      "title": "Hollywood Music In Media Awards 2026 Winners: Taylor Swift, Diane Warren & More",
+      "title": "Travis Kelce Didn’t Join Taylor Swift at the 2026 CMA Awards—But She Brought Another Date",
+      "outlet": "ELLE",
+      "date": "2026-11-19",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU3lPam1DeUctX3AwQnhxaWJDWHFqRy1rUGlVeHNuQmtoYUpEaWhkbnNPV2ZXWlI1YUw3UWYybTUwVFluNVhVSURKR3BXRUgySzNmbVVOdlUxOHNucHFlYnZ5UmppUmR6aWpXNmlOeW03REx0WmtHQ0xyVGdMMkl1YWl3QkZDT3NTQjlnaGZ2cHo2V09raWc?oc=5"
+    },
+    {
+      "title": "Taylor Swift Surprises in an Unexpected Color for Her First CMA Awards in 10 Years",
+      "outlet": "InStyle",
+      "date": "2026-11-19",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdGVJZWhISGRkQ09YZUpMaXB5RTBQLTdablVqd0FScGVIQ3RsdlJjRmJNRkhFZ2pUYm8tbkxHcUoyVzY2ejhZWVBxOW0xamRuX3hyM3RKaHoyMUppODNlNVVWc2NWV0lIc1NmaUpZWDdwTTRQdFFKZGpJT1RSdFQzMHBGMEk?oc=5"
+    },
+    {
+      "title": "Chiefs legend Dante Hall shares Taylor Swift story after Travis Kelce helped him meet her",
+      "outlet": "Yahoo Sports",
+      "date": "2026-11-19",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeXJSUFRSRzI3M2xkUG9ZQ3RyTnc4RkJodTA3dk45Z05kSWhJdzdJbUlNTUVRcUhnOHR6UENzZVMzNU82V2RGcXluR2c5blk2VkVWNktsN2loZ24yV0w5TjBBV1RFSU1qLVRUUmFvM2h6RXJWdlA4eXRreFNqUy10Q2xRX2FwSGM?oc=5"
+    },
+    {
+      "title": "Taylor Swift Performs at CMAs",
+      "outlet": "chorus.fm",
+      "date": "2026-11-19",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2cjYzWWwzQUgzZUhTVDF3MWJrVWVaYVFIR3BQWUp4SGdzNmt6SmR6cmNMeUlKb2FfRlFCV3lFalZXTlhPcjdlcjFEdGNsTEk5V0JBX0tzSTB6T2xEQktWZmkxcw?oc=5"
+    },
+    {
+      "title": "Taylor Swift Returns To CMAs, Ella Langley Breaks Record For Most Wins In One Night",
+      "outlet": "Stereogum",
+      "date": "2026-11-19",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdEl1MElaaDg2dHZsY2V4ZVlwX1h4enphRmNqOXg4ZjVINld0cmFRTW56U1hnX1YzSG1kWmJObTRHSWZwVjJWZjJTYXlwc0ROQTBlc3dMc21fMnNUc19BWXFNV24tSXJLMjlDZm01ZmVUY2R2NDdEQlFJemdTRDFRdXhaMXJjSkFsTXh5bnBURVdJd3p0WFRKOUtCckdiUmtNeTVZTVctTzI2ZkhPUjhzelhLSmVpOGpP?oc=5"
+    },
+    {
+      "title": "CMA Awards 2026 Red Carpet: Taylor Swift, Glen Powell, Jessica Chastain & More",
       "outlet": "Deadline",
       "date": "2026-11-19",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU2tVUU02YzgxaHU2S1FrWFI2bGlGSWJHeXh3NTMyd1VidlFDQVFhLVoxNzFVVk9qUHBxWHF0Tm4yMFpFWFN6OTdnbVhMZGt4YmR3N0RpaVJ1dkJ0MFlLMFBvaWVIQlFaZlpkajJOcWZlWVVMN3BoMzN5eUxhNXAtQXpPZFZ6WS1Ma2wzTE8wZ2J6Yl90?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpMUpmQVk0Skw3YzdSN1ZRMERQUmxSSHNER0ZTRVBtQ1JjWjJnalA4ZzFpWi1OYm5jYzltOHdGM1Bma0NaZ1FHdVFacFhXNW1iWUVqdEt3ZTFFd0k4SS1zU3lFendiemc?oc=5"
     },
     {
-      "title": "I Waited 13 Years to See Taylor Swift Back on the CMA Awards Stage—and Her Performance Was Worth Every Second",
-      "outlet": "American Songwriter",
+      "title": "Taylor Swift exhibit will open at Boston’s Museum of Fine Arts",
+      "outlet": "WPXI",
       "date": "2026-11-19",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU0RKcDQ4dkVHeDdDQmNNTkp0dDNUN19pTlBKcDJzc0RRcHBoODlYOWhpU3FfQ3BZeko4UWlxbFg3V3FocEJqaVFPS2FWX3N0eXN1LW5td3hEdU5xQ2QtUElRbjRPMTJDdjM1bWJTeHhCYWxNUVE3UXFidXlDQmNoSlhDTEMxRGgyQ0lvVFE2d216Uk80N1BsRGNiT2NtUVkyTnZtT21qOF9YSVQ5VGxKRDhxLU9aNklJQ0dON3BndU9GNS14cmloTE5jMmQ2VnJPa1NfWkNoWlU?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS1JCVmQwMkFPRG5lUjVCYTRuTDBUa2dpdEg5Z1J0TUpURE9EZldLckY5X01ZYWVUUERhMDVBdUpaWW1WQXZ1S0VuV3cxLWZZdWZsVkJaZmJkQ0J4eldEQjVTQy1zV0YxVlNGQ1VROUgtR1RNeWVtYjhCNUthNmY5LVJCVmVaY2xRMUwxVEd5MWJOY09YdlIwUFpUZnNlTG80d1c1Y0FNSm56ZnlSV0NoWXFQV2VVaTNPMFHSAc4BQVVfeXFMUHc5S0VPRkk0U3R2YXBZbDFQSklOYURpSjFsY3dvQ2NsQ3BYOHJDRXgxeVpuUFB5cEEySlZLMXIwYVFSZG9xN0JCS2hUcGxST0k0MDY0QWptdWdQWlk1ME1YN1p1WFZKZXdMaGE1cnhaVDJZZThkc202Y1l1ODE4UzJCT3FpWTdMQXNuWDZLWS1oRFVEQXFnWHZCQ1liV3hsbXhxNE81TkV5Y0tKek43UlRhcVlQeWFwLXd2V3gtaC1TWEthbF9oOWJWM1JNQ2c?oc=5"
+    },
+    {
+      "title": "Travis Kelce’s Personal Decision With Wife Taylor Swift Amid Chiefs Star’s Injury Turns Heads",
+      "outlet": "Yahoo Sports",
+      "date": "2026-11-19",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWUJuQjlPRFV0OWEwaWV0STJoRnV5MFV4LTNZRmx5cUJRS2o1VHg0aDk5WkdmMHQtcjVqdHpDamUzZldtdUJ2dGpJdjRtVDRqNkFjQ19ZcE9kVDVMczh1em50R1Y5c0xwMU14MG40N2lnQlNnRWJESUp5bFFXQUhxSml4Skhua3lwRnRsQg?oc=5"
+    },
+    {
+      "title": "Best Photos From 2026 CMA Awards Red Carpet: Taylor Swift, Lainey Wilson, Megan Moroney & More",
+      "outlet": "Billboard",
+      "date": "2026-11-19",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1acVdSZlh0cUozcjNhRl91dmJZaEpEcUtOQUo1SldjY2k4clN2dUl5Ry1KX1AzVzNRdTFzUHdkampGTmFuM2hJaFFQQk9ucUxhbWJqUWFkTmdjTHBjTC1BMkZqNjRhNmo3aWVaeU1LeWlLSGp1eGpJWmF5aw?oc=5"
+    },
+    {
+      "title": "Taylor Swift makes CMA Awards return, Ella Langley's \"Choosin' Texas\" wins big",
+      "outlet": "CBS News",
+      "date": "2026-11-19",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM2tiQ0ZWZHFBUHVKX2hEUndfdW5kTlM3UzRDZ2dTZmMzV1dPSzR6VnZwSTRyaGZLc3ZVYjUxcGNPUFpvT0JuN2JXc2xTeXFuUVZHbW1ObzZDM1lhbVp3YzAyUnVPWUJTSEZhVXc5bDZ0SksweFp0aWxsaDhvRlZ6djl6UGsxbC1yTThsbGtiOWtaSWtxUHYxY3ItTVRtUF9NeEZBbXdoUQ?oc=5"
+    },
+    {
+      "title": "Travis Kelce Is in Proud Husband Mode After Missing Taylor Swift’s CMA Awards Performance",
+      "outlet": "InStyle",
+      "date": "2026-11-19",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNnpWMi0xRFlGX2lfamJQelBrTktEcHYxN3hvMWktcUJscHZzMU5pWk95Q2V5UnIwcm5Cem1wenFreGNkQzg3WmhVbXRvc2p3U1dlVk1sOUk0SFh2LXpadTFNbnlIU05JeDNBUElDajdzZ3lwRnJzUXhUV0ZZQkdJZ0xMVkx2WEZXNzZ1SWhfMUROTmNvOEQtXw?oc=5"
+    },
+    {
+      "title": "Taylor Swift performs at CMA Awards for first time in 13 years",
+      "outlet": "Yahoo Lifestyle Canada",
+      "date": "2026-11-19",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MY250aWIzaGpENlhEZEhqQ2ZqaTR6UFdOWEZPNENMWWZ6cnR3LVA3dF9vOXlQV2ZyNjVIQ1BQcFZLMzdzM3VhLUZwanM0MEhiLVpCOUpMSlpPQ1NiS1ZuOWlkOWdMWWVOem1jWFpCSFBGenh1TjUwaWhIWElJOW8?oc=5"
+    },
+    {
+      "title": "Taylor Swift returns to CMA Awards",
+      "outlet": "WKYC",
+      "date": "2026-11-19",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZlBCM3ZsUmpLbFlfenk5M1dJaG5keWJQdzRFeWUybDZIM2lTMm0yR3M2dDdlZXlNTFFNRGJ1Uk80bWcyWUNfemFhNnNnaGkwOW1odkpOZjU3MmFvdUFuNDdEbVBNVkphN3lMaHhXaWpiTHg4UGk3X0xzcEF2VTVLdWdkTDFfUXNhTHlaS01TXy0weUpCTDRmRlBUcXBBbWRVRzcyN0V0Z0tZUEVlajMzSFo0dERfQQ?oc=5"
+    },
+    {
+      "title": "Grand Theft Auto VI could outsell Taylor Swift’s entire Eras Tour in its first week, report says",
+      "outlet": "WKYT",
+      "date": "2026-11-19",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaTZJMHo1OU5mc19KY1VWU0x6RXBQdFROdzFnX3pxOURUVm9XRlhjaTNEMVNiNVZab2ZoeWduQ29wcnhfbWFwMDhGbGlLNjhhN0RReElFNXg1a0FwZXRnM0FjTXZ3dFIwdXhxT2FmX0lyVnRqQXMzeTRMcHA2NkhueXFNYjRQT1V1VlJGRXlmdExWM0RPOXl0dzRjZ3RkdFI3VlhOTFdieHNqQ0M3Vk5WZ1FkRGp4VnIyeGV0QTNGb3hiUdIB1gFBVV95cUxPLTRSeTZxYWRJSjJ6blVRbTlVb0lhUUJ6VThsMGhkRjZaWk1hRlJBM3hKRmwzUlBCTERpeHJRSlBHQjJRWEhMUjB4VnJXU3Q3bG9BMDlOYk5zWTlhdmNUbVhBS1VoTmZJR3ZjNWJZUmZCSDJnMlBNSTZEN2s2dUZpSnhDWEx6MEhndUJadG02TWotWUxMcmlYNDdvTHdyNnctWUdfVjhLaGNGcGdxMHFUdFFYT3dVOUlVWFJqaTBMNjI5ZWJ1VzJvam50czlvUUlqQ1BHdHBn?oc=5"
+    },
+    {
+      "title": "Taylor Swift returns to country music's biggest night after 13 years",
+      "outlet": "NBC 5 Dallas-Fort Worth",
+      "date": "2026-11-19",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcEdfbk43S2ZpYmZfc2p6U3ZkR2t2S3VCVVRDbFRvSXQxWVdHTDEtSkN6dThxUENSRTZSTXRZWFBrZVBXVTR0eHlmZnl2YWhudU8tLTVzRnFtcmViSi1TblZPY2E1SDdvUTh6MWxHODF0SFExcE43cXlid0dhbDBWX2hPd2lWZXQzZ1NWWHJRd0dTaTN6VXhnYndqN0JuZnJrV2YzNg?oc=5"
+    },
+    {
+      "title": "Brittany Mahomes joins Taylor Swift at CMA awards",
+      "outlet": "KSN.com",
+      "date": "2026-11-19",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQmlxZWllVGNSQ0lPV1lkN3p0YnZLVk1UZnRkTHh1V2hKQWNuSmthOGs4Y3BMQk1Yc0dKb2xKU3JJTmJSVktmcmU5cmcyTkVqejRfYmtySU9aNTFWclNON256RHhnZlY4RFFrQjVUbVFqT2xpdzJTeUFRaFZZYm9OZ0FjTEdnYTk1MEpPSNIBkgFBVV95cUxPZjljZlVPR0x3ZXlYckVuU1Zja3UyZ0cwaS1kNzY2eWNZVnRnSlF4ZGU1c2x5UkttdHlETDJVdlk2OFNudWoxTElUMFp4QzNlMlFWemxxN2ZONm43bWZNWDdIbThSV0ctZjJ4VENGbkFaOENNS0wyQ0xsek5XWDZJU2tUVHBaQlZ2YWlaMnVvSEY2dw?oc=5"
     }
   ],
   "bio": {
@@ -2528,40 +2528,40 @@
   },
   "tourNews": [
     {
-      "title": "Taylor Swift performs a mashup of “I Knew It, I Knew You” with “Our Song” from her debut album alongside Keith Urban at the 60th #CMAs (Video: Disney+/CMA Awards)",
+      "title": "All of the Easter eggs from Taylor Swift's CMAs performance hinting at return to country music",
+      "outlet": "The Mirror US",
+      "date": "2026-11-19",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOHlmX3dtU3JJTTNkR1doc0FVY3ZnM0ZGazhyOGhLaXV4V0hyZkdzMDNEbDF4UEc4aEtmZmpRSG5BVVJJcEpHU2tRVElUckl2ZHcxV19hb0ROOTlFZm5pLXJfYnN1dDdPamxjS2V0M1E4enVIejFaTERVV1hUMWxLcjFfakh1ak5neGQ0cFJZYjM2RU5COUxIRnUwTlp4Z9IBowFBVV95cUxPdVVPRFlOanFRQnA5Y01rTERRMkVTRnB6WGJ2NW0tM2ZCVFVRVjZveERCeDdyZHBYNzNWclFXTzdGa2FleTRQMC1JNGRtbFpfbVN1VGJWNUdfVTJWemdncUN5cy00T3poTDRSTjN6c1c2NEljNDhwX052MnE4QnJqODVnVi10eXg2MlVWeDNqeWQ5MXczWFZ5SmVFelR6UW9pazdn?oc=5"
+    },
+    {
+      "title": "#TaylorSwift performs a mashup of “I Knew It, I Knew You” with “Our Song” from her debut album alongside Keith Urban at the 60th #CMAs (Video: Disney+/CMA Awards)",
       "outlet": "Facebook",
       "date": "2026-11-19",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSzlDTVhGMGVFY2NhZml4Nkx2YmdyUTk5cS1SeVQyemMtaWdXak1sNndKbVNzZUYxUHhyNXZHVEp5SlJrUmNFb2VlNGdJZElqMkVGOXh3T2J0YXJ2RDg5WGczSjA3a2Myc0c4aHYxSlVYcWhUUFpDZUhSaWlSZWxlN3NGUVJNYUJiZ3JlbkotZG5WenlvTWlwNWg4bVhPZEMxV1lMaWI3WHpETmhpdkZOdnMzWDlNcFI4eXVIaU02UmJrMTVEdlV0eWJ4QU9QellRUjJ2Nm5n?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUHVtUHJNUUxrZXVmaFNSYXYtUkkyNFg5RTVkaFVUZU5kQkdKX1pYb19TSUZscjVEN2NTeEk5NEhmTGxDLUIxRjVuQXVvUzZDRkdxZVRnaEpFM2N1WElOMm5nMC1nYWhzbUFmM1pLRTZBajdVM29Jek1hSUp3ajhveksyM1EwZkpQckQxd211dU1iNWcwOEFwLUdlNkRRTVlaY3Z3YXQzb2hzRW56bDQ4VzNmdDl3MVl3MDJEMlloYWEyQ183UEswX0lNMVd1VGFTZjNOS2h3?oc=5"
     },
     {
-      "title": "Taylor Swift The Eras Collection at MFA Boston: Dates, Tickets, Costumes and Exhibition Details",
-      "outlet": "stupidDOPE",
-      "date": "2026-11-18",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOb2lKNFQyaEV3VG9wYl9qMm9aTHVWYmJHZTBZVnpBbC1HYU1saU1yM3RUZEpDcjNLbEJEWVlPNndSOVdKRGdIYWRRRHVNSndkWUR4Z1EzNE5qQXBodHhVOGJDMU4wbzIzQ21OSC01c3hNc3M4bXpSOElsd2xuUlFyU2NRQ09lYkhXU1l0Zi1pTldQcURJc2QySFZtRUxNRUVIcjZLeV9UazNyMDJXd3JFdW41anozYmJObXQtUzZGSk8wUVoyTng3SktyZFpGbVZqQ1VNbXFuR0VkdlZKeXR6UkpCNUYxdw?oc=5"
+      "title": "Taylor Swift surprises fans with beloved throwback song during CMA Awards 2026 performance",
+      "outlet": "Page Six",
+      "date": "2026-11-19",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVGNFX0JPQ3RXQ0w5QnlKMjN2UE9QMEZsMndzQUMyclc1MVhYcHpqR0VyZDk1YlJrUGhSSkU2MmhGbG9pWll1WGpkZU1yM1h0LXViWURMdTlmb1RPOWI4NVhreUdrbXh4N2phTzFGVlZnNEs1MVVmX1BKTDhoQllMZWxEcDI2WkdvTHRnenI0OGF5eElUcXZxNHo4UExpZkg1Sy00STNGNnpmVzdsZDNta2ZObVpMRlV2TGR4SGx2NkFzYXNzaFpj?oc=5"
     },
     {
-      "title": "Boston museum announces Taylor Swift exhibition — Rolling Stone",
-      "outlet": "UA.NEWS",
-      "date": "2026-11-18",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN2c4UTJ1NUNVdFJmRk9KWjRDZzZqd1FHZTVUZXE5U1JwMkxuakJtcEtSN29TTWNCN2pzTHQwVEdtVHRybndqQ3FyeHgxMXN1N2FmXzN0elp1cllYYmpadV9uNHZGelVjOFdHQV9kZjdaRU9SRlZ1YWpFME1pajNDbEh3LW1KcjZWNmZhY25Ta0Y4R2t1Sks2RXByZzlCUQ?oc=5"
+      "title": "‘Grand Theft Auto’ is set to earn more in a week than Taylor Swift’s entire Eras Tour",
+      "outlet": "The Independent",
+      "date": "2026-11-19",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPR2dHdEpTZWlfeTdGM3lEbmhBaVVNMHRTZnE0dklmc0RjSUZGWnZWRWFuWTJvTW5GUEFUNXdLSmtaVklnOEd4WUxybDlSbGZOdWxfMnhBZU1IWHFyY0pVV0c4YUlMRkJZOTZwdTdXb0ljbVBrR3dCNGxhUU1TQWVnTElxZw?oc=5"
+    },
+    {
+      "title": "Grand Theft Auto VI could outsell Taylor Swift’s entire Eras Tour in its first week, report says",
+      "outlet": "Valley News Live",
+      "date": "2026-11-19",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQa3BUZF9lb29jek80TktsQ3JDUE51ajg2NmZkUUsxZG8tdHZvNWZydl81TkZ0dHFWQzhET2JnMEIwQjdXeXN6cFFva2RCSm5tYWkyV0ZSbnMxN0VlYW4wOExuckZoWm9CWlJ0VVowczA3MXF6TzU1UDJBdDZpYnlxNVJaWTNoQmRoODlIU1JQT2hWWXpkZ0ktbHVKZzNBeTdnWHRyVWhQX3RBdXBOV2hLZHczdmhZWFQ5OVdDenhwdXBjM09mWUZvdC1fZi1oalnSAeMBQVVfeXFMUHNINlpyam5PUFBXZUxtSW85T0R1WWN2Vl9FQjlXUWswcjE1WHI0NHp3aXFmeGNlN3VqMjNjbW1ZOG9oU3c4Wm1CVWRROHc3dVlsdk5TaXQ2VjdJRHE5b3VvclBVWHQ5SURUUzJQVEs1NkNWVlFCNWJzSGJfUUNJT3pKaVhWQzl2dVdJMUVLT3ByblBna1ZqbkVvLTdYWWRXTVRwTnlDamtRNmtHdVZ2UC1oQTE3OEpLRTlUdjhBeWpMcTBYWDRuOWtOWUFmekVuOVdfVmw3M0ZSMGduVlRJWkRDNmc?oc=5"
     },
     {
       "title": "What time are CMA Awards 2026 tonight? Channel, streaming, lineup",
       "outlet": "Bergen Record",
       "date": "2026-11-18",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMjNUOWRIaTllV1JKZWpZeE1YQTlOQmFqRUhPLTkzcjE4V0R1VkxZbXVDQWVOS2dqemU2T2Q0RkhjRXA5X3lBNm9MMVBadF9vUF9oaGVzUW11blhoRVBDM3pOVjF1UkprYkNyWU9FTUtBT0J4OXFxR0RBS2NpY3VrQ2N2RFRNbmFuMEZNNlhpVW52TGhyc3lWRHN1SXFhcmQ2RC1HcVRJSG9NZVk0S2NtY3drX1RzYmh6TUExUg?oc=5"
-    },
-    {
-      "title": "Tickets \"sold out faster than Taylor Swift\" 😱",
-      "outlet": "Facebook",
-      "date": "2026-11-18",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYXBOS2lZZzNxR2s3NnhjbjRjVzEzR1BxaWN0NE1XU1dySllyaUF2aDJPNElZRnFWZjBJUnM3VWdjLXpCbGxUOUMtNU11cUp1Z19nRlNycC1pV19fTWRzWE9RbXNteHdZSnBxYmIxVDhKMGZvTGRhM3BNekFSYzhzYmtCZE9CWWJCdU5TbTN1R3hLVWRyMzB0VEota1NBaEtUOUxoRlB5NzZjbHFiS2t1Z0xVOA?oc=5"
-    },
-    {
-      "title": "The Posture-Correcting Bra Taylor Swift Wore for the Eras Tour Is Already on Sale for Black Friday",
-      "outlet": "Cosmopolitan",
-      "date": "2026-11-18",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMWZ6YU83Vzl6bGlKYll0dThyTF9kaW9LRHMzdU52Sm1OWWpGUUNFMXBMZHRXOUg0Y2s0c3UyYk44S2tudWNMNWNKZThfQlZta2k2bVI1UG9vVGRzVUhJY2I2MFd5U2dMODlIWGJ0YTZneExFNURub2J6eGpMeHAyWHdnbzhpaFlxT2tDc0JiT05qdW91c003cERsRXhMQVduUFZYUzRmUkNYdw?oc=5"
     }
   ],
   "timeline": [
